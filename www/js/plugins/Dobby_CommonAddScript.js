@@ -193,9 +193,9 @@ Window_Base.prototype.dimColor2 = function () {
 var _Dobby_CommonAddScript_makeCommandList = Window_Options.prototype.makeCommandList;
 Window_Options.prototype.makeCommandList = function () {
     _Dobby_CommonAddScript_makeCommandList.call(this);
-    this.addCommand("アダルトシーンメッセージウィンドウの薄さ", 'dWindowMessageWindow');
-    this.addCommand("メッセージスピード", 'dWindowMessageSpeed');
-    this.addCommand("チュートリアルスキップ", 'dtutorialSkip');
+    this.addCommand("Adult Text Opacity", 'dWindowMessageWindow');
+    this.addCommand("Message Speed", 'dWindowMessageSpeed');
+    this.addCommand("Skip Tutorial", 'dtutorialSkip');
 };
 
 var _Dobby_CommonAddScript_processOk = Window_Options.prototype.processOk;

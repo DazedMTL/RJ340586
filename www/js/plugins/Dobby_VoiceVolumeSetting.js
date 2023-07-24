@@ -196,7 +196,7 @@ Dobby_Scene_VolumeSetting.prototype.createBackground = function () {
 var _dobby_Window_Options_makeCommandList = Window_Options.prototype.makeCommandList;
 Window_Options.prototype.makeCommandList = function () {
     _dobby_Window_Options_makeCommandList.call(this);
-    this.addCommand("キャラボイス音量", 'dCharVolSetting');
+    this.addCommand("Voice Volume", 'dCharVolSetting');
 };
 
 var _dobby_Window_Options_processOk = Window_Options.prototype.processOk;
