@@ -1,0 +1,7995 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": false,
+        "name": "ゲーム開始位置（削除厳禁）",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 2,
+        "expanded": false,
+        "name": "裁きの跡_A",
+        "order": 603,
+        "parentId": 256,
+        "scrollX": 1269,
+        "scrollY": 759
+    },
+    {
+        "id": 3,
+        "expanded": false,
+        "name": "首都フォティゾナ住宅街",
+        "order": 33,
+        "parentId": 440,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "リストランテ・ミロ2F",
+        "order": 77,
+        "parentId": 248,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "カノナス情報屋_奥の部屋",
+        "order": 177,
+        "parentId": 276,
+        "scrollX": 1544,
+        "scrollY": 970.6666666666666
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "【飯田専用】競合が発生した時の退避用マップ",
+        "order": 828,
+        "parentId": 69,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "ゴブリンの洞窟",
+        "order": 744,
+        "parentId": 261,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "裁きの跡_B",
+        "order": 604,
+        "parentId": 2,
+        "scrollX": 1796,
+        "scrollY": 807
+    },
+    {
+        "id": 9,
+        "expanded": false,
+        "name": "掟の都市カノナス",
+        "order": 167,
+        "parentId": 442,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "MAP010",
+        "order": 397,
+        "parentId": 127,
+        "scrollX": 1131,
+        "scrollY": 1199
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "山の都市オロス",
+        "order": 322,
+        "parentId": 445,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 2126.6666666666665
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "裁きの跡_C",
+        "order": 605,
+        "parentId": 8,
+        "scrollX": 1708.5,
+        "scrollY": 961.5
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "裁きの跡イベントエリア_A",
+        "order": 606,
+        "parentId": 256,
+        "scrollX": 1638,
+        "scrollY": 914
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "森の都市ヴァルト",
+        "order": 394,
+        "parentId": 446,
+        "scrollX": 1493.3333333333333,
+        "scrollY": 836
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "裁きの跡イベントエリア_B",
+        "order": 607,
+        "parentId": 256,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 16,
+        "expanded": false,
+        "name": "大岩の城_内観",
+        "order": 281,
+        "parentId": 40,
+        "scrollX": 1131,
+        "scrollY": 1839
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "クリスタル倉庫内_BF",
+        "order": 326,
+        "parentId": 210,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "クレアの家_内装",
+        "order": 19,
+        "parentId": 58,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 19,
+        "expanded": true,
+        "name": "裁きの跡イベントエリア_C",
+        "order": 608,
+        "parentId": 256,
+        "scrollX": 1638,
+        "scrollY": 914
+    },
+    {
+        "id": 20,
+        "expanded": false,
+        "name": "デバッグ用マップ",
+        "order": 823,
+        "parentId": 69,
+        "scrollX": 1269,
+        "scrollY": 854
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "サザニ草原",
+        "order": 765,
+        "parentId": 108,
+        "scrollX": 1665.3333333333333,
+        "scrollY": 3073.3333333333335
+    },
+    {
+        "id": 22,
+        "expanded": false,
+        "name": "冒険者ギルド内",
+        "order": 42,
+        "parentId": 51,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 958.6666666666666
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "フォティゾナ地方",
+        "order": 509,
+        "parentId": 66,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "草原の都市カンプス",
+        "order": 226,
+        "parentId": 443,
+        "scrollX": 988.3636363636364,
+        "scrollY": 1402.909090909091
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "朽ちた城(裏通り）",
+        "order": 560,
+        "parentId": 620,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 26,
+        "expanded": true,
+        "name": "クレアの家新築",
+        "order": 21,
+        "parentId": 58,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 27,
+        "expanded": false,
+        "name": "MAP027",
+        "order": 398,
+        "parentId": 10,
+        "scrollX": 1131,
+        "scrollY": 1159
+    },
+    {
+        "id": 28,
+        "expanded": true,
+        "name": "ユアン大口_ボス",
+        "order": 764,
+        "parentId": 74,
+        "scrollX": 755,
+        "scrollY": 896
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "トゥリパ村",
+        "order": 136,
+        "parentId": 441,
+        "scrollX": 1131,
+        "scrollY": 1055
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "穴だらけの丘_内部①'",
+        "order": 661,
+        "parentId": 275,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "谷の都市バリエ",
+        "order": 113,
+        "parentId": 441,
+        "scrollX": 1131,
+        "scrollY": 898
+    },
+    {
+        "id": 32,
+        "expanded": false,
+        "name": "反映用",
+        "order": 886,
+        "parentId": 84,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 33,
+        "expanded": false,
+        "name": "カンプス地方",
+        "order": 545,
+        "parentId": 66,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 34,
+        "expanded": false,
+        "name": "カノナス地方",
+        "order": 601,
+        "parentId": 66,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 35,
+        "expanded": false,
+        "name": "バリエ地方",
+        "order": 632,
+        "parentId": 66,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 36,
+        "expanded": true,
+        "name": "クァドラングルム遺跡（□の遺跡）入口",
+        "order": 662,
+        "parentId": 30,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 37,
+        "expanded": false,
+        "name": "ヴァルト地方",
+        "order": 675,
+        "parentId": 66,
+        "scrollX": 1138,
+        "scrollY": 636.5
+    },
+    {
+        "id": 38,
+        "expanded": false,
+        "name": "ミュコス地方",
+        "order": 705,
+        "parentId": 66,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 39,
+        "expanded": false,
+        "name": "冒険者の洞窟1F",
+        "order": 510,
+        "parentId": 23,
+        "scrollX": 3670.6666666666665,
+        "scrollY": 816
+    },
+    {
+        "id": 40,
+        "expanded": false,
+        "name": "大岩の城_外観",
+        "order": 280,
+        "parentId": 444,
+        "scrollX": 1131,
+        "scrollY": 2025
+    },
+    {
+        "id": 41,
+        "expanded": false,
+        "name": "ロクソス砦入口",
+        "order": 546,
+        "parentId": 33,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 42,
+        "expanded": false,
+        "name": "冒険者の洞窟1F最奥",
+        "order": 511,
+        "parentId": 39,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1065.3333333333333
+    },
+    {
+        "id": 43,
+        "expanded": false,
+        "name": "首都フォティゾナ",
+        "order": 5,
+        "parentId": 440,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 2046.6666666666667
+    },
+    {
+        "id": 44,
+        "expanded": false,
+        "name": "村長の家1F",
+        "order": 25,
+        "parentId": 52,
+        "scrollX": 1131,
+        "scrollY": 1130
+    },
+    {
+        "id": 45,
+        "expanded": true,
+        "name": "クァドラングルム遺跡（□の遺跡）1F",
+        "order": 663,
+        "parentId": 36,
+        "scrollX": 1176,
+        "scrollY": 1767
+    },
+    {
+        "id": 46,
+        "expanded": false,
+        "name": "イリニ村",
+        "order": 245,
+        "parentId": 443,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1322.6666666666667
+    },
+    {
+        "id": 47,
+        "expanded": false,
+        "name": "武闘の街ジナミ",
+        "order": 66,
+        "parentId": 440,
+        "scrollX": 1357.2,
+        "scrollY": 1282.8
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "ロクソス砦1F",
+        "order": 547,
+        "parentId": 41,
+        "scrollX": 1200,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 49,
+        "expanded": false,
+        "name": "帝国軍駐屯地",
+        "order": 360,
+        "parentId": 445,
+        "scrollX": 755,
+        "scrollY": 896
+    },
+    {
+        "id": 50,
+        "expanded": false,
+        "name": "ロクソス砦2F",
+        "order": 548,
+        "parentId": 48,
+        "scrollX": 1131,
+        "scrollY": 927
+    },
+    {
+        "id": 51,
+        "expanded": false,
+        "name": "冒険者ギルド前",
+        "order": 41,
+        "parentId": 440,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 52,
+        "expanded": false,
+        "name": "アルケー村",
+        "order": 17,
+        "parentId": 440,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1305.3333333333333
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "クァドラングルム遺跡（□の遺跡）2F",
+        "order": 664,
+        "parentId": 45,
+        "scrollX": 1136,
+        "scrollY": 1767
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "クァドラングルム遺跡（□の遺跡）3F",
+        "order": 665,
+        "parentId": 53,
+        "scrollX": 1447,
+        "scrollY": 779
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "闘技場戦闘フィールド02",
+        "order": 61,
+        "parentId": 244,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "イリニ村_酒場",
+        "order": 256,
+        "parentId": 46,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 57,
+        "expanded": true,
+        "name": "クァドラングルム遺跡（□の遺跡）",
+        "order": 666,
+        "parentId": 54,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "クレアの家 ",
+        "order": 18,
+        "parentId": 52,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 59,
+        "expanded": false,
+        "name": "クリスタル倉庫内2F",
+        "order": 324,
+        "parentId": 210,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 60,
+        "expanded": false,
+        "name": "村長の家2F",
+        "order": 26,
+        "parentId": 44,
+        "scrollX": 811,
+        "scrollY": 951.5
+    },
+    {
+        "id": 61,
+        "expanded": false,
+        "name": "アルケー村 怪しいお店5",
+        "order": 27,
+        "parentId": 52,
+        "scrollX": 1092,
+        "scrollY": 604
+    },
+    {
+        "id": 62,
+        "expanded": false,
+        "name": "アルケー民家②",
+        "order": 28,
+        "parentId": 52,
+        "scrollX": 1092,
+        "scrollY": 604
+    },
+    {
+        "id": 63,
+        "expanded": false,
+        "name": "港の都市ミュコス",
+        "order": 265,
+        "parentId": 444,
+        "scrollX": 1269.3333333333333,
+        "scrollY": 2025.3333333333333
+    },
+    {
+        "id": 64,
+        "expanded": false,
+        "name": "小高い丘",
+        "order": 2,
+        "parentId": 1,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "アルケー民家①",
+        "order": 29,
+        "parentId": 52,
+        "scrollX": 1404,
+        "scrollY": 824.5714285714286
+    },
+    {
+        "id": 66,
+        "expanded": false,
+        "name": "ダンジョングループ",
+        "order": 507,
+        "parentId": 0,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 67,
+        "expanded": false,
+        "name": "動画用ダンジョン（本番では不要）",
+        "order": 508,
+        "parentId": 66,
+        "scrollX": 1269.3333333333333,
+        "scrollY": 1398.6666666666667
+    },
+    {
+        "id": 68,
+        "expanded": false,
+        "name": "アルクダの森",
+        "order": 524,
+        "parentId": 23,
+        "scrollX": 3680,
+        "scrollY": 2911
+    },
+    {
+        "id": 69,
+        "expanded": false,
+        "name": "場所移動用ダミーマップ",
+        "order": 776,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "ギルド長の部屋",
+        "order": 43,
+        "parentId": 22,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1441.3333333333333
+    },
+    {
+        "id": 71,
+        "expanded": false,
+        "name": "冒険者ギルド内2F",
+        "order": 44,
+        "parentId": 22,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1198.6666666666667
+    },
+    {
+        "id": 72,
+        "expanded": false,
+        "name": "冒険者ギルド内中庭",
+        "order": 46,
+        "parentId": 22,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 641.3333333333334
+    },
+    {
+        "id": 73,
+        "expanded": true,
+        "name": "フォティゾナ地下牢B1F",
+        "order": 99,
+        "parentId": 167,
+        "scrollX": 1130,
+        "scrollY": 803.5
+    },
+    {
+        "id": 74,
+        "expanded": false,
+        "name": "ユアン大口_入口",
+        "order": 761,
+        "parentId": 108,
+        "scrollX": 1053.8181818181818,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 75,
+        "expanded": true,
+        "name": "ユアン大口",
+        "order": 762,
+        "parentId": 74,
+        "scrollX": 1817.4545454545455,
+        "scrollY": 1520.7272727272727
+    },
+    {
+        "id": 76,
+        "expanded": true,
+        "name": "ユアン小口_祠",
+        "order": 763,
+        "parentId": 74,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 77,
+        "expanded": false,
+        "name": "家テンプレート小",
+        "order": 783,
+        "parentId": 362,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 78,
+        "expanded": false,
+        "name": "家テンプレート中",
+        "order": 791,
+        "parentId": 362,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "家テンプレート大",
+        "order": 798,
+        "parentId": 362,
+        "scrollX": 1020,
+        "scrollY": 689.4545454545455
+    },
+    {
+        "id": 80,
+        "expanded": false,
+        "name": "店舗テンプレート防具屋",
+        "order": 801,
+        "parentId": 362,
+        "scrollX": 2439.2727272727275,
+        "scrollY": 1514.1818181818182
+    },
+    {
+        "id": 81,
+        "expanded": false,
+        "name": "店舗テンプレート酒場",
+        "order": 815,
+        "parentId": 362,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 82,
+        "expanded": false,
+        "name": "店舗テンプレート道具屋",
+        "order": 808,
+        "parentId": 362,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 83,
+        "expanded": false,
+        "name": "店舗テンプレート酒場２F",
+        "order": 816,
+        "parentId": 81,
+        "scrollX": 1402.5,
+        "scrollY": 946.5
+    },
+    {
+        "id": 84,
+        "expanded": false,
+        "name": "引き継ぎ部屋",
+        "order": 885,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 85,
+        "expanded": true,
+        "name": "寮：クレアの部屋",
+        "order": 37,
+        "parentId": 148,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 86,
+        "expanded": false,
+        "name": "アッロス洞窟入り口",
+        "order": 512,
+        "parentId": 23,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 87,
+        "expanded": false,
+        "name": "アッロス洞窟前半(崖崩れ前)",
+        "order": 513,
+        "parentId": 86,
+        "scrollX": 2671,
+        "scrollY": 1757
+    },
+    {
+        "id": 88,
+        "expanded": false,
+        "name": "タワーディフェンステンプレート",
+        "order": 827,
+        "parentId": 20,
+        "scrollX": 1357.2,
+        "scrollY": 1005.5999999999999
+    },
+    {
+        "id": 89,
+        "expanded": true,
+        "name": "フォティゾナ防具屋（仮）",
+        "order": 8,
+        "parentId": 43,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 90,
+        "expanded": true,
+        "name": "フォティゾナ道具屋（仮）",
+        "order": 10,
+        "parentId": 43,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 91,
+        "expanded": false,
+        "name": "クリスタル倉庫内3F",
+        "order": 325,
+        "parentId": 210,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 92,
+        "expanded": false,
+        "name": "フォティゾナ食堂内",
+        "order": 9,
+        "parentId": 43,
+        "scrollX": 1131,
+        "scrollY": 719
+    },
+    {
+        "id": 93,
+        "expanded": true,
+        "name": "アッロス洞窟前半（崖崩れ後）",
+        "order": 514,
+        "parentId": 87,
+        "scrollX": 1131,
+        "scrollY": 4167
+    },
+    {
+        "id": 94,
+        "expanded": false,
+        "name": "クリスタル廃鉱山入口",
+        "order": 633,
+        "parentId": 35,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 95,
+        "expanded": false,
+        "name": "クリスタル廃鉱山1F",
+        "order": 634,
+        "parentId": 94,
+        "scrollX": 1490.3999999999999,
+        "scrollY": 990
+    },
+    {
+        "id": 96,
+        "expanded": false,
+        "name": "クリスタル廃鉱山2F",
+        "order": 635,
+        "parentId": 95,
+        "scrollX": 1357.2,
+        "scrollY": 990
+    },
+    {
+        "id": 97,
+        "expanded": false,
+        "name": "クリスタル廃鉱山3F",
+        "order": 636,
+        "parentId": 96,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 98,
+        "expanded": false,
+        "name": "魔法アカデミー1F",
+        "order": 168,
+        "parentId": 9,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1113.3333333333333
+    },
+    {
+        "id": 99,
+        "expanded": false,
+        "name": "魔法アカデミー2F",
+        "order": 169,
+        "parentId": 98,
+        "scrollX": 1131,
+        "scrollY": 742
+    },
+    {
+        "id": 100,
+        "expanded": false,
+        "name": "酒場",
+        "order": 114,
+        "parentId": 31,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 101,
+        "expanded": false,
+        "name": "酒場２F",
+        "order": 115,
+        "parentId": 100,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 102,
+        "expanded": false,
+        "name": "パラ村",
+        "order": 339,
+        "parentId": 445,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1441.3333333333333
+    },
+    {
+        "id": 103,
+        "expanded": true,
+        "name": "咲きこぼれの洞窟（初期",
+        "order": 741,
+        "parentId": 121,
+        "scrollX": 1622,
+        "scrollY": 2038
+    },
+    {
+        "id": 104,
+        "expanded": true,
+        "name": "咲きこぼれの洞窟_奥（初期",
+        "order": 742,
+        "parentId": 103,
+        "scrollX": 1622,
+        "scrollY": 1006
+    },
+    {
+        "id": 105,
+        "expanded": false,
+        "name": "古代の遺跡",
+        "order": 515,
+        "parentId": 23,
+        "scrollX": 1130.6666666666667,
+        "scrollY": 2966.6666666666665
+    },
+    {
+        "id": 106,
+        "expanded": false,
+        "name": "古代の遺跡2F",
+        "order": 516,
+        "parentId": 105,
+        "scrollX": 1131,
+        "scrollY": 1767
+    },
+    {
+        "id": 107,
+        "expanded": false,
+        "name": "古代の遺跡3F",
+        "order": 517,
+        "parentId": 106,
+        "scrollX": 1269,
+        "scrollY": 1296
+    },
+    {
+        "id": 108,
+        "expanded": false,
+        "name": "オロス地方",
+        "order": 739,
+        "parentId": 66,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 109,
+        "expanded": false,
+        "name": "バリエ防具屋",
+        "order": 116,
+        "parentId": 31,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 110,
+        "expanded": false,
+        "name": "バリエ道具屋",
+        "order": 117,
+        "parentId": 31,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 111,
+        "expanded": false,
+        "name": "ゲススの家",
+        "order": 118,
+        "parentId": 31,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 112,
+        "expanded": true,
+        "name": "汚れた手用ゲススの家",
+        "order": 119,
+        "parentId": 111,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 113,
+        "expanded": false,
+        "name": "魔法アカデミー3F",
+        "order": 170,
+        "parentId": 99,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 114,
+        "expanded": true,
+        "name": "配達員の息抜き用クリスタル廃鉱山",
+        "order": 637,
+        "parentId": 94,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 115,
+        "expanded": false,
+        "name": "馬車移動用ダミーマップ",
+        "order": 777,
+        "parentId": 69,
+        "scrollX": 1083.3333333333333,
+        "scrollY": 596
+    },
+    {
+        "id": 116,
+        "expanded": false,
+        "name": "魔法アカデミーB1F",
+        "order": 171,
+        "parentId": 113,
+        "scrollX": 1508,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 117,
+        "expanded": false,
+        "name": "イリニ村孤児院",
+        "order": 246,
+        "parentId": 46,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 118,
+        "expanded": false,
+        "name": "ソールの腰掛",
+        "order": 613,
+        "parentId": 34,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 119,
+        "expanded": false,
+        "name": "パラ村酒場",
+        "order": 340,
+        "parentId": 102,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 120,
+        "expanded": false,
+        "name": "パラ村酒場2F",
+        "order": 341,
+        "parentId": 119,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 121,
+        "expanded": false,
+        "name": "咲きこぼれの洞窟_入り口",
+        "order": 740,
+        "parentId": 108,
+        "scrollX": 2485.090909090909,
+        "scrollY": 1398.5454545454545
+    },
+    {
+        "id": 122,
+        "expanded": true,
+        "name": "ロクソス砦4",
+        "order": 550,
+        "parentId": 123,
+        "scrollX": 1105.7142857142856,
+        "scrollY": 1290
+    },
+    {
+        "id": 123,
+        "expanded": false,
+        "name": "ロクソス砦3F",
+        "order": 549,
+        "parentId": 50,
+        "scrollX": 1131,
+        "scrollY": 995
+    },
+    {
+        "id": 124,
+        "expanded": false,
+        "name": "カサロ浴場",
+        "order": 31,
+        "parentId": 440,
+        "scrollX": 1119.2727272727273,
+        "scrollY": 2029.0909090909092
+    },
+    {
+        "id": 125,
+        "expanded": false,
+        "name": "MAP125",
+        "order": 120,
+        "parentId": 31,
+        "scrollX": 1294.6666666666667,
+        "scrollY": 953.3333333333334
+    },
+    {
+        "id": 126,
+        "expanded": false,
+        "name": "MAP126",
+        "order": 395,
+        "parentId": 14,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 127,
+        "expanded": false,
+        "name": "MAP127",
+        "order": 396,
+        "parentId": 126,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 128,
+        "expanded": false,
+        "name": "MAP128",
+        "order": 399,
+        "parentId": 27,
+        "scrollX": 1131,
+        "scrollY": 763
+    },
+    {
+        "id": 129,
+        "expanded": false,
+        "name": "デバッグ用ダミーマップ",
+        "order": 824,
+        "parentId": 20,
+        "scrollX": 1357.2,
+        "scrollY": 997.1999999999999
+    },
+    {
+        "id": 130,
+        "expanded": false,
+        "name": "フォルマ遺跡_入口",
+        "order": 615,
+        "parentId": 34,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 131,
+        "expanded": false,
+        "name": "フォルマ遺跡_A",
+        "order": 616,
+        "parentId": 130,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 132,
+        "expanded": false,
+        "name": "フォルマ遺跡_B",
+        "order": 617,
+        "parentId": 131,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 133,
+        "expanded": false,
+        "name": "フォルマ遺跡_C",
+        "order": 618,
+        "parentId": 132,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 134,
+        "expanded": false,
+        "name": "フォルマ遺跡_ボスエリア",
+        "order": 619,
+        "parentId": 133,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 135,
+        "expanded": false,
+        "name": "レフガリアの森_入口",
+        "order": 745,
+        "parentId": 108,
+        "scrollX": 3573.818181818182,
+        "scrollY": 2011.6363636363637
+    },
+    {
+        "id": 136,
+        "expanded": false,
+        "name": "開発者ルーム反映用",
+        "order": 888,
+        "parentId": 401,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 137,
+        "expanded": true,
+        "name": "ソールの腰掛内部",
+        "order": 614,
+        "parentId": 118,
+        "scrollX": 1131,
+        "scrollY": 642
+    },
+    {
+        "id": 138,
+        "expanded": false,
+        "name": "貴族オリクトの屋敷",
+        "order": 161,
+        "parentId": 441,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 139,
+        "expanded": false,
+        "name": "貴族オリクトの屋敷1F",
+        "order": 162,
+        "parentId": 138,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 140,
+        "expanded": true,
+        "name": "レフガリアの森",
+        "order": 746,
+        "parentId": 135,
+        "scrollX": 3538.909090909091,
+        "scrollY": 2011.6363636363637
+    },
+    {
+        "id": 141,
+        "expanded": false,
+        "name": "ポース鉱山",
+        "order": 347,
+        "parentId": 445,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1630.6666666666667
+    },
+    {
+        "id": 142,
+        "expanded": true,
+        "name": "レフガリアの森_祠",
+        "order": 747,
+        "parentId": 140,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 143,
+        "expanded": true,
+        "name": "貴族オリクトの屋敷1F部屋",
+        "order": 163,
+        "parentId": 139,
+        "scrollX": 973.1999999999999,
+        "scrollY": 646.8
+    },
+    {
+        "id": 144,
+        "expanded": true,
+        "name": "貴族オリクトの屋敷2F部屋",
+        "order": 164,
+        "parentId": 139,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 145,
+        "expanded": true,
+        "name": "イレモ村民家①",
+        "order": 356,
+        "parentId": 175,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 146,
+        "expanded": false,
+        "name": "テリオス教会",
+        "order": 247,
+        "parentId": 46,
+        "scrollX": 1131,
+        "scrollY": 1279
+    },
+    {
+        "id": 147,
+        "expanded": false,
+        "name": "テリオス教会",
+        "order": 248,
+        "parentId": 146,
+        "scrollX": 1131,
+        "scrollY": 968
+    },
+    {
+        "id": 148,
+        "expanded": false,
+        "name": "フォティゾナ住宅街廊下（仮",
+        "order": 34,
+        "parentId": 3,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 149,
+        "expanded": false,
+        "name": "酒場",
+        "order": 227,
+        "parentId": 24,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 150,
+        "expanded": false,
+        "name": "酒場2F",
+        "order": 228,
+        "parentId": 149,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 151,
+        "expanded": false,
+        "name": "カンプス情報屋⑧",
+        "order": 230,
+        "parentId": 24,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 152,
+        "expanded": false,
+        "name": "歩行用ダミーマップ",
+        "order": 778,
+        "parentId": 69,
+        "scrollX": 1092,
+        "scrollY": 609.3333333333334
+    },
+    {
+        "id": 153,
+        "expanded": false,
+        "name": "フォティゾナ住宅街中庭",
+        "order": 35,
+        "parentId": 148,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 154,
+        "expanded": true,
+        "name": "寮：メロスの部屋",
+        "order": 36,
+        "parentId": 148,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 155,
+        "expanded": true,
+        "name": "トロゴ孤児院からの依頼1-15用マップ",
+        "order": 552,
+        "parentId": 41,
+        "scrollX": 1544.3999999999999,
+        "scrollY": 543.6
+    },
+    {
+        "id": 156,
+        "expanded": false,
+        "name": "ルプス村",
+        "order": 411,
+        "parentId": 446,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 157,
+        "expanded": false,
+        "name": "ボイラー室（仮）",
+        "order": 32,
+        "parentId": 124,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 158,
+        "expanded": false,
+        "name": "ルプス村酒場",
+        "order": 412,
+        "parentId": 156,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 159,
+        "expanded": false,
+        "name": "ルプス村宿屋",
+        "order": 413,
+        "parentId": 158,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 160,
+        "expanded": false,
+        "name": "狼の洞窟入り口",
+        "order": 676,
+        "parentId": 37,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 161,
+        "expanded": true,
+        "name": "狼の洞窟",
+        "order": 677,
+        "parentId": 160,
+        "scrollX": 2780.5714285714284,
+        "scrollY": 2945.142857142857
+    },
+    {
+        "id": 162,
+        "expanded": false,
+        "name": "狼の洞窟最奥",
+        "order": 678,
+        "parentId": 161,
+        "scrollX": 2780.4,
+        "scrollY": 3651.6
+    },
+    {
+        "id": 163,
+        "expanded": false,
+        "name": "岡さん専用仮マップ",
+        "order": 829,
+        "parentId": 0,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 798.6666666666666
+    },
+    {
+        "id": 164,
+        "expanded": false,
+        "name": "酒場",
+        "order": 266,
+        "parentId": 63,
+        "scrollX": 1138,
+        "scrollY": 636.5
+    },
+    {
+        "id": 165,
+        "expanded": false,
+        "name": "酒場２F",
+        "order": 267,
+        "parentId": 164,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 166,
+        "expanded": false,
+        "name": "船乗り事務所",
+        "order": 270,
+        "parentId": 63,
+        "scrollX": 1138,
+        "scrollY": 636.5
+    },
+    {
+        "id": 167,
+        "expanded": false,
+        "name": "フォティゾナ地下牢",
+        "order": 98,
+        "parentId": 192,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 798.6666666666666
+    },
+    {
+        "id": 168,
+        "expanded": true,
+        "name": "大商人アクレオの店",
+        "order": 268,
+        "parentId": 63,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 169,
+        "expanded": false,
+        "name": "船イベント",
+        "order": 269,
+        "parentId": 63,
+        "scrollX": 1131,
+        "scrollY": 4167
+    },
+    {
+        "id": 170,
+        "expanded": false,
+        "name": "船上甲板",
+        "order": 706,
+        "parentId": 38,
+        "scrollX": 1506.6666666666667,
+        "scrollY": 2522
+    },
+    {
+        "id": 171,
+        "expanded": false,
+        "name": "ボス部屋手前",
+        "order": 709,
+        "parentId": 173,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 172,
+        "expanded": true,
+        "name": "船1",
+        "order": 707,
+        "parentId": 170,
+        "scrollX": 1926.6666666666667,
+        "scrollY": 1432.6666666666667
+    },
+    {
+        "id": 173,
+        "expanded": true,
+        "name": "船2",
+        "order": 708,
+        "parentId": 172,
+        "scrollX": 1767.6,
+        "scrollY": 1797.6
+    },
+    {
+        "id": 174,
+        "expanded": false,
+        "name": "ボス部屋",
+        "order": 710,
+        "parentId": 171,
+        "scrollX": 1105.7142857142856,
+        "scrollY": 810
+    },
+    {
+        "id": 175,
+        "expanded": false,
+        "name": "イレモ村",
+        "order": 353,
+        "parentId": 445,
+        "scrollX": 1508,
+        "scrollY": 1929
+    },
+    {
+        "id": 176,
+        "expanded": false,
+        "name": "スクリロ山_入口",
+        "order": 749,
+        "parentId": 108,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 177,
+        "expanded": false,
+        "name": "村長の家",
+        "order": 354,
+        "parentId": 175,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 178,
+        "expanded": false,
+        "name": "地下牢",
+        "order": 355,
+        "parentId": 177,
+        "scrollX": 1786.909090909091,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 179,
+        "expanded": false,
+        "name": "スクリロ山_外観1",
+        "order": 750,
+        "parentId": 176,
+        "scrollX": 1523,
+        "scrollY": 971
+    },
+    {
+        "id": 180,
+        "expanded": false,
+        "name": "スクリロ山_内観1",
+        "order": 751,
+        "parentId": 179,
+        "scrollX": 1131,
+        "scrollY": 1287
+    },
+    {
+        "id": 181,
+        "expanded": false,
+        "name": "スクリロ山_内観2",
+        "order": 752,
+        "parentId": 180,
+        "scrollX": 1131,
+        "scrollY": 1287
+    },
+    {
+        "id": 182,
+        "expanded": false,
+        "name": "スクリロ山_中腹",
+        "order": 753,
+        "parentId": 181,
+        "scrollX": 1131,
+        "scrollY": 1039
+    },
+    {
+        "id": 183,
+        "expanded": false,
+        "name": "スクリロ山_外観2",
+        "order": 754,
+        "parentId": 182,
+        "scrollX": 1131,
+        "scrollY": 1047
+    },
+    {
+        "id": 184,
+        "expanded": false,
+        "name": "スクリロ山_ボス前",
+        "order": 755,
+        "parentId": 183,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 185,
+        "expanded": false,
+        "name": "スクリロ山_ボスエリア",
+        "order": 756,
+        "parentId": 184,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 186,
+        "expanded": false,
+        "name": "ドラゴンの涙製造所_入口",
+        "order": 638,
+        "parentId": 35,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 187,
+        "expanded": false,
+        "name": "ドラゴンの涙製造所_内観",
+        "order": 639,
+        "parentId": 186,
+        "scrollX": 1749,
+        "scrollY": 2046
+    },
+    {
+        "id": 188,
+        "expanded": false,
+        "name": "ドラゴンの涙製造所_研究者",
+        "order": 640,
+        "parentId": 187,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 189,
+        "expanded": false,
+        "name": "マラコ村",
+        "order": 126,
+        "parentId": 441,
+        "scrollX": 1173,
+        "scrollY": 1283
+    },
+    {
+        "id": 190,
+        "expanded": false,
+        "name": "倉庫",
+        "order": 127,
+        "parentId": 189,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 191,
+        "expanded": true,
+        "name": "(カロン謁見1-3用)フォティゾナ王宮1F_A",
+        "order": 101,
+        "parentId": 291,
+        "scrollX": 1130,
+        "scrollY": 641.5
+    },
+    {
+        "id": 192,
+        "expanded": false,
+        "name": "フォティゾナ王宮1Fエントランス",
+        "order": 97,
+        "parentId": 193,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 193,
+        "expanded": false,
+        "name": "フォティゾナ王宮前",
+        "order": 93,
+        "parentId": 440,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1785.3333333333333
+    },
+    {
+        "id": 194,
+        "expanded": false,
+        "name": "酒場",
+        "order": 128,
+        "parentId": 189,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 195,
+        "expanded": false,
+        "name": "酒場2F",
+        "order": 129,
+        "parentId": 194,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 196,
+        "expanded": false,
+        "name": "金貸フリマタの家",
+        "order": 175,
+        "parentId": 9,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 197,
+        "expanded": false,
+        "name": "貴族カサロの隠居所",
+        "order": 419,
+        "parentId": 446,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 198,
+        "expanded": false,
+        "name": "貴族カサロの隠居所内",
+        "order": 420,
+        "parentId": 197,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 199,
+        "expanded": false,
+        "name": "バルク団の狩場入り口",
+        "order": 680,
+        "parentId": 37,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 200,
+        "expanded": false,
+        "name": "バルク団の狩場１",
+        "order": 681,
+        "parentId": 199,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 201,
+        "expanded": false,
+        "name": "バルク団の狩場２",
+        "order": 682,
+        "parentId": 200,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 202,
+        "expanded": false,
+        "name": "バルク団の狩場最奥",
+        "order": 683,
+        "parentId": 201,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 203,
+        "expanded": false,
+        "name": "バルク団駐屯地",
+        "order": 421,
+        "parentId": 446,
+        "scrollX": 1357.3333333333333,
+        "scrollY": 1661.3333333333333
+    },
+    {
+        "id": 204,
+        "expanded": true,
+        "name": "バルク団ゴートの住まい",
+        "order": 422,
+        "parentId": 203,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 205,
+        "expanded": false,
+        "name": "放蕩貴族の屋敷",
+        "order": 433,
+        "parentId": 446,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 769.3333333333334
+    },
+    {
+        "id": 206,
+        "expanded": false,
+        "name": "放蕩貴族の屋敷内",
+        "order": 434,
+        "parentId": 205,
+        "scrollX": 973.1999999999999,
+        "scrollY": 805.1999999999999
+    },
+    {
+        "id": 207,
+        "expanded": false,
+        "name": "飛空挺確認用フィールド",
+        "order": 825,
+        "parentId": 20,
+        "scrollX": 3442.7999999999997,
+        "scrollY": 2569.2
+    },
+    {
+        "id": 208,
+        "expanded": true,
+        "name": "冒険者ギルド内3F",
+        "order": 45,
+        "parentId": 71,
+        "scrollX": 2485.090909090909,
+        "scrollY": 1398.5454545454545
+    },
+    {
+        "id": 209,
+        "expanded": false,
+        "name": "黄金街道入り口",
+        "order": 758,
+        "parentId": 108,
+        "scrollX": 982.8,
+        "scrollY": 553.1999999999999
+    },
+    {
+        "id": 210,
+        "expanded": false,
+        "name": "クリスタル倉庫内1F",
+        "order": 323,
+        "parentId": 11,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 745.3333333333334
+    },
+    {
+        "id": 211,
+        "expanded": true,
+        "name": "黄金街道1",
+        "order": 759,
+        "parentId": 209,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 212,
+        "expanded": false,
+        "name": "放蕩貴族の所有地入り口",
+        "order": 685,
+        "parentId": 37,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 213,
+        "expanded": false,
+        "name": "黄金街道ボスエリア",
+        "order": 760,
+        "parentId": 211,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 214,
+        "expanded": false,
+        "name": "背景黒用ダミーマップ",
+        "order": 779,
+        "parentId": 69,
+        "scrollX": 1092,
+        "scrollY": 609.3333333333334
+    },
+    {
+        "id": 215,
+        "expanded": true,
+        "name": "放蕩貴族の所有地1",
+        "order": 686,
+        "parentId": 212,
+        "scrollX": 792,
+        "scrollY": 1111.2
+    },
+    {
+        "id": 216,
+        "expanded": true,
+        "name": "放蕩貴族の所有地ボスエリア",
+        "order": 687,
+        "parentId": 215,
+        "scrollX": 2457,
+        "scrollY": 1371
+    },
+    {
+        "id": 217,
+        "expanded": true,
+        "name": "貴族カサロの秘密基地",
+        "order": 435,
+        "parentId": 446,
+        "scrollX": 1082.1818181818182,
+        "scrollY": 1313.4545454545455
+    },
+    {
+        "id": 218,
+        "expanded": false,
+        "name": "封印の間",
+        "order": 711,
+        "parentId": 170,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 219,
+        "expanded": false,
+        "name": "キルクルスの遺跡_1F",
+        "order": 651,
+        "parentId": 329,
+        "scrollX": 1357.2,
+        "scrollY": 997.1999999999999
+    },
+    {
+        "id": 220,
+        "expanded": false,
+        "name": "キルクルスの遺跡_B1F",
+        "order": 652,
+        "parentId": 219,
+        "scrollX": 1357.2,
+        "scrollY": 997.1999999999999
+    },
+    {
+        "id": 221,
+        "expanded": true,
+        "name": "クレアの家2F",
+        "order": 23,
+        "parentId": 222,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 222,
+        "expanded": true,
+        "name": "クレアの家1F",
+        "order": 22,
+        "parentId": 26,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 223,
+        "expanded": false,
+        "name": "クレアの家",
+        "order": 24,
+        "parentId": 221,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 224,
+        "expanded": false,
+        "name": "MAP224",
+        "order": 780,
+        "parentId": 69,
+        "scrollX": 2439.2727272727275,
+        "scrollY": 1514.1818181818182
+    },
+    {
+        "id": 225,
+        "expanded": true,
+        "name": "（夜）貴族カサロの飛空挺の上",
+        "order": 436,
+        "parentId": 217,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 226,
+        "expanded": true,
+        "name": "大岩の城 地下クリスタルダンジョン",
+        "order": 712,
+        "parentId": 218,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1874.1818181818182
+    },
+    {
+        "id": 227,
+        "expanded": true,
+        "name": "魔法陣移動先＿森",
+        "order": 748,
+        "parentId": 140,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 778.6666666666666
+    },
+    {
+        "id": 228,
+        "expanded": true,
+        "name": "魔法陣移動先_城",
+        "order": 551,
+        "parentId": 123,
+        "scrollX": 1006.8,
+        "scrollY": 650.4
+    },
+    {
+        "id": 229,
+        "expanded": false,
+        "name": "大岩の城の地下最奥",
+        "order": 715,
+        "parentId": 218,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 230,
+        "expanded": false,
+        "name": "触っちゃダメマップ",
+        "order": 714,
+        "parentId": 218,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 231,
+        "expanded": false,
+        "name": "ミュコス違法酒場",
+        "order": 271,
+        "parentId": 63,
+        "scrollX": 1131,
+        "scrollY": 969
+    },
+    {
+        "id": 232,
+        "expanded": false,
+        "name": "酒場通路",
+        "order": 272,
+        "parentId": 231,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 233,
+        "expanded": false,
+        "name": "朽ちた城",
+        "order": 553,
+        "parentId": 33,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 798.6666666666666
+    },
+    {
+        "id": 234,
+        "expanded": true,
+        "name": "朽ちた1F",
+        "order": 554,
+        "parentId": 233,
+        "scrollX": 2219,
+        "scrollY": 2212
+    },
+    {
+        "id": 235,
+        "expanded": true,
+        "name": "朽ちた城2F",
+        "order": 555,
+        "parentId": 234,
+        "scrollX": 2219,
+        "scrollY": 1287
+    },
+    {
+        "id": 236,
+        "expanded": false,
+        "name": "朽ちた城3F",
+        "order": 556,
+        "parentId": 235,
+        "scrollX": 1620,
+        "scrollY": 1287
+    },
+    {
+        "id": 237,
+        "expanded": false,
+        "name": "朽ちた城最奥",
+        "order": 557,
+        "parentId": 236,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 238,
+        "expanded": true,
+        "name": "フォティゾナ王宮屋上",
+        "order": 110,
+        "parentId": 192,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 770.6666666666666
+    },
+    {
+        "id": 239,
+        "expanded": false,
+        "name": "フォティゾナ港湾",
+        "order": 50,
+        "parentId": 440,
+        "scrollX": 1130.6666666666667,
+        "scrollY": 1820
+    },
+    {
+        "id": 240,
+        "expanded": false,
+        "name": "ピズマ闘技場前",
+        "order": 59,
+        "parentId": 440,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1305.3333333333333
+    },
+    {
+        "id": 241,
+        "expanded": false,
+        "name": "アトミス神殿",
+        "order": 62,
+        "parentId": 440,
+        "scrollX": 1131,
+        "scrollY": 1519
+    },
+    {
+        "id": 242,
+        "expanded": false,
+        "name": "アトミス神殿内部1",
+        "order": 63,
+        "parentId": 241,
+        "scrollX": 1131,
+        "scrollY": 1279
+    },
+    {
+        "id": 243,
+        "expanded": false,
+        "name": "アトミス神殿内部2",
+        "order": 64,
+        "parentId": 242,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 244,
+        "expanded": true,
+        "name": "ピズマ闘技場",
+        "order": 60,
+        "parentId": 240,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 245,
+        "expanded": false,
+        "name": "リピ村特殊地形",
+        "order": 263,
+        "parentId": 249,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 798.6666666666666
+    },
+    {
+        "id": 246,
+        "expanded": false,
+        "name": "タイトル用ダミーマップ",
+        "order": 818,
+        "parentId": 69,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 247,
+        "expanded": false,
+        "name": "ビーチ・レプトンマップ1",
+        "order": 75,
+        "parentId": 440,
+        "scrollX": 1357.2,
+        "scrollY": 1150.8
+    },
+    {
+        "id": 248,
+        "expanded": false,
+        "name": "リストランテ・ミロ",
+        "order": 76,
+        "parentId": 247,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 249,
+        "expanded": false,
+        "name": "リピ村",
+        "order": 259,
+        "parentId": 443,
+        "scrollX": 1131,
+        "scrollY": 1041
+    },
+    {
+        "id": 250,
+        "expanded": false,
+        "name": "ロパロ略奪団アジト",
+        "order": 600,
+        "parentId": 706,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 251,
+        "expanded": true,
+        "name": "エマ盗賊団アジト",
+        "order": 258,
+        "parentId": 443,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 252,
+        "expanded": false,
+        "name": "研究者の館前",
+        "order": 206,
+        "parentId": 442,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 253,
+        "expanded": false,
+        "name": "研究者の館内",
+        "order": 207,
+        "parentId": 252,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 254,
+        "expanded": false,
+        "name": "元老院議員ピリアの屋敷前",
+        "order": 210,
+        "parentId": 442,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 255,
+        "expanded": false,
+        "name": "元老院議員ピリアの屋敷内",
+        "order": 211,
+        "parentId": 254,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 256,
+        "expanded": false,
+        "name": "裁きの跡_入口",
+        "order": 602,
+        "parentId": 34,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 257,
+        "expanded": false,
+        "name": "裁きの跡ボスエリア_D",
+        "order": 609,
+        "parentId": 256,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 258,
+        "expanded": false,
+        "name": "モニモス山入り口",
+        "order": 641,
+        "parentId": 35,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 259,
+        "expanded": false,
+        "name": "モニモス山ボスエリア",
+        "order": 642,
+        "parentId": 258,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 260,
+        "expanded": false,
+        "name": "沈んだ街",
+        "order": 186,
+        "parentId": 442,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 261,
+        "expanded": true,
+        "name": "咲きこぼれの洞窟_奥（後期",
+        "order": 743,
+        "parentId": 104,
+        "scrollX": 1622,
+        "scrollY": 914
+    },
+    {
+        "id": 262,
+        "expanded": true,
+        "name": "狼の洞窟魔法陣移動先＿森",
+        "order": 679,
+        "parentId": 161,
+        "scrollX": 973.1999999999999,
+        "scrollY": 799.1999999999999
+    },
+    {
+        "id": 263,
+        "expanded": false,
+        "name": "（削除不可）回想シーン用マップ",
+        "order": 826,
+        "parentId": 20,
+        "scrollX": 1357.2,
+        "scrollY": 1150.8
+    },
+    {
+        "id": 264,
+        "expanded": false,
+        "name": "調理人ピートの家",
+        "order": 231,
+        "parentId": 24,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 265,
+        "expanded": false,
+        "name": "家テンプレートイベント",
+        "order": 799,
+        "parentId": 362,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 266,
+        "expanded": true,
+        "name": "家テンプレートイベント2F",
+        "order": 800,
+        "parentId": 265,
+        "scrollX": 1020,
+        "scrollY": 689.4545454545455
+    },
+    {
+        "id": 267,
+        "expanded": false,
+        "name": "キルクルスの遺跡_イベントエリア",
+        "order": 653,
+        "parentId": 220,
+        "scrollX": 1357.2,
+        "scrollY": 910.8
+    },
+    {
+        "id": 268,
+        "expanded": false,
+        "name": "情報屋",
+        "order": 249,
+        "parentId": 46,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 269,
+        "expanded": false,
+        "name": "野盗の草原入口",
+        "order": 561,
+        "parentId": 33,
+        "scrollX": 755,
+        "scrollY": 896
+    },
+    {
+        "id": 270,
+        "expanded": false,
+        "name": "野盗の草原中間",
+        "order": 562,
+        "parentId": 269,
+        "scrollX": 2122,
+        "scrollY": 2294
+    },
+    {
+        "id": 271,
+        "expanded": true,
+        "name": "野盗の草原ボスエリア",
+        "order": 563,
+        "parentId": 270,
+        "scrollX": 1131,
+        "scrollY": 655
+    },
+    {
+        "id": 272,
+        "expanded": false,
+        "name": "狩人モンスの家",
+        "order": 130,
+        "parentId": 189,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 273,
+        "expanded": false,
+        "name": "穴だらけの丘入口",
+        "order": 658,
+        "parentId": 35,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 274,
+        "expanded": false,
+        "name": "穴だらけの丘中間",
+        "order": 659,
+        "parentId": 273,
+        "scrollX": 1269.3333333333333,
+        "scrollY": 790.6666666666666
+    },
+    {
+        "id": 275,
+        "expanded": false,
+        "name": "穴だらけの丘_内部①",
+        "order": 660,
+        "parentId": 274,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 276,
+        "expanded": false,
+        "name": "カノナス情報屋",
+        "order": 176,
+        "parentId": 9,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 277,
+        "expanded": true,
+        "name": "野盗の草原イベントエリアA",
+        "order": 564,
+        "parentId": 270,
+        "scrollX": 1263.2727272727273,
+        "scrollY": 786.5454545454546
+    },
+    {
+        "id": 278,
+        "expanded": false,
+        "name": "野盗の草原イベントエリアB",
+        "order": 565,
+        "parentId": 270,
+        "scrollX": 1263.2727272727273,
+        "scrollY": 786.5454545454546
+    },
+    {
+        "id": 279,
+        "expanded": true,
+        "name": "穴だらけの丘_内部②",
+        "order": 667,
+        "parentId": 274,
+        "scrollX": 2485.090909090909,
+        "scrollY": 1398.5454545454545
+    },
+    {
+        "id": 280,
+        "expanded": false,
+        "name": "穴だらけの丘_内部③",
+        "order": 668,
+        "parentId": 274,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 281,
+        "expanded": false,
+        "name": "穴だらけの丘_ベドン廟③通路",
+        "order": 669,
+        "parentId": 280,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 282,
+        "expanded": false,
+        "name": "退避用ダミーマップ",
+        "order": 781,
+        "parentId": 69,
+        "scrollX": 1404,
+        "scrollY": 760.2857142857142
+    },
+    {
+        "id": 283,
+        "expanded": true,
+        "name": "穴だらけの丘_ベドン廟③ダンジョン",
+        "order": 670,
+        "parentId": 281,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 284,
+        "expanded": true,
+        "name": "穴だらけの丘_ベドン廟③祭壇",
+        "order": 671,
+        "parentId": 281,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 285,
+        "expanded": false,
+        "name": "砂漠の街アンモス",
+        "order": 214,
+        "parentId": 442,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 286,
+        "expanded": false,
+        "name": "黄金の街ドロモス",
+        "order": 366,
+        "parentId": 445,
+        "scrollX": 1269,
+        "scrollY": 1399
+    },
+    {
+        "id": 287,
+        "expanded": false,
+        "name": "掟の都市カノナス 酒場・宿屋",
+        "order": 178,
+        "parentId": 9,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 288,
+        "expanded": false,
+        "name": "掟の都市カノナス 酒場2F",
+        "order": 179,
+        "parentId": 287,
+        "scrollX": 1224,
+        "scrollY": 925.3333333333334
+    },
+    {
+        "id": 289,
+        "expanded": true,
+        "name": "掟の都市カノナス 道具屋",
+        "order": 180,
+        "parentId": 9,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 290,
+        "expanded": false,
+        "name": "フォティゾナ王宮1F_C",
+        "order": 109,
+        "parentId": 192,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 291,
+        "expanded": false,
+        "name": "フォティゾナ王宮1F_A",
+        "order": 100,
+        "parentId": 192,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 694.6666666666666
+    },
+    {
+        "id": 292,
+        "expanded": false,
+        "name": "フォティゾナ王宮2F_E",
+        "order": 102,
+        "parentId": 192,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 293,
+        "expanded": false,
+        "name": "フォティゾナ王宮2F_D",
+        "order": 103,
+        "parentId": 192,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 294,
+        "expanded": false,
+        "name": "フォティゾナ王宮1F_B",
+        "order": 104,
+        "parentId": 192,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 295,
+        "expanded": false,
+        "name": "フォティゾナ王宮2F_F",
+        "order": 105,
+        "parentId": 192,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 296,
+        "expanded": true,
+        "name": "モニモス山_イベント③",
+        "order": 646,
+        "parentId": 258,
+        "scrollX": 1269.8181818181818,
+        "scrollY": 1420.3636363636365
+    },
+    {
+        "id": 297,
+        "expanded": false,
+        "name": "モニモス山_イベント②",
+        "order": 644,
+        "parentId": 258,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 298,
+        "expanded": false,
+        "name": "モニモス山_イベント①",
+        "order": 643,
+        "parentId": 258,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 299,
+        "expanded": false,
+        "name": "情報屋_奥",
+        "order": 250,
+        "parentId": 268,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 300,
+        "expanded": false,
+        "name": "クリスタルの中_ダンジョンA",
+        "order": 672,
+        "parentId": 35,
+        "scrollX": 1269.3333333333333,
+        "scrollY": 1546.6666666666667
+    },
+    {
+        "id": 301,
+        "expanded": false,
+        "name": "クリスタルの中_ダンジョンB",
+        "order": 673,
+        "parentId": 300,
+        "scrollX": 1269,
+        "scrollY": 1485
+    },
+    {
+        "id": 302,
+        "expanded": false,
+        "name": "クリスタルの中_魂の座 ",
+        "order": 674,
+        "parentId": 301,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 303,
+        "expanded": false,
+        "name": "クレア決意",
+        "order": 768,
+        "parentId": 108,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 304,
+        "expanded": false,
+        "name": "敗残兵たちのスラム",
+        "order": 287,
+        "parentId": 444,
+        "scrollX": 1269,
+        "scrollY": 1282
+    },
+    {
+        "id": 305,
+        "expanded": false,
+        "name": "地下闘技場１F",
+        "order": 367,
+        "parentId": 286,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 306,
+        "expanded": false,
+        "name": "地下闘技場B1F",
+        "order": 368,
+        "parentId": 305,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 307,
+        "expanded": false,
+        "name": "オプロの焚火",
+        "order": 388,
+        "parentId": 445,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 308,
+        "expanded": false,
+        "name": "地下闘技場_戦闘エリア",
+        "order": 369,
+        "parentId": 305,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 309,
+        "expanded": false,
+        "name": "アルマダの家_部屋①",
+        "order": 137,
+        "parentId": 29,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 310,
+        "expanded": false,
+        "name": "商人オロの家（アダルト実行あり）",
+        "order": 215,
+        "parentId": 285,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 311,
+        "expanded": false,
+        "name": "アルマダの家_部屋②",
+        "order": 138,
+        "parentId": 309,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 312,
+        "expanded": false,
+        "name": "アルマダの家_扉の部屋",
+        "order": 139,
+        "parentId": 311,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 313,
+        "expanded": false,
+        "name": "声の部屋",
+        "order": 141,
+        "parentId": 311,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 314,
+        "expanded": false,
+        "name": "元老院ピリア1F部屋",
+        "order": 212,
+        "parentId": 255,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 315,
+        "expanded": false,
+        "name": "元老院ピリア2F部屋",
+        "order": 213,
+        "parentId": 314,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 316,
+        "expanded": false,
+        "name": "深い森",
+        "order": 688,
+        "parentId": 37,
+        "scrollX": 1522.8,
+        "scrollY": 1005.5999999999999
+    },
+    {
+        "id": 317,
+        "expanded": false,
+        "name": "深い森_通常イベントエリア",
+        "order": 689,
+        "parentId": 316,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 318,
+        "expanded": false,
+        "name": "深い森_イベントエリア①",
+        "order": 691,
+        "parentId": 316,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 319,
+        "expanded": false,
+        "name": "(マップサイズ変更厳禁)深い森_奥のダンジョン",
+        "order": 692,
+        "parentId": 316,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 320,
+        "expanded": false,
+        "name": "MAP320",
+        "order": 830,
+        "parentId": 163,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1642.909090909091
+    },
+    {
+        "id": 321,
+        "expanded": false,
+        "name": "ヴァルト酒場",
+        "order": 400,
+        "parentId": 14,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 322,
+        "expanded": false,
+        "name": "ヴァルト宿屋2F",
+        "order": 401,
+        "parentId": 321,
+        "scrollX": 1194.5454545454545,
+        "scrollY": 970.909090909091
+    },
+    {
+        "id": 323,
+        "expanded": false,
+        "name": "トゥリパ村民家⑤上級魔術師の仮家",
+        "order": 142,
+        "parentId": 29,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 324,
+        "expanded": false,
+        "name": "民家",
+        "order": 328,
+        "parentId": 11,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 325,
+        "expanded": false,
+        "name": "上級魔術士の住まい",
+        "order": 329,
+        "parentId": 11,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 326,
+        "expanded": true,
+        "name": "上級魔術士の住まい_2F",
+        "order": 330,
+        "parentId": 325,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 327,
+        "expanded": false,
+        "name": "深い森_通常イベントエリア2",
+        "order": 690,
+        "parentId": 317,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 328,
+        "expanded": false,
+        "name": "再生の悪魔ジエンの祭壇",
+        "order": 140,
+        "parentId": 312,
+        "scrollX": 1357.2,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 329,
+        "expanded": false,
+        "name": "キルクルスの遺跡_入口",
+        "order": 650,
+        "parentId": 389,
+        "scrollX": 2485.090909090909,
+        "scrollY": 1398.5454545454545
+    },
+    {
+        "id": 330,
+        "expanded": false,
+        "name": "入り江の洞窟_入口",
+        "order": 610,
+        "parentId": 34,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 331,
+        "expanded": false,
+        "name": "入り江の洞窟_ダンジョン",
+        "order": 611,
+        "parentId": 330,
+        "scrollX": 2158,
+        "scrollY": 1524
+    },
+    {
+        "id": 332,
+        "expanded": false,
+        "name": "入り江の洞窟_ボス",
+        "order": 612,
+        "parentId": 331,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 333,
+        "expanded": true,
+        "name": "アトゥ将軍のテント",
+        "order": 361,
+        "parentId": 49,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 334,
+        "expanded": true,
+        "name": "一般兵のテント①",
+        "order": 362,
+        "parentId": 49,
+        "scrollX": 2457,
+        "scrollY": 1371
+    },
+    {
+        "id": 335,
+        "expanded": false,
+        "name": "研究者の館B1F",
+        "order": 208,
+        "parentId": 253,
+        "scrollX": 1131,
+        "scrollY": 997
+    },
+    {
+        "id": 336,
+        "expanded": false,
+        "name": "研究者の館B2F",
+        "order": 209,
+        "parentId": 335,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 337,
+        "expanded": false,
+        "name": "オロス_酒場",
+        "order": 331,
+        "parentId": 11,
+        "scrollX": 1131,
+        "scrollY": 1279
+    },
+    {
+        "id": 338,
+        "expanded": false,
+        "name": "オロス_酒場2F",
+        "order": 332,
+        "parentId": 337,
+        "scrollX": 1544,
+        "scrollY": 970.6666666666666
+    },
+    {
+        "id": 339,
+        "expanded": true,
+        "name": "売春島",
+        "order": 295,
+        "parentId": 444,
+        "scrollX": 1205.3333333333333,
+        "scrollY": 1237.3333333333333
+    },
+    {
+        "id": 340,
+        "expanded": false,
+        "name": "売春島_受付",
+        "order": 296,
+        "parentId": 339,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 729.3333333333334
+    },
+    {
+        "id": 341,
+        "expanded": false,
+        "name": "オロス_防具屋/道具屋",
+        "order": 333,
+        "parentId": 11,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 342,
+        "expanded": true,
+        "name": "ピパの自宅",
+        "order": 232,
+        "parentId": 24,
+        "scrollX": 1404,
+        "scrollY": 824.5714285714286
+    },
+    {
+        "id": 343,
+        "expanded": false,
+        "name": "酒場",
+        "order": 67,
+        "parentId": 47,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 344,
+        "expanded": false,
+        "name": "仕立屋",
+        "order": 78,
+        "parentId": 247,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 345,
+        "expanded": false,
+        "name": "ミュコス街道_ダンジョン１",
+        "order": 716,
+        "parentId": 38,
+        "scrollX": 1508,
+        "scrollY": 2985.3333333333335
+    },
+    {
+        "id": 346,
+        "expanded": false,
+        "name": "オークション会場_入り口",
+        "order": 51,
+        "parentId": 239,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 347,
+        "expanded": false,
+        "name": "オークション会場_会場",
+        "order": 52,
+        "parentId": 346,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 348,
+        "expanded": true,
+        "name": "ミュコス街道_中間エリア",
+        "order": 717,
+        "parentId": 345,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 349,
+        "expanded": true,
+        "name": "ミュコス街道_ダンジョン2",
+        "order": 718,
+        "parentId": 348,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 350,
+        "expanded": true,
+        "name": "ミュコス街道_イベントエリア",
+        "order": 719,
+        "parentId": 349,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 801.3333333333334
+    },
+    {
+        "id": 351,
+        "expanded": true,
+        "name": "ミュコス街道_旧道ダンジョン11",
+        "order": 720,
+        "parentId": 350,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1785.3333333333333
+    },
+    {
+        "id": 352,
+        "expanded": true,
+        "name": "ミュコス街道_旧道ダンジョン2",
+        "order": 721,
+        "parentId": 351,
+        "scrollX": 1508,
+        "scrollY": 922.6666666666666
+    },
+    {
+        "id": 353,
+        "expanded": true,
+        "name": "ミュコス街道_イベントエリア2",
+        "order": 722,
+        "parentId": 352,
+        "scrollX": 1508,
+        "scrollY": 1065.3333333333333
+    },
+    {
+        "id": 354,
+        "expanded": true,
+        "name": "戦士アクロの家",
+        "order": 414,
+        "parentId": 156,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 355,
+        "expanded": false,
+        "name": "フォティゾナ海上（使わない）",
+        "order": 518,
+        "parentId": 23,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 356,
+        "expanded": false,
+        "name": "家テンプレート小_バリエ",
+        "order": 784,
+        "parentId": 77,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 357,
+        "expanded": false,
+        "name": "家テンプレート小_カノナス",
+        "order": 785,
+        "parentId": 77,
+        "scrollX": 801.2727272727273,
+        "scrollY": 543.2727272727273
+    },
+    {
+        "id": 358,
+        "expanded": false,
+        "name": "家テンプレート小_カンプス",
+        "order": 788,
+        "parentId": 77,
+        "scrollX": 938.7272727272727,
+        "scrollY": 624
+    },
+    {
+        "id": 359,
+        "expanded": false,
+        "name": "家テンプレート小_ヴァルト",
+        "order": 786,
+        "parentId": 77,
+        "scrollX": 938.7272727272727,
+        "scrollY": 624
+    },
+    {
+        "id": 360,
+        "expanded": false,
+        "name": "家テンプレート小_フォティゾナ",
+        "order": 787,
+        "parentId": 77,
+        "scrollX": 801.2727272727273,
+        "scrollY": 543.2727272727273
+    },
+    {
+        "id": 361,
+        "expanded": false,
+        "name": "家テンプレート中_バリエ",
+        "order": 792,
+        "parentId": 78,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 362,
+        "expanded": false,
+        "name": "家テンプレート",
+        "order": 782,
+        "parentId": 69,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 363,
+        "expanded": false,
+        "name": "スフィリ鉱山",
+        "order": 149,
+        "parentId": 441,
+        "scrollX": 1357.2,
+        "scrollY": 1150.8
+    },
+    {
+        "id": 364,
+        "expanded": false,
+        "name": "スフィリ鉱山_事務所",
+        "order": 150,
+        "parentId": 363,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 365,
+        "expanded": false,
+        "name": "家テンプレート中_カノナス",
+        "order": 793,
+        "parentId": 78,
+        "scrollX": 825.75,
+        "scrollY": 670.5
+    },
+    {
+        "id": 366,
+        "expanded": false,
+        "name": "家テンプレート中_ヴァルト",
+        "order": 796,
+        "parentId": 78,
+        "scrollX": 1402.5,
+        "scrollY": 951
+    },
+    {
+        "id": 367,
+        "expanded": false,
+        "name": "家テンプレート中_フォティゾナ",
+        "order": 797,
+        "parentId": 78,
+        "scrollX": 892.2857142857142,
+        "scrollY": 672
+    },
+    {
+        "id": 368,
+        "expanded": false,
+        "name": "家テンプレート中_カンプス",
+        "order": 794,
+        "parentId": 78,
+        "scrollX": 1402.5,
+        "scrollY": 948
+    },
+    {
+        "id": 369,
+        "expanded": false,
+        "name": "家テンプレート中_オロス",
+        "order": 795,
+        "parentId": 78,
+        "scrollX": 1402.5,
+        "scrollY": 948
+    },
+    {
+        "id": 370,
+        "expanded": false,
+        "name": "家テンプレート小_オロス",
+        "order": 789,
+        "parentId": 77,
+        "scrollX": 1020,
+        "scrollY": 692.7272727272727
+    },
+    {
+        "id": 371,
+        "expanded": true,
+        "name": "店舗テンプレート武器屋_バリエ",
+        "order": 802,
+        "parentId": 80,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 372,
+        "expanded": true,
+        "name": "店舗テンプレート武器屋_カノナス",
+        "order": 807,
+        "parentId": 80,
+        "scrollX": 824.5714285714286,
+        "scrollY": 776.5714285714286
+    },
+    {
+        "id": 373,
+        "expanded": true,
+        "name": "店舗テンプレート武器屋_フォティゾナ",
+        "order": 803,
+        "parentId": 80,
+        "scrollX": 824.5714285714286,
+        "scrollY": 776.5714285714286
+    },
+    {
+        "id": 374,
+        "expanded": true,
+        "name": "店舗テンプレート武器屋_オロス",
+        "order": 805,
+        "parentId": 80,
+        "scrollX": 824.5714285714286,
+        "scrollY": 776.5714285714286
+    },
+    {
+        "id": 375,
+        "expanded": true,
+        "name": "店舗テンプレート武器屋_カンプス",
+        "order": 804,
+        "parentId": 80,
+        "scrollX": 801.4285714285713,
+        "scrollY": 543.4285714285714
+    },
+    {
+        "id": 376,
+        "expanded": true,
+        "name": "店舗テンプレート武器屋_ヴァルト",
+        "order": 806,
+        "parentId": 80,
+        "scrollX": 1092,
+        "scrollY": 604
+    },
+    {
+        "id": 377,
+        "expanded": true,
+        "name": "道具屋",
+        "order": 273,
+        "parentId": 63,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 378,
+        "expanded": false,
+        "name": "酒場・宿屋",
+        "order": 6,
+        "parentId": 43,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 379,
+        "expanded": false,
+        "name": "酒場・宿屋2F",
+        "order": 7,
+        "parentId": 378,
+        "scrollX": 1232,
+        "scrollY": 624
+    },
+    {
+        "id": 380,
+        "expanded": false,
+        "name": "店舗テンプレート_バリエ",
+        "order": 809,
+        "parentId": 82,
+        "scrollX": 935,
+        "scrollY": 631
+    },
+    {
+        "id": 381,
+        "expanded": false,
+        "name": "店舗テンプレート_カノナス",
+        "order": 810,
+        "parentId": 82,
+        "scrollX": 801.4285714285713,
+        "scrollY": 540.8571428571428
+    },
+    {
+        "id": 382,
+        "expanded": false,
+        "name": "店舗テンプレート_フォティゾナ",
+        "order": 811,
+        "parentId": 82,
+        "scrollX": 459.5,
+        "scrollY": 460.5
+    },
+    {
+        "id": 383,
+        "expanded": false,
+        "name": "店舗テンプレート_カンプス",
+        "order": 812,
+        "parentId": 82,
+        "scrollX": 801.4285714285713,
+        "scrollY": 540.8571428571428
+    },
+    {
+        "id": 384,
+        "expanded": false,
+        "name": "店舗テンプレート_オロス",
+        "order": 813,
+        "parentId": 82,
+        "scrollX": 459.5,
+        "scrollY": 460.5
+    },
+    {
+        "id": 385,
+        "expanded": false,
+        "name": "店舗テンプレート_ヴァルト",
+        "order": 814,
+        "parentId": 82,
+        "scrollX": 935,
+        "scrollY": 631
+    },
+    {
+        "id": 386,
+        "expanded": true,
+        "name": "家テンプレート小_ミュコス",
+        "order": 790,
+        "parentId": 77,
+        "scrollX": 839,
+        "scrollY": 542
+    },
+    {
+        "id": 387,
+        "expanded": false,
+        "name": "幸せのレシピ用酒場2F",
+        "order": 229,
+        "parentId": 150,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 388,
+        "expanded": false,
+        "name": "薬の街メディシナ",
+        "order": 198,
+        "parentId": 442,
+        "scrollX": 1267.6363636363637,
+        "scrollY": 979.6363636363636
+    },
+    {
+        "id": 389,
+        "expanded": true,
+        "name": "キルクルス遺跡に繋がる洞窟",
+        "order": 649,
+        "parentId": 470,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 390,
+        "expanded": false,
+        "name": "鎮魂の森_最奥",
+        "order": 439,
+        "parentId": 619,
+        "scrollX": 755,
+        "scrollY": 896
+    },
+    {
+        "id": 391,
+        "expanded": false,
+        "name": "エマ盗賊団_ダンジョン2",
+        "order": 570,
+        "parentId": 397,
+        "scrollX": 1131,
+        "scrollY": 633
+    },
+    {
+        "id": 392,
+        "expanded": true,
+        "name": "イリニ村_酒場",
+        "order": 257,
+        "parentId": 46,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 393,
+        "expanded": false,
+        "name": "エマ盗賊団_ボスエリア",
+        "order": 571,
+        "parentId": 391,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 394,
+        "expanded": false,
+        "name": "貴族プルスの屋敷内",
+        "order": 200,
+        "parentId": 388,
+        "scrollX": 973.1999999999999,
+        "scrollY": 650.4
+    },
+    {
+        "id": 395,
+        "expanded": false,
+        "name": "エマ盗賊団アジト_入口",
+        "order": 567,
+        "parentId": 33,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 396,
+        "expanded": false,
+        "name": "エマ盗賊団_内観",
+        "order": 568,
+        "parentId": 395,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1038.6666666666667
+    },
+    {
+        "id": 397,
+        "expanded": false,
+        "name": "エマ盗賊団_ダンジョン1",
+        "order": 569,
+        "parentId": 396,
+        "scrollX": 1605,
+        "scrollY": 1697
+    },
+    {
+        "id": 398,
+        "expanded": false,
+        "name": "善なるスキオの家",
+        "order": 334,
+        "parentId": 11,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 399,
+        "expanded": false,
+        "name": "薬師ピトンの家",
+        "order": 199,
+        "parentId": 388,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 400,
+        "expanded": false,
+        "name": "（朝焼け）貴族カサロの飛空挺の上",
+        "order": 437,
+        "parentId": 225,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 401,
+        "expanded": true,
+        "name": "(体験版用)開発者ルーム",
+        "order": 887,
+        "parentId": 84,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 798.6666666666666
+    },
+    {
+        "id": 402,
+        "expanded": true,
+        "name": "サザニ草原小屋1",
+        "order": 766,
+        "parentId": 21,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 403,
+        "expanded": false,
+        "name": "骸骨の船で利用_フォティゾナ海上",
+        "order": 519,
+        "parentId": 355,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 404,
+        "expanded": true,
+        "name": "(海のイベントをやるため)フォティゾナ海上その2",
+        "order": 520,
+        "parentId": 355,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 405,
+        "expanded": false,
+        "name": "オーガの討伐用クレアの家",
+        "order": 20,
+        "parentId": 18,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 406,
+        "expanded": false,
+        "name": "貴族ピドの屋敷1F",
+        "order": 242,
+        "parentId": 24,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 985.3333333333334
+    },
+    {
+        "id": 407,
+        "expanded": false,
+        "name": "エマ盗賊団_団長の部屋",
+        "order": 572,
+        "parentId": 396,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 408,
+        "expanded": false,
+        "name": "エマ盗賊団_イベントエリア",
+        "order": 573,
+        "parentId": 395,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 409,
+        "expanded": false,
+        "name": "ラキオ遺跡",
+        "order": 521,
+        "parentId": 23,
+        "scrollX": 1130,
+        "scrollY": 1050.5
+    },
+    {
+        "id": 410,
+        "expanded": true,
+        "name": "ラキオ遺跡2F",
+        "order": 522,
+        "parentId": 409,
+        "scrollX": 1167.2727272727273,
+        "scrollY": 1420.3636363636365
+    },
+    {
+        "id": 411,
+        "expanded": false,
+        "name": "ラキオ遺跡3F",
+        "order": 523,
+        "parentId": 410,
+        "scrollX": 1269.8181818181818,
+        "scrollY": 1361.4545454545455
+    },
+    {
+        "id": 412,
+        "expanded": false,
+        "name": "収集家レンタの家",
+        "order": 68,
+        "parentId": 47,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 413,
+        "expanded": false,
+        "name": "沈んだ街_過去",
+        "order": 187,
+        "parentId": 260,
+        "scrollX": 1104,
+        "scrollY": 1042
+    },
+    {
+        "id": 414,
+        "expanded": false,
+        "name": "貴族ピドの屋敷2F",
+        "order": 243,
+        "parentId": 406,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 852
+    },
+    {
+        "id": 415,
+        "expanded": false,
+        "name": "衛兵ドロンの家",
+        "order": 335,
+        "parentId": 11,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 416,
+        "expanded": false,
+        "name": "リピ村_宗教施設",
+        "order": 260,
+        "parentId": 249,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 417,
+        "expanded": false,
+        "name": "宗教施設_ダンジョンB1F",
+        "order": 261,
+        "parentId": 416,
+        "scrollX": 1269,
+        "scrollY": 1335
+    },
+    {
+        "id": 418,
+        "expanded": false,
+        "name": "サザニ高原の小屋",
+        "order": 767,
+        "parentId": 21,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 419,
+        "expanded": false,
+        "name": "宗教施設_ダンジョンボスエリア",
+        "order": 262,
+        "parentId": 417,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 420,
+        "expanded": false,
+        "name": "勇者が生み出した空間",
+        "order": 223,
+        "parentId": 442,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 421,
+        "expanded": true,
+        "name": "偉大なる未亡人の湧泉",
+        "order": 90,
+        "parentId": 440,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 422,
+        "expanded": false,
+        "name": "王子派の本拠地",
+        "order": 381,
+        "parentId": 286,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 423,
+        "expanded": false,
+        "name": "モニモス高原駐屯地B-1",
+        "order": 154,
+        "parentId": 425,
+        "scrollX": 1506.6666666666667,
+        "scrollY": 848.6666666666666
+    },
+    {
+        "id": 424,
+        "expanded": false,
+        "name": "モニモス高原駐屯地B-2",
+        "order": 155,
+        "parentId": 423,
+        "scrollX": 1258.6666666666667,
+        "scrollY": 604
+    },
+    {
+        "id": 425,
+        "expanded": false,
+        "name": "モニモス高原駐屯地A",
+        "order": 153,
+        "parentId": 441,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 426,
+        "expanded": false,
+        "name": "酒場2F",
+        "order": 370,
+        "parentId": 305,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 427,
+        "expanded": true,
+        "name": "王子派の本拠地2F",
+        "order": 382,
+        "parentId": 422,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 798.6666666666666
+    },
+    {
+        "id": 428,
+        "expanded": false,
+        "name": "モニモス高原駐屯地綺麗な丘",
+        "order": 157,
+        "parentId": 425,
+        "scrollX": 1517.3333333333333,
+        "scrollY": 848.6666666666666
+    },
+    {
+        "id": 429,
+        "expanded": false,
+        "name": "モニモス高原駐屯地B-3",
+        "order": 156,
+        "parentId": 423,
+        "scrollX": 1258.2857142857142,
+        "scrollY": 971.1428571428571
+    },
+    {
+        "id": 430,
+        "expanded": false,
+        "name": "主婦ゼリーの家",
+        "order": 121,
+        "parentId": 31,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 431,
+        "expanded": false,
+        "name": "地下食料庫（倉庫番ギミック）",
+        "order": 122,
+        "parentId": 430,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1278.6666666666667
+    },
+    {
+        "id": 432,
+        "expanded": true,
+        "name": "地下食料庫（ボス部屋）",
+        "order": 123,
+        "parentId": 431,
+        "scrollX": 1544,
+        "scrollY": 970.6666666666666
+    },
+    {
+        "id": 433,
+        "expanded": true,
+        "name": "倉庫番用場所移動ダミーマップ",
+        "order": 817,
+        "parentId": 69,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 434,
+        "expanded": true,
+        "name": "アカデミーの地下食料庫（倉庫番ギミック）",
+        "order": 172,
+        "parentId": 116,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1270.6666666666667
+    },
+    {
+        "id": 435,
+        "expanded": false,
+        "name": "倉庫番ゲームのボスの部屋（井戸）",
+        "order": 234,
+        "parentId": 436,
+        "scrollX": 1131,
+        "scrollY": 784
+    },
+    {
+        "id": 436,
+        "expanded": false,
+        "name": "井戸の中（倉庫番ギミック）",
+        "order": 233,
+        "parentId": 24,
+        "scrollX": 1131,
+        "scrollY": 1279
+    },
+    {
+        "id": 437,
+        "expanded": false,
+        "name": "倉庫（倉庫番ギミック）",
+        "order": 274,
+        "parentId": 63,
+        "scrollX": 1131,
+        "scrollY": 971
+    },
+    {
+        "id": 438,
+        "expanded": true,
+        "name": "倉庫ボス部屋",
+        "order": 275,
+        "parentId": 437,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 439,
+        "expanded": false,
+        "name": "街グループ",
+        "order": 3,
+        "parentId": 0,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 440,
+        "expanded": false,
+        "name": "フォティゾナ地方",
+        "order": 4,
+        "parentId": 439,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 441,
+        "expanded": false,
+        "name": "バリエ地方",
+        "order": 112,
+        "parentId": 439,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 442,
+        "expanded": false,
+        "name": "カノナス地方",
+        "order": 166,
+        "parentId": 439,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 443,
+        "expanded": false,
+        "name": "カンプス地方",
+        "order": 225,
+        "parentId": 439,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 444,
+        "expanded": false,
+        "name": "ミュコス地方",
+        "order": 264,
+        "parentId": 439,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 445,
+        "expanded": false,
+        "name": "オロス地方",
+        "order": 321,
+        "parentId": 439,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 446,
+        "expanded": false,
+        "name": "ヴァルト地方",
+        "order": 393,
+        "parentId": 439,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 447,
+        "expanded": false,
+        "name": "形見のコイン斬撃ミニゲーム",
+        "order": 124,
+        "parentId": 31,
+        "scrollX": 1508,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 448,
+        "expanded": false,
+        "name": "草原の小さな殺し屋斬撃ミニゲーム",
+        "order": 235,
+        "parentId": 24,
+        "scrollX": 1508,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 449,
+        "expanded": false,
+        "name": "メイドの落とし物斬撃ミニゲーム",
+        "order": 181,
+        "parentId": 9,
+        "scrollX": 1508,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 450,
+        "expanded": false,
+        "name": "隠者の家",
+        "order": 424,
+        "parentId": 203,
+        "scrollX": 1404,
+        "scrollY": 783.4285714285713
+    },
+    {
+        "id": 451,
+        "expanded": false,
+        "name": "貨物線の大掃除斬撃ミニゲーム",
+        "order": 276,
+        "parentId": 63,
+        "scrollX": 1508,
+        "scrollY": 1094.6666666666667
+    },
+    {
+        "id": 452,
+        "expanded": false,
+        "name": "錬金術士ミティの家",
+        "order": 342,
+        "parentId": 102,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 453,
+        "expanded": true,
+        "name": "森の暴れん坊アダルトシーンマップ",
+        "order": 402,
+        "parentId": 14,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 454,
+        "expanded": false,
+        "name": "ビーチ・レプトン酒場・宿屋1F",
+        "order": 79,
+        "parentId": 247,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 455,
+        "expanded": false,
+        "name": "ビーチ・レプトン酒場・宿屋2F",
+        "order": 80,
+        "parentId": 454,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 456,
+        "expanded": false,
+        "name": "クリスタル倉庫倉庫番",
+        "order": 327,
+        "parentId": 17,
+        "scrollX": 1357.2,
+        "scrollY": 1418.3999999999999
+    },
+    {
+        "id": 457,
+        "expanded": false,
+        "name": "バルク団駐屯地 酒場・宿屋1F",
+        "order": 431,
+        "parentId": 203,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 458,
+        "expanded": false,
+        "name": "バルク団駐屯地 酒場・宿屋2F",
+        "order": 432,
+        "parentId": 457,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 459,
+        "expanded": false,
+        "name": "骸骨の船",
+        "order": 525,
+        "parentId": 23,
+        "scrollX": 1770,
+        "scrollY": 2371
+    },
+    {
+        "id": 460,
+        "expanded": true,
+        "name": "骸骨の船1",
+        "order": 526,
+        "parentId": 459,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1507.6363636363637
+    },
+    {
+        "id": 461,
+        "expanded": false,
+        "name": "骸骨の船2",
+        "order": 527,
+        "parentId": 460,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1411.6363636363637
+    },
+    {
+        "id": 462,
+        "expanded": false,
+        "name": "骸骨の船ボス部屋手前",
+        "order": 528,
+        "parentId": 461,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 463,
+        "expanded": false,
+        "name": "骸骨の船ボス",
+        "order": 529,
+        "parentId": 462,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 464,
+        "expanded": false,
+        "name": "ピラタ海賊団船長メレーナの家",
+        "order": 53,
+        "parentId": 239,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 465,
+        "expanded": false,
+        "name": "憂鬱な錬金術士斬撃ミニゲーム",
+        "order": 423,
+        "parentId": 203,
+        "scrollX": 1357.2,
+        "scrollY": 1078.8
+    },
+    {
+        "id": 466,
+        "expanded": false,
+        "name": "森の暴れん坊倉庫番マップ",
+        "order": 403,
+        "parentId": 14,
+        "scrollX": 1357.2,
+        "scrollY": 1005.5999999999999
+    },
+    {
+        "id": 467,
+        "expanded": false,
+        "name": "（ヴァルト）倉庫番ゲームのボスの部屋",
+        "order": 404,
+        "parentId": 466,
+        "scrollX": 1357.2,
+        "scrollY": 1150.8
+    },
+    {
+        "id": 468,
+        "expanded": true,
+        "name": "愚者の魔道書斬撃ミニゲーム",
+        "order": 723,
+        "parentId": 353,
+        "scrollX": 1508,
+        "scrollY": 1065.3333333333333
+    },
+    {
+        "id": 469,
+        "expanded": false,
+        "name": "モニモス山_イベント④クリスタルの座",
+        "order": 647,
+        "parentId": 258,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 470,
+        "expanded": true,
+        "name": "モニモス山_イベント④",
+        "order": 648,
+        "parentId": 258,
+        "scrollX": 1269.8181818181818,
+        "scrollY": 1420.3636363636365
+    },
+    {
+        "id": 471,
+        "expanded": false,
+        "name": "フォティゾナ王宮屋上_夜",
+        "order": 111,
+        "parentId": 238,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 746.6666666666666
+    },
+    {
+        "id": 472,
+        "expanded": false,
+        "name": "モニモス高原駐屯地巨大テント内",
+        "order": 158,
+        "parentId": 425,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 473,
+        "expanded": false,
+        "name": "フォティゾナ王宮3F_H",
+        "order": 106,
+        "parentId": 192,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 474,
+        "expanded": false,
+        "name": "フォティゾナ王宮4F_I",
+        "order": 107,
+        "parentId": 192,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 475,
+        "expanded": true,
+        "name": "フォティゾナ王宮5F_J",
+        "order": 108,
+        "parentId": 192,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 476,
+        "expanded": false,
+        "name": "飯田作成イベント用_モニモス山_イベント②",
+        "order": 645,
+        "parentId": 297,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 477,
+        "expanded": true,
+        "name": "敗残兵たちのスラムテント内",
+        "order": 288,
+        "parentId": 304,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 478,
+        "expanded": false,
+        "name": "売春島酒場1F",
+        "order": 297,
+        "parentId": 339,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 479,
+        "expanded": false,
+        "name": "売春島酒場2F",
+        "order": 298,
+        "parentId": 478,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 480,
+        "expanded": false,
+        "name": "売春島高級宿1F",
+        "order": 299,
+        "parentId": 479,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 481,
+        "expanded": false,
+        "name": "売春島高級宿2F",
+        "order": 300,
+        "parentId": 480,
+        "scrollX": 0,
+        "scrollY": 0
+    },
+    {
+        "id": 482,
+        "expanded": false,
+        "name": "売春島安宿⑥",
+        "order": 301,
+        "parentId": 339,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 483,
+        "expanded": false,
+        "name": "売春島高級宿1F",
+        "order": 302,
+        "parentId": 339,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 484,
+        "expanded": false,
+        "name": "売春島高級宿2F廊下",
+        "order": 303,
+        "parentId": 483,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 485,
+        "expanded": false,
+        "name": "魔法陣移動先_城",
+        "order": 820,
+        "parentId": 69,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 486,
+        "expanded": false,
+        "name": "魔法陣移動先＿森",
+        "order": 821,
+        "parentId": 485,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 487,
+        "expanded": false,
+        "name": "魔法陣移動先_魔法",
+        "order": 822,
+        "parentId": 486,
+        "scrollX": 1006.8,
+        "scrollY": 650.4
+    },
+    {
+        "id": 488,
+        "expanded": false,
+        "name": "売春島　高級宿2F旗の間",
+        "order": 304,
+        "parentId": 484,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 489,
+        "expanded": false,
+        "name": "売春島　高級宿2F絵画の間",
+        "order": 305,
+        "parentId": 484,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 490,
+        "expanded": false,
+        "name": "売春島　高級宿2F鏡の間",
+        "order": 306,
+        "parentId": 484,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 491,
+        "expanded": false,
+        "name": "売春島民家A",
+        "order": 307,
+        "parentId": 339,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 492,
+        "expanded": false,
+        "name": "売春島民家B",
+        "order": 308,
+        "parentId": 339,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 493,
+        "expanded": false,
+        "name": "勇者の遺跡",
+        "order": 530,
+        "parentId": 23,
+        "scrollX": 1130.1818181818182,
+        "scrollY": 2620.3636363636365
+    },
+    {
+        "id": 494,
+        "expanded": true,
+        "name": "勇者の遺跡2F",
+        "order": 531,
+        "parentId": 493,
+        "scrollX": 1194,
+        "scrollY": 1767
+    },
+    {
+        "id": 495,
+        "expanded": false,
+        "name": "勇者の遺跡3F",
+        "order": 532,
+        "parentId": 494,
+        "scrollX": 1130.1818181818182,
+        "scrollY": 979.6363636363636
+    },
+    {
+        "id": 496,
+        "expanded": true,
+        "name": "民家",
+        "order": 283,
+        "parentId": 40,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 497,
+        "expanded": false,
+        "name": "ルプス村民家⑥",
+        "order": 415,
+        "parentId": 156,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 498,
+        "expanded": false,
+        "name": "誘惑イベントありテント内",
+        "order": 289,
+        "parentId": 304,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 499,
+        "expanded": false,
+        "name": "(決闘)民家",
+        "order": 284,
+        "parentId": 40,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 500,
+        "expanded": false,
+        "name": "トゥリパ村民家⑧",
+        "order": 148,
+        "parentId": 29,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 501,
+        "expanded": false,
+        "name": "フォティゾナ民家④",
+        "order": 11,
+        "parentId": 43,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 502,
+        "expanded": false,
+        "name": "フォティゾナ民家①",
+        "order": 12,
+        "parentId": 43,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 503,
+        "expanded": false,
+        "name": "フォティゾナ民家⑦",
+        "order": 13,
+        "parentId": 43,
+        "scrollX": 1138,
+        "scrollY": 636.5
+    },
+    {
+        "id": 504,
+        "expanded": true,
+        "name": "フォティゾナ民家⑥",
+        "order": 14,
+        "parentId": 43,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 505,
+        "expanded": false,
+        "name": "フォティゾナ衛兵詰所⑨",
+        "order": 15,
+        "parentId": 43,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 506,
+        "expanded": false,
+        "name": "考古学者パリョの研究室",
+        "order": 40,
+        "parentId": 3,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 750.6666666666666
+    },
+    {
+        "id": 507,
+        "expanded": false,
+        "name": "フォティゾナ民家⑧",
+        "order": 16,
+        "parentId": 43,
+        "scrollX": 1138,
+        "scrollY": 636.5
+    },
+    {
+        "id": 508,
+        "expanded": false,
+        "name": "フォティゾナ住宅街民家②",
+        "order": 38,
+        "parentId": 3,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 509,
+        "expanded": false,
+        "name": "フォティゾナ住宅街民家④",
+        "order": 39,
+        "parentId": 3,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 510,
+        "expanded": true,
+        "name": "掟の都市カノナス 防具屋",
+        "order": 182,
+        "parentId": 9,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 511,
+        "expanded": true,
+        "name": "カノナス民家⑤",
+        "order": 183,
+        "parentId": 9,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 512,
+        "expanded": false,
+        "name": "カノナス民家①",
+        "order": 184,
+        "parentId": 9,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 513,
+        "expanded": false,
+        "name": "怪しいお店",
+        "order": 185,
+        "parentId": 9,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 514,
+        "expanded": false,
+        "name": "バリエ民家⑥",
+        "order": 125,
+        "parentId": 31,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 515,
+        "expanded": false,
+        "name": "草原の都市カンプス 道具屋",
+        "order": 236,
+        "parentId": 24,
+        "scrollX": 1544,
+        "scrollY": 970.6666666666666
+    },
+    {
+        "id": 516,
+        "expanded": true,
+        "name": "草原の都市カンプス 防具屋",
+        "order": 237,
+        "parentId": 24,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 517,
+        "expanded": false,
+        "name": "カンプス民家③食堂",
+        "order": 238,
+        "parentId": 24,
+        "scrollX": 1404,
+        "scrollY": 769.7142857142857
+    },
+    {
+        "id": 518,
+        "expanded": false,
+        "name": "カンプス民家④怪盗ペルノの家",
+        "order": 239,
+        "parentId": 24,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 519,
+        "expanded": true,
+        "name": "カンプス民家⑤",
+        "order": 240,
+        "parentId": 24,
+        "scrollX": 1404,
+        "scrollY": 824.5714285714286
+    },
+    {
+        "id": 520,
+        "expanded": false,
+        "name": "カンプス 怪しいお店3",
+        "order": 241,
+        "parentId": 24,
+        "scrollX": 1053.8181818181818,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 521,
+        "expanded": false,
+        "name": "建物⑥（食堂）",
+        "order": 425,
+        "parentId": 203,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 522,
+        "expanded": true,
+        "name": "ミュコス街道建物",
+        "order": 724,
+        "parentId": 348,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 523,
+        "expanded": true,
+        "name": "ミュコス街道建物2F",
+        "order": 725,
+        "parentId": 522,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 524,
+        "expanded": false,
+        "name": "敗残兵たちのスラムテント⑤",
+        "order": 290,
+        "parentId": 304,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 525,
+        "expanded": true,
+        "name": "敗残兵たちのスラム民家④",
+        "order": 291,
+        "parentId": 304,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 526,
+        "expanded": true,
+        "name": "敗残兵たちのスラム泥棒市①",
+        "order": 292,
+        "parentId": 304,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 527,
+        "expanded": true,
+        "name": "敗残兵たちのスラム民家②",
+        "order": 293,
+        "parentId": 304,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 528,
+        "expanded": true,
+        "name": "大岩の城民家③",
+        "order": 285,
+        "parentId": 40,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 529,
+        "expanded": false,
+        "name": "大岩の城民家④",
+        "order": 286,
+        "parentId": 40,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 530,
+        "expanded": false,
+        "name": "貴族エチゾの別荘①",
+        "order": 405,
+        "parentId": 14,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 531,
+        "expanded": true,
+        "name": "貴族エチゾの別荘",
+        "order": 406,
+        "parentId": 530,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 532,
+        "expanded": false,
+        "name": "ヴァルト民家②",
+        "order": 407,
+        "parentId": 14,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 533,
+        "expanded": false,
+        "name": "ヴァルト民家④",
+        "order": 408,
+        "parentId": 14,
+        "scrollX": 843.2727272727273,
+        "scrollY": 975.2727272727274
+    },
+    {
+        "id": 534,
+        "expanded": false,
+        "name": "ヴァルト道具屋",
+        "order": 409,
+        "parentId": 14,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 535,
+        "expanded": true,
+        "name": "ヴァルト防具屋",
+        "order": 410,
+        "parentId": 14,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 536,
+        "expanded": false,
+        "name": "トゥリパ村民家①",
+        "order": 143,
+        "parentId": 29,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 537,
+        "expanded": false,
+        "name": "トゥリパ村民家②情報屋",
+        "order": 144,
+        "parentId": 29,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 538,
+        "expanded": false,
+        "name": "トゥリパ村民家③",
+        "order": 145,
+        "parentId": 29,
+        "scrollX": 1206,
+        "scrollY": 824.5714285714286
+    },
+    {
+        "id": 539,
+        "expanded": false,
+        "name": "トゥリパ村民家④",
+        "order": 146,
+        "parentId": 29,
+        "scrollX": 1206,
+        "scrollY": 824.5714285714286
+    },
+    {
+        "id": 540,
+        "expanded": false,
+        "name": "トゥリパ村民家⑥",
+        "order": 147,
+        "parentId": 29,
+        "scrollX": 750.75,
+        "scrollY": 498
+    },
+    {
+        "id": 541,
+        "expanded": false,
+        "name": "フォティゾナ港湾 酒場",
+        "order": 54,
+        "parentId": 239,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 542,
+        "expanded": false,
+        "name": "フォティゾナ港湾 酒場",
+        "order": 55,
+        "parentId": 541,
+        "scrollX": 1708.5,
+        "scrollY": 961.5
+    },
+    {
+        "id": 543,
+        "expanded": false,
+        "name": "フォティゾナ港湾 民家①",
+        "order": 56,
+        "parentId": 239,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 544,
+        "expanded": false,
+        "name": "フォティゾナ港湾 民家②",
+        "order": 57,
+        "parentId": 239,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 545,
+        "expanded": false,
+        "name": "フォティゾナ港湾 民家⑤",
+        "order": 58,
+        "parentId": 239,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 546,
+        "expanded": false,
+        "name": "武闘の街ジナミ民家①",
+        "order": 69,
+        "parentId": 47,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 547,
+        "expanded": false,
+        "name": "武闘の街ジナミ民家③",
+        "order": 70,
+        "parentId": 47,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 548,
+        "expanded": false,
+        "name": "武闘の街ジナミ民家⑦傭兵団の借家",
+        "order": 71,
+        "parentId": 47,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 549,
+        "expanded": false,
+        "name": "ビーチ・レプトン民家①",
+        "order": 81,
+        "parentId": 247,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 550,
+        "expanded": false,
+        "name": "ビーチ・レプトン民家⑤",
+        "order": 82,
+        "parentId": 247,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 551,
+        "expanded": false,
+        "name": "砂漠の街アンモス民家②",
+        "order": 216,
+        "parentId": 285,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 552,
+        "expanded": false,
+        "name": "砂漠の街アンモス商団の倉庫③",
+        "order": 217,
+        "parentId": 285,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 553,
+        "expanded": true,
+        "name": "砂漠の街アンモス酒場",
+        "order": 221,
+        "parentId": 285,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 554,
+        "expanded": true,
+        "name": "料理会場⑤1F",
+        "order": 218,
+        "parentId": 285,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 555,
+        "expanded": true,
+        "name": "砂漠の街アンモス民家⑤2F",
+        "order": 219,
+        "parentId": 554,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 556,
+        "expanded": false,
+        "name": "砂漠の街アンモス酒場2F",
+        "order": 222,
+        "parentId": 553,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 557,
+        "expanded": false,
+        "name": "薬の街メディシナ民家①",
+        "order": 201,
+        "parentId": 388,
+        "scrollX": 973.1999999999999,
+        "scrollY": 646.8
+    },
+    {
+        "id": 558,
+        "expanded": false,
+        "name": "薬の街メディシナ民家②",
+        "order": 202,
+        "parentId": 388,
+        "scrollX": 973.1999999999999,
+        "scrollY": 624
+    },
+    {
+        "id": 559,
+        "expanded": false,
+        "name": "薬の街メディシナ民家③",
+        "order": 203,
+        "parentId": 388,
+        "scrollX": 848,
+        "scrollY": 624
+    },
+    {
+        "id": 560,
+        "expanded": false,
+        "name": "薬の街メディシナ民家④",
+        "order": 204,
+        "parentId": 388,
+        "scrollX": 848,
+        "scrollY": 624
+    },
+    {
+        "id": 561,
+        "expanded": false,
+        "name": "薬の街メディシナ民家⑤",
+        "order": 205,
+        "parentId": 388,
+        "scrollX": 1638,
+        "scrollY": 914
+    },
+    {
+        "id": 562,
+        "expanded": false,
+        "name": "イリニ村民家③",
+        "order": 251,
+        "parentId": 46,
+        "scrollX": 801.4285714285713,
+        "scrollY": 540.8571428571428
+    },
+    {
+        "id": 563,
+        "expanded": false,
+        "name": "作家ハマヤの家",
+        "order": 252,
+        "parentId": 46,
+        "scrollX": 801.4285714285713,
+        "scrollY": 540.8571428571428
+    },
+    {
+        "id": 564,
+        "expanded": false,
+        "name": "イリニ村民家⑥",
+        "order": 253,
+        "parentId": 46,
+        "scrollX": 843.2727272727273,
+        "scrollY": 975.2727272727274
+    },
+    {
+        "id": 565,
+        "expanded": false,
+        "name": "イリニ村民家⑦",
+        "order": 254,
+        "parentId": 46,
+        "scrollX": 847.7142857142857,
+        "scrollY": 624.8571428571428
+    },
+    {
+        "id": 566,
+        "expanded": false,
+        "name": "イリニ村民家⑧",
+        "order": 255,
+        "parentId": 46,
+        "scrollX": 1544,
+        "scrollY": 970.6666666666666
+    },
+    {
+        "id": 567,
+        "expanded": true,
+        "name": "マラコ村民家①",
+        "order": 131,
+        "parentId": 189,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 568,
+        "expanded": true,
+        "name": "マラコ村民家②",
+        "order": 132,
+        "parentId": 189,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 569,
+        "expanded": true,
+        "name": "マラコ村 怪しいお店",
+        "order": 133,
+        "parentId": 189,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 570,
+        "expanded": true,
+        "name": "マラコ村民家④",
+        "order": 134,
+        "parentId": 189,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 571,
+        "expanded": false,
+        "name": "マラコ村民家⑦",
+        "order": 135,
+        "parentId": 189,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 572,
+        "expanded": false,
+        "name": "スフィリ鉱山テント②",
+        "order": 151,
+        "parentId": 363,
+        "scrollX": 927,
+        "scrollY": 1371
+    },
+    {
+        "id": 573,
+        "expanded": false,
+        "name": "スフィリ鉱山テント③",
+        "order": 152,
+        "parentId": 363,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 574,
+        "expanded": false,
+        "name": "山の都市オロス民家①",
+        "order": 336,
+        "parentId": 11,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 575,
+        "expanded": false,
+        "name": "パラ村民家①",
+        "order": 343,
+        "parentId": 102,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 576,
+        "expanded": false,
+        "name": "パラ村 怪しいお店",
+        "order": 344,
+        "parentId": 102,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 577,
+        "expanded": false,
+        "name": "パラ村民家②",
+        "order": 345,
+        "parentId": 102,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 578,
+        "expanded": false,
+        "name": "パラ村民家⑥",
+        "order": 346,
+        "parentId": 102,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 579,
+        "expanded": false,
+        "name": "ポース鉱山民家①",
+        "order": 348,
+        "parentId": 141,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 580,
+        "expanded": true,
+        "name": "ポース鉱山民家④",
+        "order": 350,
+        "parentId": 141,
+        "scrollX": 412,
+        "scrollY": 593.3333333333334
+    },
+    {
+        "id": 581,
+        "expanded": false,
+        "name": "ポース鉱山民家③",
+        "order": 349,
+        "parentId": 141,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 582,
+        "expanded": false,
+        "name": "ポース鉱山民家⑤",
+        "order": 351,
+        "parentId": 141,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 583,
+        "expanded": true,
+        "name": "イレモ村民家②",
+        "order": 357,
+        "parentId": 175,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 584,
+        "expanded": true,
+        "name": "イレモ村 怪しいお店4",
+        "order": 358,
+        "parentId": 175,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 585,
+        "expanded": false,
+        "name": "ルプス村 怪しいお店3の2",
+        "order": 416,
+        "parentId": 156,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 586,
+        "expanded": true,
+        "name": "港の都市ミュコス民家④",
+        "order": 277,
+        "parentId": 63,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 587,
+        "expanded": true,
+        "name": "ルプス村民家④",
+        "order": 417,
+        "parentId": 156,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 588,
+        "expanded": true,
+        "name": "ルプス村民家⑤",
+        "order": 418,
+        "parentId": 156,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 589,
+        "expanded": false,
+        "name": "バルク団駐屯地民家②",
+        "order": 426,
+        "parentId": 203,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 590,
+        "expanded": false,
+        "name": "バルク団駐屯地民家④",
+        "order": 427,
+        "parentId": 203,
+        "scrollX": 2184,
+        "scrollY": 1208
+    },
+    {
+        "id": 591,
+        "expanded": false,
+        "name": "バルク団駐屯地民家⑤",
+        "order": 428,
+        "parentId": 203,
+        "scrollX": 1053.8181818181818,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 592,
+        "expanded": false,
+        "name": "バルク団駐屯地民家⑧",
+        "order": 429,
+        "parentId": 203,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 593,
+        "expanded": false,
+        "name": "バルク団駐屯地民家⑨",
+        "order": 430,
+        "parentId": 203,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 594,
+        "expanded": false,
+        "name": "港の都市ミュコス倉庫⑤",
+        "order": 279,
+        "parentId": 63,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 595,
+        "expanded": false,
+        "name": "港の都市ミュコス 怪しいお店",
+        "order": 278,
+        "parentId": 63,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 596,
+        "expanded": false,
+        "name": "ポーズ鉱山食堂",
+        "order": 352,
+        "parentId": 141,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 810.6666666666666
+    },
+    {
+        "id": 597,
+        "expanded": true,
+        "name": "武闘の街ジナミ高級ホテル1F",
+        "order": 72,
+        "parentId": 47,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 598,
+        "expanded": false,
+        "name": "武闘の街ジナミ高級ホテル2F",
+        "order": 73,
+        "parentId": 597,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 599,
+        "expanded": false,
+        "name": "武闘の街ジナミ飲食店",
+        "order": 74,
+        "parentId": 47,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 706.6666666666666
+    },
+    {
+        "id": 600,
+        "expanded": false,
+        "name": "売春島仕立屋",
+        "order": 309,
+        "parentId": 339,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 601,
+        "expanded": false,
+        "name": "朽ちた城 戦士の間",
+        "order": 558,
+        "parentId": 235,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 602,
+        "expanded": false,
+        "name": "スクリロ山 魔法空間",
+        "order": 757,
+        "parentId": 182,
+        "scrollX": 1006.8,
+        "scrollY": 650.4
+    },
+    {
+        "id": 603,
+        "expanded": false,
+        "name": "黄金の街ドロモス民家②",
+        "order": 371,
+        "parentId": 286,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 604,
+        "expanded": false,
+        "name": "黄金の街ドロモス民家③",
+        "order": 372,
+        "parentId": 286,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 605,
+        "expanded": false,
+        "name": "黄金の街ドロモス民家①1F",
+        "order": 373,
+        "parentId": 286,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 606,
+        "expanded": true,
+        "name": "黄金の街ドロモス 民家①2F",
+        "order": 374,
+        "parentId": 605,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 607,
+        "expanded": false,
+        "name": "黄金の街ドロモス民家④",
+        "order": 375,
+        "parentId": 286,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 608,
+        "expanded": true,
+        "name": "黄金の街ドロモス民家⑥",
+        "order": 376,
+        "parentId": 286,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 609,
+        "expanded": false,
+        "name": "黄金の街ドロモス貴族の家⑦1F",
+        "order": 377,
+        "parentId": 286,
+        "scrollX": 860.7272727272727,
+        "scrollY": 985.0909090909091
+    },
+    {
+        "id": 610,
+        "expanded": false,
+        "name": "黄金の街ドロモス貴族の家⑧1F",
+        "order": 379,
+        "parentId": 286,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 611,
+        "expanded": true,
+        "name": "黄金の街ドロモス貴族の家⑦2F",
+        "order": 378,
+        "parentId": 609,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 612,
+        "expanded": true,
+        "name": "黄金の街ドロモス貴族の家⑧2F",
+        "order": 380,
+        "parentId": 610,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 613,
+        "expanded": false,
+        "name": "売春島安宿⑤",
+        "order": 310,
+        "parentId": 339,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 614,
+        "expanded": true,
+        "name": "バルク団の狩場魔法陣移動先＿森",
+        "order": 684,
+        "parentId": 201,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 615,
+        "expanded": false,
+        "name": "クリスタルダンジョン魔法陣移動先_魔法",
+        "order": 713,
+        "parentId": 226,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 616,
+        "expanded": true,
+        "name": "王子派の本拠地B1F",
+        "order": 383,
+        "parentId": 427,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 617,
+        "expanded": false,
+        "name": "薬師の大穴_入口",
+        "order": 769,
+        "parentId": 108,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 618,
+        "expanded": false,
+        "name": "薬師の大穴_ダンジョンエリア",
+        "order": 770,
+        "parentId": 617,
+        "scrollX": 1269,
+        "scrollY": 1127
+    },
+    {
+        "id": 619,
+        "expanded": false,
+        "name": "鎮魂の森_入ってすぐの場所",
+        "order": 438,
+        "parentId": 446,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 620,
+        "expanded": false,
+        "name": "朽ちた城(裏",
+        "order": 559,
+        "parentId": 233,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 621,
+        "expanded": false,
+        "name": "エマ盗賊団の行方1-8で利用するマップ",
+        "order": 566,
+        "parentId": 269,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 622,
+        "expanded": false,
+        "name": "不滅の真円1-9用マップ",
+        "order": 654,
+        "parentId": 267,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 623,
+        "expanded": false,
+        "name": "薬師の大穴_イベントエリアA",
+        "order": 771,
+        "parentId": 618,
+        "scrollX": 1638,
+        "scrollY": 914
+    },
+    {
+        "id": 624,
+        "expanded": false,
+        "name": "薬師の大穴_イベントエリアB",
+        "order": 772,
+        "parentId": 618,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 625,
+        "expanded": false,
+        "name": "薬師の大穴_イベントエリアC",
+        "order": 773,
+        "parentId": 618,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 626,
+        "expanded": false,
+        "name": "薬師の大穴_最奥",
+        "order": 774,
+        "parentId": 618,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 627,
+        "expanded": false,
+        "name": "トラゴスの屋敷の牢獄",
+        "order": 387,
+        "parentId": 679,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 628,
+        "expanded": false,
+        "name": "MAP628",
+        "order": 831,
+        "parentId": 163,
+        "scrollX": 1786.909090909091,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 629,
+        "expanded": false,
+        "name": "暗部の魔法研究所",
+        "order": 85,
+        "parentId": 665,
+        "scrollX": 670.2857142857142,
+        "scrollY": 769.7142857142857
+    },
+    {
+        "id": 630,
+        "expanded": false,
+        "name": "大転びの湿原_入口",
+        "order": 574,
+        "parentId": 33,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 631,
+        "expanded": false,
+        "name": "大転びの湿原",
+        "order": 575,
+        "parentId": 630,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1311.2727272727273
+    },
+    {
+        "id": 632,
+        "expanded": false,
+        "name": "大転びの湿原_イベントエリアA",
+        "order": 576,
+        "parentId": 631,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 633,
+        "expanded": false,
+        "name": "大転びの湿原_イベントエリアB",
+        "order": 577,
+        "parentId": 631,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 634,
+        "expanded": false,
+        "name": "大転びの湿原_イベントエリアC",
+        "order": 578,
+        "parentId": 631,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 635,
+        "expanded": false,
+        "name": "大転びの湿原_ボスエリア",
+        "order": 579,
+        "parentId": 631,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 636,
+        "expanded": false,
+        "name": "イシェケルの檻_入口",
+        "order": 533,
+        "parentId": 23,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 637,
+        "expanded": false,
+        "name": "イシェケルの檻_1",
+        "order": 534,
+        "parentId": 636,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 638,
+        "expanded": false,
+        "name": "イシェケルの檻_2",
+        "order": 535,
+        "parentId": 636,
+        "scrollX": 816,
+        "scrollY": 642
+    },
+    {
+        "id": 639,
+        "expanded": false,
+        "name": "イシェケルの檻_イベントエリア①",
+        "order": 536,
+        "parentId": 636,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 640,
+        "expanded": false,
+        "name": "イシェケルの檻_イベントエリア②",
+        "order": 537,
+        "parentId": 636,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 641,
+        "expanded": false,
+        "name": "イシェケルの檻_最奥",
+        "order": 538,
+        "parentId": 636,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 642,
+        "expanded": false,
+        "name": "暗部の牢獄",
+        "order": 539,
+        "parentId": 636,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 643,
+        "expanded": false,
+        "name": "暗部の魔法研究所（死体置き場）",
+        "order": 87,
+        "parentId": 665,
+        "scrollX": 670.2857142857142,
+        "scrollY": 769.7142857142857
+    },
+    {
+        "id": 644,
+        "expanded": false,
+        "name": "虹水洞_入口",
+        "order": 726,
+        "parentId": 38,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 645,
+        "expanded": true,
+        "name": "虹水洞",
+        "order": 727,
+        "parentId": 644,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 817.3333333333334
+    },
+    {
+        "id": 646,
+        "expanded": true,
+        "name": "虹水洞_最奥",
+        "order": 728,
+        "parentId": 645,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 647,
+        "expanded": false,
+        "name": "虹水洞_最奥（崩壊）",
+        "order": 729,
+        "parentId": 646,
+        "scrollX": 973.1999999999999,
+        "scrollY": 553.1999999999999
+    },
+    {
+        "id": 648,
+        "expanded": false,
+        "name": "MAP648",
+        "order": 832,
+        "parentId": 163,
+        "scrollX": 1786.909090909091,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 649,
+        "expanded": false,
+        "name": "暗部の本拠地",
+        "order": 86,
+        "parentId": 665,
+        "scrollX": 755,
+        "scrollY": 896
+    },
+    {
+        "id": 650,
+        "expanded": true,
+        "name": "オロス民家①地下室（薄暗い廊下）",
+        "order": 337,
+        "parentId": 574,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 651,
+        "expanded": false,
+        "name": "オロスの民家①地下室",
+        "order": 338,
+        "parentId": 650,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 652,
+        "expanded": false,
+        "name": "裏切りの塔_入口",
+        "order": 620,
+        "parentId": 34,
+        "scrollX": 1053.8181818181818,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 653,
+        "expanded": true,
+        "name": "裏切りの塔_1F",
+        "order": 621,
+        "parentId": 652,
+        "scrollX": 1032,
+        "scrollY": 543.6
+    },
+    {
+        "id": 654,
+        "expanded": true,
+        "name": "裏切りの塔_2F",
+        "order": 622,
+        "parentId": 653,
+        "scrollX": 1131.6,
+        "scrollY": 1473.6
+    },
+    {
+        "id": 655,
+        "expanded": true,
+        "name": "裏切りの塔（未使用）",
+        "order": 623,
+        "parentId": 654,
+        "scrollX": 973.1999999999999,
+        "scrollY": 1366.8
+    },
+    {
+        "id": 656,
+        "expanded": true,
+        "name": "裏切りの塔_3F",
+        "order": 624,
+        "parentId": 655,
+        "scrollX": 1131,
+        "scrollY": 1039
+    },
+    {
+        "id": 657,
+        "expanded": false,
+        "name": "裏切りの塔_最上階",
+        "order": 625,
+        "parentId": 656,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 658,
+        "expanded": false,
+        "name": "カロンの拷問部屋",
+        "order": 88,
+        "parentId": 665,
+        "scrollX": 670.2857142857142,
+        "scrollY": 769.7142857142857
+    },
+    {
+        "id": 659,
+        "expanded": false,
+        "name": "メロスの遺跡_入口",
+        "order": 626,
+        "parentId": 34,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 660,
+        "expanded": false,
+        "name": "メロスの遺跡_1F",
+        "order": 627,
+        "parentId": 659,
+        "scrollX": 1131,
+        "scrollY": 961
+    },
+    {
+        "id": 661,
+        "expanded": false,
+        "name": "メロスの遺跡_B1F",
+        "order": 628,
+        "parentId": 660,
+        "scrollX": 1131,
+        "scrollY": 962
+    },
+    {
+        "id": 662,
+        "expanded": false,
+        "name": "メロスの遺跡_B2F",
+        "order": 629,
+        "parentId": 661,
+        "scrollX": 1131,
+        "scrollY": 921
+    },
+    {
+        "id": 663,
+        "expanded": false,
+        "name": "メロスの遺跡_B3F",
+        "order": 630,
+        "parentId": 662,
+        "scrollX": 1131,
+        "scrollY": 921
+    },
+    {
+        "id": 664,
+        "expanded": false,
+        "name": "メロスの遺跡_ボスエリア",
+        "order": 631,
+        "parentId": 663,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 665,
+        "expanded": false,
+        "name": "暗部本拠地シリーズ",
+        "order": 84,
+        "parentId": 440,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 666,
+        "expanded": false,
+        "name": "冒険者ギルド_地下室",
+        "order": 48,
+        "parentId": 22,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 667,
+        "expanded": false,
+        "name": "漁場",
+        "order": 314,
+        "parentId": 444,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 668,
+        "expanded": false,
+        "name": "見捨てられた墓所_入口",
+        "order": 730,
+        "parentId": 38,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 669,
+        "expanded": true,
+        "name": "見捨てられた墓所1F_A",
+        "order": 731,
+        "parentId": 668,
+        "scrollX": 1131,
+        "scrollY": 1024
+    },
+    {
+        "id": 670,
+        "expanded": true,
+        "name": "見捨てられた墓所1F_B",
+        "order": 732,
+        "parentId": 669,
+        "scrollX": 1131,
+        "scrollY": 1099
+    },
+    {
+        "id": 671,
+        "expanded": true,
+        "name": "見捨てられた墓所2F",
+        "order": 733,
+        "parentId": 670,
+        "scrollX": 1131,
+        "scrollY": 1024
+    },
+    {
+        "id": 672,
+        "expanded": false,
+        "name": " 見捨てられた墓所_2F最奥",
+        "order": 734,
+        "parentId": 671,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 673,
+        "expanded": false,
+        "name": "朽ちた神殿",
+        "order": 294,
+        "parentId": 304,
+        "scrollX": 1131,
+        "scrollY": 1151
+    },
+    {
+        "id": 674,
+        "expanded": false,
+        "name": "海の見える場所①",
+        "order": 318,
+        "parentId": 444,
+        "scrollX": 755,
+        "scrollY": 896
+    },
+    {
+        "id": 675,
+        "expanded": false,
+        "name": "貴族トラゴスの屋敷_1F",
+        "order": 384,
+        "parentId": 286,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 676,
+        "expanded": true,
+        "name": "海の見える場所②",
+        "order": 319,
+        "parentId": 674,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 677,
+        "expanded": false,
+        "name": "貴族トラゴスの屋敷2F",
+        "order": 385,
+        "parentId": 675,
+        "scrollX": 822,
+        "scrollY": 889
+    },
+    {
+        "id": 678,
+        "expanded": false,
+        "name": "古えの港",
+        "order": 590,
+        "parentId": 688,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 679,
+        "expanded": false,
+        "name": "貴族トラゴスの屋敷B1F",
+        "order": 386,
+        "parentId": 677,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 680,
+        "expanded": true,
+        "name": "ナムドの洞窟_入口",
+        "order": 735,
+        "parentId": 38,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 681,
+        "expanded": true,
+        "name": "ナムドの洞窟",
+        "order": 736,
+        "parentId": 680,
+        "scrollX": 1269,
+        "scrollY": 1157
+    },
+    {
+        "id": 682,
+        "expanded": false,
+        "name": "ナムドの洞窟_イベントエリア",
+        "order": 737,
+        "parentId": 681,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 683,
+        "expanded": false,
+        "name": "ナムドの洞窟_最奥",
+        "order": 738,
+        "parentId": 681,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 684,
+        "expanded": false,
+        "name": "トモス略奪団隠れ家_入口",
+        "order": 540,
+        "parentId": 23,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 685,
+        "expanded": false,
+        "name": "トモス略奪団隠れ家_1",
+        "order": 541,
+        "parentId": 684,
+        "scrollX": 860.7272727272727,
+        "scrollY": 987.2727272727274
+    },
+    {
+        "id": 686,
+        "expanded": false,
+        "name": "トモス略奪団隠れ家_2",
+        "order": 542,
+        "parentId": 684,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 687,
+        "expanded": false,
+        "name": "トモス略奪団隠れ家_最奥",
+        "order": 543,
+        "parentId": 684,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 688,
+        "expanded": false,
+        "name": "古えの墳墓_入口",
+        "order": 580,
+        "parentId": 33,
+        "scrollX": 1053.8181818181818,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 689,
+        "expanded": false,
+        "name": "古えの墳墓_A",
+        "order": 581,
+        "parentId": 688,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 690,
+        "expanded": false,
+        "name": "古えの墳墓_B",
+        "order": 582,
+        "parentId": 688,
+        "scrollX": 1036.3636363636365,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 691,
+        "expanded": false,
+        "name": "古えの墳墓_C",
+        "order": 583,
+        "parentId": 688,
+        "scrollX": 1053.8181818181818,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 692,
+        "expanded": false,
+        "name": "古えの墳墓_D",
+        "order": 584,
+        "parentId": 688,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 693,
+        "expanded": false,
+        "name": "古えの墳墓_E",
+        "order": 585,
+        "parentId": 688,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 694,
+        "expanded": false,
+        "name": "古えの墳墓_F",
+        "order": 586,
+        "parentId": 688,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 695,
+        "expanded": false,
+        "name": "古えの墳墓_G",
+        "order": 587,
+        "parentId": 688,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 696,
+        "expanded": false,
+        "name": "古えの墳墓_最奥",
+        "order": 588,
+        "parentId": 688,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 697,
+        "expanded": false,
+        "name": "古えの墳墓_扉の先",
+        "order": 589,
+        "parentId": 688,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 698,
+        "expanded": false,
+        "name": "クレア演出用城壁",
+        "order": 91,
+        "parentId": 440,
+        "scrollX": 1138,
+        "scrollY": 636.5
+    },
+    {
+        "id": 699,
+        "expanded": true,
+        "name": "調薬室",
+        "order": 173,
+        "parentId": 98,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 700,
+        "expanded": false,
+        "name": "カンプスの牢獄",
+        "order": 244,
+        "parentId": 24,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 701,
+        "expanded": true,
+        "name": "封印された入口",
+        "order": 65,
+        "parentId": 241,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 702,
+        "expanded": false,
+        "name": "悪魔の花嫁アンコスの祭壇_入口",
+        "order": 591,
+        "parentId": 33,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 703,
+        "expanded": true,
+        "name": "悪魔の花嫁アンコスの祭壇_祈りの広間",
+        "order": 592,
+        "parentId": 702,
+        "scrollX": 1509,
+        "scrollY": 880
+    },
+    {
+        "id": 704,
+        "expanded": true,
+        "name": "悪魔の花嫁アンコスの祭壇_最奥前",
+        "order": 593,
+        "parentId": 703,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 705,
+        "expanded": false,
+        "name": "悪魔の花嫁アンコスの祭壇_最奥",
+        "order": 594,
+        "parentId": 704,
+        "scrollX": 755,
+        "scrollY": 896
+    },
+    {
+        "id": 706,
+        "expanded": false,
+        "name": "ロパロ盗賊団アジト_入口",
+        "order": 595,
+        "parentId": 33,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 707,
+        "expanded": false,
+        "name": "ロパロ盗賊団アジト①",
+        "order": 596,
+        "parentId": 706,
+        "scrollX": 3573.818181818182,
+        "scrollY": 2011.6363636363637
+    },
+    {
+        "id": 708,
+        "expanded": false,
+        "name": "ロパロ盗賊団アジト②",
+        "order": 597,
+        "parentId": 706,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1796
+    },
+    {
+        "id": 709,
+        "expanded": false,
+        "name": "ロパロ盗賊団アジト③",
+        "order": 598,
+        "parentId": 706,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 710,
+        "expanded": false,
+        "name": "ロパロ盗賊団アジト_最奥",
+        "order": 599,
+        "parentId": 706,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 711,
+        "expanded": false,
+        "name": "イレモ村演出専用",
+        "order": 359,
+        "parentId": 175,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 712,
+        "expanded": false,
+        "name": "アスピダ同盟の廃城_入口",
+        "order": 693,
+        "parentId": 37,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 713,
+        "expanded": false,
+        "name": "アスピダ同盟の廃城",
+        "order": 694,
+        "parentId": 712,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 714,
+        "expanded": false,
+        "name": "アスピダ同盟の廃城1F",
+        "order": 695,
+        "parentId": 712,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 715,
+        "expanded": false,
+        "name": "アスピダ同盟の廃城2F",
+        "order": 696,
+        "parentId": 712,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 716,
+        "expanded": false,
+        "name": "アスピダ同盟の廃城_最奥",
+        "order": 697,
+        "parentId": 712,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 717,
+        "expanded": false,
+        "name": "アスピダ同盟の廃城_イベントエリア",
+        "order": 698,
+        "parentId": 712,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 718,
+        "expanded": false,
+        "name": "貴族スキロスの屋敷",
+        "order": 389,
+        "parentId": 445,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 719,
+        "expanded": false,
+        "name": "貴族スキロスの屋敷A",
+        "order": 390,
+        "parentId": 718,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 720,
+        "expanded": false,
+        "name": "貴族スキロスの屋敷B",
+        "order": 391,
+        "parentId": 718,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 721,
+        "expanded": false,
+        "name": "貴族スキロスの屋敷_裏庭",
+        "order": 392,
+        "parentId": 718,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 722,
+        "expanded": false,
+        "name": "地下賭博場",
+        "order": 165,
+        "parentId": 441,
+        "scrollX": 755,
+        "scrollY": 896
+    },
+    {
+        "id": 723,
+        "expanded": false,
+        "name": "カサロ浴場労働者通路",
+        "order": 544,
+        "parentId": 23,
+        "scrollX": 739,
+        "scrollY": 896
+    },
+    {
+        "id": 724,
+        "expanded": false,
+        "name": "魔獣の住処_入口",
+        "order": 699,
+        "parentId": 37,
+        "scrollX": 1138,
+        "scrollY": 636.5
+    },
+    {
+        "id": 725,
+        "expanded": true,
+        "name": "魔獣の住処",
+        "order": 700,
+        "parentId": 724,
+        "scrollX": 1130,
+        "scrollY": 2479.5
+    },
+    {
+        "id": 726,
+        "expanded": false,
+        "name": "魔獣の住処_最奥",
+        "order": 701,
+        "parentId": 724,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 727,
+        "expanded": false,
+        "name": "美食家グニルの部屋",
+        "order": 224,
+        "parentId": 442,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 728,
+        "expanded": false,
+        "name": "猟師小屋",
+        "order": 440,
+        "parentId": 446,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 729,
+        "expanded": false,
+        "name": "湖畔",
+        "order": 442,
+        "parentId": 730,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 676
+    },
+    {
+        "id": 730,
+        "expanded": false,
+        "name": "湖の上",
+        "order": 441,
+        "parentId": 446,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 731,
+        "expanded": false,
+        "name": "ビーチレプトンの浜辺",
+        "order": 83,
+        "parentId": 247,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 732,
+        "expanded": false,
+        "name": "カロンのSEX部屋",
+        "order": 89,
+        "parentId": 665,
+        "scrollX": 1138,
+        "scrollY": 636.5
+    },
+    {
+        "id": 733,
+        "expanded": true,
+        "name": "少年の日の思い出_スニーク用",
+        "order": 703,
+        "parentId": 735,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 734,
+        "expanded": false,
+        "name": "少年の日の思い出_洞窟",
+        "order": 704,
+        "parentId": 733,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 735,
+        "expanded": false,
+        "name": "少年の日の思い出_入口（演出用）",
+        "order": 702,
+        "parentId": 37,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 736,
+        "expanded": false,
+        "name": "デバッグ用マップM",
+        "order": 775,
+        "parentId": 0,
+        "scrollX": 1082.1818181818182,
+        "scrollY": 1241.4545454545455
+    },
+    {
+        "id": 737,
+        "expanded": false,
+        "name": "料理バトル会場",
+        "order": 220,
+        "parentId": 554,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 738,
+        "expanded": false,
+        "name": "MAP738",
+        "order": 833,
+        "parentId": 163,
+        "scrollX": 1006.8,
+        "scrollY": 650.4
+    },
+    {
+        "id": 739,
+        "expanded": true,
+        "name": "キルクルスの遺跡_B1F（B）崩壊",
+        "order": 657,
+        "parentId": 740,
+        "scrollX": 1131,
+        "scrollY": 633
+    },
+    {
+        "id": 740,
+        "expanded": true,
+        "name": "キルクルスの遺跡_1F（B）崩壊",
+        "order": 656,
+        "parentId": 741,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1402.909090909091
+    },
+    {
+        "id": 741,
+        "expanded": true,
+        "name": "キルクルスの遺跡_入口（B）崩壊",
+        "order": 655,
+        "parentId": 389,
+        "scrollX": 1786.909090909091,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 742,
+        "expanded": false,
+        "name": "冒険者の洞窟_修正版",
+        "order": 839,
+        "parentId": 745,
+        "scrollX": 3415.636363636364,
+        "scrollY": 979.6363636363636
+    },
+    {
+        "id": 743,
+        "expanded": false,
+        "name": "水中マップ",
+        "order": 92,
+        "parentId": 440,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 744,
+        "expanded": false,
+        "name": "クレアの家内装_修正版",
+        "order": 840,
+        "parentId": 745,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 745,
+        "expanded": false,
+        "name": "クオリティアップ",
+        "order": 838,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 746,
+        "expanded": false,
+        "name": "村長の家1F_修正",
+        "order": 841,
+        "parentId": 745,
+        "scrollX": 963.2727272727274,
+        "scrollY": 979.6363636363636
+    },
+    {
+        "id": 747,
+        "expanded": false,
+        "name": "村長の家2F_修正",
+        "order": 842,
+        "parentId": 746,
+        "scrollX": 1131,
+        "scrollY": 1279
+    },
+    {
+        "id": 748,
+        "expanded": false,
+        "name": "アッロス洞窟_修正",
+        "order": 843,
+        "parentId": 745,
+        "scrollX": 2228.727272727273,
+        "scrollY": 3124.3636363636365
+    },
+    {
+        "id": 749,
+        "expanded": false,
+        "name": "アッロス洞窟_入口_修正",
+        "order": 844,
+        "parentId": 748,
+        "scrollX": 2808,
+        "scrollY": 1520.5714285714284
+    },
+    {
+        "id": 750,
+        "expanded": false,
+        "name": "MAP750",
+        "order": 834,
+        "parentId": 163,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1954.909090909091
+    },
+    {
+        "id": 751,
+        "expanded": false,
+        "name": "MAP751",
+        "order": 835,
+        "parentId": 163,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1005.8181818181819
+    },
+    {
+        "id": 752,
+        "expanded": false,
+        "name": "MAP752",
+        "order": 836,
+        "parentId": 163,
+        "scrollX": 1786.909090909091,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 753,
+        "expanded": false,
+        "name": "一般兵のテント②",
+        "order": 363,
+        "parentId": 49,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 754,
+        "expanded": false,
+        "name": "一般兵のテント③",
+        "order": 364,
+        "parentId": 49,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 755,
+        "expanded": false,
+        "name": "一般兵のテント⑤",
+        "order": 365,
+        "parentId": 49,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 756,
+        "expanded": true,
+        "name": "モニモス高原駐屯地のテント①",
+        "order": 159,
+        "parentId": 425,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 757,
+        "expanded": true,
+        "name": "モニモス高原駐屯地のテント②",
+        "order": 160,
+        "parentId": 425,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 758,
+        "expanded": false,
+        "name": "民家①",
+        "order": 188,
+        "parentId": 413,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 759,
+        "expanded": false,
+        "name": "民家②",
+        "order": 189,
+        "parentId": 413,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 760,
+        "expanded": false,
+        "name": "民家③",
+        "order": 190,
+        "parentId": 413,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 761,
+        "expanded": false,
+        "name": "民家④",
+        "order": 191,
+        "parentId": 413,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 762,
+        "expanded": false,
+        "name": "民家⑤",
+        "order": 192,
+        "parentId": 413,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 763,
+        "expanded": false,
+        "name": "民家⑥",
+        "order": 193,
+        "parentId": 413,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 764,
+        "expanded": false,
+        "name": "民家⑦",
+        "order": 194,
+        "parentId": 413,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 765,
+        "expanded": false,
+        "name": "民家⑧",
+        "order": 195,
+        "parentId": 413,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 766,
+        "expanded": false,
+        "name": "民家中央",
+        "order": 196,
+        "parentId": 413,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 767,
+        "expanded": false,
+        "name": "漁師小屋①",
+        "order": 315,
+        "parentId": 667,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 768,
+        "expanded": false,
+        "name": "漁師小屋②",
+        "order": 316,
+        "parentId": 667,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 769,
+        "expanded": false,
+        "name": "漁師小屋③",
+        "order": 317,
+        "parentId": 667,
+        "scrollX": 1119.4285714285713,
+        "scrollY": 630
+    },
+    {
+        "id": 770,
+        "expanded": true,
+        "name": "異形の宝玉アダルトマップ",
+        "order": 320,
+        "parentId": 444,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 771,
+        "expanded": true,
+        "name": "研究室",
+        "order": 174,
+        "parentId": 98,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 772,
+        "expanded": true,
+        "name": "地下図書館",
+        "order": 282,
+        "parentId": 16,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 773,
+        "expanded": false,
+        "name": "崩壊したフォティゾナ王宮前",
+        "order": 96,
+        "parentId": 193,
+        "scrollX": 1130,
+        "scrollY": 636.5
+    },
+    {
+        "id": 774,
+        "expanded": false,
+        "name": "楽園からの招待状大部屋",
+        "order": 311,
+        "parentId": 339,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 775,
+        "expanded": false,
+        "name": "優しい魔法（仮）",
+        "order": 313,
+        "parentId": 339,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 776,
+        "expanded": false,
+        "name": "クレアの両親の墓",
+        "order": 30,
+        "parentId": 52,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 777,
+        "expanded": false,
+        "name": "楽園からの招待状小部屋",
+        "order": 312,
+        "parentId": 774,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 778,
+        "expanded": false,
+        "name": "MAP778",
+        "order": 837,
+        "parentId": 163,
+        "scrollX": 1786.909090909091,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 779,
+        "expanded": false,
+        "name": "勇者過去回想",
+        "order": 197,
+        "parentId": 413,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 780,
+        "expanded": false,
+        "name": "キャラクターエピソード",
+        "order": 443,
+        "parentId": 439,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 781,
+        "expanded": false,
+        "name": "海の見える場所①",
+        "order": 444,
+        "parentId": 780,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 782,
+        "expanded": false,
+        "name": "ノラ",
+        "order": 445,
+        "parentId": 780,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 783,
+        "expanded": false,
+        "name": "古えの港(1-1)",
+        "order": 446,
+        "parentId": 782,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 784,
+        "expanded": false,
+        "name": "1-2",
+        "order": 447,
+        "parentId": 782,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 785,
+        "expanded": true,
+        "name": "エマ盗賊団_内観(1-3･4)",
+        "order": 448,
+        "parentId": 782,
+        "scrollX": 912,
+        "scrollY": 692
+    },
+    {
+        "id": 786,
+        "expanded": false,
+        "name": "首都フォティゾナ住宅街(1-5)",
+        "order": 449,
+        "parentId": 782,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 787,
+        "expanded": false,
+        "name": "リルム",
+        "order": 450,
+        "parentId": 780,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 788,
+        "expanded": true,
+        "name": "リルム1-1",
+        "order": 451,
+        "parentId": 787,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 789,
+        "expanded": false,
+        "name": "リルム1-2",
+        "order": 452,
+        "parentId": 787,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 790,
+        "expanded": false,
+        "name": "リルム1-3",
+        "order": 453,
+        "parentId": 787,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 791,
+        "expanded": true,
+        "name": "リルム1-4",
+        "order": 454,
+        "parentId": 787,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 818.6666666666666
+    },
+    {
+        "id": 792,
+        "expanded": true,
+        "name": "リルム1-5",
+        "order": 455,
+        "parentId": 787,
+        "scrollX": 1131,
+        "scrollY": 1279
+    },
+    {
+        "id": 793,
+        "expanded": false,
+        "name": "ソフィア",
+        "order": 456,
+        "parentId": 780,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 794,
+        "expanded": false,
+        "name": "ソフィア1-1",
+        "order": 457,
+        "parentId": 793,
+        "scrollX": 1131,
+        "scrollY": 1079
+    },
+    {
+        "id": 795,
+        "expanded": false,
+        "name": "ソフィア1-2",
+        "order": 458,
+        "parentId": 793,
+        "scrollX": 1786.909090909091,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 796,
+        "expanded": false,
+        "name": "ソフィア1-3",
+        "order": 459,
+        "parentId": 793,
+        "scrollX": 1786.909090909091,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 797,
+        "expanded": true,
+        "name": "ソフィア1-4,5",
+        "order": 460,
+        "parentId": 793,
+        "scrollX": 1131,
+        "scrollY": 1615
+    },
+    {
+        "id": 798,
+        "expanded": false,
+        "name": "ルイド",
+        "order": 461,
+        "parentId": 780,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 799,
+        "expanded": false,
+        "name": "ルイド1-1",
+        "order": 462,
+        "parentId": 798,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 800,
+        "expanded": false,
+        "name": "ルイド1-2",
+        "order": 463,
+        "parentId": 798,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 801,
+        "expanded": false,
+        "name": "ルイド1-3",
+        "order": 464,
+        "parentId": 798,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 802,
+        "expanded": false,
+        "name": "ルイド1-4",
+        "order": 465,
+        "parentId": 798,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 803,
+        "expanded": false,
+        "name": "ルイド1-5",
+        "order": 466,
+        "parentId": 798,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 804,
+        "expanded": false,
+        "name": "アミナ",
+        "order": 467,
+        "parentId": 780,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 805,
+        "expanded": false,
+        "name": "アミナ1-1,4",
+        "order": 468,
+        "parentId": 804,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 806,
+        "expanded": false,
+        "name": "アミナ1-2",
+        "order": 469,
+        "parentId": 804,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 807,
+        "expanded": true,
+        "name": "アミナ1-3",
+        "order": 470,
+        "parentId": 804,
+        "scrollX": 2278,
+        "scrollY": 1282
+    },
+    {
+        "id": 808,
+        "expanded": false,
+        "name": "アミナ1-5",
+        "order": 471,
+        "parentId": 804,
+        "scrollX": 1131,
+        "scrollY": 1279
+    },
+    {
+        "id": 809,
+        "expanded": false,
+        "name": "カロン",
+        "order": 472,
+        "parentId": 780,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 854.6666666666666
+    },
+    {
+        "id": 810,
+        "expanded": false,
+        "name": "カロン1-1",
+        "order": 473,
+        "parentId": 809,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 811,
+        "expanded": false,
+        "name": "カロン1-2",
+        "order": 474,
+        "parentId": 809,
+        "scrollX": 1131,
+        "scrollY": 799
+    },
+    {
+        "id": 812,
+        "expanded": false,
+        "name": "カロン1-3",
+        "order": 475,
+        "parentId": 809,
+        "scrollX": 1131,
+        "scrollY": 1015
+    },
+    {
+        "id": 813,
+        "expanded": false,
+        "name": "カロン1-4,5",
+        "order": 476,
+        "parentId": 809,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 814,
+        "expanded": false,
+        "name": "エラトマ",
+        "order": 477,
+        "parentId": 780,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 815,
+        "expanded": false,
+        "name": "エラトマ1-1",
+        "order": 478,
+        "parentId": 814,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 816,
+        "expanded": true,
+        "name": "エラトマ1-2",
+        "order": 479,
+        "parentId": 814,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 817,
+        "expanded": false,
+        "name": "エラトマ1-3",
+        "order": 480,
+        "parentId": 814,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 818,
+        "expanded": true,
+        "name": "エラトマ1-4",
+        "order": 481,
+        "parentId": 814,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 819,
+        "expanded": false,
+        "name": "エラトマ1-5",
+        "order": 482,
+        "parentId": 814,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 820,
+        "expanded": false,
+        "name": "アトゥ",
+        "order": 483,
+        "parentId": 780,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 821,
+        "expanded": false,
+        "name": "アトゥ1-1",
+        "order": 484,
+        "parentId": 820,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 822,
+        "expanded": false,
+        "name": "アトゥ1-2",
+        "order": 485,
+        "parentId": 820,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 823,
+        "expanded": true,
+        "name": "アトゥ1-3",
+        "order": 486,
+        "parentId": 820,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 824,
+        "expanded": false,
+        "name": "アトゥ1-4",
+        "order": 487,
+        "parentId": 820,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 825,
+        "expanded": true,
+        "name": "アトゥ1-5",
+        "order": 488,
+        "parentId": 820,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 826,
+        "expanded": false,
+        "name": "エモニ",
+        "order": 489,
+        "parentId": 780,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 827,
+        "expanded": false,
+        "name": "エモニ1-1",
+        "order": 490,
+        "parentId": 826,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 828,
+        "expanded": false,
+        "name": "エモニ1-2",
+        "order": 491,
+        "parentId": 826,
+        "scrollX": 1696.5,
+        "scrollY": 1822.5
+    },
+    {
+        "id": 829,
+        "expanded": true,
+        "name": "エモニ1-3",
+        "order": 492,
+        "parentId": 826,
+        "scrollX": 1708.5,
+        "scrollY": 961.5
+    },
+    {
+        "id": 830,
+        "expanded": true,
+        "name": "エモニ1-4",
+        "order": 493,
+        "parentId": 826,
+        "scrollX": 1708.5,
+        "scrollY": 961.5
+    },
+    {
+        "id": 831,
+        "expanded": false,
+        "name": "エモニ1-5",
+        "order": 494,
+        "parentId": 826,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 832,
+        "expanded": false,
+        "name": "レクス",
+        "order": 495,
+        "parentId": 780,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 833,
+        "expanded": false,
+        "name": "レクス1-1",
+        "order": 496,
+        "parentId": 832,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 912
+    },
+    {
+        "id": 834,
+        "expanded": false,
+        "name": "レクス1-2",
+        "order": 497,
+        "parentId": 832,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 835,
+        "expanded": false,
+        "name": "レクス1-3",
+        "order": 498,
+        "parentId": 832,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 836,
+        "expanded": true,
+        "name": "レクス1-4",
+        "order": 499,
+        "parentId": 832,
+        "scrollX": 1366.8,
+        "scrollY": 769.1999999999999
+    },
+    {
+        "id": 837,
+        "expanded": false,
+        "name": "レクス1-5",
+        "order": 500,
+        "parentId": 832,
+        "scrollX": 1131,
+        "scrollY": 979
+    },
+    {
+        "id": 838,
+        "expanded": false,
+        "name": "夜のフォティゾナ大通り",
+        "order": 94,
+        "parentId": 193,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1282.6666666666667
+    },
+    {
+        "id": 839,
+        "expanded": true,
+        "name": "xxx冒険者ギルド内",
+        "order": 49,
+        "parentId": 51,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 968
+    },
+    {
+        "id": 840,
+        "expanded": true,
+        "name": "冒険者ギルド内中庭",
+        "order": 47,
+        "parentId": 72,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 841,
+        "expanded": false,
+        "name": "フォティゾナ王宮前_夜",
+        "order": 95,
+        "parentId": 193,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 641.3333333333334
+    },
+    {
+        "id": 842,
+        "expanded": false,
+        "name": "真END用マップ",
+        "order": 845,
+        "parentId": 0,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 843,
+        "expanded": true,
+        "name": "冒険者ギルド内3F(真ルート)",
+        "order": 846,
+        "parentId": 842,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 962.6666666666666
+    },
+    {
+        "id": 844,
+        "expanded": false,
+        "name": "夜のフォティゾナ大通り(真ルート)",
+        "order": 847,
+        "parentId": 842,
+        "scrollX": 988.3636363636364,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 845,
+        "expanded": true,
+        "name": "フォティゾナ王宮前_夜(真ルート)",
+        "order": 852,
+        "parentId": 842,
+        "scrollX": 988.3636363636364,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 846,
+        "expanded": false,
+        "name": "フォティゾナ王宮1Fエントランス(真ルート)",
+        "order": 853,
+        "parentId": 845,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 847,
+        "expanded": false,
+        "name": "カロンの拷問部屋(真ルート)",
+        "order": 864,
+        "parentId": 842,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 848,
+        "expanded": false,
+        "name": "小高い丘(真ルート)",
+        "order": 883,
+        "parentId": 842,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 849,
+        "expanded": false,
+        "name": "フォティゾナ王宮1F_A(真)",
+        "order": 854,
+        "parentId": 846,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 721.3333333333334
+    },
+    {
+        "id": 850,
+        "expanded": false,
+        "name": "フォティゾナ王宮2F_D(真)",
+        "order": 857,
+        "parentId": 846,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 851,
+        "expanded": false,
+        "name": "フォティゾナ食堂内",
+        "order": 848,
+        "parentId": 844,
+        "scrollX": 1130,
+        "scrollY": 707.5
+    },
+    {
+        "id": 852,
+        "expanded": false,
+        "name": "フォティゾナ衛兵詰所⑨",
+        "order": 849,
+        "parentId": 844,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 853,
+        "expanded": false,
+        "name": "酒場・宿屋",
+        "order": 850,
+        "parentId": 844,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 854,
+        "expanded": false,
+        "name": "酒場・宿屋2F",
+        "order": 851,
+        "parentId": 853,
+        "scrollX": 1708.5,
+        "scrollY": 961.5
+    },
+    {
+        "id": 855,
+        "expanded": false,
+        "name": "フォティゾナ王宮1F_B(真)",
+        "order": 855,
+        "parentId": 846,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 856,
+        "expanded": false,
+        "name": "フォティゾナ王宮2F_F(真)",
+        "order": 859,
+        "parentId": 846,
+        "scrollX": 1269,
+        "scrollY": 962
+    },
+    {
+        "id": 857,
+        "expanded": false,
+        "name": "フォティゾナ王宮3F_H(真)",
+        "order": 860,
+        "parentId": 846,
+        "scrollX": 1131,
+        "scrollY": 962
+    },
+    {
+        "id": 858,
+        "expanded": false,
+        "name": "フォティゾナ王宮4F_I(真)",
+        "order": 861,
+        "parentId": 846,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 798.6666666666666
+    },
+    {
+        "id": 859,
+        "expanded": false,
+        "name": "フォティゾナ王宮5F_J(真)",
+        "order": 862,
+        "parentId": 846,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 860,
+        "expanded": false,
+        "name": "フォティゾナ王宮屋上_夜(真)",
+        "order": 863,
+        "parentId": 845,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 861,
+        "expanded": false,
+        "name": "フォティゾナ王宮1F_C(真)",
+        "order": 856,
+        "parentId": 846,
+        "scrollX": 1135,
+        "scrollY": 626.5
+    },
+    {
+        "id": 862,
+        "expanded": true,
+        "name": "フォティゾナ王宮前(真)",
+        "order": 865,
+        "parentId": 842,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1106.6666666666667
+    },
+    {
+        "id": 863,
+        "expanded": false,
+        "name": "フォティゾナ王宮2F_E(真)",
+        "order": 858,
+        "parentId": 846,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 864,
+        "expanded": false,
+        "name": "崩壊したフォティゾナ王宮前",
+        "order": 866,
+        "parentId": 842,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1758.6666666666667
+    },
+    {
+        "id": 865,
+        "expanded": true,
+        "name": "王子派の本拠地2F",
+        "order": 867,
+        "parentId": 842,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 866,
+        "expanded": false,
+        "name": "冒険者ギルド前",
+        "order": 868,
+        "parentId": 842,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 867,
+        "expanded": true,
+        "name": "貴族オリクトの屋敷1F部屋",
+        "order": 869,
+        "parentId": 866,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 868,
+        "expanded": true,
+        "name": "村長の家",
+        "order": 870,
+        "parentId": 866,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 869,
+        "expanded": false,
+        "name": "古えの墳墓_入口",
+        "order": 871,
+        "parentId": 866,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 870,
+        "expanded": false,
+        "name": "カンプス民家④怪盗ペルノの家",
+        "order": 872,
+        "parentId": 866,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 871,
+        "expanded": false,
+        "name": "船乗り事務所",
+        "order": 873,
+        "parentId": 866,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 872,
+        "expanded": false,
+        "name": "鎮魂の森_最奥",
+        "order": 874,
+        "parentId": 866,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 873,
+        "expanded": false,
+        "name": "放蕩貴族の屋敷内",
+        "order": 875,
+        "parentId": 866,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1260
+    },
+    {
+        "id": 874,
+        "expanded": false,
+        "name": "イリニ村_酒場",
+        "order": 876,
+        "parentId": 866,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 875,
+        "expanded": false,
+        "name": "魔法アカデミー3F",
+        "order": 877,
+        "parentId": 866,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 876,
+        "expanded": false,
+        "name": "貴族カサロの隠居所内",
+        "order": 878,
+        "parentId": 866,
+        "scrollX": 1131,
+        "scrollY": 655
+    },
+    {
+        "id": 877,
+        "expanded": false,
+        "name": "冒険者ギルド内中庭",
+        "order": 879,
+        "parentId": 866,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 878,
+        "expanded": false,
+        "name": "冒険者の洞窟1F",
+        "order": 880,
+        "parentId": 842,
+        "scrollX": 3501.3333333333335,
+        "scrollY": 984
+    },
+    {
+        "id": 879,
+        "expanded": false,
+        "name": "冒険者の洞窟1F最奥",
+        "order": 881,
+        "parentId": 878,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 878.6666666666666
+    },
+    {
+        "id": 880,
+        "expanded": false,
+        "name": "クレア演出用城壁",
+        "order": 882,
+        "parentId": 878,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 881,
+        "expanded": false,
+        "name": "クレアの両親の墓",
+        "order": 884,
+        "parentId": 848,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 882,
+        "expanded": false,
+        "name": "タイトル用ダミーマップ",
+        "order": 819,
+        "parentId": 246,
+        "scrollX": 1139,
+        "scrollY": 641
+    },
+    {
+        "id": 883,
+        "expanded": false,
+        "name": "吟遊詩人",
+        "order": 501,
+        "parentId": 780,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 884,
+        "expanded": false,
+        "name": "吟遊詩人1-1",
+        "order": 502,
+        "parentId": 883,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 885,
+        "expanded": false,
+        "name": "吟遊詩人1-2",
+        "order": 503,
+        "parentId": 883,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 886,
+        "expanded": false,
+        "name": "吟遊詩人1-3",
+        "order": 504,
+        "parentId": 883,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 887,
+        "expanded": false,
+        "name": "吟遊詩人1-4",
+        "order": 505,
+        "parentId": 883,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    },
+    {
+        "id": 888,
+        "expanded": false,
+        "name": "吟遊詩人1-5",
+        "order": 506,
+        "parentId": 883,
+        "scrollX": 1005.8181818181819,
+        "scrollY": 997.0909090909091
+    }
+]

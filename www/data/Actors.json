@@ -1,0 +1,118 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "clea_first",
+        "characterIndex": 0,
+        "characterName": "clea_first",
+        "classId": 1,
+        "equips": [
+            0,
+            4,
+            0,
+            3,
+            0
+        ],
+        "faceIndex": 5,
+        "faceName": "save_test",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "クレア",
+        "nickname": "",
+        "note": "<SAC道具封印スイッチ:24> ",
+        "profile": ""
+    },
+    {
+        "id": 2,
+        "battlerName": "relm",
+        "characterIndex": 2,
+        "characterName": "MainChar",
+        "classId": 2,
+        "equips": [
+            301,
+            4,
+            2,
+            14,
+            15
+        ],
+        "faceIndex": 1,
+        "faceName": "save_test",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "リルム",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 3,
+        "battlerName": "nora",
+        "characterIndex": 1,
+        "characterName": "MainChar",
+        "classId": 3,
+        "equips": [
+            201,
+            4,
+            2,
+            10,
+            11
+        ],
+        "faceIndex": 2,
+        "faceName": "save_test",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ノラ",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 4,
+        "battlerName": "sophia",
+        "characterIndex": 3,
+        "characterName": "MainChar",
+        "classId": 4,
+        "equips": [
+            401,
+            4,
+            2,
+            18,
+            19
+        ],
+        "faceIndex": 3,
+        "faceName": "save_test",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ソフィア",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 5,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
+]
