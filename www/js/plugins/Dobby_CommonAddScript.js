@@ -294,11 +294,11 @@ Window_Options.prototype.statusText = function (index) {
     } else if (symbol == "dWindowMessageSpeed") {
         switch (value) {
             case 7:
-                return "遅い";
+                return "Slow";
             case 1:
-                return "普通";
+                return "Normal";
             case 0:
-                return "即時";
+                return "Fast";
         }
     } else {
         return _Dobby_CommonAddScript_statusText.call(this, index);

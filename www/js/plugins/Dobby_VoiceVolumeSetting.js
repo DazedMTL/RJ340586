@@ -10,22 +10,22 @@
  */
 
 var _dobby_CharMappingVolume = {
-    "クレア": "clea",
-    "盗賊ノラ": "nora",
-    "魔法使いリルム": "relm",
-    "僧侶ソフィア": "sophia",
-    "疾風のセリス": "celis",
-    "受付嬢ピステ": "piste",
-    "少女探検家イクト": "ect",
-    "王妃カロン": "caron",
-    "帝国暗部エモニ": "emoni",
-    "メイドのアミナ": "amina",
-    "探検家アルマダ": "armada",
-    "声の巫女フォニ": "phoni",
-    "シスター・エレオ": "eleo",
-    "怪盗ペルノ": "perno",
-    "通常アーマーブレイクモンスター": "abm",
-    "店員NPC": "shopNPC"
+    "Clea": "clea",
+    "Bandit Nora": "nora",
+    "Wizard Relm": "relm",
+    "Monk Sophia": "sophia",
+    "Celis of the Gale": "celis",
+    "Receptionist Piste": "piste",
+    "Explorer Ect": "ect",
+    "Queen Caron": "caron",
+    "Dark Imperial Emoni": "emoni",
+    "Maid Amina": "amina",
+    "Explorer Armada": "armada",
+    "Priestess Phoni": "phoni",
+    "Sister Eleo": "eleo",
+    "Phantom Thief Perno": "perno",
+    "Armor Break": "abm",
+    "Storekeeper NPC": "shopNPC"
 };
 
 const SD_VVS_PREFIX = "d";
@@ -257,7 +257,7 @@ Window_Options_Dobby.prototype.makeCommandList = function () {
 Window_Options_Dobby.prototype.addVolumeOptions = function () {
     for (var key in _dobby_CharMappingVolume) {
         var charName = _dobby_CharMappingVolume[key];
-        this.addCommand(key + "音量", SD_VVS_PREFIX + charName + SD_VVS_SUFFIX);
+        this.addCommand(key + " Volume", SD_VVS_PREFIX + charName + SD_VVS_SUFFIX);
     }
 };
 
