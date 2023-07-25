@@ -3923,9 +3923,9 @@ let $isOrderedQuest;
     var _TEST_Window_MenuCommand_addOriginalCommands = Window_MenuCommand.prototype.addOriginalCommands;
     Window_MenuCommand.prototype.addOriginalCommands = function () {
         _TEST_Window_MenuCommand_addOriginalCommands.call(this);
-        this.addCommand('ファストトラベル', 'Dobby_FastTrevel', true);
-        this.addCommand('クエストレポート', 'Dobby_QuestReport', true);
-        this.addCommand('地方クエスト一覧', 'Scene_QuestListView');
+        this.addCommand('Fast Travel', 'Dobby_FastTrevel', true);
+        this.addCommand('Quest Report', 'Dobby_QuestReport', true);
+        this.addCommand('Quests', 'Scene_QuestListView');
 
     };
     //=============================================================================

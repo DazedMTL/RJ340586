@@ -160,7 +160,7 @@ const GLOBAL_SpecialMenuScene = (window.scene = window.scene || {});
     var _TEST_Window_MenuCommand_addOriginalCommands = Window_MenuCommand.prototype.addOriginalCommands;
     Window_MenuCommand.prototype.addOriginalCommands = function () {
         _TEST_Window_MenuCommand_addOriginalCommands.call(this);
-        this.addCommand('スペシャル', 'Dobby_specialMenu', true);
+        this.addCommand('Special', 'Dobby_specialMenu', true);
     };
     //=============================================================================
     // Scene_Menu

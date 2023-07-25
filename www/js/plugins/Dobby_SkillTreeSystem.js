@@ -3417,8 +3417,8 @@
         //既存のメニュー一覧を読み込み
         _TEST_Window_MenuCommand_addOriginalCommands2.call(this);
         //本プラグラインにおける追加メニューをセット
-        this.addCommand('スキルツリー', 'Dobby_skilltree', true);
-        this.addCommand('性技開発', 'Dobby_Back_skilltree', true);
+        this.addCommand('Skill Tree', 'Dobby_skilltree', true);
+        this.addCommand('Sex Development', 'Dobby_Back_skilltree', true);
     };
 
     //=============================================================================
