@@ -527,12 +527,12 @@
 
     var g_skillTypeList = [SKILL_TYPE_A, SKILL_TYPE_B, SKILL_TYPE_C, SKILL_TYPE_D, SKILL_TYPE_E, SKILL_TYPE_F];
     var g_skillGroupDescriptnList = {
-        "A": "「アタック」のスキルツリーです",
-        "B": "「レジスト」のスキルツリーです",
-        "C": "「テクニカル」のスキルツリーです",
-        "D": "「ユニーク」のスキルツリーです",
-        "E": "「ステータス」のスキルツリーです",
-        "F": "「ＡＡＡ」のスキルツリーです"
+        "A": "This is the skill tree for 'Attack'",
+        "B": "This is the skill tree for 'Resist'",
+        "C": "This is the skill tree for 'Technical'",
+        "D": "This is the skill tree for 'Unique'",
+        "E": "This is the skill tree for 'Status'",
+        "F": "This is the skill tree for 'AAA'"
     };
     var startPosition = [5, 8];
 
