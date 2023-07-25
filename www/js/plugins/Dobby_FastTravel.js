@@ -642,9 +642,9 @@ let $isOrderedQuest;
 
     const SE_QUEST_ORDERED = "se_maoudamashii_jingle06";
 
-    const SD_MSG_INVALID_FASTTRAVEL_BY_FILED = "ここではファストトラベルはできません";
-    const SD_MSG_INVALID_FASTTRAVEL_BY_NOW = "まだファストトラベルはできません";
-    const SD_MSG_INVALID_FASTTRAVEL_BY_OREDER = "この指令はファストトラベルできません";
+    const SD_MSG_INVALID_FASTTRAVEL_BY_FILED = "Fast travel is not available here.";
+    const SD_MSG_INVALID_FASTTRAVEL_BY_NOW = "You cannot fast travel yet.";
+    const SD_MSG_INVALID_FASTTRAVEL_BY_OREDER = "This command can't be used for fast travel.";
 
     // クエストシステム用定義〜ここから
     const QUEST_SYSTEM_WINDOW_MAX_NUM = 6;
@@ -7793,7 +7793,7 @@ let $isOrderedQuest;
         this.createBackground();
         Scene_Base.prototype.createWindowLayer.call(this);
         let regionList = {
-            "フォティゾナ地方/冒険者ギルド": "guild", "バリエ地方/谷の都市バリエ酒場": "バリエ", "カノナス地方/魔法アカデミー": "カノナス", "カンプス地方/草原の都市カンプスの酒場": "カンプス", "ミュコス地方/港の街ミュコスの船乗り事務所": "ミュコス", "オロス地方/山の都市オロスの酒場": "オロス", "ヴァルト地方/森の都市ヴァルトの酒場": "ヴァルト"
+            "Fotizona Region/Adventurer's Guild": "guild", "Barie Region/Tavern of the Valley City of Barie": "バリエ", "Kanonas Region/Magic Academy": "カノナス", "Kampus Region/Tavern of the Grassland City of Kampus": "カンプス", "Mykos Region/Sailor's Office in the Port Town of Mykos": "ミュコス", "Oros Region/Tavern in the Mountain City of Oros": "オロス", "Valt Region/Tavern in the Forest City of Valt": "ヴァルト"
         };
         this._regionListWindow = new Window_RegionListWindow(regionList);
         this.addWindow(this._regionListWindow);
@@ -7872,25 +7872,25 @@ let $isOrderedQuest;
     Window_RegionListWindow.prototype.islistRegionEnables = function (item) {
         let returnResult = false;
         switch (item) {
-            case "フォティゾナ地方/冒険者ギルド":
+            case "Fotizona Region/Adventurer's Guild":
                 returnResult = ($gameVariables.value(502) >= 85);
                 break;
-            case "バリエ地方/谷の都市バリエ酒場":
+            case "Barie Region/Tavern of the Valley City of Barie":
                 returnResult = ($gameVariables.value(509) >= 75);
                 break;
-            case "カノナス地方/魔法アカデミー":
+            case "Kanonas Region/Magic Academy":
                 returnResult = ($gameVariables.value(511) >= 999);
                 break;
-            case "カンプス地方/草原の都市カンプスの酒場":
+            case "Kampus Region/Tavern of the Grassland City of Kampus":
                 returnResult = ($gameVariables.value(514) >= 50);
                 break;
-            case "ミュコス地方/港の街ミュコスの船乗り事務所":
+            case "Mykos Region/Sailor's Office in the Port Town of Mykos":
                 returnResult = ($gameVariables.value(526) >= 999);
                 break;
-            case "オロス地方/山の都市オロスの酒場":
+            case "Oros Region/Tavern in the Mountain City of Oros":
                 returnResult = ($gameVariables.value(535) >= 35);
                 break;
-            case "ヴァルト地方/森の都市ヴァルトの酒場":
+            case "Valt Region/Tavern in the Forest City of Valt":
                 returnResult = ($gameVariables.value(569) >= 10);
                 break;
             default:
