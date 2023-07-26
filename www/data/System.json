@@ -130,11 +130,11 @@
     ],
     "equipTypes": [
         "",
-        "武器",
-        "腕輪",
-        "頭",
-        "身体",
-        "装飾品"
+        "Weapon",
+        "Wrist",
+        "Head",
+        "Body",
+        "Accessory"
     ],
     "gameTitle": "竜と大剣",
     "gameoverMe": {
@@ -5387,8 +5387,8 @@
             "Maximum MP",
             "Attack",
             "Defense",
-            "Magic",
-            "Resistance",
+            "Magic ATK",
+            "Magic DEF",
             "Agility",
             "Luck",
             "Accuracy",
