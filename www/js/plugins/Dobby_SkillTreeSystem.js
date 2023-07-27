@@ -2295,7 +2295,7 @@
         var sp = "消費SP：" + skillData._sp;
         var description = skillData._description;
         if (skillData._dmp > 0) {
-            skillName = skillName + " （消費MP：" + skillData._dmp + "）"
+            skillName = skillName + " (MP Cost: " + skillData._dmp + ")"
         }
 
         //;csvSkillData._dmp;
