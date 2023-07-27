@@ -5860,7 +5860,7 @@ let $isOrderedQuest;
     Window_questReport_Title_Window.prototype.initialize = function (allCnt, clearCnt, notCnt) {
         let xPos = 300;
         Window_Base.prototype.initialize.call(this, xPos, -10, Graphics.width - xPos, 90);
-        this.drawText("総クエスト数 : " + allCnt + "　クリア済みクエスト数 : " + clearCnt + "　受注中クエスト数 : " + notCnt, 10, 10, 650);
+        this.drawText("Total: " + allCnt + "　Completed: " + clearCnt + "　In Progress: " + notCnt, 10, 10, 650);
     };
 
     Window_questReport_Title_Window.prototype.setTitle = function (text) {
