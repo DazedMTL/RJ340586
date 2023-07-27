@@ -28868,7 +28868,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n437\n大剣捌き\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：大剣捌き\n攻撃力が３ポイント増加する\n\n開発後：攻撃力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：大剣捌き+1\n攻撃力が５ポイント増加する\n\n開発後：攻撃力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：大剣捌き+2\n攻撃力が７ポイント増加する\n\n開発後：攻撃力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：大剣捌き+3（MAX）\n攻撃力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n437\n大剣捌き\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Great Sword Handling - Increases attack power by 3 points.\nAfter development: Increases attack power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Great Sword Handling +1. Increases attack power by 5 points.\nAfter development: Increases attack power by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Great Sword Handling +2. Increases attack power by 7 points.\nAfter development: Increases attack power by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Great Sword Handling +3 (MAX) Increases attack power by 10\npoints. Cannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -28896,7 +28896,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n438\n身体感覚\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：身体感覚\n攻撃力が３ポイント増加する\n\n開発後：攻撃力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：身体感覚+1\n攻撃力が５ポイント増加する\n\n開発後：攻撃力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：身体感覚+2\n攻撃力が７ポイント増加する\n\n開発後：攻撃力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：身体感覚+3（MAX）\n攻撃力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n438\n身体感覚\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Body Sensation - Increases attack power by 3 points. After\ndevelopment: Increases attack power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Body Sensation +1. Increases attack power by 5 points. After\ndevelopment: Increases attack power by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Body Sensation +2. Increases attack power by 7 points. After\ndevelopment: Increases attack power by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Body Sensation +3 (MAX) Increases attack power by 10 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -28924,7 +28924,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n439\n断髪の決意\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：断髪の決意\n攻撃力が３ポイント増加する\n\n開発後：攻撃力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：断髪の決意+1\n攻撃力が５ポイント増加する\n\n開発後：攻撃力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：断髪の決意+2\n攻撃力が７ポイント増加する\n\n開発後：攻撃力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：断髪の決意+3（MAX）\n攻撃力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n439\n断髪の決意\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Determination to Cut Hair - Increases attack power by 3 points.\nAfter development: Increases attack power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Determination to Cut Hair +1 Attack power increases by 5\npoints. After development: Attack power increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Determined Haircut +2 Increases attack power by 7 points. After\ndevelopment: Increases attack power by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Determination to Cut Hair +3 (MAX) Increases attack power by 10\npoints. Cannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -28952,7 +28952,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n440\n大剣の使い手\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：大剣の使い手\n攻撃力が３ポイント増加する\n\n開発後：攻撃力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：大剣の使い手+1\n攻撃力が５ポイント増加する\n\n開発後：攻撃力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：大剣の使い手+2\n攻撃力が７ポイント増加する\n\n開発後：攻撃力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：大剣の使い手+3（MAX）\n攻撃力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n440\n大剣の使い手\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Great Sword Mastery - Increases attack power by 3 points. After\ndevelopment: Increases attack power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Great Sword Mastery +1. Increases attack power by 5 points.\nAfter development: Increases attack power by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Great Sword Mastery +2. Increases attack power by 7 points.\nAfter development: Increases attack power by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Great Sword Mastery +3 (MAX) Increases attack power by 10\npoints. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -28980,7 +28980,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n455\n三日月に触れる\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：三日月に触れる\n魔法力が３ポイント増加する\n\n開発後：魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：三日月に触れる+1\n魔法力が５ポイント増加する\n\n開発後：魔法力が10ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：三日月に触れる+2\n魔法力が10ポイント増加する\n\n開発後：魔法力が15ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：三日月に触れる+3（MAX）\n魔法力が15ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n455\n三日月に触れる\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Crescent Touch - Increases magic power by 3 points. After\ndevelopment: Increases magic power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Crescent Touch +1 Magic Power increases by 5 points. After\ndevelopment: Magic Power increases by 10 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Crescent Touch +2 Magic Power increases by 10 points. After\ndevelopment: Magic Power increases by 15 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Crescent Touch +3 (MAX) Magic power increases by 15 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29008,7 +29008,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n456\n魔力への理解\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：魔力への理解\n魔法力が３ポイント増加する\n\n開発後：魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：魔力への理解+1\n魔法力が５ポイント増加する\n\n開発後：魔法力が10ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：魔力への理解+2\n魔法力が10ポイント増加する\n\n開発後：魔法力が15ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：魔力への理解+3（MAX）\n魔法力が15ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n456\n魔力への理解\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Understanding of Magic Power - Increases magic power by 3\npoints. After development: Increases magic power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Understanding of Magic +1. Increases magic power by 5 points.\nAfter development: Increases magic power by 10 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Understanding of Magic +2. Increases magic power by 10 points.\nAfter development: Increases magic power by 15 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Understanding of Magic +3 (MAX) Magic power increases by 15\npoints. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29036,7 +29036,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n457\n知識の扉\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：知識の扉\n魔法力が３ポイント増加する\n\n開発後：魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：知識の扉+1\n魔法力が５ポイント増加する\n\n開発後：魔法力が10ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：知識の扉+2\n魔法力が10ポイント増加する\n\n開発後：魔法力が15ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：知識の扉+3（MAX）\n魔法力が15ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n457\n知識の扉\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Door of Knowledge - Increases magic power by 3 points. After\ndevelopment: Increases magic power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Door of Knowledge +1 Increases magic power by 5 points. After\ndevelopment: Increases magic power by 10 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Door of Knowledge +2 Increases magic power by 10 points. After\ndevelopment: Increases magic power by 15 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Door of Knowledge +3 (MAX) Magic power increases by 15 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29064,7 +29064,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n458\n神秘との接触\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：神秘との接触\n魔法力が３ポイント増加する\n\n開発後：魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：神秘との接触+1\n魔法力が５ポイント増加する\n\n開発後：魔法力が10ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：神秘との接触+2\n魔法力が10ポイント増加する\n\n開発後：魔法力が15ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：神秘との接触+3（MAX）\n魔法力が15ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n458\n神秘との接触\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Contact with the Divine - Increases magic power by 3 points.\nAfter development: Increases magic power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Contact with the Divine +1 Magic power increases by 5 points.\nAfter development: Magic power increases by 10 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Contact with the Divine +2 Increases magic power by 10 points.\nAfter development: Increases magic power by 15 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Contact with the Divine +3 (MAX) Magic power increases by 15\npoints. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29092,7 +29092,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n446\n平常心\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：平常心\n戦闘時にHPが自動で２％回復する\n\n開発後：戦闘時にHPが自動で３％回復する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：平常心+1\n戦闘時にHPが自動で３％回復する\n\n開発後：戦闘時にHPが自動で４％回復する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：平常心+2\n戦闘時にHPが自動で４％回復する\n\n開発後：戦闘時にHPが自動で５％回復する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：平常心+3（MAX）\n戦闘時にHPが自動で５％回復する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n446\n平常心\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Calmness - Automatically recovers 2% of HP during battle. After\ndevelopment: Automatically recovers 3% of HP during battle.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Calmness +1. Automatically recovers 3% of HP during battle.\nAfter development: Automatically recovers 4% of HP during battle.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Calmness +2. Automatically recovers 4% of HP during battle.\nAfter development: Automatically recovers 5% of HP during battle.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Calmness +3 (MAX) Automatically recovers 5% of HP during\nbattles. Cannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29109,7 +29109,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "mpCost": 0,
-        "name": "Masochistic Tendencies",
+        "name": "Masochist",
         "occasion": 3,
         "repeats": 1,
         "requiredWtypeId1": 0,
@@ -29120,7 +29120,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n454\n根性\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：根性\n最大HPが３ポイント増加する\n\n開発後：最大HPが５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：根性+1\n最大HPが５ポイント増加する\n\n開発後：最大HPが10ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：根性+2\n最大HPが10ポイント増加する\n\n開発後：最大HPが15ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：根性+3（MAX）\n最大HPが15ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n454\n根性\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Guts - Maximum HP increases by 3 points. After development:\nMaximum HP increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Guts +1 Maximum HP increases by 5 points. After development:\nMaximum HP increases by 10 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Guts +2 Maximum HP increases by 10 points. After development:\nMaximum HP increases by 15 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Guts +3 (MAX) Maximum HP increases by 15 points. Cannot be\nfurther developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29148,7 +29148,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n453\n急所狙い\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：急所狙い\n運が３ポイント増加する\n\n開発後：運が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：急所狙い+1\n運が５ポイント増加する\n\n開発後：運が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：急所狙い+2\n運が７ポイント増加する\n\n開発後：運が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：急所狙い+3（MAX）\n運が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n453\n急所狙い\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n  Skill: Critical Aim Luck increases by 3 points. After development:\nLuck increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n  Skill: Critical Aim +1 Luck increases by 5 points After development:\nLuck increases by 7 points\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Critical Aim +2 Luck increases by 7 points After development:\nLuck increases by 10 points\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Critical Aim +3 (MAX) Luck increases by 10 points. Further\ndevelopment is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29176,7 +29176,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n450\n渾身の一撃\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：渾身の一撃\nクリティカルヒット率が２％アップする\n\n開発後：クリティカルヒット率が３％アップする\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：渾身の一撃+1\nクリティカルヒット率が３％アップする\n\n開発後：クリティカルヒット率が４％アップする\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：渾身の一撃+2\nクリティカルヒット率が４％アップする\n\n開発後：クリティカルヒット率が５％アップする\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：渾身の一撃+3（MAX）\nクリティカルヒット率が５％アップする\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n450\n渾身の一撃\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n  Skill: Full Power Strike Increases critical hit rate by 2%. After\ndevelopment: Increases critical hit rate by 3%.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n  Skill: Mighty Blow +1 Increases critical hit rate by 3%  After\ndevelopment: Increases critical hit rate by 4%\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n  Skill: Fierce Strike +2 Increases critical hit rate by 4% After\ndevelopment: Increases critical hit rate by 5%\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Full Power Strike +3 (MAX) Increases critical hit rate by 5%.\nCannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29204,7 +29204,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n451\n受け流し\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：受け流し\n物理攻撃回避率２％と防御力が10ポイント増加する\n\n開発後：物理攻撃回避率が１％アップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：受け流し+1\n物理攻撃回避率３％と防御力が10ポイント増加する\n\n開発後：物理攻撃回避率が１％アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：受け流し+2\n物理攻撃回避率４％と防御力が10ポイント増加する\n\n開発後：物理攻撃回避率が１％アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：受け流し+3（MAX）\n物理攻撃回避率５％と防御力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n451\n受け流し\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Deflection - Increases physical attack evasion rate by 2% and\ndefense by 10 points. After development: Physical attack evasion rate\nincreases by 1%.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Deflection +1. Physical evasion rate increases by 3% and\ndefense increases by 10 points. After development: Physical evasion\nrate increases by 1%.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Deflection +2. Increases physical attack evasion rate by 4% and\ndefense by 10 points. After development: Physical attack evasion rate\nincreases by 1%.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Deflection +3 (MAX) Increases physical attack evasion rate by\n5% and defense by 10 points. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29233,7 +29233,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n448\n熱情の律動\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：熱情の律動\n戦闘時にTPが自動で３増加する\n\n開発後：戦闘時にTPが自動で５増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：熱情の律動+1\n戦闘時にTPが自動で５増加する\n\n開発後：戦闘時にTPが自動で７増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：熱情の律動+2\n戦闘時にTPが自動で７増加する\n\n開発後：戦闘時にTPが自動で10増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：熱情の律動+3（MAX）\n戦闘時にTPが自動で10増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n448\n熱情の律動\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Rhythmic Passion - TP automatically increases by 3 during\nbattles. After development: TP automatically increases by 5 during\nbattles.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Passionate Rhythm +1. TP automatically increases by 5 during\nbattle. After development: TP automatically increases by 7 during\nbattle.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Passionate Rhythm +2. Automatically increases TP by 7 during\nbattle. After development: Automatically increases TP by 10 during\nbattle.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Passionate Rhythm +3 (MAX) TP automatically increases by 10\nduring battles. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29261,7 +29261,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n447\n秘めたる激情\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：秘めたる激情\nHPが20％以下の状態になると攻撃力が1.5倍になる\n\n開発後：攻撃力アップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：秘めたる激情+1\nHPが20％以下の状態になると攻撃力が２倍になる\n\n開発後：攻撃力アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：秘めたる激情+2\nHPが20％以下の状態になると攻撃力が2.5倍になる\n\n開発後：攻撃力アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：秘めたる激情+3（MAX）\nHPが20％以下の状態になると攻撃力が３倍になる\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n447\n秘めたる激情\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Hidden Passion When HP is below 20%, attack power increases by\n1.5 times. After development: Attack power up.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Hidden Passion +1. When HP is below 20%, attack power doubles.\nAfter development: Increased attack power.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Hidden Passion +2 When HP is below 20%, attack power increases\nby 2.5 times. After development: Attack power up.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Hidden Passion +3 (MAX) When HP is below 20%, attack power\nbecomes tripled. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29289,7 +29289,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n452\n持久力\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：持久力\n防御力と敏捷性が１ポイント増加する\n\n開発後：\n防御力が３ポイント増加し敏捷性が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：持久力+1\n防御力が３ポイント増加し敏捷性が５ポイント増加する\n\n開発後：\n防御力が５ポイント増加し敏捷性が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：持久力+2\n防御力が５ポイント増加し敏捷性が７ポイント増加する\n\n開発後：\n防御力が７ポイント増加し敏捷性が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：持久力+3（MAX）\n防御力が７ポイント増加し敏捷性が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n452\n持久力\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n  Skill: Endurance - Increases Defense and Agility by 1 point. After\ndevelopment: Defense increases by 3 points and Agility increases by 5\npoints.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Endurance +1 Defense increases by 3 points and agility\nincreases by 5 points. After development: Defense increases by 5\npoints and agility increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n  Skill: Endurance +2 Defense increases by 5 points and agility\nincreases by 7 points.   After development: Defense increases by 7\npoints and agility increases by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Endurance +3 (MAX) Defense increases by 7 points and agility\nincreases by 10 points. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29306,7 +29306,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "mpCost": 0,
-        "name": "Mysterious Fragrance",
+        "name": "Fragrant",
         "occasion": 3,
         "repeats": 1,
         "requiredWtypeId1": 0,
@@ -29317,7 +29317,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n441\n鋼の意志\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：鋼の意志\n防御力が３ポイント増加する\n\n開発後：防御力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：鋼の意志+1\n防御力が５ポイント増加する\n\n開発後：防御力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：鋼の意志+2\n防御力が７ポイント増加する\n\n開発後：防御力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：鋼の意志+3（MAX）\n防御力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n441\n鋼の意志\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Steel Will - Defense increases by 3 points. After development:\nDefense increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Steel Will +1 Defense increases by 5 points. After development:\nDefense increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Steel Will +2 Defense increases by 7 points. After development:\nDefense increases by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Steel Will +3 (MAX) Defense increases by 10 points. Cannot be\nfurther developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29334,7 +29334,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "mpCost": 0,
-        "name": "Disobedient to parents",
+        "name": "Unfilial",
         "occasion": 3,
         "repeats": 1,
         "requiredWtypeId1": 0,
@@ -29345,7 +29345,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n445\n父との約束\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：父との約束\n防御力が３ポイント増加する\n\n開発後：防御力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：父との約束+1\n防御力が５ポイント増加する\n\n開発後：防御力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：父との約束+2\n防御力が７ポイント増加する\n\n開発後：防御力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：父との約束+3（MAX）\n防御力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n445\n父との約束\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Promise with Father - Defense power increases by 3 points.\nAfter development: Defense power increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Promise with Father +1 Defense power increases by 5 points.\nAfter development: Defense power increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Promise with Father +2 Defense increases by 7 points. After\ndevelopment: Defense increases by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Promise with Father +3 (MAX) Defense increases by 10 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29400,7 +29400,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n341\n槍の使い手\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：槍の使い手\n攻撃力が３ポイント増加する\n\n開発後：攻撃力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：槍の使い手+1\n攻撃力が５ポイント増加する\n\n開発後：攻撃力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：槍の使い手+2\n攻撃力が７ポイント増加する\n\n開発後：攻撃力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：槍の使い手+3（MAX）\n攻撃力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n341\n槍の使い手\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Spear Mastery - Increases attack power by 3 points. After\ndevelopment: Increases attack power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Spear User +1. Increases attack power by 5 points. After\ndevelopment: Increases attack power by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Spear Mastery +2 Increases attack power by 7 points. After\ndevelopment: Increases attack power by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Spear Mastery +3 (MAX) Increases attack power by 10 points.\nCannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29428,7 +29428,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n342\n猛獣\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：猛獣\n攻撃力と敏捷性が１ポイント増加する\n\n開発後：攻撃力と敏捷性が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：猛獣+1\n攻撃力と敏捷性が３ポイント増加する\n\n開発後：攻撃力と敏捷性が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：猛獣+2\n攻撃力と敏捷性が５ポイント増加する\n\n開発後：攻撃力と敏捷性が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：猛獣+3（MAX）\n攻撃力と敏捷性が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n342\n猛獣\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Fierce Beast - Increases attack power and agility by 1 point.\nAfter development: Increases attack power and agility by 3 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Fierce Beast +1. Increases attack power and agility by 3\npoints. After development: Increases attack power and agility by 5\npoints.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Fierce Beast +2. Increases attack power and agility by 5\npoints. After development: Increases attack power and agility by 7\npoints.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Fierce Beast +3 (MAX) Increases attack power and agility by 7\npoints. Cannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29456,7 +29456,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n343\n強健\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：強健\n防御力が３ポイント増加する\n\n開発後：防御力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：強健+1\n防御力が５ポイント増加する\n\n開発後：防御力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：強健+2\n防御力が７ポイント増加する\n\n開発後：防御力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：強健+3（MAX）\n防御力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n343\n強健\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n  Skill: Robust Defense power increases by 3 points. After\ndevelopment: Defense power increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Robust +1 Defense power increases by 5 points. After\ndevelopment: Defense power increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Strong +2 Defense power increases by 7 points After\ndevelopment: Defense power increases by 10 points\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Strong +3 (MAX) Defense increases by 10 points. Further\ndevelopment is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29484,7 +29484,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n345\n悪運\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：強健\n運が３ポイント増加する\n\n開発後：運が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：悪運+1\n運が５ポイント増加する\n\n開発後：運が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：悪運+2\n運が７ポイント増加する\n\n開発後：運が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：悪運+3（MAX）\n運が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n345\n悪運\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Robust - Luck increases by 3 points. After development: Luck\nincreases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Bad Luck +1. Luck increases by 5 points. After development:\nLuck increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Bad Luck +2. Luck increases by 7 points. After development:\nLuck increases by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Bad Luck +3 (MAX) Luck increases by 10 points. Further\ndevelopment is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29512,7 +29512,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n346\n盗賊の心得\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：盗賊の心得\n防御力と運が１ポイント増加する\n\n開発後：防御力と運が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：盗賊の心得+1\n防御力と運が３ポイント増加する\n\n開発後：防御力と運が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：盗賊の心得+2\n防御力と運が５ポイント増加する\n\n開発後：防御力と運が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：盗賊の心得+3（MAX）\n防御力と運が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n346\n盗賊の心得\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Thief's Know-how - Increases defense and luck by 1 point. After\ndevelopment: Increases defense and luck by 3 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Thieves' Knowledge +1 Defense and Luck increase by 3 points.\nAfter development: Defense and Luck increase by 5 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Thieves' Knowledge +2 Increases defense and luck by 5 points.\nAfter development: Increases defense and luck by 7 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Thieves' Knowledge +3 (MAX) Defense and luck increase by 7\npoints. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29540,7 +29540,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n347\n影を追う者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：影を追う者\n敏捷性が３ポイント増加する\n\n開発後：敏捷性が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：影を追う者+1\n敏捷性が５ポイント増加する\n\n開発後：敏捷性が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：影を追う者+2\n敏捷性が７ポイント増加する\n\n開発後：敏捷性が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：影を追う者+3（MAX）\n敏捷性が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n347\n影を追う者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n  Skill: Shadow Chaser Agility increases by 3 points. After\ndevelopment: Agility increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Shadow Chaser +1 Agility increases by 5 points. After\ndevelopment: Agility increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n  Skill: Shadow Chaser +2 Agility increases by 7 points. After\ndevelopment: Agility increases by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Shadow Chaser +3 (MAX) Agility increases by 10 points. Further\ndevelopment is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29568,7 +29568,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n348\n食欲旺盛\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：食欲旺盛\n最大HPが３ポイント増加し敏捷性が１ポイント増加する\n\n開発後：\n最大HPが５ポイント増加し敏捷性が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：食欲旺盛+1\n最大HPが５ポイント増加し敏捷性が３ポイント増加する\n\n開発後：\n最大HPが10ポイント増加し敏捷性が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：食欲旺盛+2\n最大HPが10ポイント増加し敏捷性が５ポイント増加する\n\n開発後：\n最大HPが15ポイント増加し敏捷性が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：食欲旺盛+3（MAX）\n最大HPが15ポイント増加し敏捷性が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n348\n食欲旺盛\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Voracious Appetite - Maximum HP increases by 3 points and\nAgility increases by 1 point. After development: Maximum HP increases\nby 5 points and Agility increases by 3 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Voracious Appetite +1. Maximum HP increases by 5 points and\nAgility increases by 3 points. After development: Maximum HP increases\nby 10 points and Agility increases by 5 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Voracious Appetite +2. Maximum HP increases by 10 points and\nAgility increases by 5 points. After development: Maximum HP increases\nby 15 points and Agility increases by 7 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Voracious Appetite +3 (MAX) Maximum HP increases by 15 points\nand agility increases by 7 points. Further development is not\npossible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29596,7 +29596,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n349\n神速の狩人\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：神速の狩人\n敏捷性が３ポイント増加する\n\n開発後：敏捷性が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：神速の狩人+1\n敏捷性が５ポイント増加する\n\n開発後：敏捷性が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：神速の狩人+2\n敏捷性が７ポイント増加する\n\n開発後：敏捷性が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：神速の狩人+3（MAX）\n敏捷性が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n349\n神速の狩人\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Swift Hunter - Agility increases by 3 points. After\ndevelopment: Agility increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n Skill: Swift Hunter +1 Agility increases by 5 points. After\ndevelopment: Agility increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n  Skill: Swift Hunter +2 Increases agility by 7 points. After\ndevelopment: Increases agility by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Swift Hunter +3 (MAX) Agility increases by 10 points. Further\ndevelopment is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29624,7 +29624,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n350\n生存嗅覚\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：生存嗅覚\n敏捷性と運が１ポイント増加する\n\n開発後：敏捷性と運が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：生存嗅覚+1\n敏捷性と運が３ポイント増加する\n\n開発後：敏捷性と運が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：生存嗅覚+2\n敏捷性と運が５ポイント増加する\n\n開発後：敏捷性と運が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：生存嗅覚+3（MAX）\n敏捷性と運が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n350\n生存嗅覚\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Survival Instinct - Agility and Luck increase by 1 point. After\ndevelopment: Agility and Luck increase by 3 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Survival Instinct +1. Increases Agility and Luck by 3 points.\nAfter development: Increases Agility and Luck by 5 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Survival Instinct +2. Increases Agility and Luck by 5 points.\nAfter development: Increases Agility and Luck by 7 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Survival Instinct +3 (MAX) Increases agility and luck by 7\npoints. Cannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29652,7 +29652,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n335\nハウル\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：ハウル\n敵単体に高確率でスタン状態を付与する\n\n開発後：スタン確率がアップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：ハウル+1\n敵単体に高確率でスタン状態を付与する\n\n開発後：スタン確率がアップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：ハウル+2\n敵単体に高確率でスタン状態を付与する\n\n開発後：スタン確率がアップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：ハウル+3（MAX）\n敵単体に高確率でスタン状態を付与する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n335\nハウル\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Howl - High chance to inflict stun status on a single enemy.\nAfter development: Stun probability increases.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Howl+1. High chance to inflict stun status on a single enemy.\nAfter development: Stun probability increases.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Howl+2. High chance to inflict stun status on a single enemy.\nAfter development: Increased stun probability.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Howl+3 (MAX) Grants a high chance of inflicting the enemy with\nthe stun status. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29680,7 +29680,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n336\nシャウト\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：シャウト\n敵全体に攻撃力の中ダウンと中確率でスタン状態を付与する\n攻撃力ダウンは５ターン付与されるが経過により減衰する\n\n開発後：減衰ターン数の低下\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：シャウト+1\n敵全体に攻撃力の中ダウンと中確率でスタン状態を付与する\n攻撃力ダウンは５ターン付与されるが経過により減衰する\n\n開発後：減衰ターン数の低下\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：シャウト+2\n敵全体に攻撃力の中ダウンと中確率でスタン状態を付与する\n攻撃力ダウンは５ターン付与されるが経過により減衰する\n\n開発後：減衰が消える\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：シャウト+3（MAX）\n敵全体に攻撃力の中ダウンと中確率でスタン状態を付与する\n攻撃力ダウンは５ターン付与される\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n336\nシャウト\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Shout - Inflicts a medium decrease in attack power and has a\nmedium chance to inflict the stun status on all enemies. The attack\npower decrease lasts for 5 turns but gradually weakens over time.\nAfter development: Decreases the number of turns for the weakening\neffect.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Shout+1. Inflicts medium attack power decrease and has a medium\nchance to inflict stun status on all enemies. The attack power\ndecrease lasts for 5 turns but decreases over time. After development:\nDecreases the number of turns for the decrease to take effect.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Shout+2. Attacks all enemies, decreasing their attack power by\na moderate amount and has a moderate chance to inflict them with the\nstun status. The attack power decrease lasts for 5 turns but gradually\nweakens over time. After development: The weakening effect disappears.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Shout+3 (MAX) Inflicts medium attack power decrease and has a\nmedium chance to inflict stun status on all enemies. The attack power\ndecrease lasts for 5 turns. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29708,7 +29708,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n317\nランダム・チャージ\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：ランダム・チャージ\n敵１体ランダムに防御力無視のダメージを与える\n\n開発後：スキル発動の速度補正が小アップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：ランダム・チャージ+1\n敵１体ランダムに防御力無視のダメージを与える\nスキル発動の速度補正が小アップ\n\n開発後：スキル発動の速度補正が中アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：ランダム・チャージ+2\n敵１体ランダムに防御力無視のダメージを与える\nスキル発動の速度補正が中アップ\n\n開発後：スキル発動の速度補正が大アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：ランダム・チャージ+3（MAX）\n敵１体ランダムに防御力無視のダメージを与える\nスキル発動の速度補正が大アップ\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n317\nランダム・チャージ\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Random Charge - Deals damage to one random enemy ignoring\ndefense. After development: Slight increase in skill activation speed\ncorrection.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Random Charge +1. Deals damage to one random enemy ignoring\ndefense. Small increase in skill activation speed correction. After\ndevelopment: Medium increase in skill activation speed correction.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Random Charge +2. Deals damage to one random enemy ignoring\ndefense. Moderate increase in skill activation speed correction. After\ndevelopment: Great increase in skill activation speed correction.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Random Charge +3 (MAX) Deals damage to one random enemy\nignoring defense. Greatly increases skill activation speed correction.\nCannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29736,7 +29736,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n319\nチャージド・ストライク\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：チャージド・ストライク\n敵単体に中確率で麻痺付与の防御力無視の雷属性ダメージ\n\n開発後：スキル発動の速度補正が小アップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：チャージド・ストライク+1\n敵単体に中確率で麻痺付与の防御力無視の雷属性ダメージ\nスキル発動の速度補正が小アップ\n\n開発後：スキル発動の速度補正が中アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：チャージド・ストライク+2\n敵単体に中確率で麻痺付与の防御力無視の雷属性ダメージ\nスキル発動の速度補正が中アップ\n\n開発後：スキル発動の速度補正が大アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：チャージド・ストライク+3（MAX）\n敵単体に中確率で麻痺付与の防御力無視の雷属性ダメージ\nスキル発動の速度補正が大アップ\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n319\nチャージド・ストライク\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Charged Strike - Deals thunder attribute damage to a single\nenemy with a medium chance to inflict paralysis, ignoring defense.\nAfter development: Speed correction for skill activation is slightly\nincreased.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n  Skill: Charged Strike +1 Deals thunder attribute damage to a single\nenemy with a medium chance to inflict paralysis, ignoring defense.\nSmall increase in skill activation speed correction.  After\ndevelopment: Medium increase in skill activation speed correction.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n Skill: Charged Strike+2 Deals thunder attribute damage to a single\nenemy with a medium chance to inflict paralysis, ignoring defense.\nModerately increases the speed modifier for skill activation. After\ndevelopment: Greatly increases the speed modifier for skill\nactivation.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Charged Strike +3 (MAX) Deals thunder attribute damage to a\nsingle enemy with a medium chance of inflicting paralysis, ignoring\ndefense. The speed modifier for skill activation is greatly increased.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29764,7 +29764,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n320\nクロウ・スイング\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：クロウ・スイング\n敵全体にダメージを与える\n威力は使用者の攻撃力と運に依存する\n\n開発後：運の参照値アップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：クロウ・スイング+1\n敵全体にダメージを与える\n威力は使用者の攻撃力と運に依存する\n\n開発後：運の参照値アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：クロウ・スイング+2\n敵全体にダメージを与える\n威力は使用者の攻撃力と運に依存する\n\n開発後：運の参照値アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：クロウ・スイング+3（MAX）\n敵全体にダメージを与える\n威力は使用者の攻撃力と運に依存する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n320\nクロウ・スイング\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Crow Swing - Deals damage to all enemies. The power depends on\nthe user's attack and luck. After development: Increase the reference\nvalue of luck.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Crow Swing +1. Deals damage to all enemies. The power depends\non the user's attack and luck. After development: Increase the\nreference value of luck.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Crow Swing+2 - Deals damage to all enemies. The power depends\non the user's attack and luck. After development: Increase the\nreference value of luck.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Crow Swing+3 (MAX) Deals damage to all enemies. The power\ndepends on the user's attack and luck. Further development is not\npossible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29792,7 +29792,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n321\nフェンド・スイング\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：フェンド・スイング\n敵全体に先制攻撃でダメージを与える\n\n開発後：威力アップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：フェンド・スイング+1\n敵全体に先制攻撃でダメージを与える\n\n開発後：威力アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：フェンド・スイング+2\n敵全体に先制攻撃でダメージを与える\n\n開発後：威力アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：フェンド・スイング+3（MAX）\n敵全体にダメージを与える\n敵全体に先制攻撃でダメージを与える\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n321\nフェンド・スイング\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Fend Swing - Deals preemptive damage to all enemies. After\ndevelopment: Power increase.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Fend Swing+1. Deals damage to all enemies with a preemptive\nattack. After development: Power increase.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Fend Swing+2 - Deals preemptive damage to all enemies. After\ndevelopment: Power increase.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Fend Swing+3 (MAX) Deals damage to all enemies. Deals damage to\nall enemies with a preemptive attack. Cannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29820,7 +29820,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n322\nフュリオス・チャージ\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：フュリオス・チャージ\n敵単体に防御力無視の特大ダメージを与える\n\n開発後：低確率で麻痺状態を付与を追加\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：フュリオス・チャージ+1\n敵単体に防御力無視の特大ダメージを与え\n低確率で麻痺状態を付与する\n\n開発後：麻痺の付与率アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：フュリオス・チャージ+2\n敵単体に防御力無視の特大ダメージを与え\n低確率で麻痺状態を付与する\n\n開発後：麻痺の付与率アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：フュリオス・チャージ+3（MAX）\n敵単体に防御力無視の特大ダメージを与え\n低確率で麻痺状態を付与する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n322\nフュリオス・チャージ\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Furious Charge - Deals a tremendous amount of damage to a\nsingle enemy, ignoring their defense. After development: Adds a low\nchance to inflict paralysis status.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Furious Charge+1 Deals tremendous damage to a single enemy,\nignoring their defense. Has a low chance to inflict paralysis. After\ndevelopment: Increased paralysis infliction rate.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Furious Charge+2 Deals tremendous damage to a single enemy,\nignoring their defense. Has a low chance to inflict paralysis. After\ndevelopment: Increased chance of inflicting paralysis.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Furious Charge+3 (MAX) Deals tremendous damage to a single\nenemy, ignoring their defense. Has a low chance to inflict paralysis.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29849,7 +29849,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n323\nトラップ\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：トラップ\n敵全体に敏捷性の中ダウンを２ターン付与する\n\n開発後：ターン数増加\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：トラップ+1\n敵全体に敏捷性の中ダウンを３ターン付与する\n\n開発後：ターン数増加\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：トラップ+2\n敵全体に敏捷性の中ダウンを４ターン付与する\n\n開発後：ターン数増加\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：トラップ+3（MAX）\n敵全体に敏捷性の中ダウンを５ターン付与する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n323\nトラップ\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Trap - Inflicts a moderate agility debuff on all enemies for 2\nturns. After development: Increase in number of turns.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Trap +1. Inflicts a moderate decrease in agility on all enemies\nfor 3 turns. After development: Increase in number of turns.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Trap +2. Inflicts a moderate agility debuff on all enemies for\n4 turns. After development: Increase in number of turns.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Trap +3 (MAX) Grants all enemies a moderate decrease in agility\nfor 5 turns. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29877,7 +29877,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n332\nシャドウプリズン\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：シャドウプリズン\n敵に先制し、反撃に下記の追加効果を１ターン得る\n毒状態・魅了状態の付与と闇属性による攻撃\n\n開発後：沈黙付与を追加\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：シャドウプリズン+1\n敵に先制し、反撃に下記の追加効果を１ターン得る\n毒・魅了・沈黙の付与と闇属性による攻撃\n\n開発後：防御力の大ダウンを追加\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：シャドウプリズン+2\n敵に先制し、１ターン反撃時に魅了・毒・沈黙を付与し\n防御力を大ダウンさせ闇属性で攻撃する\n\n開発後：魔法防御力の大ダウンを追加\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：シャドウプリズン+3（MAX）\n敵に先制し、１ターン反撃時に魅了・毒・沈黙を付与し\n防御力・魔法防御力を大ダウンさせ闇属性で攻撃する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n332\nシャドウプリズン\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Shadow Prison Gains the following additional effects for 1 turn\nwhen preemptively attacking enemies: inflicts poison and charm status\nailments, and deals dark attribute damage. After development: Adds the\nability to inflict silence.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Shadow Prison +1. Gain the following additional effects for 1\nturn when preemptively attacking enemies: inflict poison, charm, and\nsilence, and perform attacks with dark attribute. After development:\nadd a significant decrease in defense power.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Shadow Prison +2. Grants charm, poison, and silence to enemies\nwhen countering for one turn, greatly reduces defense, and attacks\nwith dark attribute. After development: Adds a significant decrease in\nmagic defense.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Shadow Prison +3 (MAX) Grants charm, poison, and silence to\nenemies when countering for one turn, greatly reduces defense and\nmagic defense, and attacks with dark attribute. Further development is\nnot possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29932,7 +29932,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n260\n読書家\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：読書家\n最大MPが３ポイント増加する\n\n開発後：最大MPが５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：読書家+1\n最大MPが５ポイント増加する\n\n開発後：最大MPが10ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：読書家+2\n最大MPが10ポイント増加する\n\n開発後：最大MPが15ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：読書家+3（MAX）\n最大MPが15ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n260\n読書家\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Bookworm - Maximum MP increases by 3 points. After development:\nMaximum MP increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Bookworm +1 Maximum MP increases by 5 points. After\ndevelopment: Maximum MP increases by 10 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Bookworm +2 Maximum MP increases by 10 points. After\ndevelopment: Maximum MP increases by 15 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Bookworm +3 (MAX) Maximum MP increases by 15 points. Further\ndevelopment is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29960,7 +29960,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n261\n精神学\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：精神学\n魔法力が３ポイント増加する\n\n開発後：魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：精神学+1\n魔法力が５ポイント増加する\n\n開発後：魔法力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：精神学+2\n魔法力が７ポイント増加する\n\n開発後：魔法力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：精神学+3（MAX）\n魔法力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n261\n精神学\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Psychology - Increases magic power by 3 points. After\ndevelopment: Increases magic power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Psychology +1 Increases magic power by 5 points. After\ndevelopment: Increases magic power by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Psychology +2 Increases magic power by 7 points. After\ndevelopment: Increases magic power by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Psychology +3 (MAX) Increases magic power by 10 points. Cannot\nbe further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -29988,7 +29988,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n262\n魔法の申し子\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：魔法の申し子\n魔法力が３ポイント増加する\n\n開発後：魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：魔法の申し子+1\n魔法力が５ポイント増加する\n\n開発後：魔法力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：魔法の申し子+2\n魔法力が７ポイント増加する\n\n開発後：魔法力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：魔法の申し子+3（MAX）\n魔法力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n262\n魔法の申し子\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Child of Magic - Increases magic power by 3 points. After\ndevelopment: Increases magic power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Child of Magic +1 Increases magic power by 5 points. After\ndevelopment: Increases magic power by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Child of Magic +2 Increases magic power by 7 points. After\ndevelopment: Increases magic power by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Child of Magic +3 (MAX) Increases magic power by 10 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30016,7 +30016,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n263\n猟書家\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：猟書家\n魔法回避率が２％増加する\n\n開発後：魔法回避率が３％増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：猟書家+1\n魔法回避率が３％増加する\n\n開発後：魔法回避率が４％増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：猟書家+2\n魔法回避率が４％増加する\n\n開発後：魔法回避率が５％増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：猟書家+3（MAX）\n魔法回避率が５％増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n263\n猟書家\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Book Hunter - Increases magic evasion rate by 2%. After\ndevelopment: Increases magic evasion rate by 3%.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Book Hunter +1. Magic evasion rate increases by 3%. After\ndevelopment: Magic evasion rate increases by 4%.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Bibliophile +2 Increases magic evasion rate by 4%. After\ndevelopment: Increases magic evasion rate by 5%.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Bibliophile +3 (MAX) Magic evasion rate increased by 5%. Cannot\nbe further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30044,7 +30044,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n240\n開発術式：転\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：開発術式：転\n敵単体に高確率でスタン状態を付与する\n\n開発後：スタン確率がアップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：開発術式：転+1\n敵単体に高確率でスタン状態を付与する\n\n開発後：スタン確率がアップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：開発術式：転+2\n敵単体に高確率でスタン状態を付与する\n\n開発後：スタン確率がアップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：開発術式：転+3（MAX）\n敵単体に高確率でスタン状態を付与する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n240\n開発術式：転\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Development Formula: Turn - Grants a high chance of inflicting\nthe enemy with the Stun status effect. After development: Stun\nprobability increases.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Development Formula: Turn +1 Grants a high chance of inflicting\nthe enemy with the Stun status. After development: Stun probability\nincreases.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Development Formula: Turn +2. Grants a high chance of\ninflicting the enemy with the Stun status. After development: Stun\nprobability increases.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Development Formula: Turn +3 (MAX) Grants a high chance of\ninflicting the enemy with the stun status. Cannot develop any further.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30072,7 +30072,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n241\n開発術式：逃\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：開発術式：逃\n通常戦闘の敵全体を逃走させる\n\n開発後：消費MPが８になる\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：開発術式：逃+1\n通常戦闘の敵全体を逃走させる\n\n開発後：消費MPが４になる\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：開発術式：逃+2\n敵単体に高確率でスタン状態を付与する\n\n開発後：消費MPが０になる\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：開発術式：逃+3（MAX）\n通常戦闘の敵全体を逃走させる\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n241\n開発術式：逃\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Development Formula: Escape - Allows all enemies in regular\nbattles to escape. After development: MP cost becomes 8.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Development Formula: Escape +1. Allows the entire enemy party\nin regular battles to escape. After development: MP consumption\nbecomes 4.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Development Formula: Escape +2. Grants a high chance of\ninflicting the enemy with the Stun status. After development: MP\nconsumption becomes 0.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Development Formula: Escape +3 (MAX) Allows the entire enemy\nparty in regular battles to escape. Further development is not\npossible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30100,7 +30100,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n239\n禁則術式：生命転換\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：禁則術式：生命転換\n使用者にMP10％自動回復とHP20％ダメージを\n３ターン付与する\n\n開発後：HPダメージが15％に変化\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：禁則術式：生命転換+1\n使用者にMP10％自動回復とHP15％ダメージを\n３ターン付与する\n\n開発後：HPダメージが10％に変化\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：禁則術式：生命転換+2\n使用者にMP10％自動回復とHP10％ダメージを\n３ターン付与する\n\n開発後：HPダメージが５％に変化\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：禁則術式：生命転換+3（MAX）\n使用者にMP10％自動回復とHP５％ダメージを\n３ターン付与する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n239\n禁則術式：生命転換\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Forbidden Art: Life Conversion. Grants the user automatic MP\nrecovery of 10% and inflicts 20% damage to HP for 3 turns. After\ndevelopment: HP damage changes to 15%.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Forbidden Art: Life Conversion +1. Grants the user automatic MP\nrecovery of 10% and inflicts 15% damage to HP for 3 turns. After\ndevelopment: HP damage changes to 10%.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Forbidden Art: Life Conversion +2. Grants the user automatic MP\nrecovery of 10% and inflicts 10% damage to HP for 3 turns. After\ndevelopment: Changes HP damage to 5%.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Forbidden Art: Life Conversion +3 (MAX) Grants the user\nautomatic MP recovery of 10% and inflicts 5% damage to HP for 3 turns.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30129,7 +30129,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n258\n孤独な研究者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：孤独な研究者\n防御力と魔法防御力が１ポイント増加する\n\n開発後：防御力と魔法防御力が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：孤独な研究者+1\n防御力と魔法防御力が３ポイント増加する\n\n開発後：防御力と魔法防御力が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：孤独な研究者+2\n防御力と魔法防御力が５ポイント増加する\n\n開発後：防御力と魔法防御力が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：孤独な研究者+3（MAX）\n防御力と魔法防御力が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n258\n孤独な研究者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Lonely Researcher - Increases defense and magic defense by 1\npoint. After development: Increases defense and magic defense by 3\npoints.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Lonely Researcher +1 Defense and Magic Defense increase by 3\npoints. After development: Defense and Magic Defense increase by 5\npoints.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Lonely Researcher +2 Defense and Magic Defense increase by 5\npoints. After development: Defense and Magic Defense increase by 7\npoints.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Lonely Researcher +3 (MAX) Defense and Magic Defense increase\nby 7 points. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30157,7 +30157,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n259\n天才の証明\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：天才の証明\n魔法使用時の消費MPが10％低下する\n\n開発後：魔法使用時の消費MPが11％低下する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：天才の証明+1\n魔法使用時の消費MPが11％低下する\n\n開発後：魔法使用時の消費MPが13％低下する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：天才の証明+2\n魔法使用時の消費MPが13％低下する\n\n開発後：魔法使用時の消費MPが15％低下する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：天才の証明+3（MAX）\n魔法使用時の消費MPが15％低下する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n259\n天才の証明\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n  Skill: Proof of Genius Reduces MP consumption by 10% when using\nmagic. After development: Reduces MP consumption by 11% when using\nmagic.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Proof of Genius +1. Reduces MP consumption when using magic by\n11%. After development: Reduces MP consumption when using magic by\n13%.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Proof of Genius +2. Reduces MP consumption when using magic by\n13%. After development: Reduces MP consumption when using magic by\n15%.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Proof of Genius +3 (MAX) Reduces MP consumption when using\nmagic by 15%. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30185,7 +30185,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n242\n禁則術式：魔力転換\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：禁則術式：魔力転換\n使用者のMP100をTP10に変換する\n\n開発後：使用者のMP100をTP15に変換する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：禁則術式：魔力転換+1\n使用者のMP100をTP15に変換する\n\n開発後：使用者のMP100をTP20に変換する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：禁則術式：魔力転換+2\n使用者のMP100をTP20に変換する\n\n開発後：使用者のMP100をTP25に変換する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：禁則術式：魔力転換+3（MAX）\n使用者のMP100をTP25に変換する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n242\n禁則術式：魔力転換\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Forbidden Ritual: Mana Conversion Converts the user's MP100 to\nTP10. After development: Converts the user's MP100 to TP15.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Forbidden Spell: Mana Conversion +1 Converts the user's MP100\ninto TP15. After development: Converts the user's MP100 into TP20.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Forbidden Art: Magic Conversion +2 Converts the user's MP100\ninto TP20. After development: Converts the user's MP100 into TP25.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Forbidden Art: Magic Conversion +3 (MAX) Converts the user's\nMP100 into TP25. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30213,7 +30213,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n250\n三日月の誇り\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：三日月の誇り\n最大MPが３ポイント増加する\n\n開発後：最大MPが５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：三日月の誇り+1\n最大MPが５ポイント増加する\n\n開発後：最大MPが10ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：三日月の誇り+2\n最大MPが10ポイント増加する\n\n開発後：最大MPが15ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：三日月の誇り+3（MAX）\n最大MPが15ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n250\n三日月の誇り\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Crescent Pride - Maximum MP increases by 3 points. After\ndevelopment: Maximum MP increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Crescent Pride +1 Maximum MP increases by 5 points. After\ndevelopment: Maximum MP increases by 10 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Crescent Pride +2 Maximum MP increases by 10 points. After\ndevelopment: Maximum MP increases by 15 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Crescent Pride +3 (MAX) Maximum MP increases by 15 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30241,7 +30241,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n251\n本を読む者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：本を読む者\n魔法力が３ポイント増加する\n\n開発後：魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：本を読む者+1\n魔法力が５ポイント増加する\n\n開発後：魔法力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：本を読む者+2\n魔法力が７ポイント増加する\n\n開発後：魔法力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：本を読む者+3（MAX）\n魔法力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n251\n本を読む者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Book Reader - Increases magic power by 3 points. After\ndevelopment: Increases magic power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Book Reader +1 Magic Power increases by 5 points. After\ndevelopment: Magic Power increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Book Reader +2 Magic Power increases by 7 points. After\ndevelopment: Magic Power increases by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Book Reader +3 (MAX) Increases magic power by 10 points. Cannot\ndevelop further than this.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30269,7 +30269,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n252\n好奇心\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：好奇心\n最大MPが３ポイント増加する\n\n開発後：最大MPが５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：好奇心+1\n最大MPが５ポイント増加する\n\n開発後：最大MPが10ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：好奇心+2\n最大MPが10ポイント増加する\n\n開発後：最大MPが15ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：好奇心+3（MAX）\n最大MPが15ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n252\n好奇心\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Curiosity - Maximum MP increases by 3 points. After\ndevelopment: Maximum MP increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Curiosity +1 Maximum MP increases by 5 points. After\ndevelopment: Maximum MP increases by 10 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Curiosity +2 Maximum MP increases by 10 points. After\ndevelopment: Maximum MP increases by 15 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Curiosity +3 (MAX) Maximum MP increases by 15 points. Further\ndevelopment is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30297,7 +30297,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n253\n真理の探究者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：真理の探究者\n最大MPが３ポイント増加する\n\n開発後：最大MPが５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：真理の探究者+1\n最大MPが５ポイント増加する\n\n開発後：最大MPが10ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：真理の探究者+2\n最大MPが10ポイント増加する\n\n開発後：最大MPが15ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：真理の探究者+3（MAX）\n最大MPが15ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n253\n真理の探究者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Truth Seeker - Maximum MP increases by 3 points. After\ndevelopment: Maximum MP increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Seeker of Truth +1 Maximum MP increases by 5 points. After\ndevelopment: Maximum MP increases by 10 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Seeker of Truth +2 Maximum MP increases by 10 points. After\ndevelopment: Maximum MP increases by 15 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Seeker of Truth +3 (MAX) Maximum MP increases by 15 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30325,7 +30325,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n254\n覚醒\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：覚醒\n最大MPと魔法力が１ポイント増加する\n\n開発後：最大MPと魔法力が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：覚醒+1\n最大MPと魔法力が３ポイント増加する\n\n開発後：最大MPと魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：覚醒+2\n最大MPと魔法力が５ポイント増加する\n\n開発後：最大MPと魔法力が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：覚醒+3（MAX）\n最大MPと魔法力が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n254\n覚醒\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Awakening - Increases maximum MP and magic power by 1 point.\nAfter development: Increases maximum MP and magic power by 3 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Awakening +1 Increases maximum MP and magic power by 3 points.\nAfter development: Increases maximum MP and magic power by 5 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Awakening +2 Increases maximum MP and magic power by 5 points.\nAfter development: Increases maximum MP and magic power by 7 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Awakening +3 (MAX) Increases maximum MP and magic power by 7\npoints. Cannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30353,7 +30353,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n255\n諸刃の選択\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：諸刃の選択\n魔法力が７ポイント増加するかわりに\n防御力が７ポイント低下する\n\n開発後：防御力の低下が改善\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：諸刃の選択+1\n魔法力が７ポイント増加するかわりに\n防御力が５ポイント低下する\n\n開発後：防御力の低下が改善\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：諸刃の選択+2\n魔法力が７ポイント増加するかわりに\n防御力が３ポイント低下する\n\n開発後：防御力の低下が改善\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：諸刃の選択+3（MAX）\n魔法力が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n255\n諸刃の選択\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Dual-Edged Choice - Increases magic power by 7 points at the\ncost of decreasing defense by 7 points. After development: The\ndecrease in defense is improved.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Dual-Edged Choice +1. Increases magic power by 7 points at the\ncost of decreasing defense by 5 points. After development: The\ndecrease in defense is improved.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Dual-Edged Choice +2. Increases magic power by 7 points, but\ndecreases defense by 3 points. After development: The decrease in\ndefense is improved.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Dual-Edged Choice +3 (MAX) Magic power increases by 7 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30381,7 +30381,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n256\n諦めない天才\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：諦めない天才\n戦闘時にMPが自動で１％回復する\n\n開発後：戦闘時にMPが自動で２％回復する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：諦めない天才+1\n戦闘時にMPが自動で２％回復する\n\n開発後：戦闘時にMPが自動で３％回復する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：諦めない天才+2\n戦闘時にMPが自動で３％回復する\n\n開発後：戦闘時にMPが自動で４％回復する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：諦めない天才+3（MAX）\n戦闘時にMPが自動で４％回復する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n256\n諦めない天才\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Genius who never gives up - MP automatically recovers by 1%\nduring battles. After development: MP automatically recovers by 2%\nduring battles.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Unyielding Genius +1. Automatically recovers 2% MP during\nbattles. After development: Automatically recovers 3% MP during\nbattles.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Unyielding Genius +2. Automatically recovers 3% MP during\nbattles. After development: Automatically recovers 4% MP during\nbattles.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Unyielding Genius +3 (MAX) Automatically recovers 4% MP during\nbattles. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30409,7 +30409,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n257\n精神の渇き\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：精神の渇き\n防御力が１ポイント増加する\n\n開発後：防御力が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：精神の渇き+1\n防御力が３ポイント増加する\n\n開発後：防御力が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：精神の渇き+2\n防御力が５ポイント増加する\n\n開発後：防御力が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：精神の渇き+3（MAX）\n防御力が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n257\n精神の渇き\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Thirst of the Mind - Defense increases by 1 point. After\ndevelopment: Defense increases by 3 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Thirst of the Mind +1 Defense increases by 3 points. After\ndevelopment: Defense increases by 5 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Thirst of the Mind +2 Defense increases by 5 points. After\ndevelopment: Defense increases by 7 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Thirst of the Mind +3 (MAX) Increases defense by 7 points.\nCannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30464,7 +30464,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n献身\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：献身\n魔法力が１ポイント増加する\n\n開発後：魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：献身+1\n魔法力が５ポイント増加する\n\n開発後：魔法力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：献身+2\n魔法力が７ポイント増加する\n\n開発後：魔法力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：献身+3（MAX）\n魔法力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n献身\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Devotion - Increases magic power by 1 point. After development:\nIncreases magic power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Devotion +1 Magic power increases by 5 points. After\ndevelopment: Magic power increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Devotion +2 Magic power increases by 7 points. After\ndevelopment: Magic power increases by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Devotion +3 (MAX) Magic power increases by 10 points. Further\ndevelopment is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30492,7 +30492,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n神学の輩\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：神学の輩\n最大MPが３ポイント増加する\n\n開発後：最大MPが５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：神学の輩+1\n最大MPが５ポイント増加する\n\n開発後：最大MPが10ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：神学の輩+2\n最大MPが10ポイント増加する\n\n開発後：最大MPが15ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：神学の輩+3（MAX）\n最大MPが15ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n神学の輩\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Theology Scholar - Maximum MP increases by 3 points. After\ndevelopment: Maximum MP increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Theology Scholar +1 Maximum MP increases by 5 points. After\ndevelopment: Maximum MP increases by 10 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Theology Scholar +2 Maximum MP increases by 10 points. After\ndevelopment: Maximum MP increases by 15 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Theology Apprentice +3 (MAX) Maximum MP increases by 15 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30520,7 +30520,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\nアクティナの聖域\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：アクティナの聖域\n敵全体に光属性の小ダメージを与え\n追加で高確率でスタン状態を付与する\n\n開発後：威力小アップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：アクティナの聖域+1\n敵全体に光属性の小ダメージを与え\n追加で高確率でスタン状態を付与する\n\n開発後：威力小アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：アクティナの聖域+2\n敵全体に光属性の小ダメージを与え\n追加で高確率でスタン状態を付与する\n\n開発後：威力小アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：アクティナの聖域+3（MAX）\n敵全体に光属性の中ダメージを与え\n追加で高確率でスタン状態を付与する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\nアクティナの聖域\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Actina's Sanctuary - Deals small damage of light attribute to\nall enemies and has a high chance of inflicting stun. After\ndevelopment: Slightly increases power.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Actina's Sanctuary +1. Deals small light damage to all enemies\nand has a high chance of inflicting stun. After development: Slightly\nincreased power.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Actina's Sanctuary +2. Deals small light damage to all enemies\nand has a high chance of inflicting stun. After development: Slightly\nincreased power.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Sanctum of Actina +3 (MAX) Deals moderate light damage to all\nenemies and has a high chance of inflicting stun. Further development\nis not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30548,7 +30548,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n処刑者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：処刑者\n攻撃力が１ポイント増加する\n\n開発後：攻撃力が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：処刑者+1\n攻撃力が３ポイント増加する\n\n開発後：攻撃力が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：処刑者+2\n攻撃力が５ポイント増加する\n\n開発後：攻撃力が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：処刑者+3（MAX）\n攻撃力が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n処刑者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Executioner - Increases attack power by 1 point. After\ndevelopment: Increases attack power by 3 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Executioner +1. Increases attack power by 3 points. After\ndevelopment: Increases attack power by 5 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Executioner +2. Increases attack power by 5 points. After\ndevelopment: Increases attack power by 7 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Executioner +3 (MAX) Increases attack power by 7 points. Cannot\nbe further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30576,7 +30576,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n狂信者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：狂信者\n攻撃力と敏捷性が１ポイント増加する\n\n開発後：攻撃力と敏捷性が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：狂信者+1\n攻撃力と敏捷性が３ポイント増加する\n\n開発後：攻撃力と敏捷性が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：狂信者+2\n攻撃力と敏捷性が５ポイント増加する\n\n開発後：攻撃力と敏捷性が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：狂信者+3（MAX）\n攻撃力と敏捷性が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n狂信者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Zealot - Increases attack power and agility by 1 point. After\ndevelopment: Increases attack power and agility by 3 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Fanatic +1 Increases attack power and agility by 3 points.\nAfter development: Increases attack power and agility by 5 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Zealot +2 Increases attack power and agility by 5 points. After\ndevelopment: Increases attack power and agility by 7 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Fanatic +3 (MAX) Increases attack power and agility by 7\npoints. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30604,7 +30604,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n死地からの生還\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：死地からの生還\nHPが25％以下の状態になると\nHPMPが自動回復状態になる（回復量は２％）\n\n開発後：回復量が１％アップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：死地からの生還+1\nHPが25％以下の状態になると\nHPMPが自動回復状態になる（回復量は３％）\n\n開発後：回復量が１％アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：死地からの生還+2\nHPが25％以下の状態になると\nHPMPが自動回復状態になる（回復量は４％）\n\n開発後：回復量が１％アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：死地からの生還+3（MAX）\nHPが25％以下の状態になると\nHPMPが自動回復状態になる（回復量は５％）\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n死地からの生還\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Survival from the Brink of Death When HP falls below 25%, HP\nand MP automatically start recovering (recovery amount is 2%). After\ndevelopment: Recovery amount increases by 1%.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Survival from the Brink +1 When HP is below 25%, HP and MP\nenter automatic recovery state (recovery amount is 3%). After\ndevelopment: Recovery amount increases by 1%.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Survival from the Brink +2 When HP is below 25%, enter\nautomatic recovery state for HP and MP (recovery amount is 4%). After\ndevelopment: Recovery amount increases by 1%.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Survival from the Brink +3 (MAX) When HP is below 25%, HP and\nMP automatically recover (recovery amount is 5%). Further development\nis not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30632,7 +30632,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n悪魔イシェケルの鳴声\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：悪魔イシェケルの鳴声\n敵単体に闇属性の小ダメージを与える\n\n開発後：威力小アップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：悪魔イシェケルの鳴声+1\n敵単体に闇属性の中ダメージを与える\n\n開発後：威力小アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：悪魔イシェケルの鳴声+2\n敵単体に闇属性の中ダメージを与える\n\n開発後：威力小アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：悪魔イシェケルの鳴声+3（MAX）\n敵単体に闇属性の中ダメージを与える\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n悪魔イシェケルの鳴声\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Devil Ishekel's Cry - Deals small dark damage to a single\nenemy. After development: Slightly increases power.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Devil Ishekel's Cry +1 Deals moderate dark damage to a single\nenemy. After development: Slightly increases power.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Devil Ishekel's Cry +2 Deals moderate dark damage to a single\nenemy. After development: Slightly increases power.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Devil Ishekel's Cry +3 (MAX) Deals moderate dark damage to a\nsingle enemy. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30660,7 +30660,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n悪魔イシェケルの目弾\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：悪魔イシェケルの目弾\n敵全体に高確率で暗闇状態を付与し\n防御力の中ダウンを２ターン付与する\n\n開発後：ターン数アップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：悪魔イシェケルの目弾+1\n敵全体に高確率で暗闇状態を付与し\n防御力の中ダウンを３ターン付与する\n\n開発後：ターン数アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：悪魔イシェケルの目弾+2\n敵全体に高確率で暗闇状態を付与し\n防御力の中ダウンを４ターン付与する\n\n開発後：ターン数アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：悪魔イシェケルの目弾+3（MAX）\n敵全体に高確率で暗闇状態を付与し\n防御力の中ダウンを５ターン付与する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n悪魔イシェケルの目弾\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Devil Ishekel's Eye Bullets. Inflicts a high chance of darkness\nstatus on all enemies and decreases their defense for 2 turns. After\ndevelopment: Increase in number of turns.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Devil Ishekel's Eye Bullet +1. Inflicts a high chance of\ninflicting darkness status on all enemies and decreases their defense\nfor 3 turns. After development: Increase in number of turns.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Devil Ishekel's Eye Bullets +2. Inflicts a high chance of\ninflicting darkness status on all enemies and decreases their defense\nfor 4 turns. After development: Increase in number of turns.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Devil Ishekel's Eye Bullets +3 (MAX). Inflicts a high chance of\ninflicting darkness status on all enemies and applies a medium defense\ndebuff for 5 turns. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30688,7 +30688,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n悪魔イシェケルの嘴\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：悪魔イシェケルの嘴\n敵単体に攻撃力と魔法力に依存した闇属性の２回攻撃を行う\n\n開発後：スキル発動の速度補正がアップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：悪魔イシェケルの嘴+1\n敵単体に攻撃力と魔法力に依存した闇属性の２回攻撃を行う\nスキル発動の速度補正が小アップ\n\n開発後：スキル発動の速度補正がアップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：悪魔イシェケルの嘴+2\n敵単体に攻撃力と魔法力に依存した闇属性の２回攻撃を行う\nスキル発動の速度補正が中アップ\n\n開発後：スキル発動の速度補正がアップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：悪魔イシェケルの嘴+3（MAX）\n敵単体に攻撃力と魔法力に依存した闇属性の２回攻撃を行う\nスキル発動の速度補正が大アップ\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n悪魔イシェケルの嘴\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Devil Ishekel's Beak. Performs a dark attribute double attack\non a single enemy based on attack power and magic power. After\ndevelopment: Speed correction for skill activation is increased.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Devil Ishekel's Beak +1. Performs a dark attribute double\nattack on a single enemy based on attack power and magic power. Small\nincrease in skill activation speed correction. After development:\nIncrease in skill activation speed correction.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Devil Ishekel's Beak +2. Performs a dark attribute double\nattack on a single enemy based on attack power and magic power.\nModerate increase in skill activation speed correction. After\ndevelopment: Increase in skill activation speed correction.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Devil Ishekel's Beak +3 (MAX) Performs a dark attribute double\nattack on a single enemy based on attack power and magic power. The\nspeed correction for skill activation is greatly increased. Further\ndevelopment is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30716,7 +30716,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n悪魔イシェケルの鉤爪\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：悪魔イシェケルの鉤爪\nランダムな敵４体に対して強力な闇属性の攻撃を行う\n威力は使用者の攻撃力と魔法力に依存する\n\n開発後：威力小アップ\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：悪魔イシェケルの鉤爪+1\nランダムな敵４体に対して強力な闇属性の攻撃を行う\n威力は使用者の攻撃力と魔法力に依存する\n\n開発後：威力小アップ\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：悪魔イシェケルの鉤爪+2\nランダムな敵４体に対して強力な闇属性の攻撃を行う\n威力は使用者の攻撃力と魔法力に依存する\n\n開発後：威力小アップ\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：悪魔イシェケルの鉤爪+3（MAX）\nランダムな敵４体に対して強力な闇属性の攻撃を行う\n威力は使用者の攻撃力と魔法力に依存する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n悪魔イシェケルの鉤爪\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Devil Ishekel's Claw - Performs a powerful dark attribute\nattack on 4 random enemies. The power depends on the user's attack and\nmagic power. After development: Slight increase in power.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Devil Ishekel's Claw +1 Performs a powerful dark attribute\nattack on 4 random enemies. The power depends on the user's attack\npower and magic power. After development: Slight increase in power.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Devil Ishekel's Claw +2. Performs a powerful dark attribute\nattack on 4 random enemies. The power depends on the user's attack and\nmagic power. After development: Slight increase in power.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Devil Ishekel's Claw +3 (MAX) Performs a powerful dark\nattribute attack on 4 random enemies. The power depends on the user's\nattack and magic power. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30744,7 +30744,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\nテリオス教徒\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：テリオス教徒\n魔法力が３ポイント増加する\n\n開発後：魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：テリオス教徒+1\n魔法力が５ポイント増加する\n\n開発後：魔法力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：テリオス教徒+2\n魔法力が７ポイント増加する\n\n開発後：魔法力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：テリオス教徒+3（MAX）\n魔法力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\nテリオス教徒\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Terios Disciple - Increases magic power by 3 points. After\ndevelopment: Increases magic power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Terios Disciple +1 Magic Power increases by 5 points. After\ndevelopment: Magic Power increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Terios Devotee +2 Magic Power increases by 7 points. After\ndevelopment: Magic Power increases by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Terios Devotee +3 (MAX) Magic power increases by 10 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30772,7 +30772,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n精神力\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：精神力\n最大MPが３ポイント増加する\n\n開発後：最大MPが５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：精神力+1\n最大MPが５ポイント増加する\n\n開発後：最大MPが10ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：精神力+2\n最大MPが10ポイント増加する\n\n開発後：最大MPが15ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：精神力+3（MAX）\n最大MPが15ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n精神力\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Mental Power - Maximum MP increases by 3 points. After\ndevelopment: Maximum MP increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Mental Power +1 Maximum MP increases by 5 points. After\ndevelopment: Maximum MP increases by 10 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Mental Power +2 Maximum MP increases by 10 points. After\ndevelopment: Maximum MP increases by 15 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Mental Power +3 (MAX) Maximum MP increases by 15 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30800,7 +30800,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n高潔の証\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：高潔の証\n防御力と魔法防御力が１ポイント増加する\n\n開発後：防御力と魔法防御力が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：高潔の証+1\n防御力と魔法防御力が３ポイント増加する\n\n開発後：防御力と魔法防御力が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：高潔の証+2\n防御力と魔法防御力が５ポイント増加する\n\n開発後：防御力と魔法防御力が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：高潔の証+3（MAX）\n防御力と魔法防御力が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n高潔の証\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Proof of Nobility - Increases defense and magic defense by 1\npoint. After development: Increases defense and magic defense by 3\npoints.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Proof of Nobility +1 Defense and Magic Defense increase by 3\npoints. After development: Defense and Magic Defense increase by 5\npoints.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Proof of Nobility +2 Defense and Magic Defense increase by 5\npoints. After development: Defense and Magic Defense increase by 7\npoints.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Proof of Nobility +3 (MAX) Defense and Magic Defense increase\nby 7 points. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30828,7 +30828,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n千鳥足\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：千鳥足\n敏捷性が１ポイント増加する\n\n開発後：敏捷性が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：千鳥足+1\n敏捷性が３ポイント増加する\n\n開発後：敏捷性が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：千鳥足+2\n敏捷性が５ポイント増加する\n\n開発後：敏捷性が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：千鳥足+3（MAX）\n敏捷性が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n千鳥足\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Chidori Step - Agility increases by 1 point. After development:\nAgility increases by 3 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Chidori Step +1. Agility increases by 3 points. After\ndevelopment: Agility increases by 5 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Chidori Step +2 Agility increases by 5 points After\ndevelopment: Agility increases by 7 points\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Chidori Step +3 (MAX) Agility increases by 7 points. Further\ndevelopment is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30856,7 +30856,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n緊急回避\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：緊急回避\n敏捷性が３ポイント増加する\n\n開発後：敏捷性が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：緊急回避+1\n敏捷性が５ポイント増加する\n\n開発後：敏捷性が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：緊急回避+2\n敏捷性が７ポイント増加する\n\n開発後：敏捷性が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：緊急回避+3（MAX）\n敏捷性が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n緊急回避\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n  Skill: Emergency Evasion Agility increases by 3 points. After\ndevelopment: Agility increases by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Emergency Evasion +1. Agility increases by 5 points. After\ndevelopment: Agility increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Emergency Evasion +2. Agility increases by 7 points. After\ndevelopment: Agility increases by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Emergency Evasion +3 (MAX) Agility increases by 10 points.\nFurther development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30885,7 +30885,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n自力救済\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：自力救済\n攻撃力と魔法力が１ポイント増加する\n\n開発後：攻撃力と魔法力が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：自力救済+1\n攻撃力と魔法力が３ポイント増加する\n\n開発後：攻撃力と魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：自力救済+2\n攻撃力と魔法力が５ポイント増加する\n\n開発後：攻撃力と魔法力が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：自力救済+3（MAX）\n攻撃力と魔法力が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n自力救済\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Self-Reliance - Increases attack power and magic power by 1\npoint. After development: Increases attack power and magic power by 3\npoints.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Self Recovery +1. Increases attack and magic power by 3 points.\nAfter development: Increases attack and magic power by 5 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Self-Reliance +2. Increases attack and magic power by 5 points.\nAfter development: Increases attack and magic power by 7 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Self-Reliance +3 (MAX) Attack and magic power increase by 7\npoints. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30913,7 +30913,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n灰色の救済者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：灰色の救済者\n攻撃力と魔法力が１ポイント増加する\n\n開発後：攻撃力と魔法力が３ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：灰色の救済者+1\n攻撃力と魔法力が３ポイント増加する\n\n開発後：攻撃力と魔法力が５ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：灰色の救済者+2\n攻撃力と魔法力が５ポイント増加する\n\n開発後：攻撃力と魔法力が７ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：灰色の救済者+3（MAX）\n攻撃力と魔法力が７ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n灰色の救済者\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Gray Savior - Increases attack power and magic power by 1\npoint. After development: Increases attack power and magic power by 3\npoints.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Gray Savior +1 Increases Attack and Magic Power by 3 points.\nAfter development: Increases Attack and Magic Power by 5 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Gray Savior +2 Increases Attack and Magic Power by 5 points.\nAfter development: Increases Attack and Magic Power by 7 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Gray Savior +3 (MAX) Increases attack power and magic power by\n7 points. Further development is not possible.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -30941,7 +30941,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "元スキル\n聖杖の使い手\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\n対応スキル：聖杖の使い手\n攻撃力が３ポイント増加する\n\n開発後：攻撃力が５ポイント増加する\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\n対応スキル：聖杖の使い手+1\n攻撃力が５ポイント増加する\n\n開発後：攻撃力が７ポイント増加する\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\n対応スキル：聖杖の使い手+2\n攻撃力が７ポイント増加する\n\n開発後：攻撃力が10ポイント増加する\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\n対応スキル：聖杖の使い手+3（MAX）\n攻撃力が10ポイント増加する\n\nこれ以上の開発はできません\n</DOBBY_BACKSKILLINFO3>",
+        "note": "元スキル\n聖杖の使い手\n// レベル0の時の説明欄\n<DOBBY_BACKSKILLINFO0>\nSkill: Holy Staff User - Increases attack power by 3 points. After\ndevelopment: Increases attack power by 5 points.\n</DOBBY_BACKSKILLINFO0>\n// レベル1の時の説明欄\n<DOBBY_BACKSKILLINFO1>\nSkill: Holy Staff User +1 Attack power increases by 5 points. After\ndevelopment: Attack power increases by 7 points.\n</DOBBY_BACKSKILLINFO1>\n// レベル2の時の説明欄\n<DOBBY_BACKSKILLINFO2>\nSkill: Master of the Holy Staff +2 Increases attack power by 7 points.\nAfter development: Increases attack power by 10 points.\n</DOBBY_BACKSKILLINFO2>\n// レベル3の時の説明欄\n<DOBBY_BACKSKILLINFO3>\nSkill: Master of the Holy Staff +3 (MAX) Increases attack power by 10\npoints. Cannot be further developed.\n</DOBBY_BACKSKILLINFO3>",
         "damage": {
             "critical": false,
             "elementId": 0,
