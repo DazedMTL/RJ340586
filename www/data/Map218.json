@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大岩の城 封印の間",
+    "displayName": "Great Rock Castle, Chamber of Sealing",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -7733,14 +7733,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (It seems like there's some mysterious power sealing\nit.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（何か不思議な力で閉じられてるようですね）"
+                                ""
                             ]
                         },
                         {
@@ -8045,7 +8045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　地下施設の最奥に入りますか？"
+                                "Do you want to enter the deepest part of the underground\nfacility?"
                             ]
                         },
                         {
@@ -8091,14 +8091,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -8199,14 +8199,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Everyone, let's go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「皆さん、いきましょう」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "売春島　高級宿2F旗の間",
+    "displayName": "Prostitution Island, Luxury Inn 2F Flag Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3366,14 +3366,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm doing it on Reina-san's request... You are...!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「レイナさんからの依頼でやって……あなたはっ！？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Libra the General Store Owner: I didn't expect to see you\nagain! Today's business negotiations went well, so I'm\nfeeling really lucky!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3404,21 +3442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「また会えるとは思わなかったぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　今日は商談もまとまったし最高にツイてるなぁ！」"
+                                "Libra the General Store Owner: Do you remember? I'm the man\nwho took your virginity!"
                             ]
                         },
                         {
@@ -3429,34 +3453,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「覚えているかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あんたの処女を奪った男さ！」"
+                                ""
                             ]
                         },
                         {
@@ -3496,14 +3496,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: If I had known you were the client, I would have\nrefused."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたが依頼者だと知っていれば断っていましたよ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Libra the General Store Owner: Don't give me that look,\nwe've been intimate before, haven't we? But still... hahaha,\nahahaha!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3534,21 +3572,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Owner Libra: You're just like a prostitute\nafter all! No, you're working on a prostitution island,\nyou're just like a prostitute!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「睨むなよ、身体を重ねた中だろ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それにしても……くくっ、あははははっ！」"
+                                ""
                             ]
                         },
                         {
@@ -3572,21 +3610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「やっぱり売春婦と変わらないな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　いや売春島で働いているんだ、売春婦そのものだよ！」"
+                                "Clea: No, that's not it... I came here strictly on a\nrequest to earn some money for my travels."
                             ]
                         },
                         {
@@ -3597,34 +3621,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「違います……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　私はあくまで路銀を稼ぐための依頼として来ています」"
+                                ""
                             ]
                         },
                         {
@@ -3655,14 +3655,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please don't compare me to those who constantly sell\ntheir bodies."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「常に身体を売る人たちと同じにしないでください」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "General Store Owner Libra: So you're determined to deny it,\nhuh? If you need travel expenses, how about you compete with\nme?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3693,21 +3731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あくまで否定するつもりなわけだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　そうだ、路銀が必要なら俺と勝負しないか？」"
+                                "General Store Owner Libra: Let's make a simple bet. If you\nlose, you'll have to pay double the fee."
                             ]
                         },
                         {
@@ -3718,34 +3742,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「簡単な勝負さ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　お前がイカなければ倍の料金を支払う」"
+                                ""
                             ]
                         },
                         {
@@ -3776,14 +3776,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Are those really the only conditions...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「条件は本当にそれだけですか……？」"
+                                ""
                             ]
                         },
                         {
@@ -3814,21 +3814,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Owner Libra: As a merchant, I don't lie.\nLet's stop the chit-chat here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「商人として嘘はつかない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁ、おしゃべりはここまでにしようぜ」"
+                                ""
                             ]
                         },
                         {
@@ -3959,7 +3959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -4356,21 +4356,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Libra: You're still here? You claim to be an\nadventurer, but you just look like a prostitute to me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「まだここにいたのか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　冒険者を自称しているが売春婦にしか見えないぜ？」"
+                                ""
                             ]
                         },
                         {
@@ -4397,14 +4397,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Libra: Even merchants need to take a break,\ndon't you think?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「商人にも息抜きが必要さ、そうだろう？」"
+                                ""
                             ]
                         },
                         {
@@ -4711,7 +4711,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -4973,14 +4973,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Libra: I'm glad you came back again!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「また来てくれるとは嬉しいねぇ！」"
+                                ""
                             ]
                         },
                         {
@@ -5011,14 +5011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Libra: Now, let's start a fun match!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、楽しい勝負をはじめよう」"
+                                ""
                             ]
                         },
                         {

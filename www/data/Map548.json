@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "武闘の街ジナミ 傭兵団の借家",
+    "displayName": "Jinami, the City of Martial Arts - Mercenary Corps' Rental House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5934,14 +5934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Um, are you okay...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの、大丈夫ですか……？」"
+                                ""
                             ]
                         },
                         {
@@ -6059,21 +6059,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　見習い剣士オート"
+                                "Novice Swordsman Auto: Eeek!? Ah, ah, it's Clea-san and the\nothers..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひぃっ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あ、あぁ、クレアさんたちでしたか……」"
+                                ""
                             ]
                         },
                         {
@@ -6104,14 +6104,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: This is more serious than I thought..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは思った以上に重症ですね……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Novice Swordsman Auto: I've lost in battles many times and\nthere have been moments where I was almost killed."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6142,21 +6180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　見習い剣士オート"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「試合で何度も負けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　危うく殺されかけるようなこともありました」"
+                                "Novice Swordsman Auto: I heard rumors that there are\nparticipants who take pleasure in killing people in the\narena."
                             ]
                         },
                         {
@@ -6167,34 +6191,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　見習い剣士オート"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「闘技場という場所をいいことに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　快楽で人を殺す参加者がいると噂で聞いて」"
+                                ""
                             ]
                         },
                         {
@@ -6225,14 +6225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: So, you can't stop trembling?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それから震えが止まらないわけですか」"
+                                ""
                             ]
                         },
                         {
@@ -6263,21 +6263,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　見習い剣士オート"
+                                "Novice Swordsman Auto: I've already decided to participate\nin tomorrow's match. But if my opponent is a pleasure\nkiller... just thinking about it..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もう明日の試合には参加が決定しています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もし相手が快楽殺人者だったら……そう思うと……」"
+                                ""
                             ]
                         },
                         {
@@ -6308,21 +6308,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I understand. Please take a sword right away."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いますぐに剣をとってください」"
+                                ""
                             ]
                         },
                         {
@@ -6389,14 +6389,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: D-Doing something like that would have the\nopposite effect, you know!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、そんなことしたら逆効果ですよぉ！」"
+                                ""
                             ]
                         },
                         {
@@ -6434,21 +6434,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: If you said you want to become a splendid mercenary\nlike your father, then risking your life should be something\nyou do on a daily basis."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「父親のような立派な傭兵になりたいと聞きました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　なら命をかけることは日常的にやってくるはずです」"
+                                ""
                             ]
                         },
                         {
@@ -6479,14 +6479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Or are you giving up on becoming a mercenary?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それとも傭兵は諦めますか？」"
+                                ""
                             ]
                         },
                         {
@@ -6517,21 +6517,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　見習い剣士オート"
+                                "Novice Swordsman Auto: I-I can't do that. I want to become\na man like my father or Gale-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、それはできません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺は親父やゲイルさんみたいな男になりたい」"
+                                ""
                             ]
                         },
                         {
@@ -6562,21 +6562,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Then let's fight. I'll remind you of the path your\nheart should be heading towards."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なら戦いましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　心が向かうべき先を思い出させてみせます」"
+                                ""
                             ]
                         },
                         {
@@ -6822,14 +6822,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Will you have a duel with the apprentice swordsman, Auto?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　見習い剣士オートと決闘を行いますか？"
+                                ""
                             ]
                         },
                         {
@@ -6868,14 +6868,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　見習い剣士オート"
+                                "Apprentice swordsman Auto: I would be happy if I didn't\nhave to fight..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「戦わなくていいなら嬉しいですが……」"
+                                ""
                             ]
                         },
                         {
@@ -6926,21 +6926,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please come at me seriously, Auto-san, without\nholding back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「手加減なしでいきます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　オートさんも本気で来てください」"
+                                ""
                             ]
                         },
                         {
@@ -6964,14 +6964,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　見習い剣士オート"
+                                "Apprentice swordsman Auto: This is completely different\nfrom before... The pressure is incredible...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「前の時とは全然違う……圧がすごい……！」"
+                                ""
                             ]
                         },
                         {
@@ -7564,14 +7564,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I win."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「私の勝ちですね」"
+                                ""
                             ]
                         },
                         {
@@ -7609,14 +7609,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Hey, what do you want!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「ちょっと何がしたいんですかっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -7654,14 +7654,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, I'm sure Clea-chan has something in\nmind."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「うふふ、クレアちゃんに考えがあるはずですわ」"
+                                ""
                             ]
                         },
                         {
@@ -7699,14 +7699,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: ...I think."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「……たぶんですけど」"
+                                ""
                             ]
                         },
                         {
@@ -7737,21 +7737,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　見習い剣士オート"
+                                "Apprentice swordsman Auto: I really can't do anything... I\ncan never become like my father, who was so confident..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「やっぱり俺は何もできないんだ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　　自信満々だった親父のようには絶対になれない……」"
+                                ""
                             ]
                         },
                         {
@@ -7791,21 +7791,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I want to use rough treatment. Please leave me alone\nwith Auto-san until tomorrow morning."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「荒療治をしたいと思います"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　　明日の朝までオートさんとふたりにしてください」"
+                                ""
                             ]
                         },
                         {
@@ -7836,14 +7836,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I-Is this going to be even rougher treatment!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「こ、これ以上の荒療治ですかぁ！？」"
+                                ""
                             ]
                         },
                         {
@@ -7881,21 +7881,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please don't worry. I want you to understand my\ndetermination as an adventurer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「心配しないでください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　　私の冒険者としての覚悟を知ってもらいます」"
+                                ""
                             ]
                         },
                         {
@@ -8036,14 +8036,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Are you okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「身体は大丈夫ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -8074,14 +8074,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　見習い剣士オート"
+                                "Apprentice swordsman Auto: Yes, my strong point is\ndurability."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「はい、頑丈さが取り柄なので」"
+                                ""
                             ]
                         },
                         {
@@ -8119,14 +8119,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is that so? Then please move to the bed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「そうですか、ではベッドまで移動してください」"
+                                ""
                             ]
                         },
                         {
@@ -8157,14 +8157,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　見習い剣士オート"
+                                "Apprentice swordsman Auto: I understand, I will follow\nyour instructions, even if it means resting like that..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「そんな休むほどでは……わかりました、従います」"
+                                ""
                             ]
                         },
                         {
@@ -8306,7 +8306,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -8574,14 +8574,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I will keep going until I win, I will never give up."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「私が勝つまでやります、絶対に諦めません」"
+                                ""
                             ]
                         },
                         {
@@ -8654,14 +8654,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　見習い剣士オート"
+                                "Apprentice swordsman Auto: To think I would have to fight\nagain..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「また戦うことになるなんて……」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ王宮エントランス",
+    "displayName": "Photizona Royal Palace Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4056,14 +4056,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I have to go and meet with King Lex)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（レクス王に謁見しにいかなくては）"
+                                ""
                             ]
                         },
                         {
@@ -4748,14 +4748,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Do you want to proceed even though we can hear a noise from\ninside?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　奥で物音が聞こえますが進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -4801,14 +4801,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I feel an incredibly strong fighting spirit...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（とてつもなく強い闘気を感じる……）"
+                                ""
                             ]
                         },
                         {
@@ -5046,14 +5046,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's keep our promise with Atu-san...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（アトゥさんとの約束は守りましょう……）"
+                                ""
                             ]
                         },
                         {
@@ -5499,21 +5499,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: We are conducting a hunt for remnants!\nPlease stay with King Rex, heroes!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「残党狩りを行っております！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　英雄の皆様はどうかレクス王と共にいてください！」"
+                                ""
                             ]
                         },
                         {
@@ -5581,21 +5581,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: I apologize for the inconvenience, but\nKing Rex is currently undergoing repairs. Please proceed to\nthe King's Chamber and wait for him there."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「申し訳ございませんが修復を行っております"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　レクス王がお待ちですので王の間に向かわれてください」"
+                                ""
                             ]
                         },
                         {
@@ -6154,21 +6154,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis, the Gale: Just to be safe, let's regroup. The palace\nis vast... we don't know what might be waiting for us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「念のため合流しておこう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王宮内は広い……何があるかわからない」"
+                                ""
                             ]
                         },
                         {
@@ -6244,14 +6244,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much, let's fight together."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます、一緒に戦いましょう」"
+                                ""
                             ]
                         },
                         {
@@ -6289,14 +6289,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis, the Gale: Yeah, together."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うん、一緒に」"
+                                ""
                             ]
                         },
                         {
@@ -6363,14 +6363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL Clea has acquired \\C[14] support skill Sword Technique:\nGale \\C[0] and can now use it. \\|"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLクレアが\\C[14]援護スキル「剣技：疾風」\\C[0]を利用可能になった\\|"
+                                ""
                             ]
                         },
                         {
@@ -6415,21 +6415,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (There are people who responded to the call to fight\ntogether.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（一緒に戦う"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　その呼びかけに応じて来てくれた人たちがいる）"
+                                ""
                             ]
                         },
                         {
@@ -6460,14 +6460,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (If that's the case...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（だったら……）"
+                                ""
                             ]
                         },
                         {
@@ -6505,14 +6505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Um--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの――」"
+                                ""
                             ]
                         },
                         {
@@ -6550,14 +6550,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sophia the Priestess: I understand, everyone shares the\nsame feelings."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかっていますわ、みんな想いは同じ」"
+                                ""
                             ]
                         },
                         {
@@ -6604,14 +6604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I want to fight together with the captain and\neveryone!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「団長たちと一緒に戦いたいですっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6649,21 +6649,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I don't think we'll fall behind, but since we've\ncalled out to them, let's join up with the people who\nresponded!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクたちが遅れを取るとは思いませんが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　せっかくですから声をかけた人たちと合流しましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -6694,14 +6694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Everyone has different feelings, but we all wish for\npeace."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それぞれ想いは違いますが全員平和を願っています」"
+                                ""
                             ]
                         },
                         {
@@ -6746,21 +6746,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Dragons are enemies that we should defeat. Let's all\ngo to the rooftop together, as everyone who said they would\ncooperate."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンは【私たち】が倒すべき存在です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　協力すると言ってくれた全員で屋上にいきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -7560,21 +7560,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Gale: Just to be safe, let's regroup. The\npalace is vast... we don't know what might be waiting for\nus."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「念のため合流しておこう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王宮内は広い……何があるかわからない」"
+                                ""
                             ]
                         },
                         {
@@ -7650,14 +7650,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much, let's fight together."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます、一緒に戦いましょう」"
+                                ""
                             ]
                         },
                         {
@@ -7695,14 +7695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Gale: Yeah, together."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うん、一緒に」"
+                                ""
                             ]
                         },
                         {
@@ -7769,14 +7769,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL Clea has acquired the support skill Sword Technique:\nGale \\C[0] and can now use it \\|."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLクレアが\\C[14]援護スキル「剣技：疾風」\\C[0]を利用可能になった\\|"
+                                ""
                             ]
                         },
                         {
@@ -7821,21 +7821,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (There are people who responded to the call to fight\ntogether)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（一緒に戦う"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　その呼びかけに応じて来てくれた人たちがいる）"
+                                ""
                             ]
                         },
                         {
@@ -7866,14 +7866,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (If that's the case...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（だったら……）"
+                                ""
                             ]
                         },
                         {
@@ -7911,14 +7911,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Um--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの――」"
+                                ""
                             ]
                         },
                         {
@@ -7956,14 +7956,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I understand, everyone shares the same\nfeelings."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかっていますわ、みんな想いは同じ」"
+                                ""
                             ]
                         },
                         {
@@ -8010,14 +8010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I want to fight together with the captain and\neveryone!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「団長たちと一緒に戦いたいですっ！」"
+                                ""
                             ]
                         },
                         {
@@ -8055,21 +8055,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I don't think we'll fall behind, but since we've\nalready called out to them, let's join up with the people\nwho responded!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクたちが遅れを取るとは思いませんが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　せっかくですから声をかけた人たちと合流しましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -8100,14 +8100,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Everyone has different thoughts, but we all wish for\npeace."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それぞれ想いは違いますが全員平和を願っています」"
+                                ""
                             ]
                         },
                         {
@@ -8152,21 +8152,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Dragons are beings that we should defeat. Let's go to\nthe rooftop with everyone who said they would cooperate."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンは【私たち】が倒すべき存在です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　協力すると言ってくれた全員で屋上にいきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -9193,21 +9193,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: It's not over yet, but thanks to that, the\nbiggest problem has been resolved."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まだ終わってはいないが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　おかげでもっとも大きな問題は片付いた」"
+                                ""
                             ]
                         },
                         {
@@ -9238,21 +9238,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: Thanks to all of you, I will formally invite\nyou to the royal palace at a later date."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たちのおかげだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　後日、正式に王宮に招かせてもらう」"
+                                ""
                             ]
                         },
                         {
@@ -9283,14 +9283,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, it's an honor."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、光栄です」"
+                                ""
                             ]
                         },
                         {
@@ -9328,14 +9328,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: I will declare the subjugation of Caron in\nfront of the royal palace, and I want all of you to come\nwith me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王宮前でカロン討伐を宣言する、君たちも一緒に来て欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -9373,14 +9373,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Which side are Lloyd-san and Amina-san\non...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ルイドさんとアミナさんはどちらに……」"
+                                ""
                             ]
                         },
                         {
@@ -9418,14 +9418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: Don't worry, I have already instructed the\nsoldiers to gather."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「心配しなくていい、兵たちを集めるように伝えてある」"
+                                ""
                             ]
                         },
                         {
@@ -9449,14 +9449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: Now, the soldiers are waiting."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、兵たちが待っている」"
+                                ""
                             ]
                         },
                         {
@@ -10004,14 +10004,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (One of the guards disappeared...?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（衛兵がひとり消えた……？）"
+                                ""
                             ]
                         },
                         {
@@ -10361,21 +10361,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: We are conducting a hunt for remnants!\nPlease stay with King Rex, heroes!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「残党狩りを行っております！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　英雄の皆様はどうかレクス王と共にいてください！」"
+                                ""
                             ]
                         },
                         {
@@ -10554,21 +10554,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: We are conducting a hunt for remnants!\nPlease stay with King Rex, heroes!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「残党狩りを行っております！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　英雄の皆様はどうかレクス王と共にいてください！」"
+                                ""
                             ]
                         },
                         {
@@ -10687,21 +10687,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: I apologize for the inconvenience, but\nKing Rex is currently undergoing repairs. Please proceed to\nthe King's Chamber and wait for him there."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「申し訳ございませんが修復を行っております"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　レクス王がお待ちですので王の間に向かわれてください」"
+                                ""
                             ]
                         },
                         {
@@ -11210,14 +11210,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: The scars of battle still remain, don't they?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まだ戦いの傷跡が残っていますね」"
+                                ""
                             ]
                         },
                         {
@@ -11255,21 +11255,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: King Lex didn't have to invite us to the royal\npalace in such a hurry, did he?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「レクス王もこんなに急いで"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクたちを王宮に招かなくてもよかったのに」"
+                                ""
                             ]
                         },
                         {
@@ -11300,21 +11300,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: It seems like you're already very busy,\nso I suppose that's why we were called here now..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すでにご多忙のようですから"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いまのうちに……ということなのでしょう」"
+                                ""
                             ]
                         },
                         {
@@ -11361,21 +11361,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Oh, Nora-chan, is there something\nbothering you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あら、ノラちゃん"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何か気になることでもあるのかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -11406,21 +11406,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I feel like I'm forgetting something... Hmm...\nI'll let you know once I remember!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何か忘れているような……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　う〜ん……思い出したらお話します！」"
+                                ""
                             ]
                         },
                         {
@@ -11451,14 +11451,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Well then, let's go meet King Lex."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それではレクス王に謁見しにいきましょう」"
+                                ""
                             ]
                         },
                         {

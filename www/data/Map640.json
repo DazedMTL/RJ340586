@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "イシェケルの檻",
+    "displayName": "Ishekel's Cage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4824,14 +4824,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to continue pursuing Court Magician Eratoma?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　宮廷魔術師エラトマをさらに追いかけますか？"
+                                ""
                             ]
                         },
                         {
@@ -4877,14 +4877,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then decide)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -5898,14 +5898,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Sophia-san, please calm down!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ソフィアさん、落ち着いてください！」"
+                                ""
                             ]
                         },
                         {
@@ -5943,21 +5943,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I've always felt that something was off. There must\nbe something we don't know..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ずっと様子が変だと思っていました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何かあるはずです……私たちの知らない何かが」"
+                                ""
                             ]
                         },
                         {
@@ -6004,14 +6004,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: That is... I...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは、あなたたちを、私は……！」"
+                                ""
                             ]
                         },
                         {
@@ -6303,14 +6303,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　放蕩貴族ルイド"
+                                "Lewd, the Profligate Noble: Hey hey, meeting in a place\nlike this!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やぁやぁ、こんなところで会うなんて！」"
+                                ""
                             ]
                         },
                         {
@@ -6348,14 +6348,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　放蕩貴族ルイド"
+                                "Lewd, the Profligate Noble: Did you come to see me, by any\nchance?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もしかして僕に会いに来てくれたのかな？」"
+                                ""
                             ]
                         },
                         {
@@ -6393,14 +6393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: I think it's a big misunderstanding, Master."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大きな勘違いだと思いますよ、ご主人様」"
+                                ""
                             ]
                         },
                         {
@@ -6438,14 +6438,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Why are we in a place like this..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうして、こんなところに……」"
+                                ""
                             ]
                         },
                         {
@@ -6483,21 +6483,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Excuse us, may we pass? We have some\nbusiness with the man who fled to the back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どいてもらっていいかしら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わたくしたちは奥に逃げた男に用事があるのです」"
+                                ""
                             ]
                         },
                         {
@@ -6528,21 +6528,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　放蕩貴族ルイド"
+                                "Lewd, the Profligate Noble: Amina, tell me! When was the\nlast time I was glared at with such a scary face?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アミナ、教えてくれっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんなに怖い顔で睨まれたのはいつ以来だい？」"
+                                ""
                             ]
                         },
                         {
@@ -6573,21 +6573,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: Yes, Master. It's been since the incident at\nBeach Lepton where I failed to seduce a female customer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、ご主人様"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ビーチ・レプトンで女性客を口説くのに失敗して以来です」"
+                                ""
                             ]
                         },
                         {
@@ -6618,14 +6618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Don't joke around!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ふざけないでっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6694,21 +6694,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　放蕩貴族ルイド"
+                                "Lewd, the Profligate Noble: What a waste of a beautiful\nwoman. Beautiful people should always be smiling, don't you\nthink?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「せっかくの美人が台無しだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　やっぱり美しい人は笑っている方がいいよね」"
+                                ""
                             ]
                         },
                         {
@@ -6739,14 +6739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　放蕩貴族ルイド"
+                                "Lewd, the Profligate Noble: By the way... do you recognize\nthis emblem?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ところで……この紋章に見覚えがないかな？」"
+                                ""
                             ]
                         },
                         {
@@ -6819,14 +6819,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: The three-legged... hawk emblem..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「三本足の……鷹の紋章……」"
+                                ""
                             ]
                         },
                         {
@@ -6873,14 +6873,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Why... Could it be...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんで……まさか……！」"
+                                ""
                             ]
                         },
                         {
@@ -6918,21 +6918,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　放蕩貴族ルイド"
+                                "Lewd, the Profligate Noble: We are sinners who wield short\nswords in the darkness for the same master as you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「僕たちはあなたと同じ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　主のために暗がりで短刀を振るう罪人」"
+                                ""
                             ]
                         },
                         {
@@ -6963,14 +6963,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Dark Faction Lewd: That's right, isn't it..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうですよね……」"
+                                ""
                             ]
                         },
                         {
@@ -7008,14 +7008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Dark Faction Lewd: Alicia-san?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アリシアさん？」"
+                                ""
                             ]
                         },
                         {
@@ -7062,14 +7062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Everyone, run away! This man is--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「みんな逃げて、この男は――」"
+                                ""
                             ]
                         },
                         {
@@ -7410,21 +7410,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Dark Faction Lewd: As expected, the power to\ndefeat a dragon. This can be considered a threat."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さすがの強さだね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ドラゴンを倒すちから、これは脅威と言っていい」"
+                                ""
                             ]
                         },
                         {
@@ -7455,21 +7455,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Dark Faction Lewd: Well, the time for stalling is\nover, and there hasn't been an order to kill you all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さて、時間稼ぎは終わったし"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　君たちを殺せという命令も出ていない」"
+                                ""
                             ]
                         },
                         {
@@ -7500,14 +7500,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　帝国暗部アミナ"
+                                "Imperial Dark Faction Amina: ......"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「……」"
+                                ""
                             ]
                         },
                         {
@@ -7545,14 +7545,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Dark Faction Lewd: Let's meet again, Alicia-\nsenpai."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「また会いましょうね、アリシア先輩」"
+                                ""
                             ]
                         },
                         {
@@ -7902,21 +7902,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's chase after them. I still can't believe it...\nThey pointed their swords at us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「追いかけましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　いまだに信じられませんが……剣を向けてきた」"
+                                ""
                             ]
                         },
                         {
@@ -7947,21 +7947,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Of course! Those people could be the suspects of\nthe incident!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「当然ですよっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あの人たちが事件の犯人の可能性がありますからっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7992,14 +7992,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: She was so kind... why... *sniff* why..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あんなに優しかったのに……うぅ、どうして……」"
+                                ""
                             ]
                         },
                         {
@@ -8251,14 +8251,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Sophia-san, please come too!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ソフィアさんも来てください！」"
+                                ""
                             ]
                         },
                         {
@@ -8296,14 +8296,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I, ah, why..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「私は、あぁ、どうして……」"
+                                ""
                             ]
                         },
                         {
@@ -8341,21 +8341,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's leave the conversation for later. Right now,\nit's important to chase after them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「話はあとにしましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　いまは彼らを追いかけるのが重要です」"
+                                ""
                             ]
                         },
                         {
@@ -8919,21 +8919,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Dark Faction Lewd: Dealing with acquaintances...\nsigh, this kind of job really brings me down."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「知り合いを相手にする……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　はぁ、こういう仕事は気が滅入るよね」"
+                                ""
                             ]
                         },
                         {
@@ -8964,14 +8964,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Dark Faction Lewd: You probably think that way,\nAlicia-senpai, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「君をそう思うだろ、アリシア先輩？」"
+                                ""
                             ]
                         },
                         {
@@ -9009,21 +9009,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: W-Who are you... and why... when I was in\nIshaker... why..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あ、あなたはいったい……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　私がイシェケルにいた時は……なんで」"
+                                ""
                             ]
                         },
                         {
@@ -9054,21 +9054,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Dark Faction Lewd: There were various things that\nhappened within the organization because you all left on\nyour own."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「君たちが勝手に抜けたから"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　組織内でいろいろとあったんだよね」"
+                                ""
                             ]
                         },
                         {
@@ -9099,21 +9099,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Dark Faction Lewd: Well, you have a role of\nshowing the fate of those who acted on their own."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「まぁ、君だけには役割があるんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　勝手をした人間の末路を見せる役割がね」"
+                                ""
                             ]
                         },
                         {
@@ -9144,21 +9144,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Dark Faction Lewd: Now, let's return to the dimly\nlit place. It's just the time for you to experience what you\ndid in the past."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さぁ、薄暗い場所に戻ろうか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　君が過去にやったことをやられる時が来ただけさ」"
+                                ""
                             ]
                         },
                         {

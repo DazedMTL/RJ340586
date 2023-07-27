@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "倉庫",
+    "displayName": "Warehouse",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -19382,14 +19382,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "\\CL Are you giving up on organizing?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CL整理をあきらめますか？"
+                                ""
                             ]
                         },
                         {

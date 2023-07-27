@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ王宮前",
+    "displayName": "Fotizona Royal Palace Front",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -12241,21 +12241,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アグノス王近衛兵"
+                                "Agnos Royal Guardsman: The King Agnos is going to battle!\nOur king is with us! Oh king of the empire, the king who\nfights!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アグノス王のご出陣！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　我らの王は、我らと共に！　帝国の王よ、戦う王よ！」"
+                                ""
                             ]
                         },
                         {
@@ -12940,14 +12940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少年レクス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お父様はどちらに向かわれたのでしょうか？」"
+                                "Young Rex: Which way did my father go?"
                             ]
                         },
                         {
@@ -12955,37 +12948,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　王妃レウコス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「アグノス様は帝国の平和のため戦いに向かわれたのです」"
                             ]
                         },
                         {
@@ -13016,21 +12978,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少年レクス"
+                                "Queen Leucos: King Agnos has gone to battle for the peace\nof the empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お母様は、戦いは野蛮なことだと仰っていました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お父様の戦いと野蛮な戦いに何か違いはあるのでしょうか？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Young Rex: Mother said that battles are savage. Is there\nany difference between my father's battles and savage\nbattles?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13063,21 +13063,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃レウコス"
+                                "Queen Leucos: The royal family refers to those who offer\nprayers to the main god, Sol. We have the duty to protect\npeace as representatives of Sol."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王族は主神ソールに祈りを捧げる者たちのことを指します"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちはソールの代行者として平和を守る義務があるのです」"
+                                ""
                             ]
                         },
                         {
@@ -13101,21 +13101,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃レウコス"
+                                "Queen Leucos: Fotizona is a word that means light... We\nmust deliver light to the world."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「フォティゾナは光を意味する言葉……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちは世界に、あまねく光を届けなくてはなりません」"
+                                ""
                             ]
                         },
                         {
@@ -13139,21 +13139,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃レウコス"
+                                "Queen Leucos: King Agnos' battles are battles that\nilluminate the empire, battles that vanquish the minions of\ndarkness that shroud the empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アグノス様の戦いは帝国を照らす戦い"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国を影で覆う悪魔の手先を討伐するものなのです」"
+                                ""
                             ]
                         },
                         {
@@ -13186,21 +13186,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃レウコス"
+                                "Queen Leucos: Now, let us go to the Atomis Temple and pray\ntogether for the victory of King Agnos, for the victory of\nthe empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、アトミス神殿にいきましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アグノス様の勝利を、帝国の勝利を共に祈るのです」"
+                                ""
                             ]
                         },
                         {
@@ -13231,6 +13231,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Rex's mother, Leucos, was a devout follower of the Terios\nreligion. Deep down, she harbored bitter feelings towards\nher husband, Agnos, who engaged in repeated battles. As a\nresult, she raised Rex with the expectation of him becoming\na tolerant and benevolent king."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13238,21 +13245,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクスの母レウコスはテリオス教の敬虔な信者だった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　内心では戦いを繰り返す、夫アグノスを苦々しく思っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのため、レクスには寛容なる王の姿を期待して教育をした。"
+                                ""
                             ]
                         },
                         {
@@ -13269,6 +13269,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "King Agnos found his wife, who immersed herself in\nfantasies, to be distasteful. He believed that being at the\nforefront of the battlefield was the traditional image of a\nking. Therefore, he educated Rex with the expectation of him\nbecoming a brave and valiant king."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13276,21 +13283,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アグノス王は空想に浸る妻を疎ましく思っていた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦場で先駆けとなるのが、伝統的な王の姿と信じていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのため、レクスには勇猛なる王の姿を期待して教育をした。"
+                                ""
                             ]
                         },
                         {
@@ -13307,6 +13307,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Mother said that there is nothing more important than life.\nFather said that there is something more important than\nlife. Rex's personality is formed within the contradiction\nof these two values."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13314,21 +13321,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　母は命よりも大切なものはないと言った。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　父は命よりも大切なものがあると言った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクスの人格は矛盾するふたつの価値観の中で形成されていく。"
+                                ""
                             ]
                         },
                         {
@@ -13345,6 +13345,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "However, in general, my mother's teachings were dominant. I\nhad more opportunities to interact with my mother than with\nmy father, who often left the palace. It was because Rex\nhimself believed that peaceful resolutions were better."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13352,21 +13359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ただし、基本的には母の教えが優位であった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮を出ることが多い父よりも母と接する機会が多く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクス自身が平和的な解決の方が良いと考えていたからだ。"
+                                ""
                             ]
                         },
                         {
@@ -13383,6 +13383,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "However, Rex, like his father, also inherited the blood of a\nking. The blood of a king that flows between two conflicting\nvalues. The blood of a king slowly but surely seeped into\nRex's personality."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13390,21 +13397,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　しかし、レクスも父と同じく王の血を引き継いだ者だった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ふたつの矛盾する価値観の間を流れていく王の血。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　王の血は確実にレクスの人格にゆっくりと染み込んでいった。"
+                                ""
                             ]
                         },
                         {
@@ -13421,6 +13421,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Within Rex, a monster was beginning to be born. Unbeknownst\nto Rex, it was gradually growing larger, fueled by the blood\nof a king."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13428,14 +13435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクスの中で怪物が生まれつつあった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それはレクスが気が付かない間に王の血をすすり巨大化していく。"
+                                ""
                             ]
                         },
                         {

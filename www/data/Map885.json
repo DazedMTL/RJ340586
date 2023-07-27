@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "イシェケルの檻",
+    "displayName": "Ishekel's Cage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4065,21 +4065,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　勇者"
+                                "Hero: O foolish king of Sol's little sun, receive the\nheavenly judgment!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ソールの小さな太陽よ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　愚者たちの王に天上の裁きをっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4129,14 +4129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　勇者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「はぁはぁ……」"
+                                "Hero: Haa... haa..."
                             ]
                         },
                         {
@@ -4144,37 +4137,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勇者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「不死の悪魔……何をしても命は奪えないか」"
                             ]
                         },
                         {
@@ -4205,21 +4167,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不死の悪魔アメドール"
+                                "Hero: The immortal demon... no matter what I do, I can't\ntake your life, huh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「無駄なことだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　不死の身にとって攻撃そのものが意味をなさぬ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Immortal demon Amedol: It's futile. Attacks themselves hold\nno meaning for one who is immortal."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4313,21 +4313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不死の悪魔アメドール"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「何度も手を合わせたのだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　互いに決め手に欠けることはわかっているだろう？」"
+                                "Immortal demon Amedol: We have clashed countless times, and\nsurely you understand that we both lack a decisive blow,\ndon't you?"
                             ]
                         },
                         {
@@ -4335,30 +4321,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勇者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「……」"
                             ]
                         },
                         {
@@ -4389,14 +4351,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不死の悪魔アメドール"
+                                "Hero: ......"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前は忌々しい存在だが忘れることはないだろう」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Immortal demon Amedol: You are a detestable existence, but\nyou will not be forgotten."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4427,21 +4427,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不死の悪魔アメドール"
+                                "Immortal demon Amedol: Memories are wounds. Because of the\ncountless wounds, neither you nor I can forget each other."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「記憶とは傷なのだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　数多の傷故にお前も我も互いを忘れることは出来ない」"
+                                ""
                             ]
                         },
                         {
@@ -4465,21 +4465,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不死の悪魔アメドール"
+                                "Immortal demon Amedol: This Amedol will ravage the world! I\nwill etch eternal memories of fear into you humans."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「このアメドールは世界を蹂躙する！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　人間どもに永遠に恐怖の記憶を刻みつけてやる」"
+                                ""
                             ]
                         },
                         {
@@ -4503,21 +4503,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不死の悪魔アメドール"
+                                "Immortal demon Amedol: Those seeking revenge against Sol\nwill come to recognize and remember me, starting with you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それがソールに対する復讐だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　奴も我をはじめて認識し記憶することになるだろう」"
+                                ""
                             ]
                         },
                         {
@@ -4541,14 +4541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不死の悪魔アメドール"
+                                "Immortal demon Amedol: Here I come, detestable messenger of\nlight!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いくぞ、忌々しき光の使いよ！」"
+                                ""
                             ]
                         },
                         {
@@ -4600,14 +4600,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　勇者"
+                                "Hero: ......!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……っ！」"
+                                ""
                             ]
                         },
                         {
@@ -4677,14 +4677,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不死の悪魔アメドール"
+                                "Immortal demon Amedol: Still have the will to fight, huh?\nHowever--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まだやる気かっ、しかし――」"
+                                ""
                             ]
                         },
                         {
@@ -4724,14 +4724,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不死の悪魔アメドール"
+                                "Immortal demon Amedol: Ngh!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ぬぅっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -4774,14 +4774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　勇者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「確かに、私にお前は殺せない」"
+                                "Hero: Indeed, you cannot kill me."
                             ]
                         },
                         {
@@ -4789,37 +4782,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勇者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「だが……」"
                             ]
                         },
                         {
@@ -4850,14 +4812,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　勇者"
+                                "Hero: However..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前にお前は殺せるはずだ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hero: I should be able to kill you."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4983,21 +4983,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　勇者"
+                                "Hero: Immortal demon, I will continue to kill you until you\nkill yourself."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「不死の悪魔よ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前がお前を殺すまで、殺し続けてやる」"
+                                ""
                             ]
                         },
                         {
@@ -5038,38 +5038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勇者は女神イミセリノスに導かれ旅をした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その中で数多くの人間たちと交流を行った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "The hero, guided by the goddess Imiserinos, embarked on a\njourney. During that journey, they interacted with numerous\nhumans."
                             ]
                         },
                         {
@@ -5083,14 +5052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　時に友人として、戦友として、粛清対象として。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その交流が後に数多くの伝説を残していくことになる。"
+                                ""
                             ]
                         },
                         {
@@ -5114,38 +5076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勇者の伝説は必ず悪魔との戦いを中心に語られる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　特に悪魔の長であるアメドールの話は広く知られ愛された。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "At times as friends, comrades in battle, and targets of\nextermination. Those interactions would later leave behind\nnumerous legends."
                             ]
                         },
                         {
@@ -5159,14 +5090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　なぜなら、アメドールが最後の悪魔であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　72柱の悪魔との戦いに終止符を打つものだったからだ。"
+                                ""
                             ]
                         },
                         {
@@ -5190,38 +5114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勇者になってから数百年。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少年だった頃の勇者を知る者は誰一人存在していない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勇者を健気に待っていた者たちも死に絶えた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "The legend of the hero is always centered around the battle\nwith demons. In particular, the story of Amedol, the leader\nof the demons, is widely known and loved."
                             ]
                         },
                         {
@@ -5235,14 +5128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　そして、そこには【自分自身】も含まれていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勇者は何者かもわからずひたすらに【役割】を果たし続けた。"
+                                ""
                             ]
                         },
                         {
@@ -5266,6 +5152,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Because Amedol was the final demon, and it was the one that\nput an end to the battle with the 72 demons."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5273,14 +5166,121 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　勝利の余韻も感動もない。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　女神に命じられるがまま生き残りたちを殺害してまわった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Several hundred years have passed since becoming a hero.\nThere is not a single person who knows the hero from their\nchildhood days. Those who eagerly awaited the hero have also\nperished."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And among them was [myself]. The hero continued to fulfill\ntheir [role] without knowing who they really were."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "There was no sense of victory or excitement. They were\nordered by the goddess and went around killing the\nsurvivors."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔獣の住処",
+    "displayName": "Den of Demonic Beasts",
     "encounterList": [],
     "encounterStep": 30,
     "height": 65,
@@ -11900,14 +11900,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　諦めますか？"
+                                "Will you give up? If you choose 'yes', you will exit the\ndungeon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　※「はい」を選ぶとダンジョンの外に出ます"
+                                ""
                             ]
                         },
                         {
@@ -12252,14 +12252,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　諦めますか？"
+                                "Will you give up? If you choose 'yes', you will exit the\ndungeon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　※「はい」を選ぶとダンジョンの外に出ます"
+                                ""
                             ]
                         },
                         {
@@ -12604,14 +12604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　諦めますか？"
+                                "Will you give up? If you choose 'yes', you will exit the\ndungeon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　※「はい」を選ぶとダンジョンの外に出ます"
+                                ""
                             ]
                         },
                         {
@@ -14493,14 +14493,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -14622,14 +14622,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　やり直しますか？"
+                                "Do you want to start over? If you choose 'No', you will\nexit the dungeon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　※「いいえ」を選ぶとダンジョンの外に出ます"
+                                ""
                             ]
                         },
                         {

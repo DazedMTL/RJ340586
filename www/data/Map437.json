@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "港の都市ミュコス 倉庫",
+    "displayName": "Port City Myukos Warehouse",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -16730,14 +16730,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "\\CL Do you want to start over?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLやり直しますか？"
+                                ""
                             ]
                         },
                         {
@@ -17265,14 +17265,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL The door opened."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLドアが開きました。"
+                                ""
                             ]
                         },
                         {

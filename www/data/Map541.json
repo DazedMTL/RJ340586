@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ港湾 酒場・宿屋1F",
+    "displayName": "Fotizona Port Inn & Tavern 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6261,21 +6261,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: Have you entered the auction venue? Well, if you\ndon't have any money, it's just a big building."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オークション会場にはいったかい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まぁ、金がなければただのでかい建物だけどな」"
+                                ""
                             ]
                         },
                         {
@@ -6419,21 +6419,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店員"
+                                "Innkeeper: Welcome to the Fotizona Port! You can enjoy\nwines from all over the empire here!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「フォティゾナ港湾にようこそ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国中のワインを楽しむことができますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -6510,21 +6510,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の画商"
+                                "Traveling Art Merchant: Dealing with nobles can be\nexhausting. I want to live a life where I can look at the\nsea someday."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「貴族相手の商売は疲れるよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いつかは海を見て暮らすような生活がしたいものだね」"
+                                ""
                             ]
                         },
                         {
@@ -6601,21 +6601,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　恰幅のいい労働者"
+                                "Burly Worker: Hahaha, look at these impressive biceps,\nright? The port is the best place to train a man."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「がはは、すごい二の腕だろ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　港仕事は男を鍛える最高の場所さ」"
+                                ""
                             ]
                         },
                         {
@@ -6692,21 +6692,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　若い労働者"
+                                "Young Worker: I heard that if I train like my older brother\nand drink lots of meat and alcohol, it'll be great, but I\nwonder if I can endure it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺も兄貴みたいに鍛えないと"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　肉と酒を流し込めばいいらしいけど耐えられるかな？」"
+                                ""
                             ]
                         },
                         {

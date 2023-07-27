@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "帝国軍駐屯地",
+    "displayName": "Imperial Army Garrison",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6440,14 +6440,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Oh, this is quite splendid for a military\nencampment."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あら、駐屯地にしては立派ですわね」"
+                                ""
                             ]
                         },
                         {
@@ -6523,21 +6523,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is that so? The Goats' encampment was even more\nsplendid though."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうなのでしょうか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ゴートさんの駐屯地はもっと立派でしたが」"
+                                ""
                             ]
                         },
                         {
@@ -6561,21 +6561,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: That place is more like a city in name\nonly. Are they planning to wipe out the goblins of Oros?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あれは駐屯地とは名ばかりの街ですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オロスのゴブリンたちを一掃するつもりでしょうか」"
+                                ""
                             ]
                         },
                         {
@@ -6599,21 +6599,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's impossible to completely wipe them out!\nEven with the empire expanding this much, there are still\nenough damages occurring."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「一掃なんて不可能ですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これだけ帝国が拡大しても被害が出るくらいですから」"
+                                ""
                             ]
                         },
                         {
@@ -6637,21 +6637,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: There are so many strong-looking people here.\nAre they really just hunting in the mountains...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「強そうな人たちがいっぱいです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本当にただの山狩りなんでしょうか……？」"
+                                ""
                             ]
                         },
                         {
@@ -6675,14 +6675,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's confirm the details with General Atu."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「詳細はアトゥ将軍に確認しましょう」"
+                                ""
                             ]
                         },
                         {
@@ -7322,21 +7322,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's getting noisy. Could it be that goblins\nhave arrived!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだか騒がしいですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もしかしてゴブリンが来たんじゃ！？」"
+                                ""
                             ]
                         },
                         {
@@ -7360,21 +7360,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I don't think so. I don't smell the unpleasant\nscent of goblins..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それはないと思います"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ゴブリンの嫌な匂いがしないので……」"
+                                ""
                             ]
                         },
                         {
@@ -7456,21 +7456,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: As I mentioned before, the recruitment\nhas ended. We are no longer seeking any collaborators!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ですから公募は終了しました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もう協力者は募集していないのです！」"
+                                ""
                             ]
                         },
                         {
@@ -7494,14 +7494,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: ...Hmm, that's troublesome."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……ふむ、それは困ったのぉ」"
+                                ""
                             ]
                         },
                         {
@@ -7623,14 +7623,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: What's all this noise about?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんじゃ騒がしい」"
+                                ""
                             ]
                         },
                         {
@@ -7685,21 +7685,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: I apologize, but this person insists on\nparticipating in the subjugation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「申し訳ございません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この御仁がどうしても討伐に参加させろと」"
+                                ""
                             ]
                         },
                         {
@@ -7829,21 +7829,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Hahaha, you're quite lively for an old man!\nWords are unnecessary between warriors... If you want to\ntalk, then draw your sword."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「がははっ、じじいの癖に元気だな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　武人同士に言葉は不要……語りたいなら剣を取れ」"
+                                ""
                             ]
                         },
                         {
@@ -7883,21 +7883,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: What's the matter, feeling scared? If you want\nto voice your opinion to me, then take up your sword."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんじゃ、怖じ気づいたのか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　儂に意見を通したいなら剣を取るがいい」"
+                                ""
                             ]
                         },
                         {
@@ -7921,21 +7921,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: That belongs to you, doesn't it? I won't\nuse someone else's weapon... Besides, I'm already prepared."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それはお前さんのものじゃろ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　他人の武器は使わん……それに構えは済んでいる」"
+                                ""
                             ]
                         },
                         {
@@ -7966,14 +7966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Oh... then don't hold back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ほぉ……では遠慮なく」"
+                                ""
                             ]
                         },
                         {
@@ -8362,14 +8362,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Can you stop my first strike... Where were\nyou?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「儂の初太刀を止めるか……お前どこにいた？」"
+                                ""
                             ]
                         },
                         {
@@ -8393,14 +8393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: In the fields and mountains... before the\ngrotesque monsters."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「野に山に……異形の怪物たちの前に」"
+                                ""
                             ]
                         },
                         {
@@ -8424,14 +8424,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: That one-armed strength... it's the one-armed\nOpro!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その隻腕と強さ、隻腕のオプロかっ！」"
+                                ""
                             ]
                         },
                         {
@@ -8455,21 +8455,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: General Atu, the hero of the battlefield...\nIt is an honor to have you know my name."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「戦場の英雄アトゥ将軍……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　貴殿に名を知ってもらえていて光栄だ」"
+                                ""
                             ]
                         },
                         {
@@ -8613,21 +8613,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: If you are the famous Goblin Slayer, please\ncome inside the tent. I would like to receive advice from\nyou."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「かの有名なゴブリンスレイヤーなら不足なし"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　テントの中に入ってくれ、お前さんから助言をもらいたい」"
+                                ""
                             ]
                         },
                         {
@@ -8926,14 +8926,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: I wonder if we are no longer needed~"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わたくしたちはお役御免かしらぁ〜」"
+                                ""
                             ]
                         },
                         {
@@ -8957,21 +8957,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: First, let's report and there might be something I\ncan help with."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まずは報告をしましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それにお手伝いできることがあるかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -9207,21 +9207,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: No abnormalities! This place is\ndangerous, so please get off."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「異常なし！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここは危険ですから降りてくださいね」"
+                                ""
                             ]
                         },
                         {
@@ -9298,21 +9298,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: I was brought here for military service,\nspecifically goblin hunting... I wonder if I'll be able to\nreturn to Fortizona alive..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「兵役で連れてこられたのがゴブリン狩り……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　生きてフォティゾナに帰ることができるのかな……」"
+                                ""
                             ]
                         },
                         {
@@ -9380,21 +9380,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: I was brought here for military service,\nspecifically goblin hunting... I wonder if I'll be able to\nreturn to Fortizona alive..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「兵役で連れてこられたのがゴブリン狩り……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　生きてフォティゾナに帰ることができるのかな……」"
+                                ""
                             ]
                         },
                         {
@@ -9471,21 +9471,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: I'm a veteran of the Tarasa War, but I've\nnever faced anything other than humans, so I'm nervous."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「タラサ戦争の帰還兵なんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　人間以外を相手にしたことがないから緊張するよ」"
+                                ""
                             ]
                         },
                         {
@@ -9553,21 +9553,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: I'm a veteran of the Tarasa War, but I've\nnever faced anything other than humans, so I'm nervous."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「タラサ戦争の帰還兵なんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　人間以外を相手にしたことがないから緊張するよ」"
+                                ""
                             ]
                         },
                         {
@@ -9644,21 +9644,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Did you come for comfort... Oh my! Please\nkeep this a secret from General Atu, I beg you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「慰安のために来たのか……おほん！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　このことはアトゥ将軍に内緒にしてくれ、頼むよ」"
+                                ""
                             ]
                         },
                         {
@@ -9726,21 +9726,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Did you come for comfort... Oh my! Please\nkeep this a secret from General Atu, I beg you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「慰安のために来たのか……おほん！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　このことはアトゥ将軍に内緒にしてくれ、頼むよ」"
+                                ""
                             ]
                         },
                         {
@@ -10181,21 +10181,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Ah, it's you guys! Well then, let's end the\nconversation here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おぉ、お前たちか！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　というわけで話はこれで終いとしよう」"
+                                ""
                             ]
                         },
                         {
@@ -10219,21 +10219,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: I understand that you are a\nhero! However, neglecting the royal palace is not\nacceptable, don't you think?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたが英雄なのは理解していますわ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ただ王宮をないがしろにするのはいかがなものでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -10250,21 +10250,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: The fact that you conducted a\npublic recruitment without permission... Queen Caron-sama is\nextremely furious!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「勝手に公募を行ったこと……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王妃カロン様も大変ご立腹ですわっ！」"
+                                ""
                             ]
                         },
                         {
@@ -10319,14 +10319,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: I see... In that case..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるほど……ならば」"
+                                ""
                             ]
                         },
                         {
@@ -10480,21 +10480,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: You little girl, if you dare to voice your\nopinion to me on the battlefield, let your sword do the\ntalking!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「小娘よ、王宮内ならいざ知らず"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　戦場で儂に意見するなら剣で語るのだなっ！」"
+                                ""
                             ]
                         },
                         {
@@ -10596,21 +10596,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: H-huh...! Um, I, well... th-\nthat's not it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「っひ……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの、わたしは、その……ち、違うんですっ！」"
+                                ""
                             ]
                         },
                         {
@@ -10634,21 +10634,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: G- General, you have\nmisunderstood! I-I was just, um, just confirming, yes,\nconfirming things!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「しょ、将軍は勘違いをされてますわっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私は、あくまで確認、そう、確認をしたまでですわ！」"
+                                ""
                             ]
                         },
                         {
@@ -10726,21 +10726,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Hahaha, then it's settled! You guys should\nwait for the results at the royal palace!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「がははっ、ならば良しっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前たちは成果を王宮で待っていればいいのだっ！」"
+                                ""
                             ]
                         },
                         {
@@ -10764,21 +10764,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Well then, let's have a detailed conversation\ninside with the guest from the Adventurer's Guild, shall\nwe?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、冒険者ギルドからの客人も来た"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　詳しくは中で話をするとしようかのぉ」"
+                                ""
                             ]
                         },
                         {
@@ -10840,14 +10840,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: Adventurer's Guild...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルド……！」"
+                                ""
                             ]
                         },
                         {
@@ -10991,14 +10991,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: What is it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何か？」"
+                                ""
                             ]
                         },
                         {
@@ -11022,21 +11022,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: Are you a member of the\nAdventurer's Guild? Ohohoho, the quality has dropped quite a\nbit while I wasn't looking!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたが冒険者ギルドの構成員ですか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　おほほっ、少し見ない間に随分と質が落ちましたね！」"
+                                ""
                             ]
                         },
                         {
@@ -11060,21 +11060,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: If Emoni ever loses her job in\nAgonia, please let her become your subordinate anytime."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アゴニアにエモニが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　職がなくなったらいつでも部下にしてやるとお伝えくださいな」"
+                                ""
                             ]
                         },
                         {
@@ -11098,14 +11098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: *sigh*"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はぁ」"
+                                ""
                             ]
                         },
                         {
@@ -11160,21 +11160,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: Well then, General Atu, I shall\ntake my leave! I will be waiting for good news at the royal\npalace!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それではアトゥ将軍、これで失礼しますわ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王宮にて吉報をお待ちしておりますからっ！」"
+                                ""
                             ]
                         },
                         {
@@ -11324,21 +11324,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: That Caron woman's pawn, she has the audacity\nto step onto the battlefield with her dirty feet..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロンのババアの手駒め"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　土足で戦場にまで踏み込んできおって……」"
+                                ""
                             ]
                         },
                         {
@@ -11741,21 +11741,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: Who are you? I'm busy, so\nplease refrain from talking to me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんですかあなたは？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　忙しいので話しかけるのはやめてくださるかしら」"
+                                ""
                             ]
                         },
                         {
@@ -12087,14 +12087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "A terrifyingly sharp greatsword is piercing through."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　恐ろしいほど鋭い大剣が突き刺さっている"
+                                ""
                             ]
                         },
                         {
@@ -12162,14 +12162,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "A terrifyingly sharp greatsword is piercing through."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　恐ろしいほど鋭い大剣が突き刺さっている"
+                                ""
                             ]
                         },
                         {
@@ -12508,21 +12508,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: General Atu is the eldest brother of the\nImperial Army! It's an honor for a soldier to die under the\nGeneral's command."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトゥ将軍は帝国軍の長兄！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　将軍の元で死ねるなら軍人の誉れだ」"
+                                ""
                             ]
                         },
                         {
@@ -12590,21 +12590,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: General Atu is the eldest brother of the\nImperial Army! It's an honor for a soldier to die under the\nGeneral's command."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトゥ将軍は帝国軍の長兄！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　将軍の元で死ねるなら軍人の誉れだ」"
+                                ""
                             ]
                         },
                         {
@@ -13377,14 +13377,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I went to see the request form from Oros."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オロスの依頼書を見てきました」"
+                                ""
                             ]
                         },
                         {
@@ -13432,21 +13432,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Everyone...! I have heard of your\nachievements in defeating the ogres!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「みなさんは……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オーガ討伐の功績は聞いております！」"
+                                ""
                             ]
                         },
                         {
@@ -13477,14 +13477,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is this request about subjugating goblins?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今回の依頼はゴブリンの討伐ということでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -13524,21 +13524,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Many of Oros' soldiers are stationed in\nplaces related to the crystal."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オロスの軍人の多くは"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クリスタルに関連する場所に配置されています」"
+                                ""
                             ]
                         },
                         {
@@ -13562,21 +13562,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Although the number of goblins has\ndecreased, we cannot completely prevent damage in the poorly\nfortified garrisons."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゴブリンの数は減ったものの"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　戦力に乏しい駐屯地では被害を完全に防ぐことはできません」"
+                                ""
                             ]
                         },
                         {
@@ -13600,21 +13600,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: That's why! We need the power of someone\nlike you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だからこそ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたのような方のちからが必要なのです！」"
+                                ""
                             ]
                         },
                         {
@@ -13654,21 +13654,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Me!? Well, I am indeed a genius who surpasses\neven the hardworking prodigies, but..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクですか！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　確かに努力を怠らない天才を超えた大天才ですけど……」"
+                                ""
                             ]
                         },
                         {
@@ -13699,14 +13699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, it's cute how you say it yourself."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、自分で言っちゃうのが可愛いところですわ」"
+                                ""
                             ]
                         },
                         {
@@ -13737,14 +13737,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: First, please try smelling this medicinal\nherb."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まずはこの薬草を嗅いでみてください」"
+                                ""
                             ]
                         },
                         {
@@ -13822,21 +13822,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: T-This smell is terrible! If I can't smell food\nanymore, it'll be a problem!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひ、ひどい臭いですよぉっ〜！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　食べ物の匂いがわからなくなったら困りますよぉ！」"
+                                ""
                             ]
                         },
                         {
@@ -13860,21 +13860,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: This is a medicinal herb that grows\nnaturally in the Sazani Grasslands. Our comrades have\ndiscovered that goblins avoid this herb."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これはサザニ草原に自生している薬草です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　仲間がゴブリンはこの草を避けていることを発見しました」"
+                                ""
                             ]
                         },
                         {
@@ -13905,21 +13905,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I would like to hear the reason for\nrequesting our help, despite having that medicinal herb."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その薬草があるにも関わらず"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　依頼をした理由を聞かせていただきたいですわ」"
+                                ""
                             ]
                         },
                         {
@@ -13943,21 +13943,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: We're not exactly sure of its\neffectiveness, but it is certain that the goblins are\navoiding it. However, there are cases where they don't run\naway either."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いまいち効果がわからないのです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　避けているのは確かですが逃げない場合もありまして」"
+                                ""
                             ]
                         },
                         {
@@ -13981,21 +13981,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: We would like to request your assistance\nin verifying the effectiveness of the medicinal herb and\ndefeating any individuals who may have developed resistance\nto it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「薬草の効果の検証"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もし耐性を持つ個体がいた場合の撃破を依頼したいのです」"
+                                ""
                             ]
                         },
                         {
@@ -14019,21 +14019,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Actually, there is one more request..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「実はもうひとつお願いがありまして……」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -14064,21 +14064,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I understand. So, you want me to refine the\nmedicinal herb and make medicine, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかっていますよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　薬草を精製して薬を作ればいいんですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -14102,21 +14102,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Please, we don't want to see our comrades\nfalling one by one."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうかよろしくお願いします"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　仲間たちが倒れていく姿を見たくないのです」"
+                                ""
                             ]
                         },
                         {
@@ -14147,14 +14147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, leave it to me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、おまかせください」"
+                                ""
                             ]
                         },
                         {
@@ -14192,14 +14192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: First, let's verify its effectiveness. Let's go\nto the Sazani Grasslands."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まずは効果の検証ですね、サザニ草原に行ってみましょう」"
+                                ""
                             ]
                         },
                         {
@@ -14419,14 +14419,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Please take care of my comrades as well!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうか仲間たちのためにもよろしくお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -14690,14 +14690,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Do you know the secret of the medicinal\nherbs!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「薬草の秘密はわかりましたか！？」"
+                                ""
                             ]
                         },
                         {
@@ -14745,21 +14745,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It seems that freshness is affecting it. It\nseems that goblins tend to dislike fresher ones."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうやら鮮度が影響しているみたいですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　新鮮なものほどゴブリンが嫌がる傾向にあるみたいです」"
+                                ""
                             ]
                         },
                         {
@@ -14790,21 +14790,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I think we won't be able to figure out what\ngoblins dislike without returning to the academy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゴブリンが何に嫌がっているのか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これはアカデミーに戻らないと解明できないと思います」"
+                                ""
                             ]
                         },
                         {
@@ -14828,21 +14828,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: We have picked medicinal herbs! Please\nuse these for the production of medicine!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちが摘んだ薬草があります！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こちらを使って薬の制作をよろしくお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -14883,21 +14883,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Not only deciphering, but also refining... Even\nfor a genius like me, I'll need some time!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「解明だけじゃなく精製も……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　大天才でも多少は時間をもらいますからね！」"
+                                ""
                             ]
                         },
                         {
@@ -14921,21 +14921,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: If there is hope, we can fight. Besides,\njust scattering medicinal herbs might have some effect."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「希望があれば戦えます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それに薬草をばらまくだけでも効果がありそうですから」"
+                                ""
                             ]
                         },
                         {
@@ -14975,21 +14975,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I'll do my best to hurry, so please make sure\nyou don't die, okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるべく急ぎますから"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　絶対に死なないでくださいね？」"
+                                ""
                             ]
                         },
                         {
@@ -15209,14 +15209,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Please take care of my comrades as well!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうか仲間たちのためにもよろしくお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -15487,14 +15487,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: This is the prototype that was requested."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これが依頼されていた試作品です」"
+                                ""
                             ]
                         },
                         {
@@ -15534,21 +15534,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: So fast...! Truly the genius of the\nMagic Academy!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こんなにはやく……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さすが魔法アカデミーの大天才ですね！」"
+                                ""
                             ]
                         },
                         {
@@ -15579,21 +15579,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: If I give it my all, this is what I can create.\nBut please remember, this is just a prototype, so don't have\ntoo much confidence in it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクが本気を出せばこんなものですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あくまで試作品ですから過信しないようにしてください」"
+                                ""
                             ]
                         },
                         {
@@ -15617,21 +15617,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: We will request the Oros for the handover\nresearch. Thank you for your cooperation!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オロスに依頼をさせていただきます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　引き継ぎ研究をよろしくお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -15655,14 +15655,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: This is the reward and our gratitude from\nus."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こちらは報酬と我々からの気持ちです」"
+                                ""
                             ]
                         },
                         {
@@ -15901,21 +15901,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Thanks to you, the damage has\ndramatically decreased. Please provide us with a more\neffective medicine!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おかげで被害が劇的に減りました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　より効果の高い薬をよろしくお願いします！」"
+                                ""
                             ]
                         },
                         {

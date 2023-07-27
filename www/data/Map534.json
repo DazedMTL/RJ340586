@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "森の都市ヴァルト 道具屋",
+    "displayName": "City of the Forest, Wald - Item Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2585,14 +2585,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I went to see the request form."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「依頼書を見てきました」"
+                                ""
                             ]
                         },
                         {
@@ -2623,21 +2623,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薪職人トーチ"
+                                "Torch the Firewood Craftsman: That would be a great help! I\nwant you to go to the Kasaro Bathhouse in my place."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは助かるよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺の代わりにカサロ浴場に行って欲しいんだ」"
+                                ""
                             ]
                         },
                         {
@@ -2668,14 +2668,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I am greatly indebted to Mr. Kasaro."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カサロさんには大変お世話になっています」"
+                                ""
                             ]
                         },
                         {
@@ -2713,14 +2713,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I will gladly accept."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「喜んでお引き受けします」"
+                                ""
                             ]
                         },
                         {
@@ -2760,21 +2760,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薪職人トーチ"
+                                "Torch the Firewood Craftsman: I'm grateful to the goddess\nActina! What I want you to transport is high-quality\nfirewood for heating the bathwater."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「女神アクティナに感謝だ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　運んで欲しいのはお湯を温めるための上質の薪だ」"
+                                ""
                             ]
                         },
                         {
@@ -2876,14 +2876,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hic, beer isn't bad at all!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひっく、ビールも悪くありませんわねぇ！」"
+                                ""
                             ]
                         },
                         {
@@ -3028,21 +3028,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Oh my...! Have you injured your leg by\nany chance?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あらあら……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もしかして足を怪我されていますか？」"
+                                ""
                             ]
                         },
                         {
@@ -3073,14 +3073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ソフィアさん、依頼人の方の前ですよ」"
+                                "Clea: Sophia-san, we're in front of the client."
                             ]
                         },
                         {
@@ -3088,37 +3081,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　薪職人トーチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あはは、情けないけど切っている時にね」"
                             ]
                         },
                         {
@@ -3149,21 +3111,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薪職人トーチ"
+                                "Torch the Firewood Craftsman: Ahaha, it's embarrassing, but\nit happened while I was cutting."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カサロ浴場の支配人に"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　すぐに治すから次からは俺が行くと伝えておいてよ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Torch the Firewood Craftsman: Tell the manager of the\nKasaro Bathhouse that I will go there next time to fix it\nimmediately."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3194,21 +3194,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Understood, I will pray for your injury\nto heal as soon as possible!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、ひっく"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　なるべく早く怪我が治ることを祈っておりますわ！」"
+                                ""
                             ]
                         },
                         {
@@ -3232,21 +3232,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薪職人トーチ"
+                                "Torch the Firewood Craftsman: I don't worship the goddess\nImiserinos, but ahaha, it's not a bad thing to have a\nbeautiful woman pray for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「女神イミセリノスは信仰していないけど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あはは、美人に祈ってもらうのは悪くないものだね」"
+                                ""
                             ]
                         },
                         {
@@ -3270,14 +3270,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薪職人トーチ"
+                                "Torch the Firewood Craftsman: It's the best that you\nespecially love beer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「特にビールを愛してくれているのが最高だ」"
+                                ""
                             ]
                         },
                         {
@@ -3497,21 +3497,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薪職人トーチ"
+                                "Torch Firewood Craftsman: Sorry, but I can't make it to the\nKasaro Bathhouse with these legs you asked for."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悪いけど頼んだよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この足じゃカサロ浴場まで行けないからね」"
+                                ""
                             ]
                         },
                         {
@@ -3579,21 +3579,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薪職人トーチ"
+                                "Torch the Firewood Craftsman: I'm glad you're safe. The\nKasaro Bathhouse is our most valued customer, after all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「助かったよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　カサロ浴場は一番のお得意様だからね」"
+                                ""
                             ]
                         },
                         {

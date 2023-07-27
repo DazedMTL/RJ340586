@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ミュコス街道最奥",
+    "displayName": "Innermost Myukos Highway",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5773,7 +5773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -5819,14 +5819,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6073,7 +6073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -6119,14 +6119,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6373,7 +6373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -6419,14 +6419,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -7173,21 +7173,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guard: Hey, stop that carriage! We need to inspect\nyour luggage."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そこの馬車、とまれ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　荷物を確認させてもらうぞ」"
+                                ""
                             ]
                         },
                         {
@@ -7279,21 +7279,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Oh, it's the guards! If they've come this far,\nwe can relax!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「え、衛兵さんですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここまでくれば安心ですね！」"
+                                ""
                             ]
                         },
                         {
@@ -7345,14 +7345,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: No... something seems strange."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いえ……何かおかしいです」"
+                                ""
                             ]
                         },
                         {
@@ -7376,21 +7376,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Libra: Is there such a foolish thing! They\nare imposters, prepare to fight!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんな馬鹿なことがあるか！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あいつらは偽物だ、戦う準備をしろっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7513,21 +7513,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Libra: I don't care who you are, but you've\nhad bad luck! We have adventurers from the Adventurer's\nGuild here!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どこの誰だか知らねーが運が悪かったな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こっちには冒険者ギルドの人間がいるんだよ！」"
+                                ""
                             ]
                         },
                         {
@@ -7764,21 +7764,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ偽衛兵"
+                                "Fotizona Fake Guard: Adventurer's Guild...! If that's the\ncase, we definitely can't let them escape!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルド……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だったらなおさら逃がすわけにはいかねーな！」"
+                                ""
                             ]
                         },
                         {
@@ -7795,14 +7795,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ偽衛兵"
+                                "Fotizona Fake Guard: The grudge of the Tomos plundering\ngang that was annihilated... I will settle it here!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「壊滅させられたトモス略奪団の恨み……ここではらす！」"
+                                ""
                             ]
                         },
                         {
@@ -7845,21 +7845,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Libra-san, please step back. Leave this to us!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「リブラさんは下がってください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここは私たちにおまかせください！」"
+                                ""
                             ]
                         },
                         {
@@ -8125,21 +8125,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Libra: It was a great decision to take this\njob! If we hand these guys over to the Empire, we'll make a\nfortune."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「本当に依頼をして大正解だったぜ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　こいつらを帝国に引き渡せば金になるぜ」"
+                                ""
                             ]
                         },
                         {
@@ -8194,21 +8194,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: From here on is Fotizona, right? Can we consider the\nrequest complete?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ここから先はフォティゾナですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　依頼はこれで完了ということでいいでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -8263,21 +8263,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Libra: Of course, it's a little inconvenient,\nbut could you come to the inn to receive your reward?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「もちろんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ただ悪いが報酬は宿屋まで取りに来てくれないか？」"
+                                ""
                             ]
                         },
                         {
@@ -8294,21 +8294,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Libra: I want to hand over the reward for\ndelivering these guys, so I plan to book an inn on Fotizona\nMain Street. Please rely on me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「こいつらを引き渡した報酬も渡したいからな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　フォティゾナ大通りの宿を取る予定だから頼むよ」"
+                                ""
                             ]
                         },
                         {
@@ -8348,14 +8348,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わかりました……」"
+                                ""
                             ]
                         },
                         {
@@ -8379,14 +8379,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Libra: Remember what we talked about earlier,\nokay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さっき話したことも覚えておいてくれよ？」"
+                                ""
                             ]
                         },
                         {
@@ -8516,14 +8516,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Did you talk about something?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「何かお話したんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -8563,14 +8563,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: No... It's just small talk."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いえ……世間話のようなものです」"
+                                ""
                             ]
                         },
                         {

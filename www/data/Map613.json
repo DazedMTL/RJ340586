@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "売春島　安宿1F",
+    "displayName": "Prostitution Island Cheap Inn 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4011,21 +4011,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
+                                "Inn Receptionist: I dislike the dark sea, so sometimes I\nlong for the grassy fields and blue sky of the campus."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私は暗い海が嫌いなの"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　たまにカンプスの草原と青空が恋しくなるわ」"
+                                ""
                             ]
                         },
                         {
@@ -4445,14 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「えっ、依頼者がいなくなったんですか！？」"
+                                "Mage Relm: Huh, the client disappeared!?"
                             ]
                         },
                         {
@@ -4460,37 +4453,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　安宿の受付嬢"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それが飲みすぎて倒れちゃったみたいで……」"
                             ]
                         },
                         {
@@ -4521,21 +4483,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
+                                "Inn Receptionist: It seems like she drank too much and\ncollapsed..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「レイナさんに報告してもらっていいかな？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　来てもらった以上は報酬が必ず出るはずだからさ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Inn Receptionist: Should I ask Reina-san to report this?\nSince she came here, there should definitely be a reward."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4575,14 +4575,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Understood, then..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、では」"
+                                ""
                             ]
                         },
                         {

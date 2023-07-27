@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "売春島　高級宿2F鏡の間",
+    "displayName": "Prostitution Island, Luxury Inn 2F Mirror Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3234,21 +3234,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族の男"
+                                "Nobleman: Now that the Second Tarasa War has come to an\nend, I keenly feel that it is Queen Caron's era."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「第二次タラサ戦争も終結した"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これからは王妃カロン様の時代だと改めて痛感したよ」"
+                                ""
                             ]
                         },
                         {
@@ -3272,14 +3272,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族の男"
+                                "Nobleman: I will spare no effort in supporting Queen Caron,\nplease convey my message to her."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「協力を惜しまない、カロン様にはそう伝えてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -3317,21 +3317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「かしこまりましたわ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　この度はお時間をいただきありがとうございます」"
+                                "Imperial Secret Agent Emoni: Understood. Thank you for\ntaking the time for this."
                             ]
                         },
                         {
@@ -3339,68 +3325,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「かまわないさ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　君のような美しい女性とベッドで語り合えたのだから」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「仕事を抜きに個人的にも遊びにきておくれ」"
                             ]
                         },
                         {
@@ -3431,21 +3355,97 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族の男"
+                                "Nobleman: I don't mind, since I was able to have a\nconversation with a beautiful woman like you in bed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君はゆっくりと準備をしてくれ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お楽しみの後の女性は着替えが大変だろうからね」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Nobleman: Apart from work, please come and play with me\npersonally."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Nobleman: Please take your time to prepare. I imagine it\nmust be difficult for a woman to change clothes after\nenjoying herself."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3605,14 +3605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: With this, Queen Caron should\nacknowledge me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これで、カロン様に認めていただけるはず」"
+                                ""
                             ]
                         },
                         {
@@ -3650,21 +3650,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: Father, brothers, and even\nAgonia! Ahaha, they won't be able to ignore me anymore!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お父様もお兄様たちもアゴニアも！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あはは、私を無視できなくなるはずですわ！」"
+                                ""
                             ]
                         },
                         {
@@ -3695,14 +3695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: Ahaha...haha...what I desired\nwas..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あはは……はは……私が望んだものは……」"
+                                ""
                             ]
                         },
                         {
@@ -3740,14 +3740,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: This is... like a\nprostitute..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こんな、娼婦のような……」"
+                                ""
                             ]
                         },
                         {
@@ -3797,14 +3797,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: I-I need to change clothes, I\ncan't stay in a place like this any longer--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「き、着替えないと、こんな場所から一刻もはやく――」"
+                                ""
                             ]
                         },
                         {
@@ -3986,21 +3986,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: Ugh... Widow... Why did you\nleave me behind... and pass away...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ……未亡人……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　なんで私を置いて……逝ってしまったの……？」"
+                                ""
                             ]
                         },
                         {
@@ -4031,14 +4031,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: All alone... Uwaaaahhh...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひとりぼっちで……うわぁぁぁん……！」"
+                                ""
                             ]
                         },
                         {
@@ -4076,38 +4076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニが帝国暗部の中で与えられた仕事は主に懐柔だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　王妃カロン体制を維持するための協力者を少しでも多く増やすこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その方法の多くは美しいエモニの身体を使ったものだった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Emoni's job within the Imperial Secret Agency mainly\ninvolved seduction. The goal was to recruit as many\ncollaborators as possible to maintain Queen Caron's regime.\nMany of the methods used involved utilizing Emoni's\nbeautiful body."
                             ]
                         },
                         {
@@ -4121,166 +4090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニはふたりのまったく異なる女性に仕えた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自分を導いてくれた冒険者ギルド長である偉大なる未亡人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自分を利用しようとしている帝国を支配する王妃カロン。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　善人と悪人、正常と異常、自立と依存……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すべての面においてふたりは対極の存在であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニは王妃カロンを生涯尊敬できないことを理解していた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニはとっくに引き返せない場所にいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして、声が聞こえるのだ、お前は軽率だ、愚かだ、と。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからこそ引き返せない、しかし進むこともできない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニは暗部として生きる覚悟を持てた方がよほど楽だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、彼女の持つ本来の善性と偉大なる未亡人が邪魔をした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　虚栄心や承認欲求がエモニを半端者として暗部に在籍させ続けた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニは度々思い出す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自由の翼は誰にでもあるという、偉大なる未亡人の言葉を。"
                             ]
                         },
                         {
@@ -4304,6 +4114,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Emoni served two completely different women. The great\nwidow, who guided her, was the adventurer guild leader. The\nqueen Caron, who ruled the empire and tried to use her."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4311,14 +4128,197 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　そして、自覚するのだ。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　自分の翼は傷つき汚れ、もう飛べなくなっていることを。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Good and evil, normal and abnormal, independence and\ndependence... In every aspect, the two are polar opposites,\nand Emoni understood that she could never truly respect\nQueen Caron for her entire life."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Emoni was already in a place where she couldn't turn back.\nAnd she could hear voices, saying that she was reckless and\nfoolish. That's why she couldn't turn back, but she also\ncouldn't move forward."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Emoni found it much easier to live as a secret agent.\nHowever, her inherent goodness and the interference of the\ngreat widow hindered her. Vanity and the desire for approval\nkept Emoni in the shadows, making her feel like an\ninadequate member of the secret agency."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Emoni often recalls the words of the great widow, who said\nthat everyone has the wings of freedom."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And then, she realized. Her own wings were wounded and\ndirty, unable to fly anymore."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大岩の城前",
+    "displayName": "In front of the Great Rock Castle",
     "encounterList": [],
     "encounterStep": 30,
     "height": 57,
@@ -13962,7 +13962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城に入りますか？"
+                                "Do you want to enter the Great Rock Castle?"
                             ]
                         },
                         {
@@ -14008,14 +14008,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then decide)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -14921,14 +14921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古強者の傭兵"
+                                "What's this? Who are you guys?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだ、お前たちは？」"
+                                ""
                             ]
                         },
                         {
@@ -15014,14 +15014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We came here on Cors-san's request."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「コルスさんの依頼で来ました」"
+                                ""
                             ]
                         },
                         {
@@ -15045,21 +15045,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古強者の傭兵"
+                                "Experienced mercenaries: You're just getting in the way...\nSorry, but we'll go ahead first."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まったく余計なことを……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪いが俺たちが先に行かせてもらうぜ」"
+                                ""
                             ]
                         },
                         {
@@ -15299,14 +15299,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: W-Will we be able to avoid fighting monsters\nwith this?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、これで怪物と戦わなくて済むでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -15330,21 +15330,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I'm not sure... Even though I have some\nskill, the opponent is a magician."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうでしょうか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　腕に覚えがあるとはいえ相手は魔法使い」"
+                                ""
                             ]
                         },
                         {
@@ -15361,14 +15361,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I don't think it will be that easy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そう簡単にいくとは思えませんわ」"
+                                ""
                             ]
                         },
                         {
@@ -15392,21 +15392,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Magician Relm: If those people can't handle it, then we'll\nfight. We'll show them the difference in skill!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの人たちがダメなら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクたちが戦うまでですよ、格の違いを教えてあげます！」"
+                                ""
                             ]
                         },
                         {
@@ -15423,14 +15423,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Magician Relm: After all, I am the prodigy of the Magic\nAcademy--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なにせ、ボクは魔法アカデミーの大天才――」"
+                                ""
                             ]
                         },
                         {
@@ -15459,21 +15459,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古強者の傭兵"
+                                "Experienced Mercenary: U-Uwaaa! Run away! We'll be killed!\nIt's a monster!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「う、うわぁぁっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　逃げろぉっ、殺される、怪物だぁっ！」"
+                                ""
                             ]
                         },
                         {
@@ -16974,14 +16974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like it's our turn now."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちの番がきたみたいですね」"
+                                ""
                             ]
                         },
                         {
@@ -17005,21 +17005,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: W-We were attacked by a monster! This is bad,\nlet's run away too!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「か、怪物にやられたんですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　マズいです、あたしたちも逃げましょうよ！」"
+                                ""
                             ]
                         },
                         {
@@ -17043,7 +17043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城に入りますか？"
+                                "Shall we enter the Great Rock Castle?"
                             ]
                         },
                         {
@@ -17096,14 +17096,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's prepare first before we proceed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「準備をしてからにしましょう」"
+                                ""
                             ]
                         },
                         {
@@ -17493,21 +17493,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Our mission is to subdue it. Let's go inside as\nwell."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「討伐が任務です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちも中に入ってみましょう」"
+                                ""
                             ]
                         },
                         {
@@ -17531,14 +17531,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　？？？"
+                                "???: Hehe, even though you're adults, you're so pathetic~"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くすくす、大人の癖に情けなぁ〜い」"
+                                ""
                             ]
                         },
                         {
@@ -17886,14 +17886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　？？？"
+                                "??? : Huh, who are you guys?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あれぇ、あなたたちは誰？」"
+                                ""
                             ]
                         },
                         {
@@ -18258,21 +18258,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We have received a request for your subjugation.\nNext, we will be your opponents."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたの討伐依頼があってきました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　次は私たちがお相手させていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -18296,21 +18296,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔女アナト"
+                                "Witch Anat of the Great Rock Castle: Hehe, challenging me,\nAnat? How amusing. Shall I teach you your place?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「このアナトに挑戦するなんて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　くすくす、身の程を教えてあげようかしらっ！」"
+                                ""
                             ]
                         },
                         {
@@ -18845,14 +18845,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Witch Relm: W-What is this nonsensical magic power!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、なんですか、このデタラメな魔力はっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -18876,21 +18876,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔女アナト"
+                                "Witch Anat of the Great Rock Castle: The Crescent Moon\nsymbol... Magic Academy...! Hehe, the best prey has come,\nhasn't it~"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「三日月のしるし……魔法アカデミー……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　くすくす、最高の獲物がきてくれましたねぇ〜」"
+                                ""
                             ]
                         },
                         {
@@ -18907,14 +18907,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔女アナト"
+                                "Witch Anat of the Great Rock Castle: Alright, let's go!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、いきますよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -19956,14 +19956,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: She disappeared...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「消えた……？」"
+                                ""
                             ]
                         },
                         {
@@ -19987,21 +19987,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: No, I just moved using a magic circle. It's not\nsomething that can normally be done..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いえ魔法陣で移動しただけです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そんなこと普通はできるわけないですけど……」"
+                                ""
                             ]
                         },
                         {
@@ -20025,21 +20025,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: She seemed quite unwell. The word\n'costume' also caught my attention."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「かなり体調が悪そうでしたわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　衣装という言葉も気になります」"
+                                ""
                             ]
                         },
                         {
@@ -20063,14 +20063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: T-There's some kind of secret!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、何か秘密があるんですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -20094,21 +20094,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Nora-san is right. There must be a secret behind\nher absurd strength."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ノラさんの言う通りです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　デタラメな強さには秘密があるに違いないです」"
+                                ""
                             ]
                         },
                         {
@@ -20132,14 +20132,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: We won't have a chance of winning unless we\nunravel that secret."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それを解き明かさないと勝ち目はありません」"
+                                ""
                             ]
                         },
                         {
@@ -20416,14 +20416,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　男性魔法使い"
+                                "Male Mage: Are you all okay!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たち大丈夫かね！？」"
+                                ""
                             ]
                         },
                         {
@@ -20613,21 +20613,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Are you from this castle? We came here on Cors-san's\nrequest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたはここのお城の方ですか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちはコルスさんの依頼で来ました」"
+                                ""
                             ]
                         },
                         {
@@ -20651,21 +20651,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いレソ"
+                                "Mage Relm: I am the head mage Relm. If you'd like, please\ncome inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私は当主のレソだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　よかったら中に入ってくれたまえ」"
+                                ""
                             ]
                         },
                         {
@@ -20682,14 +20682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いレソ"
+                                "Mage Relm: I have something I want to talk about regarding\nmy daughter, Anato."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「娘のアナトについて話したいことがある」"
+                                ""
                             ]
                         },
                         {
@@ -22072,7 +22072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城に入りますか？"
+                                "Do you want to enter the Great Rock Castle?"
                             ]
                         },
                         {
@@ -22118,14 +22118,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then decide)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -22662,7 +22662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城に入りますか？"
+                                "Do you want to enter the Great Rock Castle?"
                             ]
                         },
                         {
@@ -22708,14 +22708,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then decide)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -23682,14 +23682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城のメイド"
+                                "Maid of the Great Rock Castle: Right now... it's better for\nyour own safety not to approach the castle!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いまは……城に近づかない方が身のためですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -23757,14 +23757,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城のメイド"
+                                "Maid of the Great Rock Castle: Thank you very much for\nsaving the young lady!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お嬢様を助けていただきありがとうございます！」"
+                                ""
                             ]
                         },
                         {
@@ -23832,14 +23832,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城のメイド"
+                                "Maid of the Great Rock Castle: Right now... it's better for\nyour own safety not to approach the castle!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いまは……城に近づかない方が身のためですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -23916,14 +23916,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔法使い"
+                                "The magician of the Great Rock Castle said, 'Several men\nhave been defeated in the past few days...'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここ数日で何人もの男たちが倒されてしまったの……」"
+                                ""
                             ]
                         },
                         {
@@ -23991,21 +23991,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔法使い"
+                                "The magician of the Great Rock Castle, here alchemy is also\nbeing studied, especially the knowledge of the head of the\nhousehold, Lady Reso, is unparalleled in Myucos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここでは錬金術も研究されているの"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　特に当主のレソ様の知識はミュコス随一ですよ」"
+                                ""
                             ]
                         },
                         {
@@ -24073,14 +24073,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔法使い"
+                                "The magician of the Great Rock Castle said, 'Several men\nhave been defeated in the past few days...'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここ数日で何人もの男たちが倒されてしまったの……」"
+                                ""
                             ]
                         },
                         {
@@ -24157,14 +24157,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔法使い"
+                                "The magician of the Great Rock Castle: 'Because I meddled\nwith that hidden treasure, this is what happened...'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの秘宝に手を出すからこんなことに……」"
+                                ""
                             ]
                         },
                         {
@@ -24232,14 +24232,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔法使い"
+                                "If you have come here seeking wisdom, then you have made\nthe right choice, as I am the magician of the Great Rock\nCastle."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「叡智を求めてここに来たのなら大正解だ」"
+                                ""
                             ]
                         },
                         {
@@ -24307,14 +24307,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔法使い"
+                                "The magician of the Great Rock Castle: 'Because I meddled\nwith that hidden treasure, this is what happened...'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの秘宝に手を出すからこんなことに……」"
+                                ""
                             ]
                         },
                         {
@@ -25323,21 +25323,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔法使い"
+                                "The magician of the Great Rock Castle: 'This is a serious\nsituation... If things continue like this, the castle might\nbe destroyed...'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大変なことになった……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　このままじゃ城が破壊されるかもしれないぞ……」"
+                                ""
                             ]
                         },
                         {
@@ -25405,14 +25405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔法使い"
+                                "Thanks to all of you, the research in the Great Rock Castle\ncan resume. I am grateful for your help!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たちのおかげで研究が再開できる。恩に着るよ！」"
+                                ""
                             ]
                         },
                         {
@@ -25480,21 +25480,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大岩の城の魔法使い"
+                                "The magician of the Great Rock Castle: 'This is a serious\nsituation... If things continue like this, the castle might\nbe destroyed...'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大変なことになった……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　このままじゃ城が破壊されるかもしれないぞ……」"
+                                ""
                             ]
                         },
                         {

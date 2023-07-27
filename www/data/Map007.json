@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ゴブリンの巣",
+    "displayName": "Goblin's Nest",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -13259,14 +13259,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I have a bad feeling...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（嫌な予感がする……）"
+                                ""
                             ]
                         },
                         {
@@ -13290,7 +13290,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ゴブリンの巣から出ますか？"
+                                "Will you come out of the goblin's nest?"
                             ]
                         },
                         {
@@ -13336,14 +13336,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I'll prepare, just in case)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（一応、準備をしよう）"
+                                ""
                             ]
                         },
                         {
@@ -15033,21 +15033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　（はぁはぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　諦めちゃいけない……必ず反撃の機会が……）"
+                                "Clea (Haa... haa... I can't give up... There will definitely\nbe a chance to counterattack...)"
                             ]
                         },
                         {
@@ -15055,30 +15041,6 @@
                             "indent": 1,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　（私以外もそう考えて、絶対に――）"
                             ]
                         },
                         {
@@ -15109,14 +15071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　兵隊長ゴブリン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「ウゴォウゴォ」"
+                                "Clea (I'm sure everyone else thinks the same way,\ndefinitely--)"
                             ]
                         },
                         {
@@ -15124,75 +15079,6 @@
                             "indent": 1,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「ノラさんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　あれ、えっ、頭、いや、頭だけ……えっ……？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「……いや」"
                             ]
                         },
                         {
@@ -15223,21 +15109,135 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Goblin Captain Ugogogo"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いやだ、いやだぁっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　来るなぁ、こっちに、あぁっ、いやぁぁぁっ！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Clea: Nora-san! Wait, huh, just the head... huh...?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Clea: ...No."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Clea: No, nooo! Don't come here, aah, nooo!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15511,14 +15511,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　兵隊長ゴブリン"
+                                "Goblin Captain: Ugooo!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ウゴォォォっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -15948,21 +15948,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Surprising us like that won't work on us!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「不意打ちしてくるなんて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でもボクたちには通用しませんでしたね！」"
+                                ""
                             ]
                         },
                         {
@@ -15986,21 +15986,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I-I'm sorry. If I had been more cautious...\nUgh..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「す、すいません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしがもっと警戒していれば。うぅ……」"
+                                ""
                             ]
                         },
                         {
@@ -16024,21 +16024,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Don't worry, everyone is safe. Why don't\nwe have a drink to relax instead of making such a face?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「無事だったから大丈夫ですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そんな顔しないで一杯いかがですか？」"
+                                ""
                             ]
                         },
                         {
@@ -16078,14 +16078,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (She can fight goblins. She's definitely growing\nstronger.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（ゴブリンと戦える。確実に成長してる）"
+                                ""
                             ]
                         },
                         {
@@ -16109,14 +16109,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go back to Paravillage."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「パラ村に戻りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -26213,14 +26213,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I have a bad feeling...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（嫌な予感がする……）"
+                                ""
                             ]
                         },
                         {
@@ -26244,7 +26244,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ゴブリンの巣から出ますか？"
+                                "Will you come out of the goblin's nest?"
                             ]
                         },
                         {
@@ -26290,14 +26290,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I'll prepare, just in case)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（一応、準備をしよう）"
+                                ""
                             ]
                         },
                         {
@@ -26562,14 +26562,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I have a bad feeling...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（嫌な予感がする……）"
+                                ""
                             ]
                         },
                         {
@@ -26593,7 +26593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ゴブリンの巣から出ますか？"
+                                "Will you come out of the goblin's nest?"
                             ]
                         },
                         {
@@ -26639,14 +26639,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I'll prepare, just in case)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（一応、準備をしよう）"
+                                ""
                             ]
                         },
                         {

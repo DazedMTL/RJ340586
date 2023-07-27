@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "放蕩貴族の屋敷",
+    "displayName": "Mansion of the Profligate Noble",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10307,21 +10307,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元帝国暗部ルイド"
+                                "Former Imperial Dark Agent Luid: 'Amina, tell me! When was\nthe last time I was so surprised that they came to visit?'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アミナ、教えてくれ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　彼女たちが訪ねてくるほど驚いたのはいつ以来だい？」"
+                                ""
                             ]
                         },
                         {
@@ -10352,21 +10352,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: Since it was decided to present the mansion to\nthe king, it has been effectively confiscated... Well, at\nleast I still have my life, so it could be worse."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「屋敷を王に贈呈することが決まって以来です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　事実上の没収ですが……まぁ、命があるだけマシですね」"
+                                ""
                             ]
                         },
                         {
@@ -10397,21 +10397,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: Thanks to all of you, both Luid and I are\nalive. I am especially grateful for having been released\nfrom Caron's curse."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「皆さんのおかげでルイドも私も生きています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何よりもカロンからの呪縛を解いていただき感謝しています」"
+                                ""
                             ]
                         },
                         {
@@ -10442,21 +10442,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元帝国暗部ルイド"
+                                "Former Imperial Dark Agent Luid: There are still parts that\nI haven't fully digested... but I think on the day my father\ndied, my mother also passed away."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まだ消化できていない部分もあるけど……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お父様が死んだ日に、お母様も死んでしまっていたんだと思う」"
+                                ""
                             ]
                         },
                         {
@@ -10494,21 +10494,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【元帝国暗部ルイドのその後】"
+                                "\\CL 【The Aftermath of Former Imperial Dark Agent Luid】Luid\nprovides all the information about the Dark Agency during\nQueen Caron's reign to King Lex. In exchange for offering\nnumerous lands and information that he possessed, he\nreceives a pardon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王妃カロン体制時の暗部情報をすべてレクス王に提供。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "所有していた数多くの土地と情報を献上することで恩赦を受ける。"
+                                ""
                             ]
                         },
                         {
@@ -10525,6 +10525,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL For a while, Luid continued his espionage activities as\nKing Lex's shadow, but eventually retired. He returned to\nthe mansion where he once lived with Caron and married\nAmina."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -10532,14 +10539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL一時期まではレクス王の影として諜報活動を続けるが引退。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつてカロンと暮らしていた屋敷に戻りアミナと結婚をする。"
+                                ""
                             ]
                         },
                         {
@@ -10556,14 +10556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL He was monitored by the Dark Agency throughout his life,\nbut he managed to have children on the sly."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL生涯に渡り暗部に監視され続けたが、ちゃっかり子どもは作った。"
+                                ""
                             ]
                         },
                         {
@@ -10587,21 +10587,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【メイドのアミナのその後】"
+                                "\\CL 【The Aftermath of Maid Amina】Like Luid, she actively\ncooperated with King Lex and received a pardon. She\ncontinued to be targeted by the dark agents during Caron's\nreign and fought alongside Luid."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイドと同じくレクス王に積極的に協力を行い恩赦を受ける。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カロン体制時の暗部たちに命を狙われ続け、ルイドと共に戦った。"
+                                ""
                             ]
                         },
                         {
@@ -10618,6 +10618,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL She initially opposed returning to the former mansion,\nbut eventually complied. Luid's proposal was I want you to\nstay by my side from now on."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -10625,14 +10632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLかつての屋敷に戻ることに反対したが最終的には従った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイドからのプロポーズは「これからも側にいて欲しい」だった。"
+                                ""
                             ]
                         },
                         {
@@ -10649,14 +10649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL She kept those words for her entire life, and three days\nafter Luid's death, she also passed away in this world."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLその言葉を生涯守り、ルイドの死後３日後に彼女もこの世を去った。"
+                                ""
                             ]
                         },
                         {
@@ -10896,14 +10896,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "You won't be able to come back, but are you really leaving\nthe mansion?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　戻ってくることはできませんが本当に屋敷を出ますか？"
+                                ""
                             ]
                         },
                         {
@@ -10970,14 +10970,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (We haven't talked yet, have we?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（まだ話したりませんね）"
+                                ""
                             ]
                         },
                         {
@@ -11849,21 +11849,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Our relationship has changed in various ways from our\nfirst meeting to reclaiming the throne, but I'm happy that\nwe can talk again with smiles on our faces."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「出会いから王座奪還までで関係が様々に変化しましたね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　でもこうやって再び笑顔でお話ができることが嬉しいです」"
+                                ""
                             ]
                         },
                         {
@@ -11894,21 +11894,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元帝国暗部ルイド"
+                                "Former Imperial Dark Operative, Luid: I really have to\nthank you, not just for me... but for risking your life for\nall of us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「君には本当に感謝しないとね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　僕のために……いや、僕たちのために命をかけてくれた」"
+                                ""
                             ]
                         },
                         {
@@ -11939,21 +11939,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元帝国暗部ルイド"
+                                "Former Imperial Dark Operative, Luid: I don't think I'll\nhave a stable residence for a while, but when I have a\nproper place to live, come visit me as a friend."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「当分は住居が定まらないと思うけど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ちゃんとした住まいが出来たら友人として遊びにきてよ」"
+                                ""
                             ]
                         },
                         {
@@ -11998,14 +11998,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I absolutely won't forgive anyone who cooperated\nwith Elatoma."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「エラトマに協力していたのは絶対に許しませんからね」"
+                                ""
                             ]
                         },
                         {
@@ -12043,21 +12043,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元帝国暗部ルイド"
+                                "Former Imperial Dark Operative, Luid: It's just an excuse\nto say it was just a job... From now on, I should be facing\ndays of atonement and retribution."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「仕事だったとは言い訳だね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　これからは償いと報いの日々が待っているはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -12088,21 +12088,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Please take care of Amina-san and make sure you\ndon't mix up the order of what is truly important."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「アミナさんのことを大切にしてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　何が本当に大切なのかの順番を間違えないでくださいね」"
+                                ""
                             ]
                         },
                         {
@@ -12147,14 +12147,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: You absolutely must not make Amina-san cry!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「絶対にアミナさんを泣かせたらダメですよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -12192,14 +12192,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元帝国暗部ルイド"
+                                "Former Imperial Dark Operative, Luid: I promise that I will\nnever do anything to make Amina cry."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「絶対にアミナを泣かすようなマネはしない、約束する」"
+                                ""
                             ]
                         },
                         {
@@ -12237,21 +12237,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Then I can rest easy! Please make sure the two\nof you become happy together!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「なら安心ですっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　絶対にふたりで幸せになってくださいね！」"
+                                ""
                             ]
                         },
                         {
@@ -12296,21 +12296,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Oh my, just like my senior in the Dark\nOperatives, many pursuers will come after you from now on."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あらあら、暗部の後輩くん"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　先輩と同じくこれからは多くの追っ手が来ますわ」"
+                                ""
                             ]
                         },
                         {
@@ -12341,21 +12341,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元帝国暗部ルイド"
+                                "Former Imperial Dark Operative, Luid: Ahaha, I appreciate\nthe advice from my senior. I will survive just like you,\ntogether with Amina."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あはは、先輩のご忠告痛み入ります"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あなたのように生き残ります、アミナと一緒に」"
+                                ""
                             ]
                         },
                         {
@@ -12386,21 +12386,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: That's a good thing. Please make sure to\ninvite me as a priestess to the wedding, okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それは良いことですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　結婚式には僧侶として絶対に呼んでくださいね？」"
+                                ""
                             ]
                         },
                         {
@@ -12540,21 +12540,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: There was talk about breaking Luid's curse, but it\nwas not us who did it, but Amina's dedication."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ルイドさんの呪縛をという話がありましたが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　それを解いたのは私たちではなくアミナさんの献身です」"
+                                ""
                             ]
                         },
                         {
@@ -12585,21 +12585,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: If you say so... Well, the fact remains that\nshe fought with her life on the line."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そう言っていただけると……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　いえ、それでも命をかけて戦ってくれた事実は変わりません」"
+                                ""
                             ]
                         },
                         {
@@ -12630,21 +12630,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: From now on, we will be fighting against the\nremnants of the dark faction. It may not be easy right away,\nbut let's take our time and talk later."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「これから暗部の残党と戦うことになります"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　すぐには難しいですが、いつかゆっくりお話をしましょう」"
+                                ""
                             ]
                         },
                         {
@@ -12689,14 +12689,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I was surprised when I found out about Luid-san\nand Amina-san's true identities."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ルイドさんとアミナさんの正体を知った時は驚きました」"
+                                ""
                             ]
                         },
                         {
@@ -12734,21 +12734,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: I apologize for pretending to hide my true\nidentity. Thanks to all of you, I no longer need to wear a\nfalse mask."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「素性を隠す真似をして申し訳ありませんでした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　みなさんのおかげで偽りの仮面をかぶる必要はなくなりました」"
+                                ""
                             ]
                         },
                         {
@@ -12779,21 +12779,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I intend to become an Archmage. If you ever find\nyourself in trouble, please come to the neutral Magic\nAcademy!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ボクはアークメイジになるつもりです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　困ったら中立の魔法アカデミーに逃げてきてください！」"
+                                ""
                             ]
                         },
                         {
@@ -12838,14 +12838,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Please keep a close eye on Luid-san!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ルイドさんはしっかりと監視をしておいてください！」"
+                                ""
                             ]
                         },
                         {
@@ -12883,14 +12883,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: Of course, there has never been a master who\ncan rival a maid since ancient times."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「もちろんです、古来よりメイドに敵う主人などいませんから」"
+                                ""
                             ]
                         },
                         {
@@ -12928,21 +12928,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Well then, you can rest assured! If you ever\nfind yourself in trouble, please rely on the Emma Mercenary\nCorps!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「だったら安心ですね！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　何か困った時はエマ傭兵団を頼ってください！」"
+                                ""
                             ]
                         },
                         {
@@ -12987,21 +12987,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Our meeting, and the current situation...\nHow much of life is predetermined, and how much is just a\ncoincidence?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わたくしたちの出会い、そしていまの状況……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　人生はどこまでが必然で、どこまでが偶然なのでしょうか」"
+                                ""
                             ]
                         },
                         {
@@ -13032,21 +13032,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: I have learned from all of you to overcome any\npain and despair and seize the inevitability that I desire,\nhaven't I?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「どんな苦痛も絶望も乗り越えて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　自身が望む必然を掴み取ることをみなさんから学びましたよ？」"
+                                ""
                             ]
                         },
                         {
@@ -13077,21 +13077,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Then please grasp the inevitability\nwithout giving up. Even if we hunt down the remnants, the\nassassins will surely come after us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「なら絶対に諦めずに必然を掴んでください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　残党狩りをしても必ず暗殺者たちは追いかけてきますわ」"
+                                ""
                             ]
                         },
                         {
@@ -13723,21 +13723,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元帝国暗部ルイド"
+                                "Former Imperial Dark Division member, Lloyd: 'Actually, we\nhave a special guest! It's thanks to the Supreme God Sol\nthat you all came today!'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「実はスペシャルなゲストがいるんだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちが今日やってくるなんて主神ソールに感謝だね！」"
+                                ""
                             ]
                         },
                         {
@@ -14280,14 +14280,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: Hahaha, I'm delighted to see you all\nhere! I never expected to meet you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「がははっ、まさか会えるとは嬉しいぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -14325,14 +14325,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: Continuing from that night might be\ninteresting!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの夜の続きというのも面白いかもな！」"
+                                ""
                             ]
                         },
                         {
@@ -14370,14 +14370,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: General Atu, you're alive... What on earth...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトゥ将軍、生きて……いったい何が……？」"
+                                ""
                             ]
                         },
                         {
@@ -14424,21 +14424,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: That scent of a child's room...! The strong\nscent must be General Atu!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの子ども部屋の匂い……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　強そうな匂いはアトゥさんだったんですね！」"
+                                ""
                             ]
                         },
                         {
@@ -14469,21 +14469,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: The mirror in that room is a hidden\nstaircase leading to the first floor. There are similar\ntricks everywhere, so escaping should be easy!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの部屋の鏡は１階への隠し階段となっておる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　似たような細工が至るところにあるから脱出は容易よ！」"
+                                ""
                             ]
                         },
                         {
@@ -14514,21 +14514,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: The wounds were so severe that healing\ncouldn't keep up. Is there some kind of secret behind\nthem...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「回復が追いつかない程の傷でしたわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それにも何か秘密があるのでしょうか……？」"
+                                ""
                             ]
                         },
                         {
@@ -14559,21 +14559,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: Hahaha, it's all about meat, cheese,\nand training! Think about it carefully, do you really think\nI would die from just a little injury?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「がはは、肉とチーズと鍛錬だ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　よく考えてもみろ、儂が怪我程度で死ぬと思うか？」"
+                                ""
                             ]
                         },
                         {
@@ -14604,14 +14604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I wonder what it is, this abnormal level of\npersuasiveness..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんでしょうね、この異常なまでの説得力は……」"
+                                ""
                             ]
                         },
                         {
@@ -14649,14 +14649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: What about the boy next to you...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「横の少年は……」"
+                                ""
                             ]
                         },
                         {
@@ -14694,14 +14694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: He is the second prince."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「第二王子だ」"
+                                ""
                             ]
                         },
                         {
@@ -14775,21 +14775,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: Sibling killing over the throne may be\na tradition in the empire, but I cannot allow it without a\nfair and honorable fight."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「玉座をめぐる兄弟殺しが帝国の慣例だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だが正々堂々たる戦いもなしに認めることはできん」"
+                                ""
                             ]
                         },
                         {
@@ -14820,21 +14820,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: This child is just a victim. No matter\nwhat happens, I intend to protect this child until the end."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この子はただの被害者だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　儂は何があってもこの子を守り抜くつもりだ」"
+                                ""
                             ]
                         },
                         {
@@ -14865,14 +14865,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: Will you stop me, Sophia?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「儂を止めるか、ソフィアよ」"
+                                ""
                             ]
                         },
                         {
@@ -14926,21 +14926,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: That is something decided by King Rex,\nand I have decided to live as a priestess."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それはレクス王が決められること"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それに、わたくしは僧侶として生きることを決めました」"
+                                ""
                             ]
                         },
                         {
@@ -14971,21 +14971,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: That's right! That's exactly what makes\nus comrades who fought through that insane night!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでいいっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それでこそ、あの狂気の夜を戦った戦友たちだっ！」"
+                                ""
                             ]
                         },
                         {
@@ -15016,21 +15016,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: That's right! That's exactly what makes\nus comrades who fought through that insane night!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでいいっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それでこそ、あの狂気の夜を戦った戦友たちだっ！」"
+                                ""
                             ]
                         },
                         {
@@ -15061,103 +15061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【アトゥ元将軍のその後】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一時期ルイドによって匿われるがルイドの身を案じ姿を消す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "度重なるレクス王の追っ手を振り切りながら帝国中を転々とする。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\CL第三次タラサ戦争が起こると無名の戦士として勝手に参戦。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりの活躍に正体がバレるが戦場の中で行方不明となる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\CLその破天荒さと愛嬌から民衆の英雄として長く語られることになる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\CL【第二王子カタラのその後】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最愛の母親であるカロンを失い、失意の中で逃避行を続ける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしアトゥのもとで心身ともに鍛えられ運命に立ち向かっていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
+                                "\\CL 【Former General Atu's Whereabouts】After being temporarily\nsheltered by Luid, he disappears out of concern for Luid's\nsafety. While evading King Rex's pursuers repeatedly, he\nwanders throughout the empire."
                             ]
                         },
                         {
@@ -15171,14 +15075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL元の名を捨て、やがてアトゥと共に戦地を渡り歩くようになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "第三次タラサ戦争に参加し、勇猛果敢な戦士として戦場を駆けた。"
+                                ""
                             ]
                         },
                         {
@@ -15195,6 +15092,54 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL During the Third Tarasa War, he/she spontaneously joins\nthe battle as an unknown warrior. Their true identity is\nexposed due to their remarkable achievements, but they go\nmissing in the midst of the battlefield."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL Due to their recklessness and charm, they will be talked\nabout as a hero of the people for a long time."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL 【The Aftermath of the Second Prince Catala】After losing\nhis beloved mother Caron, he continues his escape in\ndespair. However, he is trained both mentally and physically\nunder Atu's guidance and faces his destiny head-on."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -15202,7 +15147,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL彼の名はレクス王によって抹消され帝国史から完全に消された。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL They abandoned their original name and eventually began\nto travel across battlefields with Atu. They participated in\nthe Third Tarasa War and ran across the battlefield as a\nbrave and fearless warrior."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL His name was erased by King Rex and completely erased\nfrom the history of the empire."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15502,21 +15502,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm glad to be able to see you alive again. I've been\nin your care since I was just starting out, General Atu."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「また生きてお会いできるとは嬉しいです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　アトゥ将軍には駆け出しの頃からお世話になっていたので」"
+                                ""
                             ]
                         },
                         {
@@ -15547,21 +15547,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "General Atu: It's deeply moving to see you now, looking\nlike a completely different person from when you were just a\nrookie."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あの時とは別人のような面構えだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ひよっこから知っておるから感慨深いな」"
+                                ""
                             ]
                         },
                         {
@@ -15592,21 +15592,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: Even I, who was called the strongest in\nthe empire, feared Rex. Don't get used to fighting, because\nthe battlefield is always unpredictable."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「帝国最強と呼ばれた儂もレクスを恐れた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　戦うことに慣れるなよ、戦場は常に先が見えぬのだから」"
+                                ""
                             ]
                         },
                         {
@@ -15651,21 +15651,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Thank you for saving us. Because you saved us,\nyou ended up getting injured as well..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「助けてくれてありがとうございました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ボクたちを助けたせいで傷まで負ってしまって……」"
+                                ""
                             ]
                         },
                         {
@@ -15696,21 +15696,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: Hahaha, you're too kind to be a\nwarrior. You suit being a mage! Keep working hard, little\none!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「がはは、お前は戦士になるには優しすぎるな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　魔法使いが似合っておる！　精進しろよ、ちびっこ！」"
+                                ""
                             ]
                         },
                         {
@@ -15741,21 +15741,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Kids are unnecessary! Well, it's natural for me\nsince I aim to become an Archmage!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ちびっこは余計です！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　まぁ、ボクはアークメイジを目指しますから当然です！」"
+                                ""
                             ]
                         },
                         {
@@ -15800,21 +15800,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Thank you very much for helping me in various\nways during the bandit subjugation in Camps!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「カンプスの盗賊討伐の時は"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　いろいろと助けてもらってありがとうございました！」"
+                                ""
                             ]
                         },
                         {
@@ -15845,21 +15845,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: Hahaha, don't worry about it! The\nbattle against the leader of the Emma Bandit Gang was\nmagnificent!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「がはは、気にするなっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　エマ盗賊団団長との戦いは見事であったぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -15890,21 +15890,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: The captain praised me too! I'll become even\nstronger for the sake of my comrades from now on!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「団長も褒めてくれました！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　これからも仲間のためにもっともっと強くなります！」"
+                                ""
                             ]
                         },
                         {
@@ -15949,21 +15949,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Do you not consider the possibility of\nreconciliation with King Rex?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「レクス王との和解……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　そういった可能性は考えていないのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -15994,21 +15994,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ元将軍"
+                                "Former General Atu: I don't acknowledge the monster within\nhim, but the only thing I do acknowledge is his unwavering\ncommitment to his words and actions."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「儂はあいつの中にある怪物を認めない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　唯一認めているのは、有言実行を信念にしていることだ」"
+                                ""
                             ]
                         },
                         {
@@ -16039,21 +16039,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: We will execute Queen Caron and General\nAtu... Yes, it is impossible to reconcile with King Rex,\nisn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「王妃カロンとアトゥ将軍は処刑する……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　そうですわね、レクス王との和解はありえませんわね」"
+                                ""
                             ]
                         },
                         {
@@ -16154,21 +16154,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　第二王子カタラ"
+                                "Second Prince Catala: Who might you all be? Could you\npossibly be friends of my mother?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「みなさんはどなたでしょうか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もしかしてお母様のご友人でしょうか？」"
+                                ""
                             ]
                         },
                         {

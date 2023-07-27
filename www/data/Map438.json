@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "倉庫",
+    "displayName": "Warehouse",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5663,7 +5663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -5709,14 +5709,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6312,14 +6312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Mr. Mouse, please come out! Eek!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ネズミさん出てきてくださぁ〜い！　ひっく！」"
+                                ""
                             ]
                         },
                         {
@@ -6390,14 +6390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I-If you shout so loudly, I'll run away!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、そんな大きな声を出したら逃げちゃいますよぉ！」"
+                                ""
                             ]
                         },
                         {
@@ -6452,21 +6452,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Oh my, is that so? You might unexpectedly\ncome out on your own, you know?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あらあら、そうかしらぁ〜？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　案外自分の方から出てくるかもしれませんわ」"
+                                ""
                             ]
                         },
                         {
@@ -6506,14 +6506,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Nora-chan, don't you notice it by the smell\nand sound?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ノラちゃん、匂いと音で気が付きませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -6581,14 +6581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: T-This... I see, so the true form of the big\nmouse is...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、これって……そうか大ネズミの正体はっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6856,14 +6856,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I never thought the true form would be a\nthief!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「まさか正体が泥棒だとは思いませんでした！」"
+                                ""
                             ]
                         },
                         {
@@ -6887,14 +6887,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Let's take him to the guards."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「衛兵さんのところに連れていきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -7104,21 +7104,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: As expected of the young ladies from the\nAdventurer's Guild, I'd like our young ones to learn from\nthem."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さすがは冒険者ギルドのお嬢さんたち"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　うちの若いもんにも見習わせたいですねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -7229,21 +7229,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: The port and the mouse are inseparable...\nHehe, I never thought I would be made to fight a thief."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「船着き場とネズミは切っても切り離せない関係……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　うふふ、まさか泥棒と戦わせられるとは思いませんでしたわ」"
+                                ""
                             ]
                         },
                         {
@@ -7267,14 +7267,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Hehehe, you noticed, didn't you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「くくくっ、気がついていたんですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -7298,14 +7298,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Hehehe, then let's talk about the reward--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「うふふ、では報酬を――」"
+                                ""
                             ]
                         },
                         {
@@ -7329,14 +7329,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Of course, I'll make sure to add some\ncolor to it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「もちろん、色はつけさせていただきやすよ」"
+                                ""
                             ]
                         },
                         {
@@ -7474,21 +7474,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: If we don't carry these guys out,\nthey'll be able to walk on their own, you know?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「こいつらを運び出さないと"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ほら、自分の足で歩けるでしょう？」"
+                                ""
                             ]
                         },
                         {
@@ -7512,14 +7512,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: W-Where exactly are these people going?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「こ、この人たちはいったいどこに行くんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7543,14 +7543,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: It's better not to ask. Well then, see\nyou later."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「聞かない方がいいでしょう。ではまた」"
+                                ""
                             ]
                         },
                         {

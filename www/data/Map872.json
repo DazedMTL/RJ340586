@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "鎮魂の森_最奥",
+    "displayName": "Forest of Tranquility_Deepest Part",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4907,21 +4907,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Goat of the Bulk Brigade: Welcome, my comrades! I am proud\nto have fought alongside you against the dragons at the\nheart of the empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よく来てくれた戦友たちよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　共に帝国の中心でドラゴンと戦えたことを誇りに思う」"
+                                ""
                             ]
                         },
                         {
@@ -4952,21 +4952,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Goat of the Bulk Brigade: In the history of the renowned\nBulk Brigade, you all will become the idols of warriors!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「語られるバルク団の歴史の中で"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前たちも戦士たちの憧れとなるだろう！」"
+                                ""
                             ]
                         },
                         {
@@ -5004,6 +5004,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL 【The Aftermath of Goat from the Bulk Brigade】There was a\ndivision between the reformist faction led by Goat and the\nconservative faction led by the elders, but through\npersistent persuasion, a new system was established with\nGoat at its center."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5011,21 +5018,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【バルク団のゴートのその後】"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴート率いる改革派と長老たちが率いる保守派で分裂しかけるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "粘り強い説得によりゴートを中心として新体制が確立する。"
+                                ""
                             ]
                         },
                         {
@@ -5042,6 +5042,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL In the Third Tarasa War instigated by King Rex, they\nfought valiantly in unfamiliar naval battles and were feared\nby both enemies and allies alike."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5049,14 +5056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLレクス王が起こした第三次タラサ戦争では、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不慣れな海戦を物ともせずに奮闘し敵味方双方から畏怖される。"
+                                ""
                             ]
                         },
                         {
@@ -5073,14 +5073,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL Thanks to their achievements, Goat from the Bulk Brigade\nwill be talked about as the strongest for a long time."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLその活躍からバルク団のゴートは最強と長く語られることになる。"
+                                ""
                             ]
                         },
                         {
@@ -5320,14 +5320,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "You won't be able to come back, but are you really leaving\nthe mansion?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　戻ってくることはできませんが本当に屋敷を出ますか？"
+                                ""
                             ]
                         },
                         {
@@ -5394,14 +5394,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (We haven't talked yet, have we?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（まだ話したりませんね）"
+                                ""
                             ]
                         },
                         {
@@ -6294,21 +6294,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I learned about the ways of a warrior from Goats-san.\nAlthough our positions are different, I hope to contribute\nto the peace of the empire together."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ゴートさんからは戦士の有り様を学ばせてもらいました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　立場は違えど共に帝国の平和に貢献していければと思います」"
+                                ""
                             ]
                         },
                         {
@@ -6339,21 +6339,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Goats of the Bulk Gang: Peace in the empire... The era of\nonly looking out for Waldt has come to an end. I agree."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「帝国の平和か……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ヴァルトだけを見ればいい時代は終わった、賛同する」"
+                                ""
                             ]
                         },
                         {
@@ -6384,21 +6384,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Goats of the Bulk Gang: I would like to have a serious\nmatch with you, not in a half-hearted state like an ogre!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「できれば半端なオーガの状態ではなく"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　本気の俺と勝負をしてもらいたいものだ！」"
+                                ""
                             ]
                         },
                         {
@@ -6443,21 +6443,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Even in the empire that denies magic like Waldt,\nthe number of people who are gradually increasing is also\ngrowing, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「魔法を否定するヴァルト"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　でもだんだんと帝国の人も増えているんですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -6488,21 +6488,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Goats of the Bulk Gang: Once something starts moving, it\ncannot be stopped. However, there are things that we must\nresist and protect."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「一度動き出したものは止められぬ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　それでも抗い守らなくてはいけないものがある」"
+                                ""
                             ]
                         },
                         {
@@ -6533,21 +6533,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Yes, I also think so. I will keep it in mind as\nthe future Archmage."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「はい、ボクもそう思います"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　未来のアークメイジとして肝に銘じておきます」"
+                                ""
                             ]
                         },
                         {
@@ -6592,14 +6592,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I will join the mercenary group in the Waldt\nregion!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あたしヴァルト地方で傭兵団に入ります！」"
+                                ""
                             ]
                         },
                         {
@@ -6637,21 +6637,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Goats of the Bulk Gang: Hahaha, that's great! While working\nas a mercenary, you should come here to train or something!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「がはは、それはいいな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　傭兵稼業の傍らにここに修行にでもやってくるがいい！」"
+                                ""
                             ]
                         },
                         {
@@ -6682,21 +6682,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes, thank you very much! Since Waldt has\ndelicious food, I will come to visit again!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「はい、ありがとうございます！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ヴァルトは食べ物が美味しいのでまた遊びにきますね！」"
+                                ""
                             ]
                         },
                         {
@@ -6741,21 +6741,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Since then, have there been any people\nwho have transformed into ogres through their interactions\nwith everyone and experienced growth?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「皆さんとの関わりで成長させていただきました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あれからオーガに変化する人は出ていませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -6786,21 +6786,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Goats of the Bulk Gang: Thanks to you all, there are many\nwho are opposed to changes in rituals and the Imiserinos\nfaith."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「おかげさまでな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ただ、儀式の変更やイミセリノス信仰に否定的な者も多い」"
+                                ""
                             ]
                         },
                         {
@@ -6831,21 +6831,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Only the Goats can resolve that. May the\ngoddess Imiserinos bless the Bulk Gang."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それを解決できるのはゴートさんだけですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　バルク団に女神イミセリノスの加護がありますように」"
+                                ""
                             ]
                         },
                         {

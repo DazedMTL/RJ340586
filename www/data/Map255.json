@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "元老院議員ピリアの屋敷",
+    "displayName": "House of Senator Pilia",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5750,14 +5750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Should we guard outside the room?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちは部屋の外で護衛をすればいいでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -5795,14 +5795,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: Inside, there is the guild leader... I want\nClea to come."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「中にはギルド長と……クレアに来てもらいたい」"
+                                ""
                             ]
                         },
                         {
@@ -5840,21 +5840,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: In such an important place...! I think there are more\nsuitable people than me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こんな重要な場に……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私よりも適任の方がいると思いますが」"
+                                ""
                             ]
                         },
                         {
@@ -5885,21 +5885,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: Storge and Celis are out for\nnegotiations. Shimosu is out of the question... Besides,\nthere is an important factor."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ストルゲとセリスは交渉に出ています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　シモスは問題外でしょう……それに重要な要素があります」"
+                                ""
                             ]
                         },
                         {
@@ -5930,21 +5930,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: It is important that the Dragon Slayer, who\nhas been recognized by Queen Caron, is present with me in\nthe negotiation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王妃カロンに認められたドラゴンスレイヤー"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　その人間が私と一緒に交渉の場にいることが重要なんだ」"
+                                ""
                             ]
                         },
                         {
@@ -5975,14 +5975,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, I will accompany you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、お供をさせていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -6020,21 +6020,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Please leave the security here to us. I\nwill definitely protect it together with them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こちらの警備はおまかせください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　彼女たちと一緒に必ず死守してみせます」"
+                                ""
                             ]
                         },
                         {
@@ -6065,21 +6065,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: The Magic Academy is neutral... but well, if it\nhas come to this, I'll give it my all!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法アカデミーは中立なんですけど……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まぁ、こうなったらとことんやってやりますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -6110,14 +6110,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I'm a thief, so I'll be fine with anything!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あたしは盗賊ですから何でも大丈夫です！」"
+                                ""
                             ]
                         },
                         {
@@ -6155,21 +6155,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Sophia-san, please don't worry. I will definitely not\nlet anything happen to Prince Rex."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ソフィアさん、心配しないでください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　レクス王子には絶対に手を出させません」"
+                                ""
                             ]
                         },
                         {
@@ -6200,14 +6200,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Yes, I trust Clea-chan, so it'll be\nfine."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、クレアちゃんを信じているから大丈夫ですわ」"
+                                ""
                             ]
                         },
                         {
@@ -6245,14 +6245,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (...Let's go)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（……行きましょう）"
+                                ""
                             ]
                         },
                         {
@@ -6516,14 +6516,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (......Let's go)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（……行きましょう）"
+                                ""
                             ]
                         },
                         {
@@ -7552,21 +7552,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: We've come this far... I can't go back to the\nway things were with my uncle."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここまで来てしまった……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今日で叔父さんとはむかしのような関係に戻れない」"
+                                ""
                             ]
                         },
                         {
@@ -7613,14 +7613,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: Even though I've prepared myself, I still feel\nnervous."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「覚悟をしてきたとはいえ緊張するね」"
+                                ""
                             ]
                         },
                         {
@@ -7658,21 +7658,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Are you going to stop today? It seems\nlike you're thinking about some important negotiations..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本日はおやめになりますか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何か重要な交渉をお考えのようですから……」"
+                                ""
                             ]
                         },
                         {
@@ -7703,21 +7703,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: If it can't be avoided, let's do it today.\nDepending on the situation, there might be a possibility of\na battle."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「避けられないなら今日にするよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　場合によっては戦闘になる可能性もある」"
+                                ""
                             ]
                         },
                         {
@@ -7766,14 +7766,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: Please let me know when you're ready."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「準備ができたら声をかけて欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -7811,14 +7811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました」"
+                                ""
                             ]
                         },
                         {
@@ -8358,14 +8358,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: Are you ready?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「準備はできたかい？」"
+                                ""
                             ]
                         },
                         {
@@ -8411,14 +8411,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I apologize, please wait a little longer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「申し訳ありません、もう少しお待ちください」"
+                                ""
                             ]
                         },
                         {
@@ -8637,21 +8637,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: No problem. I'll leave the timing of entering the\nroom to you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「問題ありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　部屋に入るタイミングはおまかせします」"
+                                ""
                             ]
                         },
                         {
@@ -8682,14 +8682,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: Alright, let's go inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わかった、中に入ろう」"
+                                ""
                             ]
                         },
                         {
@@ -9967,14 +9967,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: P-Please wait!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ま、待ってください！」"
+                                ""
                             ]
                         },
                         {
@@ -10012,21 +10012,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: What is it? I have no personal\nbusiness to discuss with you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何でしょうか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたと個人的に話すことはありませんが」"
+                                ""
                             ]
                         },
                         {
@@ -10057,14 +10057,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: Why did you expel me from the\nAdventurer's Guild?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なぜ、私を冒険者ギルドから追い出したのですか」"
+                                ""
                             ]
                         },
                         {
@@ -10102,14 +10102,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: Who are you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたは何者ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -10147,14 +10147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮文官エモニ"
+                                "Royal Court Official Emoni: Yes?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい？」"
+                                ""
                             ]
                         },
                         {
@@ -10192,21 +10192,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: Because I cannot answer this question\nimmediately. You judge value based on appearances rather\nthan substance."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この質問に即答できないからです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたは中身よりも上辺で価値を決めようとする」"
+                                ""
                             ]
                         },
                         {
@@ -10237,21 +10237,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: Let's meet on the battlefield. At that\ntime, it will be as members of the shadow division, not as\ncivil servants."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「戦場で会いましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　その時は文官としてではなく暗部としてでしょうが」"
+                                ""
                             ]
                         },
                         {
@@ -10487,14 +10487,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: Clea, please go to Myukos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアはミュコスにいってください」"
+                                ""
                             ]
                         },
                         {
@@ -10532,21 +10532,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood. What should I do in Myukos?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ミュコスで何をすればいいのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -10577,21 +10577,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: Please join Celis and head to the\nMyukos region. Negotiations are expected to be difficult in\nthat particular area."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「セリスと合流をしてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ミュコス地方は特殊な土地で交渉が難航しているはず」"
+                                ""
                             ]
                         },
                         {
@@ -10622,21 +10622,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: It may be troublesome, but if you want\nto gather information, it's best to go meet that man."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「厄介ですが情報を得るなら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの男に会いに行くのが一番でしょう」"
+                                ""
                             ]
                         },
                         {
@@ -10667,14 +10667,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス"
+                                "Lex: Understood, I will first go meet Cors-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、まずはコルスさんに会ってきます」"
+                                ""
                             ]
                         },
                         {
@@ -10712,14 +10712,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia (Was Prince Lex's statement... really\njust a threat?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（レクス王子の発言……本当にただの脅しだったのか）"
+                                ""
                             ]
                         },
                         {
@@ -10757,21 +10757,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia (He seems to be preparing to become\nking, so we need to seriously consider how to deal with him\nwhen he becomes king)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（王になる準備を整えつつあるのでしょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　彼が王になった際の向き合い方も真剣に考える必要がある）"
+                                ""
                             ]
                         },
                         {
@@ -10802,21 +10802,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia (Although it seemed that he had\nanticipated the idea of turning the royal court into a\nbattlefield, where exactly is his intention?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（気になるのは王宮を戦場にすることを飲んだこと"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　事前に想定していたようではあったが意図はどこに）"
+                                ""
                             ]
                         },
                         {
@@ -10847,21 +10847,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia (Instead of limiting the battlefield,\ndid he [gather] something with Caron in mind...?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（カロンに何か考えがあるはず"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　戦場を限定化したのではなく【集めた】のでは……？）"
+                                ""
                             ]
                         },
                         {

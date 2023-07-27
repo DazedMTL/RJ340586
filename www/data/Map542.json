@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ港湾 酒場・宿屋2F",
+    "displayName": "Fotizona Port Inn & Tavern 2F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -5744,14 +5744,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の宝石商"
+                                "Traveling Jewel Merchant: Well, I've finished the\ninvestigation for now."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「一応、調査は終わったよ」"
+                                ""
                             ]
                         },
                         {
@@ -5782,14 +5782,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の宝石商"
+                                "Traveling Jewel Merchant: To cut to the chase, it's better\nto let go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「結論から言うと手放した方がいい」"
+                                ""
                             ]
                         },
                         {
@@ -5829,14 +5829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の宝石商"
+                                "Traveling Jewel Merchant: I'm not saying I want to buy it,\nplease believe me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺が買取したいとかじゃない、そこは信じてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -5867,21 +5867,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の宝石商"
+                                "Traveling Jewel Merchant: I've seen something similar in\nthe past, it had an effect of amplifying human emotions."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「過去に似たようなものを見た時がある"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それは人間の感情を増幅させるような効果があった」"
+                                ""
                             ]
                         },
                         {
@@ -5912,14 +5912,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女探検家イクト"
+                                "Young female explorer Ect: Amplifying human emotions, you\nsay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「人間の感情を増幅させるっていうのは？」"
+                                ""
                             ]
                         },
                         {
@@ -5950,21 +5950,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の宝石商"
+                                "Traveling Jewel Merchant: For example, if the emotion of\nsadness becomes amplified, humans may become so overwhelmed\nby sadness that they can't move."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「例えば悲しいって感情が大きくなれば"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　人間は悲しさのあまり身動きができなくなったりする」"
+                                ""
                             ]
                         },
                         {
@@ -5995,14 +5995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女探検家イクト"
+                                "Young female explorer Ect: ...I understand because I've\nexperienced it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……経験したのでわかります」"
+                                ""
                             ]
                         },
                         {
@@ -6033,21 +6033,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の宝石商"
+                                "Traveling Jewel Merchant: It might be convenient if you\ncould control it freely, but if you end up using it\nunconsciously, it could be extremely dangerous."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「自在に操れれば便利なものかもしれないけど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そうだな【無意識】で使ってしまう場合は非常に危険だ」"
+                                ""
                             ]
                         },
                         {
@@ -6078,14 +6078,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: This is something important to her."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは彼女にとって大切なものなんです」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Traveling Jewel Merchant: In that case, I think it would be\nbetter for her to stop carrying it around and display it at\nhome for her own sake."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6116,21 +6154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の宝石商"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「だったら肌身離さずはやめて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　家に飾るなりした方が身のためだと思う」"
+                                "Traveling Jewel Merchant: If further investigation is\nneeded, it seems that it would be better to leave it to a\nmagician who specializes in experiments, rather than me."
                             ]
                         },
                         {
@@ -6141,34 +6165,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の宝石商"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「これ以上の調査は実験するしかない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　そうなると俺じゃなくて魔法使いが専門になる」"
+                                ""
                             ]
                         },
                         {
@@ -6199,21 +6199,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女探検家イクト"
+                                "Young female explorer Ect: If that's all we need to know,\nthen thank you for investigating."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これだけわかれば大丈夫です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　調査してもらってありがとうございました」"
+                                ""
                             ]
                         },
                         {
@@ -6265,21 +6265,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の宝石商"
+                                "Traveling Jewel Merchant: Anyway... I'm being stared at by\nboth the big one and the little one."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それにしても……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　大きい子と小さい子に睨まれるし」"
+                                ""
                             ]
                         },
                         {
@@ -6303,21 +6303,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の宝石商"
+                                "Traveling Jewel Merchant: The self-proclaimed guardian is a\ndrunkard, so it was quite an exciting investigation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「自称保護者は飲んだくれているし"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　なかなかスリリングな調査だったよ」"
+                                ""
                             ]
                         },
                         {
@@ -6348,14 +6348,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...I'm sorry."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……申し訳ありませんでした」"
+                                ""
                             ]
                         },
                         {
@@ -6455,14 +6455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: With this, the request is complete. What will you\ndo?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これで依頼終了となりますが、どうしますか？」"
+                                ""
                             ]
                         },
                         {
@@ -6500,21 +6500,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女探検家イクト"
+                                "Young female explorer Ect: Since we've come this far, would\nit be possible for you to escort us to the Adventurer's\nGuild?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「せっかくだから"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　冒険者ギルドまで護衛してもらってもいいですか？」"
+                                ""
                             ]
                         },
                         {
@@ -6545,14 +6545,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女探検家イクト"
+                                "Young female explorer Ect: The sound of being escorted is\nfun!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「護衛って響きが楽しくて！」"
+                                ""
                             ]
                         },
                         {
@@ -6590,21 +6590,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood. I will escort you to the Adventurer's\nGuild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　冒険者ギルドまで護衛させていただきます」"
+                                ""
                             ]
                         },
                         {

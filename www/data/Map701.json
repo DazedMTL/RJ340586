@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "封印された入口",
+    "displayName": "Sealed Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4129,6 +4129,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL I feel like that beautiful chain is rejecting everything."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4136,14 +4143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLその美しい鎖は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すべてを拒絶しているように感じる"
+                                ""
                             ]
                         },
                         {
@@ -4689,21 +4689,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: I'm glad it wasn't just my misunderstanding, there's\nno doubt about it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「間違いないね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　僕の勘違いじゃなくてよかったよ」"
+                                ""
                             ]
                         },
                         {
@@ -4734,14 +4734,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Is it okay for me to go ahead and slash?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もう斬っちゃっていいのかな？」"
+                                ""
                             ]
                         },
                         {
@@ -4779,14 +4779,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, please take care of me--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、よろしくお願い――」"
+                                ""
                             ]
                         },
                         {
@@ -4817,14 +4817,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
+                                "Actina's Priestess: Wait!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「待たれよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -5185,21 +5185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「鎖を断ち切る挑戦権……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　悪魔の花嫁アンコスの討伐報酬として確かに与えた」"
+                                "Actina's Priestess: The right to challenge to break the\nchains... I certainly gave it as a reward for subduing the\ndemon bride Ancos."
                             ]
                         },
                         {
@@ -5207,106 +5193,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アクティナの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「しかしっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　それは貴殿たちだけの話、そこの男は無関係のはず」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イミセリノスの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ここはテリオス教にとっても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　アトミス神殿にとっても非常に重要な場所です」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イミセリノスの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「簡単に他者を招き入れていい場所ではありませんよ」"
                             ]
                         },
                         {
@@ -5337,21 +5223,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　デイレーの巫女"
+                                "Actina's Priestess: However! That is a matter only\nconcerning you all, that man over there should have no\ninvolvement."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こいつらと意見が合うのは癪だが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺ですら部外者を招き入れることは反対だ」"
+                                ""
                             ]
                         },
                         {
@@ -5375,14 +5261,128 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　デイレーの巫女"
+                                "Imiselinus Priestess: This is a very important place for\nboth the Terios religion and the Atomis Temple."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「一応、これでも巫女をやっているからな」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Imiselinus Priestess: This is not a place where you can\neasily invite others in."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Dayley's Priestess: It annoys me that I agree with these\npeople... but even I am against inviting outsiders."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Dayley's Priestess: For your information, I am still a\npriestess."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5451,21 +5451,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It's difficult to explain, but this person should be\nable to cut the chains of the full moon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「説明が難しいのですが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この人なら満月の鎖を切断できるはずなのです」"
+                                ""
                             ]
                         },
                         {
@@ -5560,14 +5560,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Huh...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えっ……？」"
+                                ""
                             ]
                         },
                         {
@@ -5636,14 +5636,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: It seems like we're not welcome here, so let's go\nsoon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「歓迎されてないみたいだし、そろそろ行くよ」"
+                                ""
                             ]
                         },
                         {
@@ -5747,21 +5747,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
+                                "Actina's Priestess: Please keep this place a secret and\nrefrain from speaking about it to others!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうしていただこう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この場所のことは他言無用でお願いしたい！」"
+                                ""
                             ]
                         },
                         {
@@ -5801,14 +5801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...I can cut them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……斬れています」"
+                                ""
                             ]
                         },
                         {
@@ -5839,21 +5839,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
+                                "Actina's Priestess: Dragon Slayer, we are still in the\nmiddle of our conversation, please wait--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンスレイヤーよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まだ話している途中なのだ、あとに――」"
+                                ""
                             ]
                         },
                         {
@@ -5884,14 +5884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: The chains of the full moon have been severed!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「満月の鎖が切断されています！」"
+                                ""
                             ]
                         },
                         {
@@ -5965,21 +5965,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: I apologize for the vagueness, but there should be\nsomething interesting deep inside here, so why don't you go\nand check it out?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おぼろげで悪いけど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この奥に面白いものがあったはずだから行ってみなよ」"
+                                ""
                             ]
                         },
                         {
@@ -6010,14 +6010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: I think you guys can put up a good fight now, don't\nyou?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今の君たちなら善戦できると思うよ？」"
+                                ""
                             ]
                         },
                         {
@@ -6079,21 +6079,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
+                                "Actina's Priestess: W-Who exactly are you...? I would like\nto hear if you are capable of cutting those chains..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「き、貴殿はいったい……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの鎖を切断することができるのは……お聞かせ願いたい」"
+                                ""
                             ]
                         },
                         {
@@ -6314,21 +6314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「も、申し訳ございませんでした！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　まさか、本当に、伝説の、あぁ、なんと言えばいいのか」"
+                                "Actina's Priestess: I-I apologize! I never expected that\nyou were truly the legendary... Ah, what should I even say?"
                             ]
                         },
                         {
@@ -6336,30 +6322,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アクティナの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「巫女の長女として謝罪を……」"
                             ]
                         },
                         {
@@ -6390,14 +6352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　イミセリノスの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「伝説の勇者様が今も人の世を守り続けていたなんて……」"
+                                "Actina's Priestess: As the eldest daughter of the\npriestess, I apologize..."
                             ]
                         },
                         {
@@ -6405,37 +6360,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イミセリノスの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「巫女の長女として私が謝罪を……」"
                             ]
                         },
                         {
@@ -6466,21 +6390,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　デイレーの巫女"
+                                "Actina's Priestess: To think that the legendary hero is\nstill protecting the human world even now..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「自称勇者様は散々見てきたが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本物が目の前にいる……信じられねぇ……」"
+                                ""
                             ]
                         },
                         {
@@ -6504,21 +6428,97 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　デイレーの巫女"
+                                "Imiserinos' Priestess: As the eldest daughter of the\npriestess, I apologize..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ど、どうすりゃ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まずは巫女の長女として謝罪を……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Priestess of Deire: I've seen many self-proclaimed heroes\nbefore... but to have the real deal right in front of me...\nI can't believe it..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Priestess of Deire: W-What should I do... First, as the\neldest daughter of the priestess, I apologize..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6756,21 +6756,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Haha, don't worry, you girls look just like the real\ngoddesses."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はは、気にしなくていいよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちは本物の女神にそっくりだね」"
+                                ""
                             ]
                         },
                         {
@@ -6801,14 +6801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Actina, the goddess who is aggressive and\ninflexible."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「好戦的で融通が効かない女神アクティナ」"
+                                ""
                             ]
                         },
                         {
@@ -6846,14 +6846,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Imiserinos, the goddess who is compassionate but\nself-righteous."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「慈悲深いが独善的な女神イミセリノス」"
+                                ""
                             ]
                         },
                         {
@@ -6891,14 +6891,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Deire, the goddess who is moody and cunning, but\nsurprisingly level-headed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「気分屋で狡猾だけど意外と常識人な女神デイレー」"
+                                ""
                             ]
                         },
                         {
@@ -6936,14 +6936,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Haha, even in front of me, you girls are always\ncompeting to be the eldest daughter."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ははは、僕の前でもいつも長女争いをしていたよ」"
+                                ""
                             ]
                         },
                         {
@@ -7067,21 +7067,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
+                                "Actina's Priestess: I apologize for my unsightly\nappearance. The fact that the hero has appeared before the\npriestess once again..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お見苦しい姿、大変申し訳ございません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　勇者様が再び巫女の前に現れたということは」"
+                                ""
                             ]
                         },
                         {
@@ -7105,21 +7105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
+                                "Actina's Priestess: So, you're saying that you can receive\nthe divine oracle from the priestesses and save the people\nin need!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「巫女たちの神託を受け止めていただき"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さまよえる人々を救済していただけるということですか！」"
+                                ""
                             ]
                         },
                         {
@@ -7143,14 +7143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　イミセリノスの巫女"
+                                "Imiserinos' Priestess: I will immediately report this to\nthe High Priest!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「このことはすぐに大神官にお伝えを！」"
+                                ""
                             ]
                         },
                         {
@@ -7188,14 +7188,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: That is not possible."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それはできない」"
+                                ""
                             ]
                         },
                         {
@@ -7253,14 +7253,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　デイレーの巫女"
+                                "Deire's Priestess: D-Does that mean the hero has abandoned\nus?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゆ、勇者様は俺たちを見限っているということですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7298,21 +7298,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Because both the demons and the goddesses have\ndisappeared, the protagonist of this world must be a human."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悪魔も女神たちも消え去った"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だから、この世界の主役は人間じゃないとダメなんだ」"
+                                ""
                             ]
                         },
                         {
@@ -7343,21 +7343,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: I only intervene in situations that cannot be\nresolved by the priestesses' prepared insurance humans."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「僕はあくまで巫女たちが用意した保険"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　人間では絶対に解決できない存在にだけ介入する」"
+                                ""
                             ]
                         },
                         {
@@ -7419,21 +7419,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: The priestesses should believe in the power of the\nhumans who defeated the dragons more than anyone else."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「彼女たちはドラゴンを倒した"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　人間のちからを誰よりも巫女は信じるべきだよ」"
+                                ""
                             ]
                         },
                         {
@@ -7498,14 +7498,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Well then, I'll go back to being a tone-deaf bard."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「じゃあね、僕は音痴の吟遊詩人に戻るよ」"
+                                ""
                             ]
                         },
                         {
@@ -7598,14 +7598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「人間のちからを信じろ、か……」"
+                                "Actina's Priestess: Believe in the power of humans, huh..."
                             ]
                         },
                         {
@@ -7613,37 +7606,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イミセリノスの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「勇者様が現れたことは私たちだけの秘密にしましょう」"
                             ]
                         },
                         {
@@ -7674,14 +7636,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　デイレーの巫女"
+                                "Imiserinos' Priestess: Let's keep the fact that the hero\nhas appeared as our secret."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「同感だ……長生きしているだけあって言葉が重い」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Deire's Priestess: I agree... As someone who has lived for\na long time, her words carry weight."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7712,21 +7712,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
+                                "Actina's Priestess: I am grateful to have had the\nopportunity to meet the Dragon Slayer, our esteemed hero."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンスレイヤーよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　勇者様と会わせていただいたことに感謝する」"
+                                ""
                             ]
                         },
                         {
@@ -7750,21 +7750,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
+                                "Actina's Priestess: Please follow the words of the hero and\ngo to the other side of the chains."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「勇者様の言葉に従い"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どうか鎖の向こう側に行ってみて欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -7795,14 +7795,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, I will go on the exploration."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、探索をさせていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -8108,14 +8108,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Photizona Region/The Hero's\nRuins\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLフォティゾナ地方/勇者の遺跡\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -8708,21 +8708,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
+                                "Actina's Priestess: This is the place called the Hero's\nRuins, where only the heroes who have achieved great deeds\nare allowed to enter."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここが勇者の遺跡と呼ばれる場所だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　功績を立てた英雄だけが入ることが許されている」"
+                                ""
                             ]
                         },
                         {
@@ -8746,21 +8746,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
+                                "Actina's Priestess: Can you see this? The entrance is\ncompletely sealed by the chains of the full moon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これが見えるか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　入口は満月の鎖によって完全に封鎖されている」"
+                                ""
                             ]
                         },
                         {
@@ -8791,14 +8791,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I wonder what could be beyond this?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この奥にいったい何があるのでしょうか？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Actina's Priestess: I don't know... It is said that only\nthe heroes can break these chains."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8829,21 +8867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それはわからない……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　この鎖は勇者様にしか断ち切ることができないとされている」"
+                                "Actina's Priestess: This time, the reward is the\nopportunity to challenge and break the chains that allow you\nto come here freely."
                             ]
                         },
                         {
@@ -8854,34 +8878,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アクティナの巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ここは好きに来てもらって構わない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　鎖を断ち切る挑戦権を与えることが今回の報酬だ」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "アルケー村 クレアの家2F",
+    "displayName": "Archee Village, Clea's House 2F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5582,6 +5582,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The part of the pedestal resembling a statue of the Lion\nKing Avra, who annexed the campus, has intricate carvings\nlike drawers."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5589,14 +5596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カンプスを併合した獅子王アヴラを模した石像"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　台座の部分に引き出しのような細工が施されている"
+                                ""
                             ]
                         },
                         {
@@ -5613,14 +5613,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Do you want to investigate the pedestal?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　台座をしらべますか？"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ドラゴンの涙製造所入口",
+    "displayName": "Dragon's Tear Manufacturing Facility Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10106,14 +10106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis, the Gale: You've arrived. This is the place where\nthe factory used to be."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「来たね、ここが製造所だった場所」"
+                                ""
                             ]
                         },
                         {
@@ -10130,21 +10130,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis, the Gale: Dragon tears have an unknown manufacturing\nmethod, so I want you to investigate the manufacturing\nmethod here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの涙は製法がわかっていない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だからここで製法について調査をして欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -10168,14 +10168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, I will try to find hints about the\nmanufacturing method."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、製法のヒントを探してみます」"
+                                ""
                             ]
                         },
                         {
@@ -10986,14 +10986,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: ...slow."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……遅い」"
+                                ""
                             ]
                         },
                         {
@@ -11497,14 +11497,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Celis-san, are you okay!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「セリスさん、大丈夫ですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -11535,21 +11535,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: I'm fine. It was the right call to\nbe cautious at the entrance. The enemy noticed our\nmovements."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大丈夫。入口を警戒して正解だった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　相手はこちらの動きに気がついている」"
+                                ""
                             ]
                         },
                         {
@@ -11573,14 +11573,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: This is the recipe I found and a memo about where\nit's distributed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これが見つけたレシピと流通先のメモです」"
+                                ""
                             ]
                         },
                         {
@@ -11784,14 +11784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: The ingredients are discarded\ncrystals...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「材料は廃棄されたクリスタル……！」"
+                                ""
                             ]
                         },
                         {
@@ -11808,21 +11808,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: Let's go to the warehouse in the\nMarako Village where it's distributed. If we leave it alone,\nthe empire will be thrown into chaos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「流通先のマラコ村の倉庫に行こう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　放っておけば帝国が滅茶苦茶にされてしまう」"
+                                ""
                             ]
                         },
                         {
@@ -11846,14 +11846,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, let's go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、いきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -11986,14 +11986,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Valley Region/Marako Village\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLバリエ地方/マラコ村\\c[0]"
+                                ""
                             ]
                         },
                         {

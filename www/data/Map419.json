@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "リピ村 悪魔崇拝者の洞窟最奥",
+    "displayName": "Lipy Village - Innermost Cave of the Devil Worshipers",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5926,7 +5926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -5972,14 +5972,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6080,14 +6080,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go further inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「奥にいってみましょう」"
+                                ""
                             ]
                         },
                         {
@@ -6234,7 +6234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -6273,14 +6273,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6804,14 +6804,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Can you open it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「開けることはできるでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6835,21 +6835,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: ...I think it's difficult to unlock it with both\nphysical and magical means."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……無理ですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　物理でも魔法でも解錠は難しいと思います」"
+                                ""
                             ]
                         },
                         {
@@ -6873,21 +6873,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It has undergone a very special magical process.\nWithout any hints for unlocking it, it will be difficult."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「非常に特殊な魔法処理がされています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　解錠のためのヒントがないと難しいですね」"
+                                ""
                             ]
                         },
                         {
@@ -7373,21 +7373,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I can't find the keyhole. How can we open it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「鍵穴は見当たりませんね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どのような方法で開くことができるのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -7411,21 +7411,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I think the compass we received is the [key].\nI'll easily open the door and show you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もらった羅針盤が【鍵】だと思います"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクが簡単に扉を開いてみせますよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7449,14 +7449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Can I have the compass?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「羅針盤をもらってもいいですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7480,14 +7480,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, please go ahead."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、お願いします」"
+                                ""
                             ]
                         },
                         {
@@ -7511,21 +7511,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: The compass is written with [Right Night, Left\nMoon, Right Sun, Left Sea]."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「羅針盤には"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　【右の夜、左の月、右の太陽、左の海】と書かれていますね」"
+                                ""
                             ]
                         },
                         {
@@ -7805,14 +7805,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (Right and left... refers to the direction of\nrotation...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（右左は……回転させる方向のことなんじゃ……）"
+                                ""
                             ]
                         },
                         {
@@ -8012,14 +8012,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "\\CL Would you like to skip the mini-game?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLミニゲームをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -8196,14 +8196,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (Right and left... refers to the direction of\nrotation...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（右左は……回転させる方向のことなんじゃ……）"
+                                ""
                             ]
                         },
                         {
@@ -8957,21 +8957,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It seems like it's open! You can praise this\ngenius me if you want--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうやら開いたみたいですね！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この大天才のボクを褒め称えてもいいで――」"
+                                ""
                             ]
                         },
                         {
@@ -9099,21 +9099,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: This is...! There's a nauseating miasma coming from\nbehind the door..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　扉の奥から吐き気がするような瘴気が……」"
+                                ""
                             ]
                         },
                         {
@@ -9137,21 +9137,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Please be strong! I never thought there\nwould be such an evil presence like this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「気を強くもってください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これほどまでに邪悪な存在だとは思いませんでしたわ」"
+                                ""
                             ]
                         },
                         {
@@ -9175,21 +9175,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: The smell and the atmosphere are all absolutely\nterrible! Ugh, it's so disgusting, I definitely don't want\nto go in."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「匂いも気配も全部ぜんぶ最悪ですよぉ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　うぅ、気持ち悪いです、絶対に入りたくないですぅ」"
+                                ""
                             ]
                         },
                         {
@@ -9213,21 +9213,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: We can't close it ourselves. Since we've come\nthis far, the only option is to defeat the Uncos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクたちでは閉じることはできません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここまで来た以上はアンコスを倒すしかないです」"
+                                ""
                             ]
                         },
                         {
@@ -9251,21 +9251,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's proceed to the deepest part from here and\ndefeat the Uncos before they fully revive."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これから最奥まで進みます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アンコスが完全に復活する前に討伐しましょう」"
+                                ""
                             ]
                         },
                         {
@@ -9722,7 +9722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -9768,14 +9768,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -9876,14 +9876,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go further inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「奥にいってみましょう」"
+                                ""
                             ]
                         },
                         {
@@ -10030,7 +10030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -10069,14 +10069,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -10295,7 +10295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -10341,14 +10341,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -10449,14 +10449,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go further inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「奥にいってみましょう」"
+                                ""
                             ]
                         },
                         {
@@ -10603,7 +10603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -10642,14 +10642,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -11300,21 +11300,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　悪魔アメドールの信奉者トント"
+                                "Tont, a follower of the demon Amedol, says, 'Immortal demon\nAmedol... I am the representative of Amedol, Ankos!'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「不死の悪魔アメドール……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アメドールの代行者アンコスよ……！」"
+                                ""
                             ]
                         },
                         {
@@ -11331,21 +11331,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　悪魔アメドールの信奉者トント"
+                                "Tont, a follower of the demon Amedol, says, I have\nwitnessed it... the incarnation of Amedol... the ruler of\nthe heavens...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私は見たのです……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アメドールの化身……天空の覇者を……！」"
+                                ""
                             ]
                         },
                         {
@@ -11690,14 +11690,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: These are... the corpses of the villagers!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは……村の人たちの死体！」"
+                                ""
                             ]
                         },
                         {
@@ -11721,21 +11721,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: There are goblin corpses too! It seems\nthat this village was taken over by them, it seems."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゴブリンの死体もありますわ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どうやらこの村は彼らに乗っ取られていたようですわね」"
+                                ""
                             ]
                         },
                         {
@@ -11799,21 +11799,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　悪魔アメドールの信奉者トント"
+                                "Tont, a follower of the demon Amedol, says, You're not a\nvillager from here, are you? A mage and a priest... those\nears... could it be that you're a demi-human!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここの村人ではないな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法使いに僧侶……その耳……まさか亜人かっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -11837,21 +11837,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: W-What is it?! D-Don't look at me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、なんですかぁ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あ、あたしのこと見ないでください！」"
+                                ""
                             ]
                         },
                         {
@@ -11875,21 +11875,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　悪魔アメドールの信奉者トント"
+                                "Tont, a follower of the demon Amedol, says, This is\namazing! The time has come to overthrow the false empire and\nrevive the true empire!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは素晴らしい！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　偽りの帝国を打倒し、真なる帝国が復活する時が来た！」"
+                                ""
                             ]
                         },
                         {
@@ -11906,14 +11906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　悪魔アメドールの信奉者トント"
+                                "Follower Tont, a believer of the demon Amedol, says,\nIndeed, the resurrection of the dragon was a great\nomen...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やはりドラゴン復活は大いなる暗示だったのだ……！」"
+                                ""
                             ]
                         },
                         {
@@ -11946,14 +11946,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　悪魔アメドールの信奉者トント"
+                                "Follower Tont, a believer of the demon Amedol, says, You\nall will become sacrifices too!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前たちも生贄になってもらうぞっ！」"
+                                ""
                             ]
                         },
                         {
@@ -11977,21 +11977,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I have more questions for you. I will definitely ask\nyou about the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたに聞きたいことが増えました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　必ずドラゴンについて聞かせていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -12041,14 +12041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm going!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「行きます！」"
+                                ""
                             ]
                         },
                         {
@@ -12241,14 +12241,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Now, please tell me about the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さぁ、ドラゴンについて教えてください」"
+                                ""
                             ]
                         },
                         {
@@ -12281,21 +12281,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　悪魔アメドールの信奉者トント"
+                                "Follower Tont, a believer of the demon Amedol, says, I have\nseen it... the dragon's flight... to the great place... the\ndragon flew away to Mount Monimos..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「私は見たのだ……ドラゴンの飛翔を……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　偉大なる場所……モニモス山にドラゴンは飛び去った……」"
+                                ""
                             ]
                         },
                         {
@@ -12312,21 +12312,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　悪魔アメドールの信奉者トント"
+                                "Follower Tont, a believer of the demon Amedol, says, Amedol\nwill revive... by the hands of the proxy Ankos... I am also\na cornerstone..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「アメドールは復活する……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　代行者アンコスの手によって……私も礎だ……」"
+                                ""
                             ]
                         },
                         {
@@ -12343,14 +12343,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　悪魔アメドールの信奉者トント"
+                                "Follower Tont, a believer of the demon Amedol, says, You\nall will also become the cornerstone...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「お前たちもやがて礎となるのだっ……！」"
+                                ""
                             ]
                         },
                         {
@@ -12902,14 +12902,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: What happened?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「何が起きたのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -12933,21 +12933,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It seemed like we were absorbed into the door...\nThere might be something incredible behind it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「扉に吸収されたように見えましたね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　何かとんでもないものが奥にあるのかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -12971,21 +12971,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: More importantly, it's about the dragon! They\nsaid it flew away to a place called Mount Monimos!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それよりもドラゴンですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　モニモス山って場所に飛び去ったって言ってましたよ！」"
+                                ""
                             ]
                         },
                         {
@@ -13009,21 +13009,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I believe there is a place nearby where\nyou can see the mountain, which is the tallest in the\nempire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「帝国で一番高い山ですわね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　山を望める場所が近くにあると思いますわ」"
+                                ""
                             ]
                         },
                         {
@@ -13113,14 +13113,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, let's go and see."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わかりました、行ってみましょう」"
+                                ""
                             ]
                         },
                         {
@@ -13563,21 +13563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　悪魔アメドールの信奉者トント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「心を揺さぶるような叫び声でした"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　あなたたちの絶叫は復活のラッパの音なのでしょう」"
+                                "Follower Tont, a believer of the demon Amedol, says, It was\na scream that shook the heart. Your screams must be the\nsound of the trumpet of revival."
                             ]
                         },
                         {
@@ -13585,68 +13571,6 @@
                             "indent": 1,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　悪魔アメドールの信奉者トント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「我らが代行者アンコス復活のため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　その身も魂もすべて利用をさせていただきますよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　悪魔アメドールの信奉者トント"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「亜人の少女以外はね」"
                             ]
                         },
                         {
@@ -13677,14 +13601,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Follower Tont, a believer of the demon Amedol, says, We\nwill use your body and soul for the revival of our proxy,\nAnkos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「……！」"
+                                ""
                             ]
                         },
                         {
@@ -13715,14 +13639,90 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　悪魔アメドールの信奉者トント"
+                                "Follower Tont, a believer of the demon Amedol, says, Except\nfor the demi-human girl."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さぁ、娘たちを封印の扉に捧げましょう！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Thief Nora: ......!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Follower Tont, a believer of the demon Amedol, says, Now,\nlet us offer the girls to the seal door!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15811,14 +15811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Was there something written on the compass?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「羅針盤には、何か書かれていたのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -15842,14 +15842,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It says 'Right Night, Left Moon, Right Sun, Left\nSea'."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「【右の夜、左の月、右の太陽、左の海】と書かれていますね」"
+                                ""
                             ]
                         },
                         {
@@ -16883,14 +16883,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's always a creepy place whenever we come\nhere."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いつ来ても薄気味悪い場所ですね」"
+                                ""
                             ]
                         },
                         {
@@ -16949,14 +16949,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Can I assume that you've noticed us?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こちらに気づいていると判断していいですか？」"
+                                ""
                             ]
                         },
                         {
@@ -17104,21 +17104,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes, I'm certain. I think they'll switch from\nintimidation to attacking!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、間違いありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　威嚇から攻撃に切り替えてくると思います！」"
+                                ""
                             ]
                         },
                         {
@@ -17239,14 +17239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Oh... a small mouse has come."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あら……小さいネズミが来ましたわ」"
+                                ""
                             ]
                         },
                         {
@@ -17296,21 +17296,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Look closely! Oh, in the back, there's a big\none! It's going to attack us all at once!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よく見てください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お、奥に、でっかいのが！　一気に襲いかかってきますっ！」"
+                                ""
                             ]
                         },
                         {
@@ -17467,14 +17467,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: This is the last corpse, isn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これが最後の亡骸ですね」"
+                                ""
                             ]
                         },
                         {
@@ -17594,21 +17594,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Goddess Imiserinos, grant eternal rest to\nall those who have passed away in the village of Lypi."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「女神イミセリノスよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　リピ村で亡くなったすべての者たちに永遠の安息を」"
+                                ""
                             ]
                         },
                         {
@@ -17680,14 +17680,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Now, let's deliver the corpses."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、亡骸を届けましょう」"
+                                ""
                             ]
                         },
                         {
@@ -17725,14 +17725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, let's go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、いきましょう」"
+                                ""
                             ]
                         },
                         {

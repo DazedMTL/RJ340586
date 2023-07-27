@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ大通り 食堂",
+    "displayName": "Fotizona Avenue Diner",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -8570,21 +8570,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Dining Hall Lady: Ah, it's busy! I wonder if there's anyone\nwho can help me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あー忙しい！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　手伝ってくれる人はいないかねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -8737,14 +8737,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Dining Hall Lady: Oh, are you going to help?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おや、手伝ってくれるのかい？」"
+                                ""
                             ]
                         },
                         {
@@ -8783,21 +8783,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Dining Hall Lady: Whenever you have spare time, feel free\nto ask if you want to earn some extra money by helping out\nin the kitchen."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いつまでも料理人は不足してる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　時間がある時は小遣い稼ぎに声をかけておくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -8827,14 +8827,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Dining Hall Lady: That's a great response! It's time for\ncooking in the kitchen!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いい返事だ！　厨房で料理の時間だよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -8874,14 +8874,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Dining Hall Lady: You've got some skills! Take this, even\nthough it's not much!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「いい腕だね、少ないけどもらっておくれよ！」"
+                                ""
                             ]
                         },
                         {
@@ -8917,14 +8917,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Dining Hall Lady: There might be some mistakes, but please\nhelp again."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「失敗もあるさ。また手伝っておくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -9391,21 +9391,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I-I'm here! I heard there's information about a\ndragon!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、ここに！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドラゴンの情報があると聞いてきましたっ！」"
+                                ""
                             ]
                         },
                         {
@@ -9422,14 +9422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please tell me anything, no matter how trivial it may\nbe!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どんな些細なことでもいいので教えてください！」"
+                                ""
                             ]
                         },
                         {
@@ -9453,14 +9453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: Oh my, oh my, what an intense atmosphere."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだい、なんだい、すごい剣幕だねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -9579,14 +9579,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Th-This, it's from Mr. Storge."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、これ、ストルゲさんからです」"
+                                ""
                             ]
                         },
                         {
@@ -9729,21 +9729,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: Oh my, oh my, this is definitely mine! So\nthat means you all are members of the guild, huh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あららこれは確かに私のだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ってことは君たちはギルドの一員なんだねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -9932,14 +9932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please tell me about the dragon!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンのことを教えてください！」"
+                                ""
                             ]
                         },
                         {
@@ -9975,14 +9975,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: Well, let's see, the dragon is a big\neater..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうだねぇ、ドラゴンは大食いで……」"
+                                ""
                             ]
                         },
                         {
@@ -10006,14 +10006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Hmm, hmm."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ふむふむ」"
+                                ""
                             ]
                         },
                         {
@@ -10046,14 +10046,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: She has good taste, and she pays well..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「品が良くて、金払いがよくて……」"
+                                ""
                             ]
                         },
                         {
@@ -10086,14 +10086,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is it about the dragon?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの話ですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -10126,21 +10126,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: The nickname of the guild leader here is\nAgonia, the Gluttonous Dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここでのギルド長のあだ名さ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　大食いドラゴンのアゴニアって呼ばれているよ」"
+                                ""
                             ]
                         },
                         {
@@ -10175,14 +10175,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: What is it? Is it a different topic?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだい、別の話なのかい？」"
+                                ""
                             ]
                         },
                         {
@@ -10206,14 +10206,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Thank you very much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……ありがとうございました」"
+                                ""
                             ]
                         },
                         {
@@ -10345,14 +10345,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: G-Get a hold of yourself."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「げ、元気だしてください」"
+                                ""
                             ]
                         },
                         {
@@ -10376,14 +10376,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: Oh, that's right, please deliver this to\nthe tool shop!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうだ、これを道具屋に届けておくれよ！」"
+                                ""
                             ]
                         },
                         {
@@ -10760,21 +10760,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: If you're feeling down, why don't you eat\nsomething! Celis-chan is also a regular here, you know."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あと、元気がないなら食べていきなよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　セリスちゃんもここの常連なんだからさ」"
+                                ""
                             ]
                         },
                         {
@@ -10807,14 +10807,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Celis-san is..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「セリスさんが」"
+                                ""
                             ]
                         },
                         {
@@ -10838,14 +10838,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: Haha, that girl is also a big eater, so\nshe's a splendid dragon!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はは、あの娘も大食いだから立派なドラゴンだね！」"
+                                ""
                             ]
                         },
                         {
@@ -10862,21 +10862,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: Oh, if you guys have some skills, could you\nhelp me out a bit?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうだ、あんたたち"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　腕に覚えがあるならちょっと手伝っておくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -10947,14 +10947,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: I see, please let me know when you have\nfree time."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そうかい、暇な時に声をかけておくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -10991,21 +10991,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: That's a good response! Now, it's time for\ncooking in the kitchen!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いい返事だ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　さぁ、厨房で料理の時間だっ！」"
+                                ""
                             ]
                         },
                         {
@@ -11038,21 +11038,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: For a first-timer, this is quite something.\nIt's not much, but please take it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「はじめてにしてはなかなかのもんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　さぁ、こいつは少ないけどもらっておくれ」"
+                                ""
                             ]
                         },
                         {
@@ -11078,21 +11078,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　食堂のおばちゃん"
+                                "Cafeteria Lady: Whenever you have free time, if there's a\nshortage of cooks, please let me know and earn some pocket\nmoney."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「いつまでも料理人は不足してる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　時間がある時は小遣い稼ぎに声をかけておくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -11531,21 +11531,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　若い労働者"
+                                "Young Worker: This place is delicious, cheap, and fast!\nIt's a friend to workers like us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここはうまい、安い、早い！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺たちみたいな労働者の味方だよ」"
+                                ""
                             ]
                         },
                         {
@@ -11622,21 +11622,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂の店員"
+                                "Cafeteria Staff: Welcome! It's busy as always today, busy,\nbusy!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いらっしゃいませ〜！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今日も大繁盛で忙しい、忙しい！」"
+                                ""
                             ]
                         },
                         {
@@ -11704,21 +11704,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂の店員"
+                                "Cafeteria Staff: Welcome! It's another busy, busy day with\nlots of customers!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いらっしゃいませ〜！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今日もう大繁盛で忙しい、忙しい！」"
+                                ""
                             ]
                         },
                         {
@@ -11795,14 +11795,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古参の傭兵"
+                                "Veteran Mercenary: Do you have something you need from me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺に何か用事か？」"
+                                ""
                             ]
                         },
                         {
@@ -11870,21 +11870,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古参の傭兵"
+                                "Veteran Mercenary: The Adventurer's Guild, huh... A neat\nand tidy adventurer like you can't handle rough jobs, huh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルド・フテラか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　小綺麗な冒険者じゃ荒事は解決できないぜ？」"
+                                ""
                             ]
                         },
                         {
@@ -11952,21 +11952,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古参の傭兵"
+                                "Veteran Mercenary: Dragon Slayer... I admit it, as expected\nof the adventurer guild, Ftera."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴン殺し……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　認めるよ、さすがは冒険者ギルド・フテラだ」"
+                                ""
                             ]
                         },
                         {
@@ -12043,21 +12043,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ご機嫌な労働者"
+                                "Cheerful Worker: Cheers to this cheerful day! Cheers to the\nSupreme God Sol and the Three Goddesses!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご機嫌な今日に乾杯！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　主神ソールと三女神に乾杯っ！」"
+                                ""
                             ]
                         },
                         {
@@ -12270,21 +12270,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　皿洗いバエル"
+                                "Dishwashing Baeru: Although my dream of being a court chef\nhas ended, I think this life isn't so bad."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「宮廷料理人の夢はついえた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ただ、この生活も悪くないと思っている」"
+                                ""
                             ]
                         },
                         {
@@ -12308,21 +12308,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　皿洗いバエル"
+                                "Dishwashing Baeru: If you're okay with it, I would like you\nto accept this as a way for me to atone for my sins and\nstart anew as a chef."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「皿洗いから料理人として再出発するよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　よかったら罪滅ぼしとしてこれを受け取って欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -12375,21 +12375,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　皿洗いバエル"
+                                "Dishwashing Baeru: I'll go back to basics and show you my\nown cooking."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「基本に帰れだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　俺自身の料理を取り戻してみせるよ」"
+                                ""
                             ]
                         },
                         {

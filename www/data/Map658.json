@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "カロンの拷問部屋",
+    "displayName": "Caron's torture room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4300,14 +4300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵オノス"
+                                "Mercenary Onos: W-What the hell, where are we!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、なんだよ、ここはよぉ！？」"
+                                ""
                             ]
                         },
                         {
@@ -4345,14 +4345,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Secret Agent Luid: ......"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……」"
+                                ""
                             ]
                         },
                         {
@@ -4383,21 +4383,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵オノス"
+                                "Mercenary Onos: I-I didn't know anything! That woman, she's\nQueen Caron-sama!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お、俺は何も知らなかったんだよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　女が、あの方が、王妃カロン様だったなんて！」"
+                                ""
                             ]
                         },
                         {
@@ -4472,21 +4472,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵オノス"
+                                "Mercenary Onos: I-I was just hired as a mercenary, please,\nplease let me go, forgive me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「傭兵として雇われただけなんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　頼むよぉ、み、見逃してくれよぉっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4510,14 +4510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵オノス"
+                                "Mercenary Onos: I won't tell anyone, I swear--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「絶対に誰にも話さないか――」"
+                                ""
                             ]
                         },
                         {
@@ -4738,14 +4738,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部アミナ"
+                                "Imperial Secret Agent Amina: Master, let's go back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご主人様、戻りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -4795,14 +4795,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部アミナ"
+                                "Imperial Secret Agent Amina: Master, they're already dead."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご主人様、もう絶命しています」"
+                                ""
                             ]
                         },
                         {
@@ -4852,14 +4852,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部アミナ"
+                                "Imperial Secret Agent Amina: ...Master, please stop."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……ご主人様、もうやめて」"
+                                ""
                             ]
                         },
                         {
@@ -4969,14 +4969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部アミナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お願い、もうやめて……やめてよ、ルイド！」"
+                                "Imperial Secret Agent Amina: Please, stop... Stop it,\nLuid!"
                             ]
                         },
                         {
@@ -4984,44 +4977,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "dobby_dispchara skin 0 0 18109"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国暗部ルイド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「はぁはぁ……ごめん……」"
                             ]
                         },
                         {
@@ -5059,14 +5014,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部ルイド"
+                                "Imperial Secret Agent Luid: Haa... haa... I'm sorry..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ごめんよ、アミナ……お姉ちゃん……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
+                                "dobby_dispchara skin 0 0 18109"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Imperial Secret Agent Luid: I'm sorry, Amina... Big\nsister..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5920,14 +5920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（……）"
+                                ""
                             ]
                         },
                         {
@@ -5958,21 +5958,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Where is this...!? My body is restrained... ugh! I\ncan't move!)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（ここは……！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　身体が拘束されて……くぅっ！　動かないっ！）"
+                                ""
                             ]
                         },
                         {
@@ -6093,21 +6093,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Finally, you've awakened. I'm glad, I'm glad.\nIt would have been a bit troublesome if you had died."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ようやく目を目覚めたか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　よかったよかった死なれては少し面倒だったからな」"
+                                ""
                             ]
                         },
                         {
@@ -6138,14 +6138,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Ugh... You are... Queen Caron...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ……お前は……王妃カロン……っ！」"
+                                ""
                             ]
                         },
                         {
@@ -6183,14 +6183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Those who defied me were executed in their entirety."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わらわに逆らった者たちは全身処刑したよ」"
+                                ""
                             ]
                         },
                         {
@@ -6228,21 +6228,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Those who oppose the royal family will be\nexterminated. This has been the custom since the founding of\nFotizona."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王家に敵対する者は皆殺しにする"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これはフォティゾナ建国以来の作法だからな」"
+                                ""
                             ]
                         },
                         {
@@ -6273,21 +6273,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: No way... That's a lie! Everyone being executed... It\nhas to be a lie!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんな……嘘だっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　みんなが処刑なんて……嘘に決まってる！」"
+                                ""
                             ]
                         },
                         {
@@ -6318,21 +6318,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: I understand that you don't want to believe\nit, but do you know what rebellion against the empire\nmeans?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「信じたくない気持ちはわかるが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国への反逆が何を意味するかは知っていただろう？」"
+                                ""
                             ]
                         },
                         {
@@ -6363,21 +6363,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: The men were burned alive as a public\nexecution, taking their time to make them suffer before they\ndied."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「男どもは見せしめのための火刑とした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　生きたまま時間をかけて焼いたからな、苦しんで死んだぞ」"
+                                ""
                             ]
                         },
                         {
@@ -6408,21 +6408,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Some of the women chose death themselves due\nto the torment of being gang-raped by the prisoners until\ntheir last breath."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「女どもは囚人たちに息絶えるまで輪姦させた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あまりの責めに何人かは自ら死を選んでおったなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -6453,21 +6453,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: It was quite a spectacle, kukuku. I thoroughly\nenjoyed myself as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なかなかの見世物だった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　くくくっ、わらわも存分に楽しませてもらった」"
+                                ""
                             ]
                         },
                         {
@@ -6498,21 +6498,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: The daughter of the beastmen resisted, but her\nlimbs were restrained and in the end, she screamed like a\ndog."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「獣人の娘は抵抗していたが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　四肢を固定され最後は犬のように喚き散らしておった」"
+                                ""
                             ]
                         },
                         {
@@ -6543,21 +6543,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: It seems the daughter of the magician was a\nformidable enemy, but she was gang-raped like a toy while\nscreaming your name."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法使いの娘は強敵だったそうだが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前の名前を叫びながら玩具のように輪姦されていたぞ」"
+                                ""
                             ]
                         },
                         {
@@ -6588,21 +6588,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: The female priestess... she committed suicide\nimmediately. Well, while her corpse was still warm, she was\nbeing gang-raped."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「僧侶の女は……すぐに自害した"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まぁ、その死体も温かいうちは輪姦されていたがなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -6633,21 +6633,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Kill me... Kill me too! Why only me? What purpose\ndoes this serve?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「殺せ……私も殺せっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　なんで私だけ、何の目的でっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -6678,21 +6678,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Killing you, whom I myself bestowed a title\nupon, is a matter that concerns my own dignity."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「自らが称号を与えたお前を殺す"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それはわらわの沽券に関わる問題なのだ」"
+                                ""
                             ]
                         },
                         {
@@ -6723,21 +6723,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Moreover, it would be troublesome if you were\nto die, considering your relationship with the priestesses\nof the Three Goddesses and the future of the Terios\nreligion."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それに三女神の巫女と親交もある"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今後のテリオス教との関係も含めて死なれると厄介なのだ」"
+                                ""
                             ]
                         },
                         {
@@ -6768,21 +6768,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: That's why, I will give you a new title, my\n[toy]. Don't bore me, okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だから、お前には新たな称号を与えよう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わらわの【おもちゃ】だ、飽きさせるなよ？」"
+                                ""
                             ]
                         },
                         {
@@ -6813,14 +6813,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Well, shall I have you fulfill your duty...\nHey!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、務めを果たしてもらおうか……おいっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7049,7 +7049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {

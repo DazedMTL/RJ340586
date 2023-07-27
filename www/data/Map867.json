@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "貴族オリクトの屋敷1F部屋",
+    "displayName": "Aristocrat Ect's Mansion 1st Floor Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5979,14 +5979,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: Ahaha, I thought I was going to die this\ntime!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あははっ、今回は死ぬかと思ったね！」"
+                                ""
                             ]
                         },
                         {
@@ -6024,21 +6024,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: Thanks to helping with the recapture of\nthe throne, it seems like I'll receive research funds. So,\nin the end, it was a great success!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王座奪還に協力したおかげで"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　研究費がもらえるらしいから結果的には大成功だね！」"
+                                ""
                             ]
                         },
                         {
@@ -6062,21 +6062,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族オリクト"
+                                "Noble Ect: Do you know how worried I was...! Please don't\ninvolve Armada in this too."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私がどれだけ心配したか……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちもアルマダを巻き込まないでくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -6100,21 +6100,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族オリクト"
+                                "Noble Ect: I know you're kind-hearted, but you always\nabandon your research so easily and go off."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「情に厚いのは知っているだろ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　すぐに研究をほっぽり出して行ってしまう」"
+                                ""
                             ]
                         },
                         {
@@ -6152,31 +6152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【探検家アルマダのその後】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その生涯を探検と研究に費やし後の考古学に大きく貢献する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バリエは考古学者の聖地となり大いに賑わうことになる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
+                                "\\CL 【The Aftermath of Explorer Armada】She dedicated her life\nto exploration and research, making significant\ncontributions to archaeology in the later years. Valie\nbecame a holy land for archaeologists and thrived greatly."
                             ]
                         },
                         {
@@ -6190,14 +6166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLオリクトとの共著「悪魔の文明と古代遺跡」は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法アカデミーから非常に高い評価を得ることになる。"
+                                ""
                             ]
                         },
                         {
@@ -6208,6 +6177,13 @@
                                 0,
                                 1,
                                 2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL The co-authored book The Demon Civilization and Ancient\nRuins with Ect received very high praise from the Magic\nAcademy."
                             ]
                         },
                         {
@@ -6221,7 +6197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL探検家として研究者として歴史に名を残すことになる。"
+                                ""
                             ]
                         },
                         {
@@ -6238,21 +6214,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【貴族オリクトのその後】"
+                                "\\CL She will go down in history as both an explorer and a\nresearcher."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地元の研究者と共に坑道を使った薬草栽培を確立。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バリエ復興の立役者として不動の名声を得ることになる。"
+                                ""
                             ]
                         },
                         {
@@ -6263,6 +6232,13 @@
                                 0,
                                 1,
                                 2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL 【The Aftermath of Noble Ect】He established herbal\ncultivation using tunnels with local researchers. He would\ngain an unwavering reputation as a key figure in the revival\nof Valie."
                             ]
                         },
                         {
@@ -6276,14 +6252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLアルマダとは公私共に良きパートナーとなる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "煮え切らないオリクトをアルマダが襲い、デキ婚となった。"
+                                ""
                             ]
                         },
                         {
@@ -6300,6 +6269,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL Armada and Ect became good partners both personally and\nprofessionally. Armada attacked the indecisive Ect and they\nended up having a shotgun wedding."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -6307,7 +6283,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL４人の元気な子どもに恵まれ、充実した生涯を送る。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL Blessed with four lively children, she leads a\nfulfilling life."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6569,14 +6569,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "You won't be able to come back, but are you really leaving\nthe mansion?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　戻ってくることはできませんが本当に屋敷を出ますか？"
+                                ""
                             ]
                         },
                         {
@@ -6643,14 +6643,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (We haven't talked yet, have we?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（まだ話したりませんね）"
+                                ""
                             ]
                         },
                         {
@@ -7604,21 +7604,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you for your cooperation. If you need anything,\nplease make a request at the Adventurer's Guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ご協力いただきありがとうございました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　何かあれば冒険者ギルドに依頼してください」"
+                                ""
                             ]
                         },
                         {
@@ -7649,21 +7649,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Adventurer Armada: Ahaha, I'll ask for the most troublesome\njob. When that time comes, let's invite Phoni and go on an\nadventure together!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あはは、とびきり面倒な仕事を頼むよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　その時はフォニも誘って冒険をしようよ！」"
+                                ""
                             ]
                         },
                         {
@@ -7694,21 +7694,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Adventurer Armada: Finding Clea and the others who had such\na fun adventure was the greatest discovery of my life!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「本当に楽しい冒険だった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　クレアたちを見つけたのが人生で最大の発見さ！」"
+                                ""
                             ]
                         },
                         {
@@ -7753,21 +7753,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's a shame that we can't enter the discovered\nruins... I would have liked to investigate every detail if\npossible."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「発見した遺跡に入れないのが残念ですね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　できれば細部まで細かく調査をしたかったですよ」"
+                                ""
                             ]
                         },
                         {
@@ -7798,21 +7798,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Adventurer Armada: We both have something we brought back\nfrom the ruins, right? How about we have a competition to\nsee who can unravel its mysteries first?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「お互いに遺跡から持ち帰ったものがあるだろ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　どっちが先にあれを解き明かすか勝負しようじゃないか」"
+                                ""
                             ]
                         },
                         {
@@ -7843,21 +7843,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: To challenge me, who will become an Archmage!\nVery well, I accept. I will bring my research paper!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「アークメイジになるボクに挑むとは！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　いいでしょう、研究論文を持ってきますからね！」"
+                                ""
                             ]
                         },
                         {
@@ -7902,21 +7902,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I've decided to become a mercenary! Even though\nI'll be in a different place, if anything happens, I'll come\nrunning!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あたしは傭兵になることにしました！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　場所は離れてますけど何かあったら駆けつけます！」"
+                                ""
                             ]
                         },
                         {
@@ -7947,21 +7947,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Adventurer Armada: Since you've helped me so many times,\nI'm counting on you. When I make a request, I'll prepare the\nbest feast for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「何度も助けてもらったからね、頼りにしてるよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　依頼をする時は最高のご馳走を準備しておくからさ」"
+                                ""
                             ]
                         },
                         {
@@ -7992,14 +7992,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes! Thank you very much!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「はい！　ありがとうございます！」"
+                                ""
                             ]
                         },
                         {
@@ -8044,21 +8044,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I have decided to walk the path of a\npriestess from now on. Perhaps I will also visit the town of\nValier."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「これからは僧侶として歩むことにしました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　もしかしたらバリエにも立ち寄るかもしれませんわ」"
+                                ""
                             ]
                         },
                         {
@@ -8089,21 +8089,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Adventurer Armada: So that means no alcohol, huh? It's a\nshame, I had the best wine with me..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ってことは禁酒かい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　最高のワインがあったのに残念だよ……」"
+                                ""
                             ]
                         },
                         {
@@ -8134,21 +8134,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: The goddesses have disappeared from the\nearth. Hehe, I don't think anyone will notice if I get a\nlittle tipsy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「女神たちは地上から消えました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　うふふ、少しくらいの酩酊はバレないと思いますわ」"
+                                ""
                             ]
                         },
                         {
@@ -8263,21 +8263,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族オリクト"
+                                "Noble Ect: I'm grateful to all of you, so I wonder what\nwould be the ideal proposal...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たちには感謝している"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ところで理想のプロポーズはどんなものかな……？」"
+                                ""
                             ]
                         },
                         {

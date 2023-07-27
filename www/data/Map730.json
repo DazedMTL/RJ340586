@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湖の上",
+    "displayName": "On the lake",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -5605,21 +5605,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　漁師オルカ"
+                                "Fisherman Orca: This should be a good spot. Get ready, I'm\ngoing to start throwing the bait now."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここらでいいだろう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いまから餌を投げ込むから準備をしてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -5650,14 +5650,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sorceress Sophia: It's quite big... more like a chunk of\nmeat than bait, isn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「随分と大きな……餌というか肉塊ですわね」"
+                                ""
                             ]
                         },
                         {
@@ -5688,14 +5688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　漁師オルカ"
+                                "Fisherman Orca: ...It's the thigh of a friend who got eaten\nby a fish."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……魚に食われた友人の太ももだよ」"
+                                ""
                             ]
                         },
                         {
@@ -5733,14 +5733,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Eh!? Using it as bait is too cruel!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇー！？　餌に使うなんてひど過ぎますよぉ！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Fisherman Orca: Hahaha, just kidding! But if we leave it\nalone, there might be more victims."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5771,21 +5809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　漁師オルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ははは、冗談だよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　でも放っておいたら犠牲者が出るかもしれない」"
+                                "Fisherman Orca: So, I'm counting on you."
                             ]
                         },
                         {
@@ -5793,30 +5817,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　漁師オルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「だから頼むぜ」"
                             ]
                         },
                         {
@@ -5854,14 +5854,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, leave it to me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、まかせてください」"
+                                ""
                             ]
                         },
                         {
@@ -5899,21 +5899,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　漁師オルカ"
+                                "Fisherman Orca: Well then, I hope it gets caught in one\nshot... Here we go!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それじゃあ、一発で引っかかってくれることを"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　願って……そらよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6116,14 +6116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Sorceress Relm: Could it be... that thing coming towards\nus!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もしかして、こっちに向かってくるあれが……！？」"
+                                ""
                             ]
                         },
                         {
@@ -6147,21 +6147,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Everyone, get ready for battle. It seems like this\nfresh chunk of meat... prefers living humans as its taste."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「全員戦闘の準備に入ってください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どうやら新鮮な肉塊……生きた人間の方が好みのようです」"
+                                ""
                             ]
                         },
                         {
@@ -6178,14 +6178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Here it comes!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……来ますっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6283,21 +6283,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　漁師オルカ"
+                                "Fisherman Orca: We really defeated it! It was a great\ndecision to rely on you guys for this request!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当に倒しちまった！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんたたちに依頼して大正解だった！」"
+                                ""
                             ]
                         },
                         {
@@ -6328,14 +6328,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please don't let your guard down... It's still\nmoving--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「油断しないでください……まだ動いて――」"
+                                ""
                             ]
                         },
                         {
@@ -6426,14 +6426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　漁師オルカ"
+                                "Fisherman Orca: --Whoa!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「――うわぁっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -6641,14 +6641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ノラ"
+                                "Nora: Orca-san!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オルカさん！？」"
+                                ""
                             ]
                         },
                         {
@@ -6672,21 +6672,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I will go for the rescue! Everyone, please finish off\nthe fish!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私が救助にいきます！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　みなさんは魚にとどめを刺してください！」"
+                                ""
                             ]
                         },
                         {
@@ -6847,14 +6847,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes! Leave it to me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい！　まかせてください！」"
+                                ""
                             ]
                         },
                         {
@@ -6972,6 +6972,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL The giant fish, struck by the flash of the thief Nora,\n\\CL collapsed and quietly disappeared into the depths of the\nlake--."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -6979,14 +6986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL巨大魚は、盗賊ノラの一閃を受け相果て、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\CL静かに湖底へと消えていった――。"
+                                ""
                             ]
                         },
                         {

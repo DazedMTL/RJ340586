@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ大通り 酒場・宿屋1F",
+    "displayName": "Fotizona Main Street, Tavern/Inn 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6170,21 +6170,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: Welcome to Fotizona. We have gathered the finest\nwines from within the empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ようこそ、フォティゾナへ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国の中の美酒が集まっていますよ」"
+                                ""
                             ]
                         },
                         {
@@ -6402,14 +6402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: Good day, is there something good that\nhappened?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ごきげんですね、いいことでもありましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -6426,14 +6426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "Libra the General Store Owner: Ah, my business negotiations\ndidn't go well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あぁ、ちょっと商談がうまくいってな」"
+                                ""
                             ]
                         },
                         {
@@ -6450,21 +6450,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "Libra the General Store Owner: A balance that looks level\neven though it's imbalanced... It's strange, don't you\nthink? There must be some trick to the balance."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「不釣り合いなのに水平に見える天秤……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　おかしいと思わないとダメだよな、天秤に細工があるって」"
+                                ""
                             ]
                         },
                         {
@@ -6481,21 +6481,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雑貨商リブラ"
+                                "General Store Owner Libra: Kukuku... Ahaha! As long as\nthere are fools like that, I won't go hungry!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くくくっ……あはは！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そういうバカがいる限りは食いっぱぐれないですむな！」"
+                                ""
                             ]
                         },
                         {
@@ -6944,21 +6944,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　年老いた労働者"
+                                "Elderly Worker: This town may be glamorous... but it's\nshining only because we are the ones who are dirty."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この街は綺羅びやかだが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺たちが汚れたぶんだけ輝いているのさ」"
+                                ""
                             ]
                         },
                         {
@@ -7035,21 +7035,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店員"
+                                "Innkeeper: If you're here for a meal, the dining hall is\nthe place to go. But if your purpose is alcohol, coming here\nis the right choice."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お食事なら食堂に"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お酒が目的ならここに来て大正解よ」"
+                                ""
                             ]
                         },
                         {
@@ -7126,14 +7126,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　駆け出しギャンブラー"
+                                "Rookie Gambler: Hmph... Little girl, go home."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「っふ……小娘はお家に帰りな」"
+                                ""
                             ]
                         },
                         {
@@ -7217,14 +7217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　駆け出しギャンブラー"
+                                "Rookie Gambler: Miss... would you like to play High and Low\nwith me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お嬢さん……俺とハイアンドローで勝負しないかい？」"
+                                ""
                             ]
                         },
                         {
@@ -7241,7 +7241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　500Gを払ってハイアンドローを行いますか？"
+                                "Would you like to play High and Low by paying 500G?"
                             ]
                         },
                         {
@@ -7280,14 +7280,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　駆け出しギャンブラー"
+                                "Rookie Gambler: How cold."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「つれないな」"
+                                ""
                             ]
                         },
                         {
@@ -7341,14 +7341,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　駆け出しギャンブラー"
+                                "Rookie Gambler: I see... I hope it becomes an intense\nmatch."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「いいね……熱い勝負になればいいが」"
+                                ""
                             ]
                         },
                         {
@@ -7431,21 +7431,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　駆け出しギャンブラー"
+                                "Rookie Gambler: I've been completely defeated... You're an\namazing lady. I'll be here, so feel free to come and play\nanytime."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「完敗だ……すごいお嬢さんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　　俺はここにいるからいつでも遊びに来てくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -7481,21 +7481,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　駆け出しギャンブラー"
+                                "Rookie Gambler: The bet is all mine. It was quite an\nenjoyable match."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「賭金は俺の総取りだな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　　なかなか楽しい勝負だったぜ」"
+                                ""
                             ]
                         },
                         {
@@ -7532,14 +7532,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　駆け出しギャンブラー"
+                                "Rookie Gambler: I'm sorry, but I don't play games without\nbetting money."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「金を賭けないゲームはごめんだぜ」"
+                                ""
                             ]
                         },
                         {
@@ -8578,14 +8578,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Sophia-san, you're drinking too much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ソフィアさん、飲み過ぎですよ」"
+                                ""
                             ]
                         },
                         {
@@ -8623,14 +8623,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, it's so fun when I'm in front of\nClea-chan."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、クレアちゃんの前だと楽しくって」"
+                                ""
                             ]
                         },
                         {
@@ -8699,14 +8699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: How was the hypnotherapy?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「催眠療法というのはどうでしたか？」"
+                                ""
                             ]
                         },
                         {
@@ -8762,14 +8762,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I didn't regain any of my memories at all..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まったく記憶は戻りませんでした……」"
+                                ""
                             ]
                         },
                         {
@@ -8807,21 +8807,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: The real Clato has disappeared too! Maybe this\nperson pretending to be him was actually a fraudster!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クラト本人も消えていました！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もしかしたら名を騙る詐欺師だったのかもしれません！」"
+                                ""
                             ]
                         },
                         {
@@ -8870,14 +8870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: However..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ただ……」"
+                                ""
                             ]
                         },
                         {
@@ -8915,14 +8915,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Somehow, I feel refreshed in my body!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだか身体がすっきりした気がします！」"
+                                ""
                             ]
                         },
                         {
@@ -8960,21 +8960,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: That might be the effect of the Memory Candle\nfor me too..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それはボクもですね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　記憶の蝋燭の効果だったのかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -9005,14 +9005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: ...It's not going so well, huh."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……なかなか上手くいきませんね」"
+                                ""
                             ]
                         },
                         {
@@ -9050,21 +9050,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: There's no need to feel down! The genius of the\nacademy will definitely help you regain your memories."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「落ち込む必要はないですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アカデミーの大天才が必ず記憶を戻してみせますから」"
+                                ""
                             ]
                         },
                         {
@@ -9104,14 +9104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes, I'm looking forward to it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はいっ、楽しみにしてます！」"
+                                ""
                             ]
                         },
                         {
@@ -9988,14 +9988,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　淫蕩貴族エシスの従者"
+                                "Thank you for accepting the invitation, servant of the\nlicentious noble Eshis."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「招待をお受け取りいただきありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -10026,14 +10026,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　淫蕩貴族エシスの従者"
+                                "My master, the licentious noble Eshis, will surely be\ndelighted as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「我が主も大変お喜びになるでしょう」"
+                                ""
                             ]
                         },
                         {
@@ -10071,21 +10071,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Can you prove that the sender of this invitation is\nthe real licentious noble Eshis?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今回の招待状の差出人が"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本物の淫蕩貴族エシスであることを証明できますか？」"
+                                ""
                             ]
                         },
                         {
@@ -10118,21 +10118,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　淫蕩貴族エシスの従者"
+                                "Servant of the licentious noble Eshis: To address that\ndoubt, first we will give you 50,000G as an advance\npayment."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その疑問はごもっとです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まずは前払い金として50000Gとこちらをお渡しします」"
+                                ""
                             ]
                         },
                         {
@@ -10182,14 +10182,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Such a large sum of money..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こんな大金を……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Servant of the licentious noble Eshis: Before you meet our\nmaster, the licentious noble Eshis, I apologize for the\nrudeness, but we have prepared several tests to determine if\nyou are worthy."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10220,21 +10258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　淫蕩貴族エシスの従者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「これから皆さんが我が主に会うに相応しいか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　失礼ながら、いくつかの試験を用意させていただきます」"
+                                "Servant of the licentious noble Eshis: Each time you pass\na test, we will give you a reward on the spot."
                             ]
                         },
                         {
@@ -10245,34 +10269,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　淫蕩貴族エシスの従者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「試験を突破する度に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　その場で報酬をお渡しさせていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -10303,21 +10303,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: If we fail to pass the test, can we understand that\nwe will return what we have received?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「試験を突破できない場合は"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いただいたものをお返しするという理解でいいでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -10341,21 +10341,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　淫蕩貴族エシスの従者"
+                                "Servant of the licentious noble Eshis: There is no need\nfor that. It is a gesture of sincerity for your trouble."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その必要はございません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ご足労いただいたことに対する誠意となります」"
+                                ""
                             ]
                         },
                         {
@@ -10379,14 +10379,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　淫蕩貴族エシスの従者"
+                                "Servant of the licentious noble Eshis: Therefore, you can\nstop the tests at any time without any problem."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そのため、いつ試験をやめても問題ありません」"
+                                ""
                             ]
                         },
                         {
@@ -10426,21 +10426,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　淫蕩貴族エシスの従者"
+                                "Servant of the licentious noble Eshis: I promise that when\nyou pass all the tests, our master will respond with the\nutmost sincerity."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すべての試験を突破した際には"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　我が主は最大級の誠意で応えることをお約束します」"
+                                ""
                             ]
                         },
                         {
@@ -10471,21 +10471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「わかりました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　最初の試験の内容を教えてください」"
+                                "Clea: Alright, please tell me the details of the first\ntest."
                             ]
                         },
                         {
@@ -10493,68 +10479,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　淫蕩貴族エシスの従者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ミュコスには売春島と呼ばれる島がございます"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　どんな手段でも構いませんのでたどり着いてください」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　淫蕩貴族エシスの従者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私は売春島でお待ちしております」"
                             ]
                         },
                         {
@@ -10585,14 +10509,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　淫蕩貴族エシスの従者"
+                                "Servant of the licentious noble Eshis: There is an island\ncalled the Prostitution Island in Mucos. Please find a way\nto reach it by any means necessary."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでは、お会いできることを楽しみにしております」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Servant of the licentious noble Eshis: I will be waiting\nfor you on Prostitution Island."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Servant of the licentious noble Eshis: I look forward to\nmeeting you."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10708,6 +10708,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Please note that this is a special quest directive and fast\ntravel is not possible."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -10715,14 +10722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　特殊なクエスト指令となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ファストトラベルできないことに注意してください"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "冒険者の洞窟",
+    "displayName": "Adventurer's Cave",
     "encounterList": [],
     "encounterStep": 1,
     "height": 75,
@@ -45383,14 +45383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Do you have the ring that is necessary for the\nrequest?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「依頼のために必要な指輪はここにあるのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -45445,21 +45445,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: Lately, there have been too many\nrequests, so I can't accept everything."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「最近は依頼が多すぎるため"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　なんでも引き受けることができないのです」"
+                                ""
                             ]
                         },
                         {
@@ -45476,21 +45476,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: However, we cannot refuse requests from\nthose who meet the conditions."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「しかし条件を満たす方からの依頼"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それを私たちは断ることができません」"
+                                ""
                             ]
                         },
                         {
@@ -45514,21 +45514,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I had no idea... Thank you so much, Psema-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まったく知りませんでした……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本当にありがとうございます、プセマさん」"
+                                ""
                             ]
                         },
                         {
@@ -45552,21 +45552,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: I was just moved by hearing your story."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたの身の上を聞いて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　心が動かされただけですよ」"
+                                ""
                             ]
                         },
                         {
@@ -45583,21 +45583,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: Well then, let's go together. I'm certain\nthat the ring should be somewhere inside this cave."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「では、一緒にいきましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　確かこの洞窟の中に指輪があるはずですから」"
+                                ""
                             ]
                         },
                         {
@@ -46265,21 +46265,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: Hmm... It seems a beast has wandered in.\nClea, do you have any experience in battle?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「っし……獣が迷い込んだようです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クレアさんは戦いの心得はありますか？」"
+                                ""
                             ]
                         },
                         {
@@ -46334,14 +46334,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: No, not at all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いえ、まったく」"
+                                ""
                             ]
                         },
                         {
@@ -46365,21 +46365,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: This is a good opportunity. Please hit it\nfrom behind with this wooden stick."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いい機会です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この木の棒で後から叩いてください」"
+                                ""
                             ]
                         },
                         {
@@ -46505,21 +46505,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: Please approach carefully so as not to be\nseen."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「視界に入らないように"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　慎重に近づいてくださいね」"
+                                ""
                             ]
                         },
                         {
@@ -47077,14 +47077,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I-I did it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「や、やりました！」"
+                                ""
                             ]
                         },
                         {
@@ -47108,21 +47108,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: That's quite impressive. I'll give you\nthis as a memento."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「たいしたものですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それは記念に差し上げますよ」"
+                                ""
                             ]
                         },
                         {
@@ -47667,21 +47667,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: By the way, there was a treasure chest.\nThere might be a ring inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そういえば宝箱がありましたね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もしかしたら指輪が入っているかもしれませんよ」"
+                                ""
                             ]
                         },
                         {
@@ -48164,14 +48164,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: Please try to collect it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「回収をしてみてください」"
+                                ""
                             ]
                         },
                         {
@@ -48836,14 +48836,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is this a stone?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは、石？」"
+                                ""
                             ]
                         },
                         {
@@ -48934,21 +48934,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: This is an iron ore. If you give it to a\nblacksmith, they can enhance your weapons."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは鉄鉱石ですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　鍛冶屋に渡せば武器の強化ができますよ」"
+                                ""
                             ]
                         },
                         {
@@ -49597,14 +49597,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I wonder if there's a ring in this room?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この奥に指輪があるのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -49628,21 +49628,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: Clea-san, you are an intelligent person.\nIt's clear from your actions so far."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアさん、あなたは聡明な方だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここまでの立ち回りを見ればわかります」"
+                                ""
                             ]
                         },
                         {
@@ -49744,14 +49744,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: You want a ring, don't you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「指輪、欲しいんですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -49791,21 +49791,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I want to fulfill my parents' regrets, but I don't\nthink I can defeat a dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「両親の無念を晴らしたいんです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でも私にドラゴンを倒すことなんて」"
+                                ""
                             ]
                         },
                         {
@@ -49829,21 +49829,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: That's why I have no choice but to rely on everyone!\nPlease, I beg you, please defeat the dragon, please!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だから皆さんに頼むしかないのです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お願いです、どうかドラゴンの討伐を、どうかっ！」"
+                                ""
                             ]
                         },
                         {
@@ -49867,14 +49867,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: Then, do you know what you should do with\nme?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なら、私に何をすればいいかわかりますよね？」"
+                                ""
                             ]
                         },
                         {
@@ -49985,14 +49985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please stop, Psema-san!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「プセマさん、やめてください！」"
+                                ""
                             ]
                         },
                         {
@@ -50009,14 +50009,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: No, don't touch me, stop!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「嫌ぁ、触らないで、やめてっ！」"
+                                ""
                             ]
                         },
                         {
@@ -50144,14 +50144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: Ouch... you brat."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「痛っ……クソガキが」"
+                                ""
                             ]
                         },
                         {
@@ -50293,14 +50293,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Aahh!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あぁっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -50363,14 +50363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: Well, shall I collect the tuition fee..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、授業料をいただこうかな……」"
+                                ""
                             ]
                         },
                         {
@@ -50420,7 +50420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -50725,14 +50725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Haa...haa...nooo!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はぁはぁ……いやぁー！！」"
+                                ""
                             ]
                         },
                         {
@@ -50955,21 +50955,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Adventurer Psema: Damn it, I'm definitely going to violate\nthat brat...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くそっ、あのガキ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　絶対にぶち犯してやるからな……っ！」"
+                                ""
                             ]
                         },
                         {
@@ -52182,21 +52182,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: You still haven't obtained the ring. Are\nyou really going to give up on the request?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「まだ指輪は手に入っていませんよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　本当に依頼を諦めてしまうのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -52405,21 +52405,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: You still haven't obtained the ring. Are\nyou really going to give up on the request?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「まだ指輪は手に入っていませんよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　本当に依頼を諦めてしまうのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -52628,21 +52628,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: You still haven't obtained the ring. Are\nyou really going to give up on the request?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「まだ指輪は手に入っていませんよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　本当に依頼を諦めてしまうのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -52851,21 +52851,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: You still haven't obtained the ring. Are\nyou really going to give up on the request?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「まだ指輪は手に入っていませんよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　本当に依頼を諦めてしまうのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -53540,21 +53540,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: Oh, it seems to be locked. If I use the\nforbidden technique called lockpicking, I can open it..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おや、鍵がかかっていますね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ピッキングという外法を使えば開きますが……」"
+                                ""
                             ]
                         },
                         {
@@ -53571,14 +53571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: It's better to leave it alone."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やめておいた方がいいでしょう」"
+                                ""
                             ]
                         },
                         {
@@ -67039,21 +67039,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: You still haven't obtained the ring. Are\nyou really going to give up on the request?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「まだ指輪は手に入っていませんよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　本当に依頼を諦めてしまうのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -67316,21 +67316,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: You still haven't obtained the ring. Are\nyou really going to give up on the request?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「まだ指輪は手に入っていませんよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　本当に依頼を諦めてしまうのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -67593,21 +67593,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　冒険者プセマ"
+                                "Adventurer Psema: You still haven't obtained the ring. Are\nyou really going to give up on the request?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「まだ指輪は手に入っていませんよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　本当に依頼を諦めてしまうのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -67949,7 +67949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "0\\G 手に入れた！"
+                                "0\\G I got it!"
                             ]
                         },
                         {

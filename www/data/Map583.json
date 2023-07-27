@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "イレモ村 無人の家",
+    "displayName": "Iremo Village - Abandoned House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5827,14 +5827,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: Oh, Sophia-san! Long time no see!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いやーソフィアさん！　ご無沙汰をしています！」"
+                                ""
                             ]
                         },
                         {
@@ -5881,14 +5881,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Yes, it's been a while..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、お久しぶりですわ……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Merchant Book: I wanted to talk to you after such a long\ntime, so I ended up making a mischievous request!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5919,21 +5957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「久々にお話がしたくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　イタズラのような依頼をしてしまいました！」"
+                                "Merchant Book: Hahaha, I thought you would notice,\n[Sophia]!"
                             ]
                         },
                         {
@@ -5941,30 +5965,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　商人ブック"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ははは、【あなた】なら気が付くと思っていましたよ！」"
                             ]
                         },
                         {
@@ -6002,14 +6002,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: So you were friends with Sophia-san, huh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ソフィアさんのご友人だったんですね」"
+                                ""
                             ]
                         },
                         {
@@ -6047,21 +6047,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I have something I want to talk to him\nabout. Can you excuse us for a moment?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「彼とお話したいことがあるの"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　少し席を外してもらってもいいかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -6092,21 +6092,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood. We'll be outside, so please take your\ntime to talk."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちは外にいますのでゆっくりお話してください」"
+                                ""
                             ]
                         },
                         {
@@ -6313,14 +6313,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: This time, you're a [merchant] called\n[Book], huh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今度は【商人】で【ブック】なんですわね」"
+                                ""
                             ]
                         },
                         {
@@ -6351,14 +6351,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: You can't say that about others, can you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あんたも人のこと言えないだろ？」"
+                                ""
                             ]
                         },
                         {
@@ -6396,21 +6396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「おっと……お互い踏み込むのはやめよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　足を運んでもらったのは確認事項があるからだ」"
+                                "Merchant Book: Oh, hold on... Let's not pry into each\nother's business. I asked you to come here because I have\nsomething to confirm."
                             ]
                         },
                         {
@@ -6418,30 +6404,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僧侶ソフィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「レクス王子のこと……ですわね？」"
                             ]
                         },
                         {
@@ -6472,21 +6434,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
+                                "Priestess Sophia: Is it about Prince Rex...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お察しの通りさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それにしても……ひどい目で俺を見やがる」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Merchant Book: As you can tell, yeah... but still, you're\ngiving me such a harsh look."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6517,21 +6517,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: There are those who walk alongside the\nprince and those who use the prince, you know..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王子と共に歩む者と"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王子を利用する者が存在していますからね……」"
+                                ""
                             ]
                         },
                         {
@@ -6555,21 +6555,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Someone who uses a transporter to line\ntheir own pockets is a dangerous individual who would\nexploit Prince Rex."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「運び屋を利用して私腹を肥やしている"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そんな人間はレクス王子を利用する危険人物ですわ」"
+                                ""
                             ]
                         },
                         {
@@ -6593,21 +6593,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: That's a misunderstanding. Earning funds is\nalso for the sake of the prince."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは誤解だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　資金を稼ぐのもすべては王子のためさ」"
+                                ""
                             ]
                         },
                         {
@@ -6631,21 +6631,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: Today, as a transporter, there's something I\nwant to confirm with you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今日は運び屋として"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんたに確認したいことがあるんだよ」"
+                                ""
                             ]
                         },
                         {
@@ -6669,21 +6669,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: I have something that was transported at the\nrequest of the city of Myukos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「港の都市ミュコス"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんたからの依頼で運ばされたものがあるんだよ」"
+                                ""
                             ]
                         },
                         {
@@ -6723,21 +6723,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: There is a legitimate reason why that\nyoung man, Prince Rex, exists--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「正統な理由がありますわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの青年はレクス王子の存在のことを――」"
+                                ""
                             ]
                         },
                         {
@@ -6761,21 +6761,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: No, it's been investigated and confirmed\nthat our actions had nothing to do with not knowing\nanything."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「違うね、何も知らなかった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺たちの行動とは無関係であることは調査済みだ」"
+                                ""
                             ]
                         },
                         {
@@ -6799,21 +6799,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: You used the power of the organization to\ncover up a personal murder, didn't you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あんたは個人的な殺人を"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　組織のちからを使って【なかったこと】にしたのさ」"
+                                ""
                             ]
                         },
                         {
@@ -6837,14 +6837,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: I wonder who is using the prince."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「誰が王子を利用しているのやら」"
+                                ""
                             ]
                         },
                         {
@@ -6884,14 +6884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: Well, I'm the only one who noticed that."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まぁ、そのことに気がついているのは俺だけだ」"
+                                ""
                             ]
                         },
                         {
@@ -6922,21 +6922,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: If you listen to a small request, we can\nmake that young man an enemy... What will you do?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ちょっとしたお願いを聞いてくれれば"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの青年は敵対者だったことにできるが……どうする？」"
+                                ""
                             ]
                         },
                         {
@@ -7031,14 +7031,52 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: If I obey, it will truly become\n[something that never happened], right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「従えば本当に【なかったこと】になるのですね？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Merchant Book: Let's do it for each other's sake, and I\npromise it will only be this one time."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7069,21 +7107,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人ブック"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　「お互いのためにそうするさ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　それに今回の一回だけだと約束するよ」"
+                                "Merchant Book: If you keep making demands from me, the next\nthing that will be transported will be my dead body."
                             ]
                         },
                         {
@@ -7094,34 +7118,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人ブック"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　「あんた相手に何度も要求すれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　次に運ばれるのは俺の死体になるからな」"
+                                ""
                             ]
                         },
                         {
@@ -7154,21 +7154,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: Come on, come to my bed. There's a service I\nreally want you to do."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「さぁ、ベッドまで来てくれよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　どうしてもやって欲しいサービスがあってな」"
+                                ""
                             ]
                         },
                         {
@@ -7192,21 +7192,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: Your beauty... hehe, with your lips, with\nyour tongue... it's going to be enjoyable, isn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「あんたの美しい……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　ふふっ、くちびるで、舌で……楽しみだねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -7388,7 +7388,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -7547,21 +7547,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: That was quite a passionate service, hahaha.\nWith this, the prince will be satisfied--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「濃厚なサービスだったな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　ははは、これで王子を満足させて――」"
+                                ""
                             ]
                         },
                         {
@@ -7592,14 +7592,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: Alright, I understand. I won't say anything\nmore!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「わかった、これ以上はしゃべらない！」"
+                                ""
                             ]
                         },
                         {
@@ -7630,21 +7630,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: This is my sincere offer, it's perfect for\nyou, so please use it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「こいつは俺なりの誠意だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　あんたにぴったりだから使ってくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -7697,21 +7697,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: Please convey to the prince from your loyal\n[mouth] that I will continue to pledge my loyalty."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「これからも忠誠を誓い続ける"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　あんたの【くち】からそう王子に伝えておいてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -7970,14 +7970,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Prince Rex... I... ugh..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「レクス王子……わたくしは……うぅ……」"
+                                ""
                             ]
                         },
                         {
@@ -8015,21 +8015,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: For your sake... it's true... please\nbelieve... please believe..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「あなたのため……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　本当です……どうか信じて……信じてください……」"
+                                ""
                             ]
                         },
                         {
@@ -8183,14 +8183,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: Hehe, that's how it should be!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「へへっ、そうこなくっちゃな！」"
+                                ""
                             ]
                         },
                         {
@@ -8221,14 +8221,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: There's something I want to ask you..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あんたに頼みたいことだが……」"
+                                ""
                             ]
                         },
                         {
@@ -8268,14 +8268,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: What's the matter? What are you planning?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「なんだよ、何のつもりだよ？」"
+                                ""
                             ]
                         },
                         {
@@ -8436,21 +8436,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: This strange request turned out to be a\ntrap set by adventurers who were jealous of our\nachievements."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「今回の奇妙な依頼は"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　わたくしたちの活躍に嫉妬した冒険者の罠だった」"
+                                ""
                             ]
                         },
                         {
@@ -8474,21 +8474,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I tried to capture them and hand them\nover to the guards, but they resisted fiercely and there was\nno choice but to kill them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「捕縛して衛兵に突き出そうとしたが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　抵抗が激しく殺害以外の選択肢がなかった」"
+                                ""
                             ]
                         },
                         {
@@ -8512,21 +8512,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: To convey this matter to the guards, we\nneed a member of the Empire-sanctioned adventurer guild,\nFutera."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「このことを衛兵に伝えるのは"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　帝国公認の冒険者ギルド・フテラの構成員」"
+                                ""
                             ]
                         },
                         {
@@ -8559,14 +8559,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: W-Wait a minute!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ちょ、ちょっと待ってくれ！？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Priestess Sophia: There was a traitor who kept taking\nactions to enrich themselves under the guise of missions for\nPrince Rex."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8597,21 +8635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「レクス王子には任務にかこつけて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　私服を肥やすような行動を取り続けていた裏切り者がいた」"
+                                "Priestess Sophia: How about I took it upon myself to\neliminate the traitor, would you be pleased with such a\nplot?"
                             ]
                         },
                         {
@@ -8622,34 +8646,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「私の判断で裏切り者の粛清をした"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　どうでしょう、こんな筋書きはお気に召すでしょうか」"
+                                ""
                             ]
                         },
                         {
@@ -8682,21 +8682,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Are you drawing your knife at me? After I\nkilled the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「腰のナイフを構えますか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ドラゴンを殺した、私に対して」"
+                                ""
                             ]
                         },
                         {
@@ -8720,21 +8720,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: O-Okay, I surrender! I just wanted to tease\nyou a little bit, that's all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わ、わかった、降参だ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　少しだけちょっかいを出したかっただけさ」"
+                                ""
                             ]
                         },
                         {
@@ -8758,21 +8758,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: I will completely cover up that matter, so\nyou don't have to worry about anything!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あの件は完璧にもみ消しておく"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あんたは何も心配しなくていいからさ！」"
+                                ""
                             ]
                         },
                         {
@@ -8796,21 +8796,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　商人ブック"
+                                "Merchant Book: Let me say just one thing, do you really\nthink you can stay by the prince's side with [that]?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ただ一言だけ言わせてくれ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あんたは【それで】王子の横にいられると思うのか？」"
+                                ""
                             ]
                         },
                         {
@@ -8889,21 +8889,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Even so, I will stay by his side... Even\nif it means getting stained with blood, even if my body gets\ndirty."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それでも側にいますわ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　血で汚れることがあっても、身体が汚れていても」"
+                                ""
                             ]
                         },
                         {
@@ -8927,21 +8927,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: As long as my heart remains pure, as long\nas he needs me..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わたくしの心が汚れない限り"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あの方が必要としてくれる限りは……」"
+                                ""
                             ]
                         },
                         {

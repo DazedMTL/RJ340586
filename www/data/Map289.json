@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "掟の都市カノナス 道具屋",
+    "displayName": "City of Canonas, Tool Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2090,14 +2090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋のオーナー"
+                                "Shop Owner: We have a selection that even the Magic Academy\nrecognizes."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法アカデミーも認めた品揃えですよ」"
+                                ""
                             ]
                         },
                         {
@@ -2234,21 +2234,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋のオーナー"
+                                "Shop Owner: Please go to the desert town of Ammos and see\nthe merchant Oro. He's not an easy man to deal with..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「砂漠の街アンモスに行ってみてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　商人オロは一筋縄ではいかない男ですが……」"
+                                ""
                             ]
                         },
                         {
@@ -2668,21 +2668,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋のオーナー"
+                                "Shop Owner: Well, well, if it isn't Lady Relm. What kind of\nmerchandise are you looking for today?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これはこれはリルム様"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本日はどのような商品をお求めでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -2706,21 +2706,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Today, I'm running an errand for Dokusa-san.\nI've come to collect the reserved crystals."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今日はドクサさんのお使いです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　取り置きのクリスタルを回収にきました」"
+                                ""
                             ]
                         },
                         {
@@ -2753,21 +2753,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋のオーナー"
+                                "Shop Owner: Crystals, huh... They were left untouched for\nover half a year, so I ended up selling them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クリスタルですか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　半年以上も放置されていたので売却をしてしまって」"
+                                ""
                             ]
                         },
                         {
@@ -2784,14 +2784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋のオーナー"
+                                "Shop Owner: I apologize!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「申し訳ございません！」"
+                                ""
                             ]
                         },
                         {
@@ -2824,21 +2824,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: This is troublesome... May I ask who bought\nthem?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「困りましたね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　誰が買ったのか教えてもらっていいですか？」"
+                                ""
                             ]
                         },
                         {
@@ -2862,21 +2862,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋のオーナー"
+                                "Shop Owner: I am Oro, the traveling merchant for magicians.\nI am currently in the desert city of Ammos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「商人のオロです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法使い向けの行商人で砂漠の街アンモスにいるかと」"
+                                ""
                             ]
                         },
                         {
@@ -2940,14 +2940,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋のオーナー"
+                                "Shop Owner: Um... Lady Relm, about this matter..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの……リルム様、このことは……」"
+                                ""
                             ]
                         },
                         {
@@ -3002,21 +3002,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's okay, Dokusa-san is completely at fault, so\nplease rest assured."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大丈夫ですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドクサさんが全面的に悪いので安心してください」"
+                                ""
                             ]
                         },
                         {
@@ -3040,21 +3040,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋のオーナー"
+                                "Shop Owner: Without the trust of the Magic Academy, the\nbusiness in this town cannot thrive."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法アカデミーの信頼なくして"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この街の商売は成り立ちませんから」"
+                                ""
                             ]
                         },
                         {
@@ -3071,14 +3071,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋のオーナー"
+                                "Shop Owner: Please continue to support us in the future."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうか今後ともよろしくお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -3205,14 +3205,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Kanonas Region/Desert City of\nAmmos\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLカノナス地方/砂漠の街アンモス\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -3481,21 +3481,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クリスタル販売の店員"
+                                "Crystal Sales Clerk: Welcome! Here, we sell crystals for\nuse in battles."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いらっしゃいませ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こちらは戦闘時にクリスタルを販売しております」"
+                                ""
                             ]
                         },
                         {

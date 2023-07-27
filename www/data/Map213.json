@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "黄金街道最奥",
+    "displayName": "Innermost Golden Highway",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5500,7 +5500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -5546,14 +5546,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6271,21 +6271,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ペガル山賊団の切り込み隊長"
+                                "Oh...! Not just crystals, but four women as well..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ほほぉ……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クリスタルだけじゃなく女が４人……」"
+                                ""
                             ]
                         },
                         {
@@ -6302,21 +6302,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ペガル山賊団の切り込み隊長"
+                                "Captain of the Pegal Bandit Gang's assault team: This one\nseems lively! Restrain them enough to not kill them!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こいつは景気がいいな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前たち殺さない程度に拘束しろよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6723,21 +6723,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Once the battle is over and we know about the\nexistence of the crystals, I'll make them confess\neverything."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クリスタルの存在を知っている"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　戦いが終わったら全部白状してもらいます」"
+                                ""
                             ]
                         },
                         {
@@ -6761,14 +6761,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Here I go!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いきます！」"
+                                ""
                             ]
                         },
                         {
@@ -7184,21 +7184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ペガル山賊団の切り込み隊長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「後から追いかけてきた長髪の女……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　あれが最初からいなくて命拾いしたぜ」"
+                                "Captain of the Pegal Bandit Gang's assault team: 'That\nlong-haired woman who came chasing after us... We were lucky\nshe wasn't there from the beginning.'"
                             ]
                         },
                         {
@@ -7206,30 +7192,6 @@
                             "indent": 1,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ペガル山賊団構成員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「へへへっ、全員べっぴんでしたね！」"
                             ]
                         },
                         {
@@ -7260,21 +7222,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ペガル山賊団の切り込み隊長"
+                                "Pegal Bandit Gang Member: Hehehe, all of them are\nbeautiful!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「今回の仕事の収穫はこいつだけか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　少し【味見】した感じ高く売りさばけそうだ」"
+                                ""
                             ]
                         },
                         {
@@ -7298,21 +7260,59 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ペガル山賊団構成員"
+                                "The captain of the Pegal Bandit Gang's assault team: 'It\nseems like this is the only harvest from this job, but it\nlooks like we can sell it at a high price after a little\ntaste test.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「よかったな、お嬢ちゃん！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　新しい飼い主様のもとでおりこうにするんだぞ？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Pegal Bandit Gang Member: You're lucky, miss! Behave well\nunder your new master, okay?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7675,21 +7675,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ペガル山賊団の切り込み隊長"
+                                "Captain of the Pegal Bandit Corps: D-Damn it...! Who the\nhell are you guys!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ち、ちくしょう……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前たち……いったい何者だっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -7713,21 +7713,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I am a member of the Adventurer's Guild, Ftera. Now,\nplease tell me who informed you about the crystal\ntransport."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルド・フテラの一員です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁ、クリスタル輸送を誰から聞いたのか教えてください」"
+                                ""
                             ]
                         },
                         {
@@ -7751,21 +7751,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ペガル山賊団の切り込み隊長"
+                                "Captain of the Pegal Bandit Corps: Who are you...? Hahaha,\nrumors about you have already spread!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「誰だって……？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　はははっ、とっくに噂話で広まっているさ！」"
+                                ""
                             ]
                         },
                         {
@@ -7782,21 +7782,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ペガル山賊団の切り込み隊長"
+                                "Captain of the Pegal Bandit Corps: I don't know where\nyou're taking it, but you better watch out for scoundrels\nlike us!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どこに運ぶか知らねーが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺たちみたいなろくでなしに気をつけるんだなっ！」"
+                                ""
                             ]
                         },
                         {
@@ -8015,21 +8015,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Y-You coward! Ugh, how fast you can run...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひ、卑怯者っ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　くぅ、なんて逃げ足がはやい……！」"
+                                ""
                             ]
                         },
                         {
@@ -8053,21 +8053,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Chasing after them is pointless, isn't\nit? I wonder where the rumors about them originated from?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「追いかけても無駄ですわね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　噂話で広まっているなんて出どころはどこでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -8236,14 +8236,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: N-No way, it's the people from the\nwarehouse...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ま、まさか倉庫の人たちじゃ……！」"
+                                ""
                             ]
                         },
                         {
@@ -8415,21 +8415,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: I don't think so... They are doing business\nbased on trust, just like us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それはないと思う……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　彼らは私たちと同じく信用で商売をしている」"
+                                ""
                             ]
                         },
                         {
@@ -8570,21 +8570,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: Even if we think about it, we won't find the\nanswer. Let's focus on completing the request as soon as\npossible."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「考えても答えは出ないはず"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　一刻もはやく依頼を達成することを考えよう」"
+                                ""
                             ]
                         },
                         {
@@ -8608,14 +8608,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました」"
+                                ""
                             ]
                         },
                         {
@@ -9779,7 +9779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -9825,14 +9825,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -10079,7 +10079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -10125,14 +10125,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -10379,7 +10379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -10425,14 +10425,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -10679,7 +10679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -10725,14 +10725,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -10979,7 +10979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -11025,14 +11025,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {

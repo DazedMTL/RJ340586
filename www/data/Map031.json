@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "谷の都市バリエ",
+    "displayName": "Valley City Barié",
     "encounterList": [],
     "encounterStep": 30,
     "height": 37,
@@ -9349,14 +9349,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is this the city of Valie in the valley?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここが谷の都市バリエですか」"
+                                ""
                             ]
                         },
                         {
@@ -9380,14 +9380,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: This place doesn't seem very lively, does it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あまり元気がない場所ですね」"
+                                ""
                             ]
                         },
                         {
@@ -9411,21 +9411,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: There might be a reason for it. Let's go to the\ntavern and make contact with the children of the pioneers."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「事情があるのかもしれませんね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　酒場にいって開拓者の子どもたちに接触しましょう」"
+                                ""
                             ]
                         },
                         {
@@ -9449,14 +9449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes, let's go!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、いきましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -17219,21 +17219,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　市民カガ"
+                                "Citizen Kaga: Valleya may have been abandoned by the\nEmpire, but I haven't given up on this land!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バリエは帝国に見捨てられた場所だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だが私はこの土地を諦めていないぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -17401,21 +17401,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　市民カガ"
+                                "Citizen Kaga: As citizens of Valier, we have no choice but\nto defend ourselves, even if it means paying whatever little\nmoney we have."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バリエ市民は自衛するしかない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　たとえなけなしの金を支払ったとしてもだ」"
+                                ""
                             ]
                         },
                         {
@@ -17483,21 +17483,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　市民カガ"
+                                "Citizen Kaga: Valleya may have been abandoned by the\nEmpire, but I haven't given up on this land!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バリエは帝国に見捨てられた場所だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だが私はこの土地を諦めていないぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -17878,14 +17878,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　市民カガ"
+                                "Citizen Kaga: Did you happen to see the bulletin board?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もしかして掲示板を見てくれたのか！」"
+                                ""
                             ]
                         },
                         {
@@ -17909,21 +17909,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Leave it to this great genius! So, where is this\nman-eating bear?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この大天才にまかせてください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それで人食い熊とやらはどこにいるんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -17947,14 +17947,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　市民カガ"
+                                "Citizen Kaga: Well... I don't know!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それがなぁ……わからん！」"
+                                ""
                             ]
                         },
                         {
@@ -17994,14 +17994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Yes!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はぃっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -18025,21 +18025,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　市民カガ"
+                                "Citizen Kaga: He's always popping up unexpectedly... First,\nI want you to head to Marako Village."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「神出鬼没なやつでな……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まずはマラコ村に向かって欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -18056,14 +18056,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　市民カガ"
+                                "Citizen Kaga: Please borrow the power of the hunter who is\nthere."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そこにいる狩人のちからを借りてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -18087,21 +18087,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: That's fine, but why don't we defeat it when\nthere's a hunter around?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは構いませんけど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　狩人がいるのにどうして討伐しないんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -18125,21 +18125,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　市民カガ"
+                                "Citizen Kaga: The depletion of crystals in Valeria has\ntaken away dreams and hopes from the people who have lost\nhope."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バリエの人間は希望を失っておる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クリスタルの枯渇は人々から夢も希望も奪ったのだ」"
+                                ""
                             ]
                         },
                         {
@@ -18156,21 +18156,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　市民カガ"
+                                "Citizen Kaga: It's sad, but there are many people who treat\nit as someone else's problem until they themselves are\nattacked."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悲しいが自分が襲われるまで"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　他人事で片付ける人間たちが多いのだよ」"
+                                ""
                             ]
                         },
                         {
@@ -18314,14 +18314,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Valeria Region/Marako\nVillage\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLバリエ地方/マラコ村\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -18999,14 +18999,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Coal miner Philo: Where did I drop it...? This is\ntroublesome."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どこに落としたのか……困ったなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -19382,14 +19382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Coal miner Philo: Did you check the bulletin board?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「掲示板を見てくれたのかい？」"
+                                ""
                             ]
                         },
                         {
@@ -19413,21 +19413,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Leave it to us. Where should we go to search?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちにおまかせください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どちらに探しに行けばいいのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -19451,21 +19451,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Coal miner Philo: I think it's near the work area... It's\nnot worth much, but it's my father's memento."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「作業場の近くの原っぱだと思うんだ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　大した値打ちのものじゃないけど親父の形見なんだ」"
+                                ""
                             ]
                         },
                         {
@@ -19489,14 +19489,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We will definitely find it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「必ず探し出してきます！」"
+                                ""
                             ]
                         },
                         {
@@ -19520,21 +19520,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Coal miner Philo: Y-Yeah... Thanks. Let me know when you're\nready."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「う、うん……ありがとう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　準備ができたら声をかけてよ」"
+                                ""
                             ]
                         },
                         {
@@ -19735,14 +19735,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Coal miner Philo: Are you ready?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「準備はできたかい？」"
+                                ""
                             ]
                         },
                         {
@@ -19781,14 +19781,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Coal miner Philo: Let me know when you're ready."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「準備ができたら声をかけてよ」"
+                                ""
                             ]
                         },
                         {
@@ -19879,14 +19879,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Coal miner Philo: I'll guide you to the vicinity, so follow\nme."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「近くまで案内するよ、着いてきて」"
+                                ""
                             ]
                         },
                         {
@@ -20463,14 +20463,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I found a coin!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「コインを見つけてきましたぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -20620,21 +20620,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Miner Philo: Is that true...!? This is... without a doubt,\nmy late father's keepsake coin."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは本当かい……！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これは……確かに親父の形見のコインだ」"
+                                ""
                             ]
                         },
                         {
@@ -20682,21 +20682,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Miner Philo: Thank you so much! He may not have been a good\nfather, but he raised me, after all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当にありがとう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ろくでもない親父だったけど育ての親だからね」"
+                                ""
                             ]
                         },
                         {
@@ -20720,14 +20720,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please make sure you don't drop it again."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もう落とさないようにしてください」"
+                                ""
                             ]
                         },
                         {
@@ -20751,14 +20751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Miner Philo: Alright, I understand. I want you to receive\nyour reward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかったよ、報酬を受け取って欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -20905,14 +20905,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like the reward is generous."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「報酬が多いようですが」"
+                                ""
                             ]
                         },
                         {
@@ -20936,21 +20936,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Miner Philo: This is my gratitude for searching so\ndiligently. As an adventurer, I don't think you'll have any\ntrouble keeping it, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「一生懸命に探してくれた御礼だよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　冒険者ならもっていて困ることはないだろ？」"
+                                ""
                             ]
                         },
                         {
@@ -20974,14 +20974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, I will gratefully make use of it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、ありがたく使わせてもらいます」"
+                                ""
                             ]
                         },
                         {
@@ -21159,14 +21159,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　炭鉱夫フィロ"
+                                "Coal miner Philo: I carry the coin you found with me at all\ntimes."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「見つけてくれたコインは肌身離さず持ち歩いているよ」"
+                                ""
                             ]
                         },
                         {
@@ -21243,21 +21243,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疲れた老婆"
+                                "Tired old woman: Even now, with the depletion of the\ncrystals, glory and honor have vanished from this land, but\nonly Armada continues to shine..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クリスタルの枯渇とともに栄光も名誉も消え去った"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いまもこの土地で輝いているのはアルマダだけさ……」"
+                                ""
                             ]
                         },
                         {
@@ -21325,21 +21325,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疲れた老婆"
+                                "Tired old woman: Even now, with the depletion of the\ncrystals, glory and honor have vanished from this land, but\nonly Armada continues to shine..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クリスタルの枯渇とともに栄光も名誉も消え去った"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いまもこの土地で輝いているのはアルマダだけさ……」"
+                                ""
                             ]
                         },
                         {
@@ -21416,21 +21416,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　希望のない鉱山夫"
+                                "Hopeless Miner: Have you ever been to Oros? It's a\ndespicable place that has taken away all the glory and honor\nof the crystals."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あんたオロスにいったことはあるかい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クリスタルの栄光と名誉をすべて奪った憎き場所さ」"
+                                ""
                             ]
                         },
                         {
@@ -21498,21 +21498,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　希望のない鉱山夫"
+                                "Hopeless Miner: Have you ever been to Oros? It's a\ndespicable place that has taken away all the glory and honor\nof the crystals."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あんたオロスにいったことはあるかい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クリスタルの栄光と名誉をすべて奪った憎き場所さ」"
+                                ""
                             ]
                         },
                         {
@@ -21589,21 +21589,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酔っ払いの老人"
+                                "Drunk old man: Hic... Hehe... Look... It's a crystal that\nallows you to live a life of endless fun!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひっく……えへへ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　見てみろい……一生遊んで暮らせるクリスタルだぁっ！」"
+                                ""
                             ]
                         },
                         {
@@ -21680,21 +21680,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　くたびれた少女"
+                                "Tired Girl: My sister couldn't bear it here and left, and\nsomeday I... I want to escape from this place too."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「姉はここに耐えきれなくて出ていったの"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私もいつか……こんな場所を飛び出していきたいわ」"
+                                ""
                             ]
                         },
                         {
@@ -21762,21 +21762,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　くたびれた少女"
+                                "Tired Girl: My sister couldn't bear it here and left, and\nsomeday I... I want to escape from this place too."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「姉はここに耐えきれなくて出ていったの"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私もいつか……こんな場所を飛び出していきたいわ」"
+                                ""
                             ]
                         },
                         {
@@ -23763,21 +23763,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族オリクトの執事"
+                                "Nobleman Oricto's Butler: 'I have been waiting for you. I\nam the butler at Lord Oricto's mansion.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お待ちしておりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私はオリクト様のお屋敷で執事をしております」"
+                                ""
                             ]
                         },
                         {
@@ -23794,14 +23794,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族オリクトの執事"
+                                "Nobleman Oricto's Butler: 'I will guide you to the\nmansion.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お屋敷までご案内させていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -24081,21 +24081,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I wonder if it's okay to go to the\nmansion at this point?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いまさらですが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お屋敷にいっても大丈夫かしら？」"
+                                ""
                             ]
                         },
                         {
@@ -24119,21 +24119,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: That's right~! It might be a trap to lure us\nout!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうですよ〜！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　誘い出すための罠かもしれませんよ！」"
+                                ""
                             ]
                         },
                         {
@@ -24157,21 +24157,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Everyone is too scared! If it's us, even if\nwe're attacked, we shouldn't lose!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「みなさんは怯えすぎですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクたちなら襲われても負けるはずありません！」"
+                                ""
                             ]
                         },
                         {
@@ -24247,14 +24247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I wonder what Clea-chan thinks?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアちゃんの考えはどうかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -24309,21 +24309,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I think it's worth going to check. I don't think we\nwould request a mission from the guild without any\nnegotiation material."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私は行ってみる価値があると思います"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　交渉材料なしでギルドまで依頼を出すことはないと思います」"
+                                ""
                             ]
                         },
                         {
@@ -24340,21 +24340,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I hope to gather any information I can for the sake\nof Armada-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アルマダさんのためにも"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　少しでも情報を得ることができればと」"
+                                ""
                             ]
                         },
                         {
@@ -24371,14 +24371,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: However, let's not neglect our caution as we\nproceed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ただし、警戒は怠らずにいきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -26524,14 +26524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バリエ衛兵"
+                                "Valie Guard: Sigh, things have really taken a turn for the\nworse... What should we do?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はぁ、本当にまずいことになった……どうするか」"
+                                ""
                             ]
                         },
                         {
@@ -26981,14 +26981,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Regarding the request--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご依頼の件ですが――」"
+                                ""
                             ]
                         },
                         {
@@ -27028,21 +27028,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バリエ衛兵"
+                                "Valier Guardsman: Please speak in a lower voice... That\nrequest is something special... Show your face more often."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もっと小さな声で頼む……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの依頼は特別なものなんだ……よく顔を見せてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -27073,14 +27073,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is there any problem?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何か問題でもあるでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -27111,21 +27111,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バリエ衛兵"
+                                "Valier Guardsman: Seems like quite the skilled individual.\nYou can trust them to handle special requests with ease."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「かなりの実力者のようだね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　安心して特別な依頼を頼むことができそうだ」"
+                                ""
                             ]
                         },
                         {
@@ -27173,21 +27173,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I see... So I just need to bring back a fugitive\nnamed Zagal, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるほど……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　逃亡犯ザガルという男を連れてくればいいんですね」"
+                                ""
                             ]
                         },
                         {
@@ -27211,21 +27211,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バリエ衛兵"
+                                "Valier Guardsman: If we let the fugitive escape while\ntransporting them to Fotizona, it would be a huge blow to\nthe reputation of the Valier Guards...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「フォティゾナに護送する途中に逃げられてね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　凶悪犯を逃したとなればバリエ衛兵の面子が丸つぶれだ……！」"
+                                ""
                             ]
                         },
                         {
@@ -27249,21 +27249,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バリエ衛兵\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+                                "Valier Guardsman: The informants seem to know something,\nbut we can't afford to owe them any favors."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「情報屋は何か知っているようだが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　奴らに借りを作るような真似はできない」"
+                                ""
                             ]
                         },
                         {
@@ -27287,21 +27287,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood. First, I will try contacting the\ninformant."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まずは情報屋を当たってみます」"
+                                ""
                             ]
                         },
                         {
@@ -27521,14 +27521,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バリエ衛兵"
+                                "Valie Guard: I'm counting on you for the sake of the Valie\nGuard's reputation!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バリエ衛兵の面子のために頼むよ！」"
+                                ""
                             ]
                         },
                         {
@@ -27978,21 +27978,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バリエ衛兵"
+                                "Valie Guard: That detestable face! I can't believe you\nactually caught her!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この憎たらしい顔！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本当に捕まえてきてくれるなんて！」"
+                                ""
                             ]
                         },
                         {
@@ -28016,21 +28016,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バリエ衛兵"
+                                "Valie Guard: Thanks to you, our appearance has been\nmaintained, and above all, many of the victims can recover."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たちのおかげで体裁が保たれたよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何よりも数多くの被害者たちが浮かばれる」"
+                                ""
                             ]
                         },
                         {
@@ -28054,21 +28054,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バリエ衛兵"
+                                "Valie Guard: We want you to accept our promised reward...\nand our gratitude as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「約束の報酬と……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　感謝の気持ちも受け取って欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -28118,14 +28118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, thank you very much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、ありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -28352,14 +28352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バリエ衛兵"
+                                "Valie Guardsman: Thanks to you, the appearance of the Valie\nGuardsmen has been maintained."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おかげでバリエ衛兵たちの体裁がたもたれたよ」"
+                                ""
                             ]
                         },
                         {

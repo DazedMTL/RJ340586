@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "敗残兵たちのスラム 負け犬のダンの家",
+    "displayName": "Slums of the Defeated Soldiers - Dan's House of Losers",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4139,21 +4139,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負け犬のダン"
+                                "Dan, the loser: I'll handle sorting the food. I want you\nguys to distribute the food to the troublesome residents."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「食料の仕分けは俺が行う"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちには厄介な住人に食べ物を配って欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -4184,14 +4184,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: T-Troublesome... Does that mean they're scary\npeople!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「や、厄介って……怖い人ってことですかぁ！？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Dan, the loser: Well... the people who ended up here have\ncomplicated circumstances."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4222,21 +4260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負け犬のダン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「なんというか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ここに流れ着いた奴らは複雑な事情がある奴が多い」"
+                                "Dan, the loser: That's why we need someone skilled at\neasing the wariness of people like Ginger-san."
                             ]
                         },
                         {
@@ -4247,34 +4271,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負け犬のダン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「だからジンジャー爺さんみたいな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　相手の警戒心を解くのが上手い人間が必要なんだ」"
+                                ""
                             ]
                         },
                         {
@@ -4305,21 +4305,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood. What specifically should I do?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　具体的に何をすればいいでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -4343,21 +4343,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負け犬のダン"
+                                "Dan, the loser: There are three troublesome individuals...\nYeah, first, please deliver food to two of them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「癖のある３人がいて……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そうだな、まずは２人に食料を届けてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -4584,21 +4584,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負け犬のダン"
+                                "Dan, the loser dog, said, I used to be a monk who was saved\nby Grandpa Ginger, but now I live here and help out."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「むかしジンジャー爺さんに助けられてな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　僧侶の真似事だがここで暮らして手伝いをしてる」"
+                                ""
                             ]
                         },
                         {
@@ -5123,21 +5123,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負け犬のダン"
+                                "Dan, the loser: Did you bring it? Thanks to Eleo, we're\ndone here too."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「配ってきてくれたのか！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　エレオさんのおかげでこっちも終わったよ」"
+                                ""
                             ]
                         },
                         {
@@ -5168,21 +5168,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: We were told there are three people,\nright? Where is the last one located?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「３人いるというお話でしたよね？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　最後の方はどちらにいるのでしょうか」"
+                                ""
                             ]
                         },
                         {
@@ -5215,21 +5215,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負け犬のダン"
+                                "Dan, the loser: The man in this back tent recently washed\nup here, but he hasn't opened up to anyone."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この裏のテントにいる男だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　最近になって流れ着いたが誰にも心を開いていない」"
+                                ""
                             ]
                         },
                         {
@@ -5260,14 +5260,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Sister Eleo: In that case, I'll go!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでしたら、私が行ってきます！」"
+                                ""
                             ]
                         },
                         {
@@ -5298,21 +5298,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負け犬のダン"
+                                "Dan, the loser: I'm sorry for making a request, but I think\nit would be better if it's not Eleo-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「指名するようで悪いが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　エレオさんじゃない方がいいと思う」"
+                                ""
                             ]
                         },
                         {
@@ -5343,14 +5343,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Sister Eleo: Could I possibly replace Ginger-san?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私ではジンジャーさんの代わりになれないでしょうか？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Dan, the loser: It's not that kind of meaning... I can't\nput it into words, but Eleo-san is just too dazzling."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5381,21 +5419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負け犬のダン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「そういう意味じゃないんだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　上手く言えないけどエレオさんは眩しすぎるんだよ」"
+                                "Dan, the loser: There are people who are saved by being\nilluminated, but for someone who has been in the darkness\nfor so long, it's a light that is too strong."
                             ]
                         },
                         {
@@ -5406,34 +5430,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負け犬のダン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「照らされることで救われる奴もいる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ただ、ずっと暗がりにいた人間には強すぎる光なんだ」"
+                                ""
                             ]
                         },
                         {
@@ -5473,21 +5473,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: If it's a request, then there's no\nhelping it. From what I've heard, it seems like it's going\nto be a long battle."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご指名なら仕方ないですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お話を聞いている限りだと長期戦になりそうですわね」"
+                                ""
                             ]
                         },
                         {
@@ -5518,14 +5518,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Everyone, please return to Myukos ahead\nof us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「皆さんは先にミュコスに戻っていてください」"
+                                ""
                             ]
                         },
                         {
@@ -5642,14 +5642,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Eleo-san, is something wrong?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「エレオさん、どうかしましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -5687,21 +5687,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Sister Eleo: I understand that there are preferences, but\nI'm just a little worried about Sophia-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「向き不向きがあるのは理解しています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ただ、少しだけソフィアさんが心配なんです」"
+                                ""
                             ]
                         },
                         {
@@ -5732,21 +5732,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Sister Eleo: Have you seen the eyes of the people here?\nThey have eyes that go beyond despair and feel nothing."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここの人たちの目をみましたか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　絶望を通り越して何も感じない目をしています」"
+                                ""
                             ]
                         },
                         {
@@ -5777,14 +5777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Sister Eleo: She looked just like Sophia-san when we first\nmet."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「出会った時のソフィアさんにそっくりでした」"
+                                ""
                             ]
                         },
                         {
@@ -5822,21 +5822,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: So that's why you didn't contact us about this\nrequest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だから今回の依頼は"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちに連絡をしなかったんですね」"
+                                ""
                             ]
                         },
                         {
@@ -5867,21 +5867,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Sister Eleo: Sophia-san might remind me of something...\nsomething that I can't quite understand."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ソフィアさんが何かを……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私には理解できない何かを思い出してしまうかもしれない」"
+                                ""
                             ]
                         },
                         {
@@ -5912,14 +5912,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Sister Eleo: That's what scared me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それが怖かったんです」"
+                                ""
                             ]
                         },
                         {
@@ -6120,21 +6120,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負け犬のダン"
+                                "Dan the loser: Why am I called a loser? It's because I ran\naway from the battlefield and defected to the enemy country,\nFotizona."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何で負け犬かって？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　戦場から逃げた上に敵国のフォティゾナに亡命したからだよ」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "裁きの跡",
+    "displayName": "Remnants of Judgment",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4587,14 +4587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like she's not here. Let's search somewhere\nelse."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここにはいないようですね。別の場所を探しましょう」"
+                                ""
                             ]
                         },
                         {
@@ -4718,7 +4718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　穴を調べますか？"
+                                "Do you want to investigate the hole?"
                             ]
                         },
                         {
@@ -4764,14 +4764,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then do it)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4895,21 +4895,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like this is the right place, everyone,\nplease prepare for battle!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ここで正解のようです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　皆さん、戦いの準備をお願いします！」"
+                                ""
                             ]
                         },
                         {

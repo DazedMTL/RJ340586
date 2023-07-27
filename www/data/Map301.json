@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョンの中・赤",
+    "displayName": "Inside the Dungeon - Red",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -16090,14 +16090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                ""
                             ]
                         },
                         {
@@ -16143,14 +16143,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備してからにしよう）"
+                                ""
                             ]
                         },
                         {

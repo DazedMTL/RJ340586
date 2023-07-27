@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "山の都市オロス 衛兵ドロンの家",
+    "displayName": "City of Orosh in the Mountains, House of Guard Doron",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3770,14 +3770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵ドロン"
+                                "Guard Drone: If you have any troubles, please call out to\nthe city guards."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お困りごとでしたら街の衛兵にお声がけください」"
+                                ""
                             ]
                         },
                         {
@@ -4203,21 +4203,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵ドロン"
+                                "Guard Drone: Thank you for coming! Let me explain the\ndetails of the request."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よく来てくれました！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　依頼内容をお話させていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -4241,14 +4241,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: An infiltration investigation into the arena... is\nthat what you're saying?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「闘技場への潜入調査……ということですか？」"
+                                ""
                             ]
                         },
                         {
@@ -4272,21 +4272,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵ドロン"
+                                "Guard Drone: It is an infiltration into a secret arena that\nis said to be located in Dromos, not the Pizma Arena."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ピズマ闘技場ではありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドロモスにあると言われている秘密の闘技場への潜入です」"
+                                ""
                             ]
                         },
                         {
@@ -4303,21 +4303,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵ドロン"
+                                "Guard Drone: My father, Cleos, had attempted infiltration,\nbut his whereabouts have been unknown for several months..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「父のクレオスは潜入を試みていました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　しかし数ヶ月前から行方がわからなくなっています……」"
+                                ""
                             ]
                         },
                         {
@@ -4341,21 +4341,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: As a condition for accepting this\nrequest, there was a requirement to win at the Pizma Arena.\nWhy is that?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この依頼を受ける条件として"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ピズマ闘技場の優勝がありましたがなぜでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -4379,21 +4379,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵ドロン"
+                                "Guard Drone: It is said that in order to participate in the\nsecret arena, one must be recognized by the scoutman."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「秘密の闘技場に参加するためには"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　スカウトマンに認められる必要があるとされています」"
+                                ""
                             ]
                         },
                         {
@@ -4410,21 +4410,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵ドロン"
+                                "Guard Drone: They are watching the Pizma Arena. You all\nshould be their scouting targets."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「彼らはピズマ闘技場を見ています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　皆さんは彼らのスカウト対象になっているはず」"
+                                ""
                             ]
                         },
                         {
@@ -4448,14 +4448,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, I will head to Dromos first."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、まずはドロモスに向かってみます」"
+                                ""
                             ]
                         },
                         {
@@ -4479,21 +4479,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵ドロン"
+                                "Guard Drone: Thank you! I also want to infiltrate the city\nof Dromos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私もドロモスの街に潜入したいと思います」"
+                                ""
                             ]
                         },
                         {
@@ -4628,14 +4628,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Oros Region/Golden City\nDromos\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLオロス地方/黄金の街ドロモス\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -4727,14 +4727,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵ドロン"
+                                "Guard Drone: We can only rely on all of you. Please take\ncare of us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「皆さんだけが頼りです。よろしくお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -5230,14 +5230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵ドロン"
+                                "Guard Drone: Father... I'm glad you're safe!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「親父……無事でよかった！」"
+                                ""
                             ]
                         },
                         {
@@ -5316,21 +5316,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵ドロン"
+                                "Guard Drone: Thank you very much. I will proceed with the\npayment of the reward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当にありがとうございました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　報酬を支払わせていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -5535,14 +5535,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵クレオス"
+                                "Guard Cleos: I would also like to express my gratitude."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私からもお礼をさせて欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -5609,14 +5609,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -5774,21 +5774,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much, Phoni-san. We wouldn't have been\nable to resolve it without you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「フォニさんもありがとうございました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたがいなければ解決できませんでした」"
+                                ""
                             ]
                         },
                         {
@@ -5812,14 +5812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Voice Priestess Phoni: No... I'm glad I could be of help."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いいえ……お役に立ててよかったです」"
+                                ""
                             ]
                         },
                         {
@@ -5836,21 +5836,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Voice Priestess Phoni: I feel like my relationship with my\nfather has returned, even if it's just a little... really,\njust a little."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お父様との関係も少しだけ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本当に少しだけですけど戻った気がします」"
+                                ""
                             ]
                         },
                         {
@@ -5874,14 +5874,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Voice Priestess Phoni: If you ever have any troubles,\nplease don't hesitate to reach out to me, okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お困りごとがあればいつでも声をかけてくださいね？」"
+                                ""
                             ]
                         },
                         {
@@ -6098,21 +6098,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵ドロン"
+                                "Guard Drone: My father stopped the investigation of the\nunderground arena. There's a possibility that the Senate is\ninvolved, so we have to be careful."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「親父に地下闘技場の調査はとめられました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　下手をすれば元老院が関わっている可能性があるからって」"
+                                ""
                             ]
                         },
                         {
@@ -6772,21 +6772,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　衛兵クレオス"
+                                "Guard Cleos: The darkness of Dromos is deeper than I\nthought. Be careful not to get too involved."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「思った以上にドロモスの闇は深い"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちも深入りし過ぎないようにな」"
+                                ""
                             ]
                         },
                         {

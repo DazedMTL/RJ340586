@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "イリニ村 情報屋",
+    "displayName": "Ilini Village Information Broker",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3770,14 +3770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: Do you have any requests for me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なにか俺に依頼でもあるのか？」"
+                                ""
                             ]
                         },
                         {
@@ -4169,14 +4169,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Do you know anything about the recently stolen cows?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「最近盗まれた牛についてご存知でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -4200,21 +4200,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: I'm an information broker, but I'm\nsorry, I don't have anything to tell you for free."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺は情報屋だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪いが無料で話すことは何もないぜ」"
+                                ""
                             ]
                         },
                         {
@@ -4231,21 +4231,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: You can pay with money... or I wouldn't\nmind if you paid with your body either, you know?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「金を払うもよし……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　別に身体で払ってもらっても構わないぜ？」"
+                                ""
                             ]
                         },
                         {
@@ -4472,21 +4472,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: Whoa!? What the hell are you doing?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「うぉっ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　てめー何をしやがるっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4510,14 +4510,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is this what you mean by paying with my body?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「身体で払うというのはこういうことでは？」"
+                                ""
                             ]
                         },
                         {
@@ -4541,21 +4541,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: Don't mess with me! Just because you're\na woman doesn't mean I'll go easy on you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「おちょくりやがって！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　女だからって容赦しないからな！」"
+                                ""
                             ]
                         },
                         {
@@ -4632,14 +4632,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Shall we continue?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「まだ続けますか？」"
+                                ""
                             ]
                         },
                         {
@@ -4663,21 +4663,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: Fine... I surrender. The cows should be\nin the bandit's grasslands."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「っち……降参だよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　牛は野盗の草原にいるはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -4701,14 +4701,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「ありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -4732,21 +4732,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: You may not be cute, but I like your\nface and body."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「可愛げはねーが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　顔も身体も気に入ったよ」"
+                                ""
                             ]
                         },
                         {
@@ -4763,21 +4763,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: If you want to earn some pocket money,\ncome to me. I have a perfect request for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「小遣い稼ぎがしたかったら来てくれよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　あんたにぴったりな依頼があるからさ」"
+                                ""
                             ]
                         },
                         {
@@ -4860,14 +4860,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: *sighs*"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「っく……」"
+                                ""
                             ]
                         },
                         {
@@ -4891,21 +4891,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: Don't pick a fight with someone just by\nlooking at them! If you have a request, ask properly next\ntime."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「相手を見て喧嘩を売りな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　お願いがあるなら次はちゃんと頼むんだな」"
+                                ""
                             ]
                         },
                         {
@@ -5037,21 +5037,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: I'm glad you understand. Now, let me\nenjoy myself to the fullest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「話がわかるお嬢さんでよかったよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　さぁ、たっぷりと楽しませてもらうぜ」"
+                                ""
                             ]
                         },
                         {
@@ -5096,7 +5096,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -5227,21 +5227,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: I thoroughly enjoyed myself. Just\nthinking about it again is getting me excited."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「堪能させてもらったよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　思い出したらまた興奮してきた」"
+                                ""
                             ]
                         },
                         {
@@ -5265,14 +5265,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Now, please tell me the information."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さぁ、情報を教えてください」"
+                                ""
                             ]
                         },
                         {
@@ -5296,21 +5296,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: The cows should be in the bandit's\ngrasslands. Be careful, as there are many wild animals\nbesides the Loparo Raiders."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「牛は野盗の草原にいるはずだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ロパロ略奪団以外にも野生動物が多いから気をつけな」"
+                                ""
                             ]
                         },
                         {
@@ -5327,21 +5327,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: When you want some pocket money, come\nto me and serve me with that cute mouth of yours!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「小遣いが欲しい時は来てくれよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　また可愛いおくちでご奉仕してくれよな！」"
+                                ""
                             ]
                         },
                         {
@@ -5491,14 +5491,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Campus Region/Wild Bandit\nGrasslands\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLカンプス地方/野盗の草原\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -5580,21 +5580,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: The Loparo Plunder Gang should be involved.\nI definitely won't get involved with them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ロパロ略奪団が絡んでいるはずだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺なら絶対にあいつらとは関わらないがね」"
+                                ""
                             ]
                         },
                         {
@@ -5662,14 +5662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: Hehehe, you can always rely on me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「へへへ、いつでも頼ってくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -5788,7 +5788,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -6243,21 +6243,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: I'm going to have a lot of fun with you\nsince you actually came."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当に来てくれるとはな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　たっぷりと楽しませてもらうぜ」"
+                                ""
                             ]
                         },
                         {
@@ -6274,14 +6274,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: Come over here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、こっちに来てくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -6914,14 +6914,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の助手"
+                                "Assistant Informant: I won't let you interfere with my\nwork!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「仕事の邪魔はさせねーからな！」"
+                                ""
                             ]
                         },
                         {
@@ -7038,14 +7038,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の助手"
+                                "Assistant Informant: W-What...stop getting so close to my\nface...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、なんだよ……顔を近づけるのやめろよぉ……！」"
+                                ""
                             ]
                         },
                         {
@@ -7062,21 +7062,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の助手"
+                                "Assistant Informant: F-Fine! I got it! Just stop looking at\nme so closely!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わ、わかったよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こいつをやるから見るのをやめてくれよぉっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7176,14 +7176,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の助手"
+                                "Information Broker's Assistant: Ugh, I'm not good with\nwomen..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ、女は苦手だぁ……」"
+                                ""
                             ]
                         },
                         {

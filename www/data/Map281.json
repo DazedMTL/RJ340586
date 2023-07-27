@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ベドン廟入口",
+    "displayName": "Bedon Shrine Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3408,14 +3408,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Please don't move around on your own!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「勝手に移動しないでくださいよ！」"
+                                ""
                             ]
                         },
                         {
@@ -3446,21 +3446,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋リーオン　"
+                                "Informant Leon: Take a look! It's not just a cave, it's\nundoubtedly an ancient ruins!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「見てくれよっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ただの洞窟じゃない、間違いなく古代の遺跡だ！」"
+                                ""
                             ]
                         },
                         {
@@ -3491,21 +3491,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It seems to be certain. The patterns depicted\nare related to the alchemical demon, Beton."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「間違いないみたいですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　描かれている文様は錬金の悪魔ベトンに関連するものです」"
+                                ""
                             ]
                         },
                         {
@@ -3545,21 +3545,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: What's the matter? Have you just noticed my\ngenius now?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうかしましたか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いまさらボクの天才性に気がついてしまいましたか！」"
+                                ""
                             ]
                         },
                         {
@@ -3590,21 +3590,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I can't quite put it into words, but I can\nsense a [scent of death] coming from here..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うまく言えないですけど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここからは【死の臭い】がします……」"
+                                ""
                             ]
                         },
                         {
@@ -3635,14 +3635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ひ、引き返しませんかぁ？」"
+                                "Thief Nora: C-Can't we turn back?"
                             ]
                         },
                         {
@@ -3650,37 +3643,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　情報屋リーオン　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ここまで来て帰るわけにはいかないぜっ！」"
                             ]
                         },
                         {
@@ -3711,14 +3673,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋リーオン　"
+                                "Informant Leon: We can't just come all this way and turn\nback!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、遺跡の最奥を目指して進んでいこう！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Informant Leon: Now, let's proceed towards the deepest part\nof the ruins!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3989,21 +3989,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: That's why, don't go off on your own! It defeats\nthe purpose of having guards, you know!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だから勝手にっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これじゃあ護衛の意味がないじゃないですかぁ！？」"
+                                ""
                             ]
                         },
                         {

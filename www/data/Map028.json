@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ユアン大口最奥",
+    "displayName": "Yuan's Great Mouth Deepest",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5773,7 +5773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　最奥に入りますか？"
+                                "Do you want to go to the deepest part?"
                             ]
                         },
                         {
@@ -5819,14 +5819,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I have a bad feeling... Let's prepare ourselves)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（嫌な予感がする……準備をしましょう）"
+                                ""
                             ]
                         },
                         {
@@ -6064,7 +6064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　最奥に入りますか？"
+                                "Do you want to go to the deepest part?"
                             ]
                         },
                         {
@@ -6110,14 +6110,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before we go)."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6364,7 +6364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　最奥に入りますか？"
+                                "Do you want to go to the deepest part?"
                             ]
                         },
                         {
@@ -6410,14 +6410,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I have a bad feeling... Let's prepare ourselves)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（嫌な予感がする……準備をしましょう）"
+                                ""
                             ]
                         },
                         {
@@ -6655,7 +6655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　最奥に入りますか？"
+                                "Do you want to go to the deepest part?"
                             ]
                         },
                         {
@@ -6701,14 +6701,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then go)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6955,7 +6955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　最奥に入りますか？"
+                                "Do you want to go to the deepest part?"
                             ]
                         },
                         {
@@ -7001,14 +7001,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I have a bad feeling... Let's prepare ourselves)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（嫌な予感がする……準備をしましょう）"
+                                ""
                             ]
                         },
                         {
@@ -7246,7 +7246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　最奥に入りますか？"
+                                "Do you want to go to the deepest part?"
                             ]
                         },
                         {
@@ -7292,14 +7292,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before we go)."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -8010,14 +8010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is everyone ready?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「皆さん、準備はいいですか？」"
+                                ""
                             ]
                         },
                         {
@@ -8034,14 +8034,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: First, let's check if there are any ogres in the\nback."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まずは奥にオーガがいるか確かめましょう」"
+                                ""
                             ]
                         },
                         {
@@ -8127,21 +8127,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Such an amazing voice... Just listening to\nit... Ugh... It's making it hard to breathe..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すごい声ですぅ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　聞いているだけで……うぅ……息苦しくなりますよぉ……」"
+                                ""
                             ]
                         },
                         {
@@ -8181,14 +8181,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: This scream... I've heard it somewhere..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この叫び声……どこかで……」"
+                                ""
                             ]
                         },
                         {
@@ -8228,21 +8228,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Are you spacing out? It's okay, there are no\nenemies around us right now. Let's go further inside!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ぼーっとして大丈夫ですか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いまのボクたちに敵はいませんよ、奥にいきましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -8266,21 +8266,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Y-Yes, that's right... Let's proceed... I should...\nbe able to understand something..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「は、はい、そうですね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　進んでみましょう……何か……わかるはず……」"
+                                ""
                             ]
                         },
                         {
@@ -8304,14 +8304,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: ......  Note: The character 僧侶 (souryo)\ntranslates to cleric or priest in English."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……」"
+                                ""
                             ]
                         },
                         {
@@ -8490,14 +8490,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: As I thought, they were here...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やっぱりいましたね……！」"
+                                ""
                             ]
                         },
                         {
@@ -8521,14 +8521,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Clea-chan, are you okay? You seem strange."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアちゃん、様子がおかしいけど大丈夫かしら？」"
+                                ""
                             ]
                         },
                         {
@@ -8568,21 +8568,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: S-Something feels strange... Like I'm remembering\nsomething... that I had forgotten..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、何か変なんです……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　忘れていたことを……思い出すような……」"
+                                ""
                             ]
                         },
                         {
@@ -8640,21 +8640,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: ...The enemy hasn't noticed us. We might be\nable to launch a surprise attack from behind."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……相手はこっちに気がついていません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いまなら後ろから不意打ちができるかもです」"
+                                ""
                             ]
                         },
                         {
@@ -8709,14 +8709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Nora-san, you seem to be getting motivated too!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ノラさんもやる気が出てきましたね！」"
+                                ""
                             ]
                         },
                         {
@@ -8771,21 +8771,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I-I can't just keep being scared... I'm always\nbeing saved by everyone... I'll do my best!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、怖がってばかりだとダメだって……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いつも皆さんに助けられてばかりなので……がんばりますぅ！」"
+                                ""
                             ]
                         },
                         {
@@ -8809,14 +8809,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: E-Everyone, please prepare for battle...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「み、皆さんも戦いの準備をお願いします……！」"
+                                ""
                             ]
                         },
                         {
@@ -9062,14 +9062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (This scenery...somewhere...something...important...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（この光景……どこかで……何か……大切な……）"
+                                ""
                             ]
                         },
                         {
@@ -9699,21 +9699,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Father... Father! Run, please run! That person is\ncoming!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お父様……お父様っ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　逃げて、逃げてくださいっ、あいつがきますっ！」"
+                                ""
                             ]
                         },
                         {
@@ -9923,14 +9923,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦士のオーガ"
+                                "Ogre Warrior: Ugaaaaah!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ウガァァァァっ！」"
+                                ""
                             ]
                         },
                         {
@@ -9954,14 +9954,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: C-Clea-san! What are you doing!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「く、クレアさん！　何しているんですかっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -10001,14 +10001,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Ugh... That person... Ahh..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ……あいつが……あぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -10063,21 +10063,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Ugh, they've noticed us! E-Everyone, please\nprepare to fight!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ、気が付かれてますぅっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　み、皆さん、戦う準備をしてくださいっ！」"
+                                ""
                             ]
                         },
                         {
@@ -10244,14 +10244,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦士のオーガ"
+                                "Ogre Warrior: Ugaaaaah!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ウガァァァァっ！」"
+                                ""
                             ]
                         },
                         {
@@ -10423,14 +10423,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦士のオーガ"
+                                "Ogre Warrior: Ugh... Uggggghhh...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ウゥ……ウグググゥゥゥ……！」"
+                                ""
                             ]
                         },
                         {
@@ -10463,21 +10463,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I-I'm scared! Let's escape from here while we\ncan!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひ、怯んでますよっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いまのうちにここから、逃げましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -10555,14 +10555,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Clea-san!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアさんっ！」"
+                                ""
                             ]
                         },
                         {
@@ -10602,21 +10602,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Hurry! I'll cover you, so please go quickly!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「急ぎましょう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしが支えますから、はやくっ！」"
+                                ""
                             ]
                         },
                         {
@@ -11584,21 +11584,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Let's go with the surprise attack strategy from\nlast time! I'll also provide support with magic, so it\nshould work out well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「前回の不意打ち作戦でいきましょう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクも魔法で補助をしますからうまくいきますよ」"
+                                ""
                             ]
                         },
                         {
@@ -11694,21 +11694,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Wait a minute!? Clea-san, what are you doing!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ちょっと！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クレアさん、何をやっているんですかっ！」"
+                                ""
                             ]
                         },
                         {
@@ -11936,21 +11936,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We came here to defeat the dragon, so we need the\nstrength to take down ogres head-on."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちはドラゴンを倒すために来ました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オーガ程度は正面から倒せる実力が必要です」"
+                                ""
                             ]
                         },
                         {
@@ -12076,14 +12076,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦士のオーガ"
+                                "Ogre Warrior: Ugaaaaaah!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ウガァァァァっ！」"
+                                ""
                             ]
                         },
                         {
@@ -12107,14 +12107,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Ugh... amazing... such power...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「っく……すごい……迫力……！」"
+                                ""
                             ]
                         },
                         {
@@ -12340,14 +12340,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: C-Clea-san, are you okay!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「く、クレアさん、大丈夫ですかぁ！？」"
+                                ""
                             ]
                         },
                         {
@@ -12371,21 +12371,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: To be honest, I'm scared... but I won't deceive\nmyself... I'll show you that I can overcome it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「正直に話すと怖いです……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でも、それを誤魔化しません……乗り越えてみせます！」"
+                                ""
                             ]
                         },
                         {
@@ -12409,21 +12409,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It's different from back then... I can fight... I\nhave comrades who will fight with me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの時と違います"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私は戦える……一緒に戦ってくれる仲間がいるっ！」"
+                                ""
                             ]
                         },
                         {
@@ -12447,14 +12447,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes, of course!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はいっ、もちろんですよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -12717,21 +12717,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I will defeat you, surpass you, and reach the\ndragon!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたを倒します"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたを越えてドラゴンに届いてみせますっ！」"
+                                ""
                             ]
                         },
                         {
@@ -12991,14 +12991,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Ugh... I can't... I'm no match for them right now..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「っく……いまの私じゃ……敵わない……」"
+                                ""
                             ]
                         },
                         {
@@ -13034,14 +13034,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　戦士のオーガ"
+                                "Ogre Warrior: Ugaaaaaah!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ウガァァァァっ！」"
+                                ""
                             ]
                         },
                         {
@@ -13282,21 +13282,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Why... won't you finish me off...? But with this... I\ncan keep everyone safe..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「なんで……トドメも刺さないで……？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　でもこれなら……皆さんを無事に……」"
+                                ""
                             ]
                         },
                         {
@@ -13913,21 +13913,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Damn... the goblins...! I won't let them lay a finger\non my comrades... come at me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「くそ……ゴブリンたちが……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　仲間に手出しはさせません……かかってこい！」"
+                                ""
                             ]
                         },
                         {
@@ -13972,14 +13972,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ゴブリン"
+                                "Goblin: Gwooooahhh!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「グォぉぉぉッ！！」"
+                                ""
                             ]
                         },
                         {
@@ -14059,7 +14059,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -14176,14 +14176,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　戦闘からやり直しますか？"
+                                "Would you like to retry the battle? If you choose No, it\nwill result in a game over."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　※「いいえ」を選ぶとゲームオーバーになります"
+                                ""
                             ]
                         },
                         {
@@ -14675,21 +14675,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Haa... haa... We won... It's our victory... We can\ndefeat even the ogres...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はぁはぁ……勝った……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちの勝ちです……オーガだって倒せます……！」"
+                                ""
                             ]
                         },
                         {
@@ -14729,21 +14729,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Clea-chan, don't let your guard down! We\ndon't know how much vitality they have."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアちゃん、油断しないで！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どれだけ生命力があるかわからないわ」"
+                                ""
                             ]
                         },
                         {
@@ -14767,14 +14767,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦士のオーガ"
+                                "Ogre Warrior: Ugaa... Uguu... A... Warriors..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ウグァァ……ウググ……ア……戦士タチ……」"
+                                ""
                             ]
                         },
                         {
@@ -14919,14 +14919,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: D-D-Did you just say something...?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「い、いま言葉を……何か話しましたよぉ！？」"
+                                ""
                             ]
                         },
                         {
@@ -14950,21 +14950,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Monsters speaking words... I've never heard of\nsuch a thing even at the Magic Academy..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「怪物が言葉を話すなんて……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法アカデミーでも聞いたことありませんよ……」"
+                                ""
                             ]
                         },
                         {
@@ -14988,14 +14988,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦士のオーガ"
+                                "Ogre Warrior: Ahh... thank you..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アァ……ありがとう……」"
+                                ""
                             ]
                         },
                         {
@@ -15155,21 +15155,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: This is... a human corpse. So the true\nform of the ogres is... humans...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは……人間の死体ですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オーガの正体は人間ということ……？」"
+                                ""
                             ]
                         },
                         {
@@ -15566,14 +15566,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: You're Mr. Goat... Why are you here?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたはゴートさん……なぜここに？」"
+                                ""
                             ]
                         },
                         {
@@ -15613,21 +15613,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Goat from the Bulk Gang: I see, so it was you all who\ndefeated them... My dear friend... No... It was my duty to\nkill the ogres."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうかお前たちが倒してくれたのか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　親友の……いや……オーガの殺害は俺の役目だったのだ」"
+                                ""
                             ]
                         },
                         {
@@ -15651,14 +15651,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Goat from the Bulk Gang: I shall express my gratitude,\nwarriors."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「礼を言うぞ、戦士たち」"
+                                ""
                             ]
                         },
                         {
@@ -15682,21 +15682,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: You mentioned being a dear friend, so\ndoes it have something to do with becoming a human corpse?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いま親友と言いましたよね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　人間の死体になったことに関係があるのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -15736,21 +15736,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Goat from the Bulk Gang: It's fine to talk as we travel,\nsince you've come all the way to our base camp."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここで話すことはできない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　旅のついでで構わない……我らの駐屯地まで来てくれ」"
+                                ""
                             ]
                         },
                         {
@@ -15767,14 +15767,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Goat from the Bulk Gang: If possible... leave me alone with\nthis person."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「できれば……こいつと二人にしてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -15798,21 +15798,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Alright everyone, let's go report to General Atu."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　皆さん、アトゥ将軍に報告にいきましょう」"
+                                ""
                             ]
                         },
                         {

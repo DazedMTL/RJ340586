@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ベドン廟",
+    "displayName": "Bedon Shrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 75,
@@ -18434,7 +18434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ベドン廟の最奥に入りますか？"
+                                "Do you want to enter the innermost part of the Bedon\nShrine?"
                             ]
                         },
                         {
@@ -18473,14 +18473,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -18806,7 +18806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ベドン廟の最奥に入りますか？"
+                                "Do you want to enter the innermost part of the Bedon\nShrine?"
                             ]
                         },
                         {
@@ -18845,14 +18845,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -19178,7 +19178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ベドン廟の最奥に入りますか？"
+                                "Do you want to enter the innermost part of the Bedon\nShrine?"
                             ]
                         },
                         {
@@ -19217,14 +19217,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {

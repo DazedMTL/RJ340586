@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マラコ村 ノードの研究所",
+    "displayName": "Malako Village, Node Research Institute",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4000,21 +4000,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: It may be a shabby place, but it's a\nresearch facility. Sorry, but please let me focus on my\nresearch."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「粗末な場所だが研究所なんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪いが研究に集中をさせてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -4589,14 +4589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: Oh, who are you guys?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだね、君たちは？」"
+                                ""
                             ]
                         },
                         {
@@ -4634,14 +4634,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I've checked the bulletin board."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「掲示板を見てきました」"
+                                ""
                             ]
                         },
                         {
@@ -4681,21 +4681,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: This is no joke! Are you really willing to\naccept such a request for that amount of compensation!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冗談ではないのだな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんな依頼金で本当に引き受けてくれるか！？」"
+                                ""
                             ]
                         },
                         {
@@ -4726,14 +4726,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: First, let me confirm the details of the request."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「依頼内容の確認をまずはさせてください」"
+                                ""
                             ]
                         },
                         {
@@ -4781,21 +4781,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: My request is for you to collect as many\nseashells as possible at Mucos and Beach Lepton."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私の依頼はミュコスとビーチ・レプトンで"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　貝殻をなるべく多く回収して欲しいというものだ」"
+                                ""
                             ]
                         },
                         {
@@ -4826,14 +4826,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: What are seashells used for anyway?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「貝殻なんて何に使うんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -4873,14 +4873,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: Have you seen the village of Malaco and\nthe city of Barié?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「マラコ村やバリエの街を見ただろ？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Researcher Node: After the crystals stopped being\ncollected, the people of Barié became like the walking\ndead."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4911,21 +4949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「クリスタルが取れなくなってから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　バリエの人々はまるで死人のようになってしまった」"
+                                "Researcher Node: If you ask me... Barié was a place where\nthere were nothing but crystals."
                             ]
                         },
                         {
@@ -4936,34 +4960,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私に言わせれば……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　バリエはクリスタルしかなかった場所なのだ」"
+                                ""
                             ]
                         },
                         {
@@ -4994,14 +4994,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: So, are seashells related to this somehow...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それと貝殻に関係があるのでしょうかぁ……？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Researcher Node: A woman named Armada is trying to change\nthe hearts of the people living in Barié."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5032,21 +5070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「アルマダという女は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　バリエに暮らす人々の心を変えようとしている」"
+                                "Researcher Node: I believe that we need practical and\nconcrete measures, such as utilizing the abandoned tunnels\nfor cultivating plants."
                             ]
                         },
                         {
@@ -5057,34 +5081,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私は現実的な具体策が必要だと考える"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　使われなくなった坑道を利用した植物の栽培だ」"
+                                ""
                             ]
                         },
                         {
@@ -5127,14 +5127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Is this... a medicinal herb?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは……薬草ですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -5172,14 +5172,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I haven't seen it either."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクも見たことがないですね」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Researcher Node: It is a valuable medicinal herb that only\ngrows in dark places. I want to successfully cultivate it as\na stepping stone for the recovery of Barié."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5210,21 +5248,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: For that, we need a large amount of\nfertilizer. In my opinion, seashells are the most\ncompatible!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「薄暗い場所でのみ自生する高価な薬草だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　栽培を成功させてバリエの復興の足がかりとしたい」"
+                                ""
                             ]
                         },
                         {
@@ -5248,21 +5286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「そのために大量の肥料が必要だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　私の考えではもっとも相性がいいのが貝殻なんだ！」"
+                                "Researcher Node: I can't offer a great reward... but I want\nyour cooperation!"
                             ]
                         },
                         {
@@ -5270,30 +5294,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　研究者ノード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「大した報酬を渡せない……だが協力して欲しい！」"
                             ]
                         },
                         {
@@ -5331,21 +5331,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Y-Yes, let's cooperate! We've also been helped\nby Armada-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「きょ、協力してあげましょうよぉ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アルマダさんにもお世話になりましたし」"
+                                ""
                             ]
                         },
                         {
@@ -5376,14 +5376,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I will accept the request."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「依頼を受けさせていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -5414,14 +5414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: ...Thank you, thank you so much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……ありがとう、本当にありがとう」"
+                                ""
                             ]
                         },
                         {
@@ -5641,21 +5641,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: Thank you for accepting the request that\ncannot be settled with a small amount of money."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「低金額で済まない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　依頼を引き受けてくれてありがとう」"
+                                ""
                             ]
                         },
                         {
@@ -6137,14 +6137,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: This is the seashell that was requested."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これが頼まれていた貝殻です」"
+                                ""
                             ]
                         },
                         {
@@ -6299,21 +6299,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: So many of them...! What kind of magic did\nthey use!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こんなに大量に……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いったいどんな魔法を使ったんだ！？」"
+                                ""
                             ]
                         },
                         {
@@ -6337,21 +6337,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: Especially in Mucos, it should have been\ndifficult for thugs to easily gather seashells."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「特にミュコスはチンピラが多い場所"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　簡単には貝殻を集めることはできなかったはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -6382,14 +6382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Those thugs cooperated with us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そのチンピラの人たちが協力してくれました」"
+                                ""
                             ]
                         },
                         {
@@ -6427,21 +6427,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They asked me to convey that they are supporting us,\nthe people from Valier."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バリエ出身の人たちです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　応援していることを伝えて欲しいと言われました」"
+                                ""
                             ]
                         },
                         {
@@ -6474,21 +6474,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: I've been conducting research for several\ndecades... I've always thought of it as a lonely battle."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「研究をはじめて数十年……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ずっと孤独な戦いだと思っていた」"
+                                ""
                             ]
                         },
                         {
@@ -6512,21 +6512,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: But even if they leave Valier, there are\npeople who still think of Valier."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だがバリエを離れても"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　バリエを思ってくれている人たちがいる」"
+                                ""
                             ]
                         },
                         {
@@ -6550,21 +6550,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: Thank you so much, you brought something\nmore than just seashells."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当にありがとう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちは貝殻以上のものを持ってきてくれた」"
+                                ""
                             ]
                         },
                         {
@@ -6595,21 +6595,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I don't mind going to collect more materials if they\nare needed, even with the same fee."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「同じ依頼料で構いません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　材料が必要になればまた回収に行きますので」"
+                                ""
                             ]
                         },
                         {
@@ -6649,14 +6649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: What's wrong?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうかしましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -6694,21 +6694,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: N-Nothing at all! I'm looking forward to going\nto the beach again..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、なんでもないです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　また、ビーチに行くのが楽しみですね……」"
+                                ""
                             ]
                         },
                         {
@@ -6732,21 +6732,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: It's not much, but here's the promised\nreward. Also, please accept this prototype as a research\nresult."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「少ないが約束の報酬だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あと試作品だが研究成果を受け取って欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -6796,14 +6796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -7023,21 +7023,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者ノード"
+                                "Researcher Node: I thought it was a lonely battle, but it\nseems that's not the case. Just that alone makes me want to\ncontinue my research."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「孤独な戦いだと思っていたが違った"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それだけで研究を続けることができそうだよ」"
+                                ""
                             ]
                         },
                         {

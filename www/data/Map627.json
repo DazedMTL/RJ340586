@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "トラゴスの屋敷の牢獄",
+    "displayName": "Tragos Mansion Dungeon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3257,14 +3257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Ugh... This place... My body... hurts..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ……ここは……身体が……痛い……」"
+                                ""
                             ]
                         },
                         {
@@ -3302,21 +3302,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (That's right, I lost to the captain... I wonder\nwhat happened afterwards...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（そうだ団長に負けて……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　その後にどうなったんだろう……）"
+                                ""
                             ]
                         },
                         {
@@ -3347,21 +3347,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (If I'm in a prison cell... does that mean I lost\nto the general and got captured...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（牢屋にいるってことは……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　将軍さんに全員負けて捕まちゃったのかな……）"
+                                ""
                             ]
                         },
                         {
@@ -3432,14 +3432,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: W-Who are you...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、あなたたちは誰ですか……？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Tragos: That's a difficult question. I've been\nworking with Noble Pido to earn a living on the land of\nCampus."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3470,21 +3508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それは難しい質問だなぁ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　貴族ピドと組んでカンプスの土地で稼がせてもらっている」"
+                                "Noble Tragos: Hahaha, how about this kind of self-\nintroduction?"
                             ]
                         },
                         {
@@ -3492,30 +3516,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族トラゴス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「はははっ、こんな自己紹介でどうだろうか？」"
                             ]
                         },
                         {
@@ -3553,21 +3553,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Y-You're... ugh... the captain... my\ncomrades..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、あなたが……うぅ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　団長たちを……あたしの仲間たちを……」"
+                                ""
                             ]
                         },
                         {
@@ -3600,21 +3600,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: Ahahaha, this is great! It's a delightful\nmiscalculation that you know nothing about the situation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あはははっ、こいつはいいなぁ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何も事情を知らないとは嬉しい誤算だ」"
+                                ""
                             ]
                         },
                         {
@@ -3638,21 +3638,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: Shall I tell you the inconvenient truth while\nshowering you with affection..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「都合の悪い真実は"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前を可愛がりながら話すとしようか……」"
+                                ""
                             ]
                         },
                         {
@@ -3683,14 +3683,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Ugh, please don't come near me...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ、来ないでくださいっ……！」"
+                                ""
                             ]
                         },
                         {
@@ -3735,7 +3735,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -3870,14 +3870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦闘からやり直しますか？"
+                                "Do you want to retry the battle? If you choose 'No', it\nwill result in a game over."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　※「いいえ」を選ぶとゲームオーバーになります"
+                                ""
                             ]
                         },
                         {

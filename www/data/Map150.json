@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "草原の都市カンプス 酒場・宿屋2F",
+    "displayName": "City of the Grasslands, Campus - Tavern/Inn 2F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -5352,14 +5352,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Campus Region/Wild Thief's\nGrassland\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\CLカンプス地方/野盗の草原\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -5923,14 +5923,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　山師テッラ"
+                                "Terra the Swindler: Hey, little miss, what are you doing?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お嬢ちゃん、何をしているのかな？」"
+                                ""
                             ]
                         },
                         {
@@ -5994,21 +5994,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: No, um, well... ahaha! Maybe I just entered the\nwrong room!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いえ、あの、ボクは……あはは！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　部屋を間違えてしまったのかもしれませんね！」"
+                                ""
                             ]
                         },
                         {
@@ -6032,14 +6032,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I'll excuse myself with this!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクはこれで失礼しますね！」"
+                                ""
                             ]
                         },
                         {
@@ -6094,14 +6094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　山師テッラ"
+                                "Swindler Terra: I don't think so... Let's have a little\nchat."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうは見えないなぁ……ちょっとお話をしましょう」"
+                                ""
                             ]
                         },
                         {
@@ -6222,14 +6222,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　山師テッラ"
+                                "Swindler Terra: Do you need something from me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それで私に何か御用でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6253,14 +6253,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (It seems like it would be better to stop with the\nclumsy lies...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（下手な嘘はやめた方がよそうですね……）"
+                                ""
                             ]
                         },
                         {
@@ -6291,21 +6291,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Actually, I have a favor to ask of you. I'm\nthinking of asking for one of your belongings."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「実はあなたにお願いがあってきました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　持ち物のひとつをいただきたいと考えています」"
+                                ""
                             ]
                         },
                         {
@@ -6329,21 +6329,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　山師テッラ"
+                                "Swindler Terra: Belongings... jewels, precious metals,\nwhich one is your target?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「持ち物……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　宝石、貴金属、どれが目的でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6367,21 +6367,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's none of those. What I want is a cookbook."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「どれでもありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ボクが欲しいのは料理本です」"
+                                ""
                             ]
                         },
                         {
@@ -6405,21 +6405,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　山師テッラ"
+                                "Swindler Terra: Ah, I think I had something like that too.\nI believe I obtained it in Mucos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あぁ、そんなものもありましたね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ミュコスで手に入れたものだったような」"
+                                ""
                             ]
                         },
                         {
@@ -6436,21 +6436,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　山師テッラ"
+                                "Swindler Terra: It's not particularly valuable, so I don't\nmind giving it to you if you want?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「特に価値があるものではありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　別に君に差し上げても構いませんよ？」"
+                                ""
                             ]
                         },
                         {
@@ -6490,21 +6490,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Is it really okay!? You understand what I'm\nsaying, so I'll gladly accept it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いいんですかっ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　話がわかりますね、これはいただきます！」"
+                                ""
                             ]
                         },
                         {
@@ -6706,14 +6706,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Well then, with this...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「では、ボクはこれで……！」"
+                                ""
                             ]
                         },
                         {
@@ -6855,14 +6855,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　山師テッラ"
+                                "Swindler Terra: Oops, I didn't say I would give it to you\nfor free, you know?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「おっと、タダで渡すとはいっていませんよ？」"
+                                ""
                             ]
                         },
                         {
@@ -6879,21 +6879,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　山師テッラ"
+                                "Swindler Terra: A small exchange condition... ufufu, you\nunderstand what I mean, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ちょっとした交換条件……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　うふふ、何が言いたいのかわかりますよね？」"
+                                ""
                             ]
                         },
                         {
@@ -6940,14 +6940,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -7114,21 +7114,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　山師テッラ"
+                                "Swindler Terra: If you'd like, please come and help me\nagain. I'll reward you generously... So, please, will you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「よかったらまたお手伝いにきてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　お礼はたっぷりと弾みますから……お願いしますね？」"
+                                ""
                             ]
                         },
                         {
@@ -7197,14 +7197,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　山師テッラ"
+                                "Swindler Terra: Now, to my room--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さぁ、私の部屋に――」"
+                                ""
                             ]
                         },
                         {
@@ -7934,14 +7934,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Hey, what are you doing!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ちょっと何しているんですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -7965,21 +7965,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's collect the recipe book and leave this place\nwhile we still can."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「この手に限りますね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　料理本を回収してここを出ましょう」"
+                                ""
                             ]
                         },
                         {
@@ -8019,14 +8019,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Sigh... Let's be more clever about this,\nseriously."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「はぁ……もっとスマートにいきましょうよ、まったく」"
+                                ""
                             ]
                         },
                         {
@@ -8237,14 +8237,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Unlocked\\c[18]\\CL Campus Region/Grasslands of\nBandits\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLカンプス地方/野盗の草原\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -8610,14 +8610,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -8843,14 +8843,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　山師テッラ"
+                                "Terra the Swindler: You've come here often, young lady."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よく来てくれたね、お嬢ちゃん」"
+                                ""
                             ]
                         },
                         {
@@ -8867,21 +8867,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　山師テッラ"
+                                "Terra the Swindler: Don't worry, I'll definitely pay you\nthe promised reward... Now, come over here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「安心して大丈夫だからね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　約束の報酬は絶対に支払うからさ……さぁ、こっちに来て」"
+                                ""
                             ]
                         },
                         {

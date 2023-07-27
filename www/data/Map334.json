@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "帝国軍駐屯地 テント",
+    "displayName": "Imperial Army Garrison Camp Tent",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4124,14 +4124,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おどおどした帝国軍人"
+                                "Nervous Imperial Soldier: U-um, do you have some business\nwith me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、何か用事でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -4402,14 +4402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おどおどした帝国軍人"
+                                "Nervous Imperial Soldier: Do you have something you need\nfrom me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私に何か用事でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -4456,14 +4456,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: I have come as a messenger of the Imiserinos\nShrine Maiden."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「イミセリノスの巫女様の使いで来ましたわ」"
+                                ""
                             ]
                         },
                         {
@@ -4494,14 +4494,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おどおどした帝国軍人"
+                                "Nervous Imperial Soldier: I'm glad I've been praying every\nday. Please listen to what I have to say!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「毎日祈っていてよかった、僕の話を聞いてください！」"
+                                ""
                             ]
                         },
                         {
@@ -4563,14 +4563,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Are you trying to escape from military\nservice because you're scared... is that the reason?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「怖くて兵役から逃げようと……そういうわけですね？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Nervous Imperial Soldier: Before coming here, I was just\nplaying around with girls. And now I find myself in a place\nwhere a hero like General Atu is coming..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4601,21 +4639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おどおどした帝国軍人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ここに来る前は女の子と遊んでばかり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　来てみれば英雄アトゥ将軍が来るような場所……」"
+                                "Nervous Imperial Soldier: There are so many goblins, I\ndon't feel like I'll survive."
                             ]
                         },
                         {
@@ -4623,30 +4647,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おどおどした帝国軍人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ゴブリンも多くて生きている気がしません」"
                             ]
                         },
                         {
@@ -4684,21 +4684,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: How about running away? Even I don't want to\nfight goblins."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「逃げてしまうのはどうでしょうか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わたくしだってゴブリンと戦うのは嫌ですから」"
+                                ""
                             ]
                         },
                         {
@@ -4738,21 +4738,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: However, I have challenged and emerged\nvictorious against dragons with my companions for the sake\nof our mission."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「でも、わたくしは目的のために……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　仲間たちとドラゴンに挑み勝利しました」"
+                                ""
                             ]
                         },
                         {
@@ -4769,14 +4769,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おどおどした帝国軍人"
+                                "Nervous Imperial Soldier: Were you one of the companions of\nthe Dragon Slayer!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あのドラゴンスレイヤーの仲間だったんですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -4814,21 +4814,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Cowardice and courage can coexist without\ncontradiction. The problem is whether you choose to have\ncourage or not, that's all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「臆病と勇気は矛盾なく共存します"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　問題は勇気を持とうとするか、それだけですわ」"
+                                ""
                             ]
                         },
                         {
@@ -4861,21 +4861,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おどおどした帝国軍人"
+                                "Nervous Imperial Soldier: Thank you very much. I will do my\nbest to fight desperately for the Empire!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国のために必死に戦ってみようと思います！」"
+                                ""
                             ]
                         },
                         {
@@ -4899,14 +4899,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おどおどした帝国軍人"
+                                "Nervous Imperial Soldier: Thank you, lovely lady!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「素敵なお姉さん、ありがとう！」"
+                                ""
                             ]
                         },
                         {
@@ -5076,14 +5076,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Hehe, it seems like it would be better to\nfix your bad habits, don't you think?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、悪い癖も治した方が良さそうですわね？」"
+                                ""
                             ]
                         },
                         {
@@ -5145,14 +5145,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おどおどした帝国軍人"
+                                "Nervous Imperial Soldier: Hahaha, as an apology, please\ntake this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ははは、お詫びにこちらをお持ちください」"
+                                ""
                             ]
                         },
                         {
@@ -5200,21 +5200,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Thank you very much. May the blessings of\nthe goddess Imiserinos be upon you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたに女神イミセリノスの加護を」"
+                                ""
                             ]
                         },
                         {
@@ -5495,21 +5495,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おどおどした帝国軍人"
+                                "Nervous Imperial Soldier: I can't suddenly muster up\ncourage, but I'll do my best desperately for the Empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いきなり勇気を持つことはできません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でも帝国のために必死にがんばってみようと思います」"
+                                ""
                             ]
                         },
                         {

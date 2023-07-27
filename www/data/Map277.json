@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "野盗の草原",
+    "displayName": "Bandit's Grassland",
     "encounterList": [],
     "encounterStep": 30,
     "height": 27,
@@ -4261,7 +4261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -4307,14 +4307,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4561,7 +4561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -4607,14 +4607,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4861,7 +4861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -4907,14 +4907,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -5161,7 +5161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -5207,14 +5207,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6457,21 +6457,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ロパロ略奪団見回り隊"
+                                "Loparo Plundering Squad Patrol Team: As expected of the\norganization's pursuers! It was a mistake for you to come\nalone!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さすがは組織の追跡者だな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ただひとりで来たのは間違いだったな！」"
+                                ""
                             ]
                         },
                         {
@@ -6488,14 +6488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　追跡者オピス"
+                                "Pursuer Opis: At this rate...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「このままでは……！」"
+                                ""
                             ]
                         },
                         {
@@ -6689,14 +6689,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: With this genius here, everything will be fine!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この天才が来たからには大丈夫ですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -6720,14 +6720,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I don't know who you are, but I will protect the\nclient."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どなたか知りませんが依頼人は守ります」"
+                                ""
                             ]
                         },
                         {
@@ -6953,21 +6953,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ロパロ略奪団見回り隊"
+                                "Loparo Plundering Squad Patrol Team: Tch, let's return to\nthe hideout! Make sure to tell those organization guys to\nprotect our territory!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「っく、アジトに戻るぞ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　組織のやつらに縄張りは守れと伝えておけよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7316,14 +7316,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: A-Are you alright!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「だ、大丈夫ですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -7347,21 +7347,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　追跡者オピス"
+                                "Pursuer Opis: I never expected them to attack... It seems\nit's true that they will stop at nothing for the drugs."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「まさか襲ってくるとは……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　麻薬のために手段を選ばなくなったのは真実のようだ」"
+                                ""
                             ]
                         },
                         {
@@ -7401,14 +7401,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Mumbling... Are you really okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ブツブツと……本当に大丈夫ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7441,21 +7441,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　追跡者オピス"
+                                "Pursuer Opis: Ah, thank you so much for saving my life. I\nnever expected you would even save my life."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あぁ、大丈夫だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　命まで助けてもらえるとは本当にありがとう」"
+                                ""
                             ]
                         },
                         {
@@ -7594,21 +7594,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　追跡者オピス"
+                                "Pursuer Opis: I will make sure to pay you the reward for\nsuccessfully receiving the requested item, please accept\nit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「依頼品も確かに受け取った"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　報酬を支払わせてもらうよ、受け取ってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -7648,14 +7648,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: You can receive even more gratitude from us!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「もっとお礼をしてもらってもいいですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -7679,21 +7679,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　追跡者オピス"
+                                "Pursuer Opis: Indeed... If you ever come to Mucos, please\nlet me know."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「確かにそうだな……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　もしミュコスに来ることがあったら声をかけてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -7710,14 +7710,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　追跡者オピス"
+                                "Pursuer Opis: At that time, I will definitely show my\ngratitude."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「その時は必ず礼をさせてもらうよ」"
+                                ""
                             ]
                         },
                         {
@@ -8113,21 +8113,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It was just a joke... but if you ever have the\nchance to visit Mucos, let's meet up!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「冗談だったのですが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ミュコスに行く機会があれば訪ねてみましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -8182,14 +8182,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, let's return to our journey as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そうですね、私たちも旅に戻りましょう」"
+                                ""
                             ]
                         },
                         {

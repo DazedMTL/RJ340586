@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ビーチ・レプトン 酒場・宿屋1F",
+    "displayName": "Beach Lepton, Tavern/Inn 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6079,14 +6079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　上機嫌な漁師の男"
+                                "Cheerful fisherman: 'Hahaha, ahh~ this drink really hits\nthe spot.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「がははっ、くぅ〜この一杯が身体に染みるぜ」"
+                                ""
                             ]
                         },
                         {
@@ -6163,14 +6163,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　豪快な漁師の男"
+                                "A hearty fisherman: 'I can't do my job unless I eat plenty\nof food!'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「飯をたっぷり食わねーと仕事ができないぜ！」"
+                                ""
                             ]
                         },
                         {
@@ -6247,14 +6247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の雑貨商"
+                                "Traveling Goods Merchant: 'When you come here, it becomes a\nhassle to return to the mainland.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここに来ると本土に戻るのが億劫になるよ」"
+                                ""
                             ]
                         },
                         {
@@ -6331,21 +6331,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店員"
+                                "Innkeeper: Welcome! Please make sure to try our seafood!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いらっしゃいませ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　海産物は絶対に食べていってくださいね！」"
+                                ""
                             ]
                         },
                         {
@@ -6422,21 +6422,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: Welcome to Beach Lepton! We have the freshest\nseafood dishes and the finest wine."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ビーチ・レプトンにようこそ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　新鮮な魚介料理に最高のワインがありますよ」"
+                                ""
                             ]
                         },
                         {
@@ -7202,21 +7202,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋敷の執事"
+                                "Mansion Butler: Thank you for coming. The handover should\nbe at Beach Lepton without any mistakes."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お越しいただきありがとうございます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　受け渡しはビーチ・レプトンで間違いないようです」"
+                                ""
                             ]
                         },
                         {
@@ -7354,14 +7354,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Has your son been found?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「息子さんは見つかっていないのでしょうか？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mansion Butler: He hasn't arrived yet, but we have\nconfirmed that he is not staying anywhere."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7392,21 +7430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋敷の執事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「まだ到着していないのでしょう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　少なくとも宿泊していないことは調査済みです」"
+                                "Mansion Butler: Please detain them."
                             ]
                         },
                         {
@@ -7414,30 +7438,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　屋敷の執事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あなたが足止めを行ってください」"
                             ]
                         },
                         {
@@ -7475,21 +7475,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sophia the Priestess: Um, I don't mind... but is it not\npossible for all of us to detain them and defeat the enemy\ntogether?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、構いませんけど……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　全員で足止めをして、全員で敵を倒すのはダメでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -7513,21 +7513,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋敷の執事"
+                                "Mansion Butler: The young master is very stubborn! And we\nmust not injure them during the detainment!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「坊っちゃんは非常に意思が硬い！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そして足止めの際に怪我をさせてはなりません！」"
+                                ""
                             ]
                         },
                         {
@@ -7603,14 +7603,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋敷の執事"
+                                "Mansion Butler: In my experience..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私の経験では……」"
+                                ""
                             ]
                         },
                         {
@@ -7641,14 +7641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋敷の執事"
+                                "Mansion Butler: They're using magic even though they're\nbeing detained!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「足止めなのに魔法が出る！」"
+                                ""
                             ]
                         },
                         {
@@ -7724,14 +7724,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋敷の執事"
+                                "Mansion Butler: They forget about being detained when\nthey're lured by food!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「食べ物に釣られて足止めを忘れる！」"
+                                ""
                             ]
                         },
                         {
@@ -7807,14 +7807,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋敷の執事"
+                                "Mansion Butler: Even though they're being detained, they're\nstill attacking!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「足止めなのに殴り飛ばす！」"
+                                ""
                             ]
                         },
                         {
@@ -7852,14 +7852,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: It's amazing! I can see everything!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すごいですよ！　全部お見通しです！」"
+                                ""
                             ]
                         },
                         {
@@ -7897,14 +7897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I-I'm being made a fool of!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ば、馬鹿にされているんですよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7935,21 +7935,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋敷の執事"
+                                "Mansion Butler: Above all, the young master has no\nresistance to women. No matter how strong his will is, it is\nmeaningless in front of breasts."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何よりも坊っちゃんは女性耐性がありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どんなに硬い意思でもおっぱいの前では無意味です」"
+                                ""
                             ]
                         },
                         {
@@ -7980,14 +7980,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Oh my, you're quite unique, aren't you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あらあら、意外とユニークな方なのですね」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mansion Butler: It's natural to wear swimsuits at the\nbeach, so please change into one and make contact with the\nyoung master."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8018,21 +8056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋敷の執事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ビーチでは水着が自然です"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　そちらに着替えて坊っちゃんに接触してください」"
+                                "Mansion Butler: I will investigate the location where the\ntransaction will take place."
                             ]
                         },
                         {
@@ -8040,30 +8064,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　屋敷の執事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私は取り引きが行われる場所を調査しておきます」"
                             ]
                         },
                         {
@@ -8101,6 +8101,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The markers are not displayed on the beach for the young\nmaster Metoki. Please find him based on the butler's hints\nand clothing."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -8108,14 +8115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ビーチにいる御曹司メトキにマーカーは表示されません"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　執事のヒントや服装から探し出してください"
+                                ""
                             ]
                         },
                         {
@@ -8335,21 +8335,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋敷の執事"
+                                "Mansion Butler: As for the young master's\ncharacteristics... he has hair that is tinged with a bluish\ncolor, just like our master."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「坊っちゃんの特徴ですが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　我が主と同じく青みがかった髪をしております」"
+                                ""
                             ]
                         },
                         {

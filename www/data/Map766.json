@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "沈んだ街 猟書家の研究室",
+    "displayName": "Sunken City - Hunter's Library",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6091,14 +6091,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is it inside that building?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの建物の中でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6357,21 +6357,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: P-Please look at this instead! An enormous\nnumber of books! Can I take them home!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、そんなことより見てください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　おびただしい数の本を！　持って帰ってもいいですかね！？」"
+                                ""
                             ]
                         },
                         {
@@ -6472,14 +6472,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　？？？"
+                                "Hmm... That would be troublesome... It's a valuable\ncollection."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは困るなぁ……大事なコレクションだ」"
+                                ""
                             ]
                         },
                         {
@@ -6677,14 +6677,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Who are you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……何者ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -6715,21 +6715,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　猟書家の男"
+                                "Male Bibliophile: It's a lamentable era when a delicate\nyoung girl like you is treated with hostility when she\nreturns home, being mistaken for a robber..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「我が家に帰ったら剣を向けられるとは"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　嘆かわしい時代だよ、可憐な少女が強盗なんて……」"
+                                ""
                             ]
                         },
                         {
@@ -6760,14 +6760,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I-It's not robbery, it's thievery!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご、強盗じゃなくて、盗賊です！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Male Bibliophile: Isn't it even worse... Did you steal the\ncrystal from the bar owner?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6798,21 +6836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　猟書家の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「余計にひどいじゃないか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　クリスタルは酒場の親父から盗み出したのかな？」"
+                                "Male Bibliophile: Is it alright... to bring it to my\nhouse?"
                             ]
                         },
                         {
@@ -6820,30 +6844,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　猟書家の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それはいいか……我が家に何のようかな？」"
                             ]
                         },
                         {
@@ -6881,14 +6881,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Actually, I've been following in the\nfootsteps of the hero-sama--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「実は勇者様の足跡を追っていまして――」"
+                                ""
                             ]
                         },
                         {
@@ -6935,21 +6935,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　猟書家の男"
+                                "Male Bibliophile: What is it, what is it, what is it! Are\nyou also here? Hurry up and tell me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだ、なんだ、なんだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちもなのか、はやく言ってくれよ！」"
+                                ""
                             ]
                         },
                         {
@@ -7089,14 +7089,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　猟書家の男"
+                                "Male Bibliophile: The mages of Kanonas may have knowledge,\nbut they lack romance!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カノナスの魔法使いたちは知識はあってもロマンがない！」"
+                                ""
                             ]
                         },
                         {
@@ -7127,14 +7127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　猟書家の男"
+                                "Male Bibliophile: I have been chasing after the hero as a\nhuman for many years!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私は長年の間、人間としての勇者を追いかけてきたんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -7296,21 +7296,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　猟書家の男"
+                                "Male Bibliophile: This is a painting called 'The\nBeginning'. In the center, there is an abstract depiction of\na hero, with sisters painted on the left and right."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは【始まり】と名付けられた絵画だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　中央に抽象化された勇者、左右に姉妹が描かれている」"
+                                ""
                             ]
                         },
                         {
@@ -7341,21 +7341,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: The legend of the sisters... the people\nwho became the motif for the sisters' statue at the Kasaro\nbathhouse."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「姉妹の伝説……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　カサロ浴場の姉妹像のモチーフとなった人たち」"
+                                ""
                             ]
                         },
                         {
@@ -7379,21 +7379,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　猟書家の男"
+                                "Male Bibliophile: I considered this legend to be an actual\nevent, compared to other hero legends that were more\nflashy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この伝説は実際に行った出来事だと考えていた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　他の勇者伝説と比較してあまりにも地味だったからだ」"
+                                ""
                             ]
                         },
                         {
@@ -7417,21 +7417,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　猟書家の男"
+                                "Male Bibliophile: I found it there! The name of the young\nman who was called a hero... I, me, myself..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そこで見つけたんだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　勇者と呼ばれた青年の名前……私は俺は僕は……」"
+                                ""
                             ]
                         },
                         {
@@ -7809,21 +7809,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　猟書家の男"
+                                "Male Bibliophile: I'll prepare dinner. Tomorrow we'll go to\nwar, it's the master's fault. Let's take the dog for a walk.\nI spilled wine, I killed someone."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「夕飯の支度を、明日は出兵だ、旦那が悪いよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　犬の散歩をしよう、ワインをこぼした、人を殺したんだ」"
+                                ""
                             ]
                         },
                         {
@@ -7854,14 +7854,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: W-What is this...!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、なんですか……これっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -7892,21 +7892,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　記憶の群像"
+                                "Tableau of Memories: Fig Tart, Sunlight Filtering Through\nTrees, Children Holding Hands with a Wounded Kitten, White\nLight, Sun on Earth, Hero"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「イチジクのタルト、木漏れ日、傷ついた子猫"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　手をつないだ子ども、白い光、地上の太陽、勇者」"
+                                ""
                             ]
                         },
                         {
@@ -7937,21 +7937,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Memories are gathering... I-I don't know, but\nit's definitely going to be troublesome!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「記憶が集まって……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わ、わかりませんけど、絶対に面倒なことになります！」"
+                                ""
                             ]
                         },
                         {
@@ -7982,14 +7982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Everyone, prepare for battle."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「皆さん、戦闘準備を」"
+                                ""
                             ]
                         },
                         {
@@ -8027,21 +8027,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: If something is gathering, let's defeat it before we\ncan shake it off."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何かが集まっているなら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　振り払えるうちに倒してしまいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -8142,14 +8142,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...It seems like it finally disappeared."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……何とか消えてくれましたね」"
+                                ""
                             ]
                         },
                         {
@@ -8187,21 +8187,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I'm reading the diary that was dropped... but\nsome of the characters and words are no longer used in\nmodern times, it seems."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「落とした日記を読んでいますが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　一部の文字や単語は現代では使われていないものですね」"
+                                ""
                             ]
                         },
                         {
@@ -8232,14 +8232,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Please give me a little time."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「少し時間をください」"
+                                ""
                             ]
                         },
                         {
@@ -8348,14 +8348,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: What is this 'Legend of the Sisters' all about?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「姉妹伝説というのはどういうものなんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -8393,21 +8393,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I'm curious too! It's about the statue of the\nsisters that was at the Kasaro Bathhouse, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あたしも気になります！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　カサロ浴場にあった姉妹像のことなんですよね！」"
+                                ""
                             ]
                         },
                         {
@@ -8438,14 +8438,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Well, it's a very simple story, but--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、すごく単純なお話なのですけど――」"
+                                ""
                             ]
                         },
                         {
@@ -8514,21 +8514,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I understand, I understand! I was able to\ndecipher the diary and discover the name of the hero!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、わかりましたよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　日記を解読して勇者の名前を発見できました！」"
+                                ""
                             ]
                         },
                         {
@@ -8586,21 +8586,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It seems like I found it from the stone tablet\nthat is believed to be the birthplace of the sisters. Now,\nlet's surprise everyone with this significant achievement!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「姉妹の出身地と思われる石版から見つけたそうです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁ、この大きな成果でびっくりさせてやりましょう！」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "貴族スキロスの屋敷A",
+    "displayName": "Noble Skiros Mansion A",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -7635,14 +7635,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -7773,14 +7773,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL Do you want to skip the mini-game?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLミニゲームをスキップしますか？"
+                                ""
                             ]
                         },
                         {
@@ -7849,14 +7849,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　やり直しますか？"
+                                "Do you want to start over? If you choose 'No', you will\nexit the dungeon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　※「いいえ」を選ぶとダンジョンの外に出ます"
+                                ""
                             ]
                         },
                         {

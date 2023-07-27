@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "草原の都市カンプス 酒場・宿屋1F",
+    "displayName": "City of the Grasslands, Campus - Tavern/Inn 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6820,14 +6820,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: So, do you have any business with me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでわたくしに御用でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6851,14 +6851,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Um, actually, I have a request--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、実は依頼が――」"
+                                ""
                             ]
                         },
                         {
@@ -7361,14 +7361,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Wow, you're fast!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うわぁ、はやいですっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7392,14 +7392,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Bar Owner: Hey, the payment... you're leaving it behind."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おい、お代……って置いてるな」"
+                                ""
                             ]
                         },
                         {
@@ -7572,14 +7572,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Let's chase after them quickly!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はやく追いかけましょうっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7695,21 +7695,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Who are you? We're in a hurry, you know!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんですか、あなたは？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクたちは急いでいるんですけど！」"
+                                ""
                             ]
                         },
                         {
@@ -7749,14 +7749,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Well... I guess it's fine for now."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君は……まぁ、いまは別にいいか」"
+                                ""
                             ]
                         },
                         {
@@ -7773,21 +7773,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: You all seem like adventurers. I would like to\nconsult with you when you have some free time."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たちは冒険者みたいだね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　時間がある時に相談にのって欲しいんだ」"
+                                ""
                             ]
                         },
                         {
@@ -7811,14 +7811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, I will call out to her."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、お声がけします」"
+                                ""
                             ]
                         },
                         {
@@ -7849,14 +7849,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: First, let's chase after Sophia-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まずはソフィアさんを追いかけましょう」"
+                                ""
                             ]
                         },
                         {
@@ -8301,14 +8301,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Now, I wonder what kind of story they will tell us?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、彼女たちはどんな話を聞かせてくれるのかな？」"
+                                ""
                             ]
                         },
                         {
@@ -8339,38 +8339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魅力的な物語の予感がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それがクレアたちを見た最初の勇者の感想だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "It was the first impression of the brave ones who saw Clea\nand the others. They had a premonition of an enchanting\nstory."
                             ]
                         },
                         {
@@ -8384,121 +8353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リルムに対しては世界の脅威になりうるものと確信していたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　現時点ですぐに何かをする必要がなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのため、もっぱら興味は彼女たちの物語にあった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人を一冊の本に例えるならば、本の途中を読んだようなもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それだけで、前後には素晴らしい物語があると想像ができる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　かつて帝国の王になった男と出会った時、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　かつて冒険者ギルド初代ギルド長だった男と出会った時、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　かつてアークメイジになった男と出会った時のように。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すべてが静止してしまった砂漠のような心に吹く一陣の風。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勇者にとって物語を持つ者との出会いとはそういうものだった。"
                             ]
                         },
                         {
@@ -8522,38 +8377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それが一気に４人だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か大きなことが起こるかもしれないと期待をしてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　必ず自分自身の心に刻み込みたいと願ってしまう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "I was convinced that Relm could become a threat to the\nworld, but at the moment there was no immediate need to do\nsomething. Therefore, my main interest was in their story."
                             ]
                         },
                         {
@@ -8567,14 +8391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おそらく勇者は自分が思うほど【失って】いないのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なにかのきっかけがあれが少しだけ思い出すことができる。"
+                                ""
                             ]
                         },
                         {
@@ -8598,21 +8415,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "If you were to compare a person to a book, it would be like\nreading a partway through the book. Just from that, you can\nimagine that there is a wonderful story before and after."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それが吟遊詩人でいる理由なのかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして少女たちとの闘いは、音痴な吟遊詩人の心に刻まれた。"
                             ]
                         },
                         {
@@ -8636,6 +8446,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Like when I met the man who once became the king of the\nempire, like when I met the man who was once the first guild\nmaster of the adventurer's guild, like when I met the man\nwho once became an archmage."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -8643,14 +8460,197 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　それはいつか詩になり、子供たちの心に刻まれるだろう。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　それが勇者にとっては細やかではあるが楽しみだった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "A gust of wind blew through the hearts that were like a\ndesert, where everything had come to a standstill. For the\nbrave ones, meeting those who hold stories was exactly like\nthis."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And just like that, there were four of them. I can't help\nbut expect that something big might happen. I find myself\nwishing to etch it into my own heart without fail."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Perhaps the heroes haven't lost as much as they think. There\nmay be some trigger that allows them to remember a little\nbit."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "That might be the reason why I became a bard. And the\nbattles with the girls are etched into the heart of this\ntone-deaf bard."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "That will someday become a poem and be engraved in the\nhearts of children. It may be subtle for the heroes, but it\nwas enjoyable."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8996,14 +8996,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: That woman is quite troublesome."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの女には困ったものだ」"
+                                ""
                             ]
                         },
                         {
@@ -9084,21 +9084,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　調理人ピート"
+                                "Chef Pete: Are you here for a meal? Beautiful customers are\nalways welcome!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「食事に来たのかい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　美人のお客さんは大歓迎だ！」"
+                                ""
                             ]
                         },
                         {
@@ -9317,21 +9317,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　調理人ピート"
+                                "Chef Pete: Are you here for a meal? Beautiful customers are\nalways welcome!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「食事に来たのかい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　美人のお客さんは大歓迎だ！」"
+                                ""
                             ]
                         },
                         {
@@ -9463,21 +9463,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　料理人メリ"
+                                "Chef Meri: I'm not the cook here, sorry. Please ask someone\nelse for your meal."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺はここの料理人じゃないだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪いが別のやつに食事は頼んでくれ」"
+                                ""
                             ]
                         },
                         {
@@ -10274,21 +10274,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　手練れのギャンブラー"
+                                "Skilled gambler: 'Don't raise your voice too much, okay?\nThe nobleman of Camps seems to dislike vulgar things.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あまり大きな声を出すなよ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　カンプスの貴族様は低俗なことが嫌いみたいだからな」"
+                                ""
                             ]
                         },
                         {
@@ -10372,21 +10372,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　手練れのギャンブラー"
+                                "A skilled gambler: 'How about a game of high and low with\nthis drunken lady?'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「飲んだくれのお嬢さん……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺とハイアンドローで勝負しないかい？」"
+                                ""
                             ]
                         },
                         {
@@ -10403,7 +10403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　1250Gを払ってハイアンドローを行いますか？"
+                                "Would you like to play a game of High and Low for 1250G?"
                             ]
                         },
                         {
@@ -10442,14 +10442,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　手練れのギャンブラー"
+                                "Skilled gambler: You prefer wine over a game, huh..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あんたは勝負よりワインか……」"
+                                ""
                             ]
                         },
                         {
@@ -10503,14 +10503,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　手練れのギャンブラー"
+                                "Skilled gambler: Let's make it a more exciting game than\nwine."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「ワインよりも楽しい勝負としよう」"
+                                ""
                             ]
                         },
                         {
@@ -10593,14 +10593,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　手練れのギャンブラー"
+                                "Skilled gambler: To lose to a drunken lady... hand it\nover."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「飲んだくれに負けちまうとは……持っていきな」"
+                                ""
                             ]
                         },
                         {
@@ -10636,14 +10636,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　手練れのギャンブラー"
+                                "Skilled gambler: I'll take all the bets. How about treating\nme to a drink?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「賭金は俺の総取りだな。一杯おごるか？」"
+                                ""
                             ]
                         },
                         {
@@ -10680,14 +10680,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　手練れのギャンブラー"
+                                "Skilled gambler: I'm sorry, but I don't play games without\nmoney involved."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「金を賭けないゲームはごめんだぜ」"
+                                ""
                             ]
                         },
                         {
@@ -10825,21 +10825,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店員"
+                                "Innkeeper: Welcome! Please feel free to use any available\nseat!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いらっしゃいませ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　空いているお席をご利用ください！」"
+                                ""
                             ]
                         },
                         {
@@ -10917,21 +10917,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酔っぱらい"
+                                "Drunkard: After work, this is definitely the way to go!\nAlthough I do drink before work too, hahaha!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「仕事の後はやっぱりこれだな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もっとも仕事の前も飲んでいるけどな、がははっ！」"
+                                ""
                             ]
                         },
                         {
@@ -11008,14 +11008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　手練れの戦士"
+                                "Skilled warrior: My skills will dull if I only face\nthieves."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「盗賊相手ばっかりだと腕が鈍るぜ」"
+                                ""
                             ]
                         },
                         {
@@ -11099,21 +11099,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　手練れの戦士"
+                                "Skilled Warrior: You're strong, aren't you? How about we\nhave a little arm wrestling match to pass the time?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あんた強いだろ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お互い暇つぶしに腕くらべでもしないか？」"
+                                ""
                             ]
                         },
                         {
@@ -11130,7 +11130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　決闘を行いますか？"
+                                "Shall we have a duel?"
                             ]
                         },
                         {
@@ -11169,14 +11169,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　手練れの戦士"
+                                "Skilled Warrior: You rejected me. Come see me when you feel\nlike it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「振られちまった、気が向いたらきてくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -11206,21 +11206,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　手練れの戦士"
+                                "Skilled Warrior: Haha, that's great! Show me more spirit\nthan those thieves around here!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「はは、いいねぇ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　そこらの盗賊よりは気張ってくれよな！」"
+                                ""
                             ]
                         },
                         {
@@ -11297,14 +11297,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　手練れの戦士"
+                                "Skilled Warrior: I admit defeat. You're a great warrior!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「負けを認めるよ。あんたいい戦士だな！」"
+                                ""
                             ]
                         },
                         {
@@ -11350,14 +11350,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　手練れの戦士"
+                                "Skilled Warrior: Sorry, I should have held back a little\nmore."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「悪いな、もう少し手加減すればよかったよ」"
+                                ""
                             ]
                         },
                         {

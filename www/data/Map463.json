@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "骸骨の船最奥",
+    "displayName": "Innermost of the Skeleton Ship",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5742,7 +5742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屍の王冠を宝箱に戻しますか？"
+                                "Do you want to put the Crown of the Dead back into the\ntreasure chest?"
                             ]
                         },
                         {
@@ -5788,14 +5788,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's do it after we prepare)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6944,14 +6944,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: With this... the request is complete, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これで……依頼終了ですね」"
+                                ""
                             ]
                         },
                         {
@@ -6975,21 +6975,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　仕立屋ネウロ"
+                                "Tailor Nora: I've seen something amazing! Seeing skeletons\nmoving around was the best experience!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すごいものを見せてもらったよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　骸骨が動き回っているなんて最高の経験だ！」"
+                                ""
                             ]
                         },
                         {
@@ -7071,21 +7071,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Moving with telekinesis...? No way, no way, I\nhave no idea about the principles at all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「念動で動いている……？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いやいや、そんなわけは……原理がまったくわからない」"
+                                ""
                             ]
                         },
                         {
@@ -7140,14 +7140,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, I knew it was an evil spirit,\nright?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、やっぱり悪霊じゃないかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -7202,21 +7202,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Only religious people believe in things like\nthat! Mages value understanding... What are you doing!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんなのを信じるのは宗教人だけですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法使いは理解を重んじていて……何をしているんですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -7349,21 +7349,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　仕立屋ネウロ"
+                                "Tailor Nora: I wanted to write down my inspiration! I found\nsome really good charcoal, so with this--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「インスピレーションをメモに書きたくてな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　なかなかいい木炭が落ちていたからこれで――」"
+                                ""
                             ]
                         },
                         {
@@ -7624,14 +7624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Nora-san, please move away from there!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ネウロさん、そこから離れてください！」"
+                                ""
                             ]
                         },
                         {
@@ -7655,14 +7655,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Something is coming!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……何かが来ます！」"
+                                ""
                             ]
                         },
                         {
@@ -7925,21 +7925,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Oh, I hear a sound! The bones are gathering\nagain and starting to regenerate!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「お、音がしますよぉ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　また骨が集まって、再生しはじめています！」"
+                                ""
                             ]
                         },
                         {
@@ -7963,14 +7963,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わかりました……」"
+                                ""
                             ]
                         },
                         {
@@ -8001,14 +8001,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's run away in times like this!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「こういう時は逃げましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -8135,14 +8135,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Please behave yourself!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「大人しくしていてくださいね！」"
+                                ""
                             ]
                         },
                         {
@@ -8166,21 +8166,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　仕立屋ネウロ"
+                                "Tailor Nora: I-I understand! Come on, let's escape from\nhere quickly!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わ、わかっているさ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　さぁ、はやくここを脱出しよう！」"
+                                ""
                             ]
                         },
                         {

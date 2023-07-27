@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ住宅街",
+    "displayName": "Fotizona Residential District",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6667,21 +6667,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Ah, that... if I remember correctly, it's\nopened like this... ah, the captain would be able to open it\nright away... ugh."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、あれ……確かこうやって……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あぅ、団長ならすぐに開けちゃうのに……うぅ」"
+                                ""
                             ]
                         },
                         {
@@ -6832,21 +6832,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: But there's nothing to eat... If we're in\ntrouble, is it okay to solve it with this?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「でも食べるものもないし……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　困ったらこれで解決でいいですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -6994,14 +6994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: What are you doing?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何をしているんですか」"
+                                ""
                             ]
                         },
                         {
@@ -7072,14 +7072,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　女盗賊"
+                                "Female Thief: Um... well, you see..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えーと……あのですねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -7103,21 +7103,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: You seem suspicious. I'm sorry, but I have something\nto attend to, so please move aside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「不審者ですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　すいませんが用事があるのでどいてもらいます」"
+                                ""
                             ]
                         },
                         {
@@ -7267,14 +7267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Did you faint...? Are those dog ears?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「気絶しましたか……これは犬耳？」"
+                                ""
                             ]
                         },
                         {
@@ -7314,21 +7314,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: If you came to hunt mice, let's just carry the big\ndog to the room for now."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ネズミ狩りに来たら大型犬"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　とりあえず部屋まで運びましょう」"
+                                ""
                             ]
                         },
                         {
@@ -7386,38 +7386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もし運命の出会いがあるとすれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ノラにとって１回目はエマ盗賊団の団長クレヴォであり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　２回目は冒険者ギルドの仮会員だったクレアだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "If there were a fateful encounter for Nora, the first would\nbe Clevo, the captain of the Emma Thief Brigade, and the\nsecond would be Claire, who was a temporary member of the\nAdventurer's Guild."
                             ]
                         },
                         {
@@ -7431,52 +7400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　この二人の共通点は大きくふたつあった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　共にノラを大切に扱い、仲間として見てくれたこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして【パン】をわけてくれた恩人であること。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは些細なことだったのかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、ノラにとっては命をかけるに値することだった。"
                             ]
                         },
                         {
@@ -7500,6 +7424,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "These two had two major things in common. They both treated\nNora with care and saw her as a comrade. And they were both\nbenefactors who shared their bread with her."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7507,21 +7438,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　そして、エマ盗賊団を破門されたからこそ強く感じるのだった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　自分を思って団長が行動し、盗賊団の仲間たちが同意したことに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからこそ自分が助けなければならない。"
+                                ""
                             ]
                         },
                         {
@@ -7538,6 +7462,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "It may have been a trivial matter. However, for Nora, it was\nsomething worth risking her life for."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7545,21 +7476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ノラはもう草原を駆けていた野獣ではない。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　強い意思を持ち、断固たる決意を持ち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何よりも、共にドラゴンを討伐した頼れる仲間がいるのだ。"
+                                ""
                             ]
                         },
                         {
@@ -7576,6 +7500,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "And it was because she had been expelled from the Emma Thief\nBrigade that she felt so strongly. The captain acted with\nher in mind, and the members of the thief brigade agreed.\nThat's why she had to help."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7583,14 +7514,83 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　すべて上手く行くに違いない。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ノラにとってこれは予感ではなく確信と言えるものだった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Nora is no longer a wild beast running through the\ngrasslands. She has a strong will, unwavering determination,\nand above all, reliable comrades who fought together to\nsubdue the dragon."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Everything will surely go well. For Nora, this was not just\na premonition, but a conviction."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8116,14 +8116,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (If you don't complete the request)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（依頼を遂行しないと）"
+                                ""
                             ]
                         },
                         {
@@ -8444,14 +8444,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (If you don't complete the request)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（依頼を遂行しないと）"
+                                ""
                             ]
                         },
                         {
@@ -8809,14 +8809,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (If you don't complete the request)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（依頼を遂行しないと）"
+                                ""
                             ]
                         },
                         {
@@ -9202,14 +9202,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (If you don't complete the request)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（依頼を遂行しないと）"
+                                ""
                             ]
                         },
                         {

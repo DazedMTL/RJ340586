@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ大通り 道具屋",
+    "displayName": "Fotizona Avenue Item Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -4120,21 +4120,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Excuse me, I'm from the Adventurer's Guild. This is a\nbento from the cafeteria."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すいません、冒険者ギルドの者です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こちらは食堂の方からのお弁当になります」"
+                                ""
                             ]
                         },
                         {
@@ -4225,14 +4225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋の主人"
+                                "Shopkeeper: I'm sorry for the trouble, but I appreciate\nyour help."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わざわざすまんなぁ、助かったよ」"
+                                ""
                             ]
                         },
                         {
@@ -4249,21 +4249,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋の主人"
+                                "Shopkeeper: After Celis-chan, another female member? I\nwonder if Agonia-san has something in mind."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「セリスちゃんに続きまた女性会員か"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アゴニアさんになにか考えがあるのかもなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -4287,14 +4287,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is that so?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうなんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -4318,21 +4318,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋の主人"
+                                "Shopkeeper: If you're a member of the guild, you should\nremember this. The former guild master of the Adventurer's\nGuild was a woman."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ギルドに所属しているなら覚えておくことだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　かつて冒険者ギルドのギルド長は女性だったんだ」"
+                                ""
                             ]
                         },
                         {
@@ -4349,21 +4349,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋の主人"
+                                "Shopkeeper: Even the great widow Agonia-san, Storge, and\nShimos couldn't match her."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「偉大なる未亡人"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アゴニアさんもストルゲもシモスも頭が上がらなかった」"
+                                ""
                             ]
                         },
                         {
@@ -4403,14 +4403,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Was there someone named Shimos-san?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「シモスさんっていましたっけ？」"
+                                ""
                             ]
                         },
                         {
@@ -4434,21 +4434,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋の主人"
+                                "Shopkeeper: That one is quite different from the others...\nSpeaking of Shimos, would you mind delivering this to the\narmor shop?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アレは毛色がだいぶ違うからな……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　シモスで思い出したがこれを防具屋に届けてくれないか」"
+                                ""
                             ]
                         },
                         {
@@ -4515,14 +4515,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, I will deliver it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、お届けします」"
+                                ""
                             ]
                         },
                         {
@@ -4753,14 +4753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋の主人"
+                                "Shopkeeper: Welcome."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いらっしゃい」"
+                                ""
                             ]
                         },
                         {
@@ -4897,14 +4897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋の主人"
+                                "Shopkeeper: Thanks for the bento."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「弁当ありがとうな」"
+                                ""
                             ]
                         },
                         {
@@ -4972,21 +4972,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　道具屋の主人"
+                                "Shopkeeper: Aren't you the Dragon Slayers! Keep up the good\nwork for the Adventurer's Guild from now on!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンスレイヤーたちじゃないか！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これからも冒険者ギルドのためにがんばってくれよ」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ポース鉱山 民家",
+    "displayName": "Porse Mine Residential House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3770,14 +3770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫の男"
+                                "Male Miner: This is a restricted area! Get out!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここは進入禁止だ！　出ていきなっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4153,21 +4153,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人の男"
+                                "Male Merchant: The fun is just beginning, but hey, keep\nthis place a secret, okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お楽しみはこれから"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　おっと、この場所のことは秘密にしてくれよ？」"
+                                ""
                             ]
                         },
                         {
@@ -4713,21 +4713,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫の男"
+                                "Miner Man: W-Who the hell are you guys?! If you don't want\nto be violated, get the hell out of here!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、なんだテメーらは！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　犯されたくなかったら出ていきやがれっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4844,21 +4844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「威勢のいい挨拶だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　それならうちの組織に挨拶をいただきたかったですよ」"
+                                "Fuego the Hawk's Eye: That's quite a spirited greeting. If\nthat's the case, I would have liked to receive a greeting\nfrom our organization."
                             ]
                         },
                         {
@@ -4866,30 +4852,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　鷹の目のフエゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ここで賭博をしてるってね」"
                             ]
                         },
                         {
@@ -4920,21 +4882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「そ、それは……へへっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ここにはあんたと女が４人だけだ」"
+                                "Fuego the Hawk's Eye: So you're saying there's gambling\ngoing on here?"
                             ]
                         },
                         {
@@ -4942,30 +4890,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　鉱山夫の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「人数が多くても分があるのは――」"
                             ]
                         },
                         {
@@ -4996,21 +4920,97 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Miner Man: W-Well...heheh! There are only four women here,\nincluding you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「絶対王者である鉄仮面の敗北"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　麗しき４人の女神たちによる奇跡の勝利、知ってますよね？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Miner Man: Even if there are many people, the advantage is\nstill on our side--"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Fuego the Hawk's Eye: You know about the miraculous victory\nachieved by the four beautiful goddesses who defeated the\nundefeated Iron Mask, right?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5079,21 +5079,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Fuego the Hawk's Eye: If we're going to fight, I'll step\naside. I don't want to stain my clothes with your blood, you\nsee."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「戦うなら私は出ていきますよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　返り血で一丁羅を汚したくないのでね」"
+                                ""
                             ]
                         },
                         {
@@ -5133,21 +5133,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫の男"
+                                "Miner Man: W-Wait! We'll pay the tribute from now on, so\nplease spare us!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ま、待ってくれ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これからは上納金を差し出すから勘弁してくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -5171,21 +5171,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Fuego the Hawk's Eye: From now on...? I will be satisfied\nwith the past and the future."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これから……？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私は【いままで】と【これから】で納得しますよ」"
+                                ""
                             ]
                         },
                         {
@@ -5218,14 +5218,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫の男"
+                                "Miner Man: Alright... I'll prepare the money right away."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかった……すぐに金を用意するよ」"
+                                ""
                             ]
                         },
                         {

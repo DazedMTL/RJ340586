@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ住宅街 冒険者ギルド・フテラ寮 クレアの部屋",
+    "displayName": "Fotizona Residential District Adventurer's Guild - Ftera Dormitory Clea's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4011,14 +4011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偉大なる未亡人"
+                                "Great Widow: Oh my, you're such a tomboy... I'm glad you\ncame."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あらあら、今日もお転婆ね……来てくれて嬉しいわ」"
+                                ""
                             ]
                         },
                         {
@@ -4056,14 +4056,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者エモニ"
+                                "Adventurer Emoni: Please stop with those jokes...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんな冗談はやめてください……！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Great Widow: Starting today, Agonia has officially become\nthe new Guild Master of the Adventurer's Guild. Please take\ncare of the new guild, Ftera."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4094,21 +4132,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偉大なる未亡人"
+                                "Great Widow: Emoni... You should also fight for the weak.\nThis is something that should never change, no matter who\nbecomes the guild master."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今日から正式にアゴニアがギルド長になりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　新しい冒険者ギルド・フテラをどうかよろしく頼むわね」"
+                                ""
                             ]
                         },
                         {
@@ -4132,21 +4170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偉大なる未亡人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「エモニ……あなたも弱き者のために戦いなさい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　これは誰がギルド長になっても絶対に変えてはいけないこと」"
+                                "Great Widow: For that reason, use the strength that I have\ntrained you with until today not for yourself, but for the\nsake of others."
                             ]
                         },
                         {
@@ -4157,34 +4181,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偉大なる未亡人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「そのために、今日まであなたを鍛えてきた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　そのちからを自分のためではなく他者のために使いなさい」"
+                                ""
                             ]
                         },
                         {
@@ -4217,21 +4217,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者エモニ"
+                                "Adventurer Emoni: I promise... so please take some time to\nrest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お約束します……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ですから、少しでもゆっくりとお休みください」"
+                                ""
                             ]
                         },
                         {
@@ -4255,21 +4255,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者エモニ"
+                                "Adventurer Emoni: I still haven't been able to repay the\nfavor of saving me... yet..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたに救っていただいた恩は……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まだまだお返しをできていませんから……」"
+                                ""
                             ]
                         },
                         {
@@ -4293,21 +4293,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偉大なる未亡人"
+                                "Great Widow: The wings of the Adventurer's Guild, Ftera,\nare a symbol of freedom. Those wings exist on the backs of\neveryone..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルド・フテラの翼は自由の象徴"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　その翼は、すべての人の背中にあるものなのよ……」"
+                                ""
                             ]
                         },
                         {
@@ -4331,21 +4331,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偉大なる未亡人"
+                                "Great Widow: Of course, on Emoni's back as well... Soar\nfreely with your magnificent pure white wings."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もちろん、エモニの背中にも……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　自由に羽ばたきなさい、あなたの大きな純白の翼で」"
+                                ""
                             ]
                         },
                         {
@@ -4376,38 +4376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニにとって最大の幸運は偉大なる未亡人と出会えたこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　最大の不幸はすべて学ぶ前に未亡人が亡くなったことだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "The greatest fortune for Emoni was being able to meet the\nGreat Widow. The greatest misfortune was the Great Widow\npassing away before she could learn everything."
                             ]
                         },
                         {
@@ -4421,242 +4390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　新しくギルド長に就任したアゴニアも問題だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アゴニアは偉大なる未亡人との約束のため組織の改革をはじめた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのことは、エモニにとって恩人に対する冒涜と感じた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　実際にアゴニアの改革に不満を覚える者はギルドを抜けていった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　同時期にアゴニアが第二次タラサ戦争に積極的に介入し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　【命のやり取り】を本格化したことも脱会に拍車をかけた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ギルドが自由であるために本気で命をかける者は少なかったのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニもそうだった。チンピラや盗賊たちとの戦闘とはわけが違う、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　血みどろの戦場に立つ自分を想像することができなかった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニは後方支援として、貴族たちと接触を図るようになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この時にエモニに眠っていた軽率さが再び顔を出しはじめる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ギルドのためでなく、やがて自分のために行動するようになった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ただし、この行動を単純に責めることは難しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自身にとっての羅針盤であった偉大なる未亡人を失い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　劇的に変化していく組織の中でエモニは迷走していたからだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニはギルド内での評価を上げるために貴族と接触を図り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戦場に傭兵団を派遣してもらうことの確約を取り付ける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、それはギルドを排除したい貴族側の罠であった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　事前に調査をしていたストルゲによって回避されたものの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニの軽率な行動はギルド全体に危険をもたらした。"
                             ]
                         },
                         {
@@ -4680,6 +4414,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Agonia, who newly assumed the position of guild master, was\nalso a problem. Agonia began to reform the organization for\nthe sake of her promise with the Great Widow. This was\nperceived by Emoni as a disrespect towards her benefactor."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4687,21 +4428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　第二次タラサ戦争の終戦直後にエモニは脱会を命じられる。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニはアゴニアに脱会命令の理由と撤回を求めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アゴニアは「ただただ軽率」と言い、それを認めなかった。"
+                                ""
                             ]
                         },
                         {
@@ -4718,6 +4452,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "In fact, those who were dissatisfied with Agonia's reforms\nleft the guild. At the same time, Agonia's active\ninvolvement in the Second Tarasa War and the intensification\nof the Exchange of Lives also accelerated the rate of\nresignations."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4725,7 +4466,266 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニは再び、自分の居場所を失った。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "There were few who were willing to risk their lives for the\nsake of the guild's freedom. Emoni was one of them. She\ncouldn't imagine herself standing on a bloody battlefield,\nfighting against thugs and thieves, which was different from\nthe battles she had experienced before."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Emoni, as a rear support, began to make contact with the\nnobles. At this time, her recklessness that had been dormant\nin her started to show again. She began to act not for the\nsake of the guild, but eventually for her own sake."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "However, it is difficult to simply blame her for this\nbehavior. Emoni had lost the great widow, who had been her\ncompass, and she was lost within the organization that was\nundergoing dramatic changes."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Emoni tried to establish contact with the nobles in order to\nraise her reputation within the guild and secure a\ncommitment to send a mercenary group to the battlefield.\nHowever, it turned out to be a trap set by the nobles who\nwanted to eliminate the guild."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Emoni's reckless actions, although avoided by Storge who had\nconducted prior investigation, brought danger to the entire\nguild."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "After the end of the Second Tarasa War, Emoni was ordered to\nresign from the guild. Emoni asked Agonia for the reason\nbehind the order and requested its withdrawal. Agonia simply\ncalled it reckless and refused to acknowledge it."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Emoni once again lost her place."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

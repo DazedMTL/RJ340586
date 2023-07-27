@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "古の墳墓",
+    "displayName": "Ancient Tomb",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6625,14 +6625,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Do you want to go to the deepest part of the ancient tomb?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　古えの墳墓の最奥にいきますか？"
+                                ""
                             ]
                         },
                         {
@@ -6678,14 +6678,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then go)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -7393,21 +7393,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'll go in first. Opro-san and Celis-san, please take\ncare of the rear."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私が先行して入ります"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オプロさんとセリスさんは後方をよろしくお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -7431,14 +7431,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Also, please take care of this child's protection."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あと、この子の護衛ですね」"
+                                ""
                             ]
                         },
                         {
@@ -7476,14 +7476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　謎の生物"
+                                "Mysterious creature: Poo-su, poo-su!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ぷーす、ぷーす！」"
+                                ""
                             ]
                         },
                         {
@@ -7521,21 +7521,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: This time, the one who received the request\nis Clea. I intend to follow Clea's judgment."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今回依頼を受けたのはクレア"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私はクレアの判断に従おうと思う」"
+                                ""
                             ]
                         },
                         {
@@ -7566,21 +7566,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: As someone in the position of the client, I\nbelieve Clea's judgment is the best."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わしも依頼人という立場じゃ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クレアの判断が最善だと考えるよ」"
+                                ""
                             ]
                         },
                         {
@@ -7611,14 +7611,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much, I'll be going now."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます、行ってきます」"
+                                ""
                             ]
                         },
                         {
@@ -7740,21 +7740,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: She used to be a timid and scared little\ngirl... It's more than anything to see the growth of young\npeople at this age."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「臆病で怖がりの小娘だったのにな……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この歳になると若者の成長が何よりも嬉しいよ」"
+                                ""
                             ]
                         },
                         {
@@ -7785,21 +7785,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: I was thinking the same thing. It feels\nnostalgic when we first met... That child has come this\nfar."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私も同じことを考えていました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　出会った時が懐かしい……あの子はここまで来てくれた」"
+                                ""
                             ]
                         },
                         {
@@ -7830,21 +7830,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: You're too young to tell old stories.\nYou're a person in the position of creating stories."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「むかし話を語るには若すぎるぞ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君は物語を作り続ける立場にいる人間だ」"
+                                ""
                             ]
                         },
                         {
@@ -7875,21 +7875,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: Age doesn't matter when it comes to going on\nadventures, Opro-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オプロさんもです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　冒険をするのに年齢は関係ないですから」"
+                                ""
                             ]
                         },
                         {
@@ -7920,21 +7920,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: I lost an arm... Well, shall we go deeper\nas well?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「一本取られたな……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さて、わしらも奥まで行こうか」"
+                                ""
                             ]
                         },
                         {
@@ -8470,14 +8470,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Do you want to go to the deepest part of the ancient tomb?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　古えの墳墓の最奥にいきますか？"
+                                ""
                             ]
                         },
                         {
@@ -8523,14 +8523,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then go)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -8735,14 +8735,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Do you want to go to the deepest part of the ancient tomb?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　古えの墳墓の最奥にいきますか？"
+                                ""
                             ]
                         },
                         {
@@ -8788,14 +8788,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before we go)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {

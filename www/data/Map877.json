@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "冒険者ギルド・フテラ中庭",
+    "displayName": "Adventurer's Guild Ftera Courtyard",
     "encounterList": [],
     "encounterStep": 30,
     "height": 26,
@@ -4195,21 +4195,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鍛冶師エレロ"
+                                "Blacksmith Eleo: I'm in the middle of making a new piece!\nOnce it's finished, swing it around and give me your\nfeedback!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「新作を製作中なんだよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　完成したら振り回して感想をくれよな！」"
+                                ""
                             ]
                         },
                         {
@@ -4502,21 +4502,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I have returned. I have completed greeting all the\nallies who will help us reclaim the throne."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ただいま戻りました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王座奪還の協力者全員への挨拶が完了しました」"
+                                ""
                             ]
                         },
                         {
@@ -4547,21 +4547,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: Significant political movements create\nchaos, but they also undoubtedly increase the opportunities\nwhere our strength is needed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「政治の大きな動きは混沌を生みます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちのちからが必要とされる機会も確実に増えます」"
+                                ""
                             ]
                         },
                         {
@@ -4592,14 +4592,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: We continue to expect great things\nfrom Clea's efforts."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「引き続き、クレアの働きに期待をしていますよ」"
+                                ""
                             ]
                         },
                         {
@@ -4637,21 +4637,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【ギルド長アゴニアのその後】"
+                                "\\CL 【Guild Leader Agonia's Aftermath】Contributing to the\nresolution of the chaos caused by the birth of King Rex,\nClea succeeds in once again gaining the trust of King Rex."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レクス王誕生に伴う混乱の収束に貢献し、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "改めてレクス王の信頼を勝ち取ることに成功する。"
+                                ""
                             ]
                         },
                         {
@@ -4668,14 +4668,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL She continued to demonstrate the way of adventurers to\nher subordinates through her actions."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLその行動をもって冒険者のあり方を部下たちに示し続けた。"
+                                ""
                             ]
                         },
                         {
@@ -4692,6 +4692,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL Clea spent her life protecting the wings of freedom in\nthe Adventurer's Guild of Ftera. She remained loyal, never\nlied, and never ran away, up until her death."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4699,14 +4706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL冒険者ギルド・フテラの自由の翼を守り続ける生涯を送り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裏切らない、嘘をつかない、逃げ出さないを死ぬまで守り通した。"
+                                ""
                             ]
                         },
                         {
@@ -4751,21 +4751,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Compassion: I'm planning to hold a memorial\nservice for Shimos today, but let's make it a lively\ncelebration instead of a gloomy one!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今日あたりにシモスの追悼式をするつもりだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まぁ、湿っぽい感じじゃなくてバカ騒ぎといこう！」"
+                                ""
                             ]
                         },
                         {
@@ -4789,21 +4789,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Compassion: Even though he would refuse when\ninvited, once he started drinking, he was in a better mood\nthan anyone else."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつは誘うと嫌がる癖に"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　飲み始めると誰よりも上機嫌だったからさ」"
+                                ""
                             ]
                         },
                         {
@@ -4841,21 +4841,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【慈愛のストルゲのその後】"
+                                "\\CL 【Storge of Compassion's Aftermath】After Agonia's\nretirement, he assumed the position of Guild Leader of the\nAdventurer's Guild. Although he said, I'm just a bridge,\nhe fulfilled his duties for over 10 years."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アゴニア引退後に冒険者ギルドのギルド長に就任。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺はあくまで繋ぎ」と話したが10年以上に渡り職務をこなした。"
+                                ""
                             ]
                         },
                         {
@@ -4872,6 +4872,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL She protected the guild using her expertise in\nnegotiation, which involved thoroughly adhering to the\nprinciples of the Great Widow and Agonia, who advocated for\nthe weak and employing a skillful blend of firmness and\nflexibility."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4879,14 +4886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL偉大なる未亡人とアゴニアの理念である弱者の味方を徹底し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "硬軟織り交ぜる得意の交渉術を使いながらギルドを守った。"
+                                ""
                             ]
                         },
                         {
@@ -4903,14 +4903,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL His final words were, I'm going to have a wild party\nwith those who went before me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL最期の言葉は「先に逝った奴らとバカ騒ぎしてくるよ」だった。"
+                                ""
                             ]
                         },
                         {
@@ -4955,14 +4955,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女探検家イクト"
+                                "Young female adventurer Ect: Welcome back, Clea-san!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おかえりなさい、クレアさん！」"
+                                ""
                             ]
                         },
                         {
@@ -4986,21 +4986,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女探検家イクト"
+                                "Young female adventurer Ect: It's a selfish request, but...\ncan we talk together again in the dormitory courtyard?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あたしのわがままだけど……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　また、一緒に寮の中庭でお話できるかな？」"
+                                ""
                             ]
                         },
                         {
@@ -5038,21 +5038,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【少女探検家イクトのその後】"
+                                "\\CL 【Aftermath of Young Female Adventurer Ect】She is a rare\nresearcher within the Adventurer's Guild and plays an active\nrole as the legitimate successor of her father, the digging\nexpert Melos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冒険者ギルド内では珍しい研究職の人間であり、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "父である穴掘りメロスの正統な後継者として活躍する。"
+                                ""
                             ]
                         },
                         {
@@ -5069,6 +5069,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL It was quite difficult to sort out my feelings towards\nClea, but I struggled and hesitated many times, and\nsometimes even fought against her."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5076,14 +5083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLクレアに対する感情の整理はなかなかつかなかったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度も葛藤し、何度も迷い、時にはクレアと戦うこともあった。"
+                                ""
                             ]
                         },
                         {
@@ -5100,14 +5100,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL Nevertheless, I continued to maintain a close\nrelationship with Clea throughout my life."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLそれでも、生涯を通じてクレアと親交を持ち続けた。"
+                                ""
                             ]
                         },
                         {
@@ -5161,14 +5161,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鍛冶師エレロ"
+                                "Blacksmith Elero: How are your weapons holding up? I'll fix\nthem right away."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「武器の調子はどうだ、すぐに直してやるぜ」"
+                                ""
                             ]
                         },
                         {
@@ -5199,21 +5199,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【鍛冶師エレロのその後】"
+                                "\\CL 【Aftermath of Blacksmith Elero】Because Clea and the\nothers helped fulfill my dreams, I continued to maintain and\nrepair their weapons free of charge while I was still\nactive."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クレアたちに夢を叶えてもらったため、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現役の間は無償でクレアたちの武器の整備を行い続けた。"
+                                ""
                             ]
                         },
                         {
@@ -5230,6 +5230,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL Due to his personality, he had a hard time finding\ndisciples, but after being scolded by Clea and Piste, he\nstarted making efforts to train his successor."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5237,14 +5244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLその性格から弟子がなかなか出来なかったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クレアとピステに怒られてから後任の育成に努めるようになる。"
+                                ""
                             ]
                         },
                         {
@@ -5261,14 +5261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL He loved weapons, lived for weapons, and remained active\nuntil the end."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL武器を愛し、武器と生き、最期まで現役を貫いた。"
+                                ""
                             ]
                         },
                         {
@@ -5626,14 +5626,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: Oh? A visitor, I wonder?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あら？　来客かしら？」"
+                                ""
                             ]
                         },
                         {
@@ -5650,14 +5650,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: Yes, I'm coming right now~!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「は〜い、いま行きますよぉ〜！」"
+                                ""
                             ]
                         },
                         {
@@ -6037,14 +6037,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Guild Master, regarding the escort of King Rex--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ギルド長、レクス王の護衛についてですが――」"
+                                ""
                             ]
                         },
                         {
@@ -6089,14 +6089,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: E-Everyone! Something terrible has\nhappened!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「み、皆さん！　大変ですよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6134,14 +6134,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Master Agonia: Could it be that something has\nhappened to King Rex?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もしや、レクス王に何かありましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -6174,21 +6174,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: It's an invitation, an invitation! From\nCelis-chan to Clea-chan!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「招待状ですよ、招待状！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　セリスちゃんからクレアちゃんへ！」"
+                                ""
                             ]
                         },
                         {
@@ -6240,14 +6240,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クレア"
+                                "Clea: Let's fulfill the promise we made that day."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「\"あの日の約束を果たしましょう\"」"
+                                ""
                             ]
                         },
                         {
@@ -6264,14 +6264,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クレア"
+                                "Clea: I'll be waiting for you at the Adventurer's Cave."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「\"冒険者の洞窟であなたを待っています\"」"
+                                ""
                             ]
                         },
                         {
@@ -6311,14 +6311,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Master Agonia: Clea, go and fulfill your promise."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレア、行ってきなさい」"
+                                ""
                             ]
                         },
                         {
@@ -6351,21 +6351,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Master Agonia: Even if there is something that\ndoesn't sit right with you, there must be something to gain\nfrom meeting with Celis."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたの中で納得がいかないことがあったとしても"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　セリスと会うことで得られるものが必ずあるはずです」"
+                                ""
                             ]
                         },
                         {
@@ -6389,21 +6389,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Master Agonia: If you don't go, you will definitely\nregret it. This is not the advice of a guild master, but\nrather the meddling of an old man."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「行かなければ絶対に後悔するはず"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これはギルド長ではなく、お節介な老人からの助言です」"
+                                ""
                             ]
                         },
                         {
@@ -6427,14 +6427,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Thank you very much, Agonia-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……ありがとうございます、アゴニアさん」"
+                                ""
                             ]
                         },
                         {
@@ -6670,14 +6670,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Clea still doesn't know, does she?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアはまだ知らなかったよな」"
+                                ""
                             ]
                         },
                         {
@@ -6701,21 +6701,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Master Agonia: That's why I called them. Their\nrelationship was special even within the guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だからこそ、呼んだのでしょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　彼女たちの関係はギルドの中でも特別でしたから」"
+                                ""
                             ]
                         },
                         {
@@ -7062,14 +7062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: Do you remember the words from that\ntime?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いつぞやの言葉を覚えていますか？」"
+                                ""
                             ]
                         },
                         {
@@ -7107,21 +7107,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Who am I...? I have been living while constantly\npondering that question until today."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私は【何者】なのか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今日まで常にそれを考えながら生きてきました」"
+                                ""
                             ]
                         },
                         {
@@ -7152,21 +7152,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: However... I still don't have an answer. It feels\nlike there's something missing, something that I can truly\nbe satisfied with."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ただ……まだ答えは出ません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　自分自身が納得する何かが……足りない気がするのです」"
+                                ""
                             ]
                         },
                         {
@@ -7197,21 +7197,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: The strictness towards oneself, that\nis both Clea's virtue and flaw."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「自分自身に対する厳しさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それがクレアの美徳でもあり欠点でもあります」"
+                                ""
                             ]
                         },
                         {
@@ -7242,21 +7242,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: I may be able to give you an answer,\nbut I also understand that you will never be satisfied with\nit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私はあなたに答えを与えられるかもしれません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でも、それでは絶対に納得をしないこともわかっています」"
+                                ""
                             ]
                         },
                         {
@@ -7287,14 +7287,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: I feel like I've started to see the\nanswer that I should come up with myself."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「自分自身で出すべき答えが見えてきた気がする」"
+                                ""
                             ]
                         },
                         {
@@ -7332,21 +7332,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: I believe that you will take shape\nwhile protecting someone's daily life, as you mentioned\nbefore."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたは以前そう話しました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　誰かの日々を守る中でかたちになると信じています」"
+                                ""
                             ]
                         },
                         {
@@ -7377,21 +7377,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I will not betray, lie, or run away. Through the\nrequests of the adventurer guild Futeira, I will find the\nanswer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私は裏切らない、嘘をつかない、逃げ出さない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　冒険者ギルド・フテラの依頼を通して見つけ出してみせます」"
+                                ""
                             ]
                         },
                         {
@@ -7510,21 +7510,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Compassion: The stench of the usurped throne\nstill lingers around King Lex. This might just be the\nbeginning once we enter the entrance."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「レクス王の周辺なまだまだきな臭い"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王座奪還は入口でここからが本番かもな」"
+                                ""
                             ]
                         },
                         {
@@ -7555,14 +7555,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Compassion: Are you expecting something from\nClea?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアには期待しているぜ？」"
+                                ""
                             ]
                         },
                         {
@@ -7600,14 +7600,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, I will strive to meet your expectations."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、期待に答えられるように精進します」"
+                                ""
                             ]
                         },
                         {
@@ -7837,21 +7837,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: It's hard to believe, but now there are\nmany people who care about Clea-chan, even though she used\nto give off an unapproachable vibe."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「人を寄せ付けない雰囲気だったのが嘘みたい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いまは大勢の人がクレアちゃんを大切に思っている」"
+                                ""
                             ]
                         },
                         {
@@ -7882,21 +7882,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: And I'm glad that there are also many\npeople who care about her just as much. Let's continue to\nwork hard together at the Adventurer's Guild!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そして同じくらい大切に思ってくれているのが嬉しい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これからも一緒に冒険者ギルドでがんばっていこうね！」"
+                                ""
                             ]
                         },
                         {
@@ -7927,21 +7927,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I might have relied on you the most. Once again,\nplease take care of me in the future requests as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「一番お世話になったかもしれません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　改めて、これからの依頼でもよろしくお願いします」"
+                                ""
                             ]
                         },
                         {

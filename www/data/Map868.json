@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "イレモ村 村長オルデンの家",
+    "displayName": "Iremo Village - Mayor Olden's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -7479,21 +7479,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Voice Priestess Phoni: Everyone, thank you for coming!\nSince you're here, would you like to have a meal together?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「みなさん、よく来てくれました！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　せっかくですからお食事でもご一緒しませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -7517,21 +7517,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　村長オルデン"
+                                "Village Chief Olden: I have heard the story from my\ndaughter. We confronted the dragon that we had escaped from\nonce again."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「娘から話は聞いています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちが逃げたドラゴンに再び立ち向かった」"
+                                ""
                             ]
                         },
                         {
@@ -7555,21 +7555,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　村長オルデン"
+                                "Village Chief Olden: The word 'hero' may sound cliché, but\nto all of you heroes, thank you for protecting our\nhomeland."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「英雄という言葉は陳腐かもしれないが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　英雄のみなさん、故郷を守ってくれて本当にありがとう」"
+                                ""
                             ]
                         },
                         {
@@ -7600,21 +7600,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Voice Priestess Phoni: Clea and the others are truly\namazing. They have not only changed us, but even the\nempire!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアたちは本当にすごいんですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちだけでなく帝国まで変えてしまうんですから！」"
+                                ""
                             ]
                         },
                         {
@@ -7652,31 +7652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【声の巫女フォニのその後】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新しい巫女として帝国中の様々な問題に取り組んでいく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者ギルドや魔法アカデミーに協力することもあった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
+                                "\\CL 【Voice Priestess Phoni's After Story】As the new\npriestess, she tackled various problems throughout the\nempire. She also cooperated with the Adventurer's Guild and\nthe Magic Academy."
                             ]
                         },
                         {
@@ -7690,14 +7666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\Clクレアへの特別な想いは生涯消えることがなかったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "運命の相手と出会い結婚。美しい女の子を授かることになる。"
+                                ""
                             ]
                         },
                         {
@@ -7708,6 +7677,13 @@
                                 0,
                                 1,
                                 2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\Cl The special feelings towards Clea never disappeared\nthroughout my life, but I met my destined partner and got\nmarried. We were blessed with a beautiful girl."
                             ]
                         },
                         {
@@ -7721,7 +7697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\Clちなみに、運命の相手は美青年でクレアに似ていたとか……"
+                                ""
                             ]
                         },
                         {
@@ -7738,21 +7714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【村長オルデンのその後】"
+                                "\\Cl By the way, it seems that Phoni's destined partner was a\nhandsome young man who resembled Clea..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新しい巫女というあり方は村民の一部から批判が出たが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オルデンが中心となり、時間をかけて説得をしていった。"
+                                ""
                             ]
                         },
                         {
@@ -7763,6 +7732,13 @@
                                 0,
                                 1,
                                 2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL 【Village Chief Olden's After Story】There were criticisms\nfrom some of the villagers regarding the new way of the\npriestess, but Olden took the lead and spent time persuading\nthem."
                             ]
                         },
                         {
@@ -7776,14 +7752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL徐々にフォニとの親子関係を修復していき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フォニに子どもが生まれると甘々過ぎるおじいちゃんに変貌。"
+                                ""
                             ]
                         },
                         {
@@ -7800,6 +7769,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL Gradually, the relationship between Phoni and her child\nwas repaired, and the old man transformed into an overly\ndoting grandfather when Phoni gave birth to a child."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7807,7 +7783,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLクレアたちにも呆れられるほどのものだった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL It was something that even Clea and the others were\namazed by."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8047,14 +8047,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "You won't be able to come back, but are you really leaving\nthe room?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　戻ってくることはできませんが本当に部屋を出ますか？"
+                                ""
                             ]
                         },
                         {
@@ -8121,14 +8121,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (We haven't talked yet, have we?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（まだ話したりませんね）"
+                                ""
                             ]
                         },
                         {
@@ -9021,21 +9021,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you for helping me. I'm really happy to have\nmet a friend like Phoni."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「助けてくれてありがとう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　フォニのような友人と出会えて本当に幸せです」"
+                                ""
                             ]
                         },
                         {
@@ -9066,21 +9066,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Voice Priestess Phoni: Me too, Clea. Because you were here,\nI was able to take a new step forward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「私もですよ、クレア"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あなたがいてくれたから新しい一歩が踏み出せました」"
+                                ""
                             ]
                         },
                         {
@@ -9111,21 +9111,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Voice Priestess Phoni: The days we adventured together...\nthey shine like precious jewels and will never fade away, I\nbelieve."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「一緒に冒険した日々は……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　まるで宝石ように輝いていて色褪せることはないと思います」"
+                                ""
                             ]
                         },
                         {
@@ -9170,21 +9170,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Voice magic is truly fascinating... No, no, it's\nnot right to step into something precious with dirty shoes,\nis it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「声の魔法は本当に興味深いですね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　いやいや、大切なものに土足で踏み込むのはダメですよね」"
+                                ""
                             ]
                         },
                         {
@@ -9215,21 +9215,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Voice Priestess Phoni: If there is a possibility of the\npriestess lineage coming to an end, I will secretly consult\nwith you. The power of voice magic has the ability to save\nmany people, so I have that strength."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「巫女が途絶えそうなことがあれば内緒で相談します"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　声の魔法には多くの人たちを救うちからがありますから」"
+                                ""
                             ]
                         },
                         {
@@ -9260,21 +9260,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I pray that it doesn't come to that. While my\ninterest in magic is endless, I also value the traditions of\nthe priestess."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そうならないことを祈っています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　魔法への興味は尽きませんが巫女の伝統も大切ですから」"
+                                ""
                             ]
                         },
                         {
@@ -9319,14 +9319,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: The dish you made for me was delicious!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「作ってもらった、お料理美味しかったです！」"
+                                ""
                             ]
                         },
                         {
@@ -9364,21 +9364,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Voice Priestess Phoni: Hehe, if you'd like, please come and\neat. There are still many local specialties in the village\nof Iremo."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ふふ、よかったら食べに来てください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　まだまだイレモ村には名産がたくさんありますから」"
+                                ""
                             ]
                         },
                         {
@@ -9409,21 +9409,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Is it okay?! I'll come and play with Clea-san\nand the others!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いいんですかぁ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　クレアさんたちと一緒に遊びにきますねっ！」"
+                                ""
                             ]
                         },
                         {
@@ -9468,21 +9468,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: The journey as a new priestess... I truly\nthink it's wonderful."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「新しい巫女としての歩み……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　わたくしは本当に素晴らしいと思いますわ」"
+                                ""
                             ]
                         },
                         {
@@ -9513,21 +9513,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Voice Priestess Phoni: Thank you very much. The path I have\nchosen may be similar to that of a priestess."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ありがとうございます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　選んだ道は僧侶としての生き方に似ているのかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -9558,21 +9558,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I will strive to become a priestess that\nyou can be proud of..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あなたに誇れるような……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　そんな僧侶になれるように精進しますわ」"
+                                ""
                             ]
                         },
                         {
@@ -9673,21 +9673,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　村長オルデン"
+                                "Village Chief Olden: Thank you for helping Phoni grow. I am\ngrateful that you have allowed me to grow as a father\nfigure."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「フォニを成長させてくれてありがとう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私を父親として成長させてくれたことに感謝しているよ」"
+                                ""
                             ]
                         },
                         {

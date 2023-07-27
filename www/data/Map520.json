@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "草原の都市カンプス 怪しいお店",
+    "displayName": "City of the Grasslands, Campus Suspicious Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2217,21 +2217,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人タニ"
+                                "Merchant Tani: It's quite something that you found this\nplace... but to use it as a shop, you'll need the proper\nqualifications."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここを見つけたのは大したものだが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　店として利用するにはそれなりの資格が必要だよ」"
+                                ""
                             ]
                         },
                         {
@@ -2315,21 +2315,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人タニ"
+                                "Merchant Tani: It's been a while since we've had a\ntrustworthy customer visit. Please enjoy your special\nshopping experience."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「久々に信用できるお客様のご来店だな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁさぁ特別な買い物を楽しんでいってください」"
+                                ""
                             ]
                         },
                         {
@@ -2494,14 +2494,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人タニ"
+                                "Merchant Tani: Please favor us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご贔屓にしてくださいね」"
+                                ""
                             ]
                         },
                         {

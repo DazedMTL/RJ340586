@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "トモス略奪団隠れ家入口",
+    "displayName": "Tomosu Raiders' Hideout Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -3911,14 +3911,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to proceed even though I have a bad feeling\nabout it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　嫌な予感がしますが奥に進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -3964,14 +3964,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's wait until we're prepared)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4664,21 +4664,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: It's such a beautiful place! I didn't know\nthere were places like this in Fotizona!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すごく綺麗な場所ですねー！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こんな場所がフォティゾナにもあるんですね！」"
+                                ""
                             ]
                         },
                         {
@@ -4709,21 +4709,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: I also love this place so much. I've\nbeen led by the hand and climbed this hill many times..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私もここが大好きなの"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　手を引かれ何度もこの丘を登ったわ……」"
+                                ""
                             ]
                         },
                         {
@@ -4754,14 +4754,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Please tell me the meaning of the materials we\nare gathering soon!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そろそろ集めている材料の意味を教えてくださいよ！」"
+                                ""
                             ]
                         },
                         {
@@ -4799,14 +4799,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Honestly, Piste-san alone could have gathered\nthem, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「正直、ピステさんだけでも集められましたよね？」"
+                                ""
                             ]
                         },
                         {
@@ -4844,14 +4844,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: Hehe, there is a meaning to it from my\nperspective--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、それには私なりの意味があってね――」"
+                                ""
                             ]
                         },
                         {
@@ -5091,14 +5091,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Is this the true nature of the gaze that\nClea-chan was talking about?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これがクレアちゃんが言っていた視線の正体かしら？」"
+                                ""
                             ]
                         },
                         {
@@ -5136,21 +5136,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm not sure... but it doesn't feel like the kind of\natmosphere where we can have a discussion with them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりませんが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちと話し合うような雰囲気ではありませんね」"
+                                ""
                             ]
                         },
                         {
@@ -5174,21 +5174,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団精鋭"
+                                "Former Tomosu Robbery Squad Elite: We're lucky to have\ncaught some prey after a long time..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺たちは運がいいな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　久々に獲物が引っかかるなんてな……」"
+                                ""
                             ]
                         },
                         {
@@ -5230,21 +5230,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団精鋭"
+                                "Former Tomosu Robbery Squad Elite: Green cloaks...! You\nguys are adventurers from the Adventurer's Guild, aren't\nyou!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「緑のマント……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前たち冒険者ギルドの人間だなっ！」"
+                                ""
                             ]
                         },
                         {
@@ -5275,21 +5275,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I am Clea from the Adventurer's Guild in Futeira. So,\nwho might you all be?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルド・フテラのクレアです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そういう、あなたたちは何者でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -5313,14 +5313,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団精鋭"
+                                "Former Tomosu Robbery Squad Elite: You guys are the ones\nwho annihilated us..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前たちに壊滅させられた……」"
+                                ""
                             ]
                         },
                         {
@@ -5337,14 +5337,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団精鋭"
+                                "Former Tomosu Robbery Squad Elite: We are the former Tomosu\nRobbery Squad!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「元トモス略奪団だよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -5586,21 +5586,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I heard that it was partially destroyed, but it seems\nlike they are rebuilding it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「半壊させられたと聞いていましたが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どうやら立て直しをしているようですね」"
+                                ""
                             ]
                         },
                         {
@@ -5631,21 +5631,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like it would be better to return to the\nguild and seek their judgment once."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「一度ギルドに戻って"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　判断を仰いだほうが良さそうですね」"
+                                ""
                             ]
                         },
                         {
@@ -5728,14 +5728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: I think it would be better to continue\nlike this..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私はこのまま進んだ方がいいと思う……」"
+                                ""
                             ]
                         },
                         {
@@ -5818,14 +5818,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: May I ask for the reason?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「理由を教えていただいてもいいでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -5863,21 +5863,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: Even after the Tomosu Robbery Squad was\ndefeated, they have repeatedly targeted the Adventurer's\nGuild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「トモス略奪団は倒されてからも"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何度も何度も冒険者ギルドを付け狙ってきたの」"
+                                ""
                             ]
                         },
                         {
@@ -5908,21 +5908,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: They have been changing their location\nregularly, and even Storge-san couldn't find them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「定期的に居場所を替えていて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ストルゲさんでも見つけることができなかった」"
+                                ""
                             ]
                         },
                         {
@@ -5953,21 +5953,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: The leader should be a cautious man. If\nwe let this chance slip, they will change their location\nagain."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「リーダーは慎重な男のはず"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　このチャンスを逃せばまた居場所を替えてくる」"
+                                ""
                             ]
                         },
                         {
@@ -5998,14 +5998,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: And also..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それに……」"
+                                ""
                             ]
                         },
                         {
@@ -6043,14 +6043,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, let's annihilate them here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、ここで壊滅させましょう」"
+                                ""
                             ]
                         },
                         {
@@ -6097,14 +6097,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Haa~ I thought you would say that."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はぁ〜そう言うと思ってましたよ」"
+                                ""
                             ]
                         },
                         {
@@ -6142,21 +6142,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I hate the plundering gang! Let's defeat them\nfor the honor of thieves!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「略奪団は嫌いです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　盗賊の名誉のためにもやっつけましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -6187,21 +6187,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, it seems like not much has changed.\nI suppose some things are better left unsaid, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あまり変わらないような"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　うふふ、こういうのは言わぬが花かしら？」"
+                                ""
                             ]
                         },
                         {
@@ -6232,21 +6232,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like this is an important place for Piste-\nsan. Let's ask everyone from the Tomosu Robbery Squad to\nleave."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ピステさんにとって大切な場所のようです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　トモス略奪団の皆さんには出ていってもらいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -6277,14 +6277,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: Thank you, Clea-chan."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとう、クレアちゃん」"
+                                ""
                             ]
                         },
                         {

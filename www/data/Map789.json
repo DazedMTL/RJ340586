@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "民家",
+    "displayName": "Private House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4114,14 +4114,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: If you've moved here, at least greet us... Is it\njust you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「引っ越して来たなら挨拶ぐらいしなさい……君だけか」"
+                                ""
                             ]
                         },
                         {
@@ -4152,14 +4152,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女リルム"
+                                "Girl Relm: Daddy and the others are not here because they\nare working on building the road."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お父ちゃんたちは道路を作るお仕事でいないです」"
+                                ""
                             ]
                         },
                         {
@@ -4221,21 +4221,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: You don't have to be so scared. By the way, isn't\nthat a splendid brick arch?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんなに怖がらなくていいよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ところで、見事なレンガのアーチじゃないか」"
+                                ""
                             ]
                         },
                         {
@@ -4259,14 +4259,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: Your father seems to be quite skilled."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君のお父さんは余程の腕利きとみえる」"
+                                ""
                             ]
                         },
                         {
@@ -4306,14 +4306,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女リルム"
+                                "Girl Relm: I made it with the fragments of bricks that\nwere lying around."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「転がっているレンガの破片でボクが作りました」"
+                                ""
                             ]
                         },
                         {
@@ -4353,21 +4353,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: That's amazing! Understanding complex structures\nis essential for a mage!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そいつはすごい！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　複雑な構造理解は魔法使いに不可欠だ！」"
+                                ""
                             ]
                         },
                         {
@@ -4422,21 +4422,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: It seems like you like books. How about reading a\nbook of magic to pass the time?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうやら君は本が好きなようだね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　暇つぶしに魔法の本でも読んでみないかい？」"
+                                ""
                             ]
                         },
                         {
@@ -4500,21 +4500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女リルム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「本当にいいの！　ボクは本が大好き！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　いっぱい本があるなら見せて欲しい、魔法も教えて欲しい！」"
+                                "Girl Relm: Is it really okay? I love books! If you have a\nlot of books, I want to see them and learn magic too!"
                             ]
                         },
                         {
@@ -4522,68 +4508,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔法使いの老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それはもちろん構わない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ところで、君は女の子に見えるが……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔法使いの老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「なぜ、ボクと呼ぶのだい？」"
                             ]
                         },
                         {
@@ -4614,14 +4538,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女リルム"
+                                "Old Mage: Of course, that's not a problem, but you look\nlike a girl..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……お父ちゃんが男の子が欲しいって言っていたから」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Old Mage: Why do you call me 'Boku'?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Girl Relm: ......Daddy said he wanted a boy."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4681,38 +4681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　父親の仕事の都合でカノナス近郊に引っ越したことは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リルムにとって幸運な出来事だった。新しい本はもちろん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔法との出会い、何よりも話し相手ができたからだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Moving to the outskirts of Kanonas due to her father's work\nwas a fortunate event for Relm. Not only did she have access\nto new books, but she also had the chance to encounter magic\nand, above all, have someone to talk to."
                             ]
                         },
                         {
@@ -4726,90 +4695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　老人はかつて魔法アカデミーを目指し挫折した過去を持っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼のような人間はカノナス近郊に数多く暮らしていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それほど、魔法アカデミーの壁は高いものなのだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　長年魔法に関わってきた老人はレンガの欠片で立体的なアーチを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　組んでしまう才能と本に対する貪欲さを高く評価した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この子は確実に魔法使いの素養があると直感したのだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何よりも、父親の関心を引くために「ボク」と名乗る少女を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　独りぼっちにしておくことが彼にはできなかった。"
                             ]
                         },
                         {
@@ -4833,6 +4719,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The old man had a past of aiming for a magic academy and\nfacing failure. There were many people like him living in\nthe outskirts of Kanonas. That's how high the wall of the\nmagic academy is."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4840,21 +4733,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リルムは老人のもとで、様々な知識を貪欲に学んだ。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法のこと、帝国のこと、神話のこと、植物のこと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まるで物心ついてから今日までの時間を取り戻すように。"
+                                ""
                             ]
                         },
                         {
@@ -4871,6 +4757,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The old man, who had been involved in magic for many years,\nhighly appreciated the talent of constructing three-\ndimensional arches with fragments of bricks and the\neagerness for books. He had a strong intuition that this\nchild definitely had the potential to become a mage."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4878,21 +4771,128 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　老人はリルムから天性の魔法使いの才能を見出すようになる。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　この子は自分の果たせなかった夢を叶えてくれるかもしれない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法アカデミーに所属する夢をリルムに託すようになっていった。"
+                                "Above all, he couldn't leave the girl who called herself\nBoku alone, in order to capture her father's attention."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Relm greedily learned various knowledge under the old man.\nAbout magic, the empire, mythology, plants... It was as if\nshe was trying to make up for lost time from the day she\nbecame aware of the world until today."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The old man began to recognize Relm's innate talent as a\nmage. This child might fulfill the dreams he couldn't\nachieve himself. He started to entrust Relm with the dream\nof belonging to a magic academy."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

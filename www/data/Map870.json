@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "草原の都市カンプス 民家",
+    "displayName": "City of Campus, Grassland - Residential House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -7472,21 +7472,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　主婦シノ"
+                                "Housewife Shino: Oh, aren't you the person who came before?\nHave you been able to meet your friends since then?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あら、以前いらした方ですよね？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あれからお友達とはお会いできたのかしら」"
+                                ""
                             ]
                         },
                         {
@@ -7510,21 +7510,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　主婦シノ"
+                                "Housewife Shino: If it's alright with you... I could take a\nmessage in case they come to visit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もしよろしければですが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　訪ねてくるかもしれないので伝言をお預かりしますよ」"
+                                ""
                             ]
                         },
                         {
@@ -7562,21 +7562,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【怪盗ペルノのその後】"
+                                "\\CL 【The Aftermath of Phantom Thief Perno】The strange acts\ncaused by Phantom Thief Perno... The act of returning the\nstolen items abruptly stopped one day."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪盗ペルノの起こした奇妙な行為……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗み出された品々の返却行為はある日を境にピタリと止んだ。"
+                                ""
                             ]
                         },
                         {
@@ -7593,6 +7593,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL The guards who had been chasing after Phantom Thief Perno\nfor a long time were on high alert for the occurrence of\nanother incident, but it didn't last long."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7600,14 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL長らく怪盗ペルノを追いかけていた衛兵たちは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "再び事件が発生することを警戒したが、長くは続かなかった。"
+                                ""
                             ]
                         },
                         {
@@ -7624,14 +7624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL Eventually, the existence of Phantom Thief Perno was\nforgotten as time passed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLやがて怪盗ペルノの存在は時の流れと共に忘れ去られていった。"
+                                ""
                             ]
                         },
                         {
@@ -7655,21 +7655,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【主婦シノのその後】"
+                                "\\CL 【The Aftermath of Housewife Shino】She spends her days in\nharmony with her beloved husband. She becomes famous in the\nneighborhood as a kind and beautiful woman."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最愛の夫と仲睦まじい日々を送る。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近所でも有名な優しく美しい女性として有名になる。"
+                                ""
                             ]
                         },
                         {
@@ -7686,14 +7686,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL She was blessed with children and gave birth to three\nbeautiful girls."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL子宝に恵まれ、３人の美しい女の子を出産する。"
+                                ""
                             ]
                         },
                         {
@@ -7710,6 +7710,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL She cherished a diary that had become tattered\nthroughout her life, and she never showed its contents to\neven her beloved husband."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7717,14 +7724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL生涯ボロボロになった日記帳を大切にしており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その日記帳だけは最愛の夫であっても中を見せることはなかった。"
+                                ""
                             ]
                         },
                         {
@@ -7964,14 +7964,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "You won't be able to come back, but are you really leaving\nthe room?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　戻ってくることはできませんが本当に部屋を出ますか？"
+                                ""
                             ]
                         },
                         {
@@ -8038,14 +8038,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (We haven't talked yet, have we?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（まだ話したりませんね）"
+                                ""
                             ]
                         },
                         {
@@ -8917,21 +8917,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please convey to my friends that it was an honor to\nwitness this new milestone."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「友人に伝えておいてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　新しい一歩の区切りに立ち会えて光栄でしたと」"
+                                ""
                             ]
                         },
                         {
@@ -8955,21 +8955,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　主婦シノ"
+                                "Shino the Housewife: I was able to witness a wonderful\nscene of taking a new step forward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「新しい一歩、素晴らしい場面に立ち会えたのね」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -8993,21 +8993,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　主婦シノ"
+                                "Housewife Shino: It's a coincidence, but I was also able to\ntake a new step forward... I was able to achieve the\nordinary life that has been my dream for many years."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「偶然ですけど私も新しい一歩を……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　長年の夢だった普通の生活を手に入れることができました」"
+                                ""
                             ]
                         },
                         {
@@ -9052,21 +9052,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: The most surprising thing was their physical\nabilities, being able to control even the magic that I\ndidn't know about..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ボクの知らない魔法すら操る人でした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　一番驚いたのはもともとの身体能力ですけどね……」"
+                                ""
                             ]
                         },
                         {
@@ -9090,21 +9090,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　主婦シノ"
+                                "Housewife Shino: I think magic is just a tool, and if the\nuser is not skilled, even a greatsword becomes a mere\nstick."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「魔法は道具だと思うの"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　使い手が優れていないと大剣も棒切れになってしまうわ」"
+                                ""
                             ]
                         },
                         {
@@ -9135,21 +9135,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: As you said, it may be true. I also want to\ntrain my body to become an Archmage!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「仰るとおりかもしれません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　アークメイジになるために身体も鍛えたいと思います！」"
+                                ""
                             ]
                         },
                         {
@@ -9194,21 +9194,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Um, well, I shouldn't say this! But I was\nreally happy to receive praise about being a thief from that\nperson."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「えーと、あの、言っちゃダメです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　その人に盗賊のこと褒めてもらえて嬉しかったです」"
+                                ""
                             ]
                         },
                         {
@@ -9232,21 +9232,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　主婦シノ"
+                                "Housewife Shino: Being a thief is not something to be\npraised... but if your skills are being praised, it's okay\nto be genuinely happy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「盗賊は褒められたものではないけど……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あなたの技術が称賛されたなら素直に喜んでいいわ」"
+                                ""
                             ]
                         },
                         {
@@ -9277,21 +9277,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes, thank you very much! I will absolutely,\nabsolutely keep my promise with that person!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「はい、ありがとうございます！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　その人との約束は絶対に絶対に守ります！」"
+                                ""
                             ]
                         },
                         {
@@ -9336,21 +9336,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: They seem so happy, it's quite enviable.\nI plan to return to the campus, so if you have the time,\nplease come by."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「幸せそうで羨ましいですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　カンプスに戻る予定ですからお時間があればぜひ」"
+                                ""
                             ]
                         },
                         {
@@ -9374,21 +9374,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　主婦シノ"
+                                "Housewife Shino: That's wonderful! Since you seem to like\nwine, I'll prepare something of high quality for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それは素晴らしいわ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あなたはワインが好きそうだから上等なものを用意しますよ」"
+                                ""
                             ]
                         },
                         {
@@ -9419,21 +9419,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, that's good. Let's make sure\nneither of us becomes loose-lipped, okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「うふふ、それはいいですわね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　お互いに口元が軽くならないように注意しましょうね？」"
+                                ""
                             ]
                         },
                         {

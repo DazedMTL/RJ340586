@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "草原の都市カンプス 情報屋",
+    "displayName": "City of the Grasslands, Campus Information Broker",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5719,14 +5719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　駆け出し情報屋"
+                                "Rookie Informant: I may be a rookie, but I've got plenty of\nmotivation!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「駆け出しだがやる気は十分だぜ！」"
+                                ""
                             ]
                         },
                         {
@@ -5794,21 +5794,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　駆け出し情報屋"
+                                "Novice Informant: There's something... Ah, it's you! I\ndon't know anything! I don't know anything at all!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺に何か……あ、あんたは！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何を知らないぞ！　俺は何も知らないっ！」"
+                                ""
                             ]
                         },
                         {

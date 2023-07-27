@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "売春島",
+    "displayName": "Prostitution Island",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -15255,14 +15255,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人の男"
+                                "Male Merchant: Hey, you're a fine lady... How much are\nyou?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ほーいい女じゃねーか……あんたいくらだい？」"
+                                ""
                             ]
                         },
                         {
@@ -15339,21 +15339,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　妖艶な娼婦"
+                                "You shouldn't think about escaping from here, my alluring\ncourtesan. This is not meddlesome advice... it's a warning,\nyou know."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここから逃げようなんて考えちゃだめよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これはお節介じゃなくて……忠告だからね」"
+                                ""
                             ]
                         },
                         {
@@ -15617,21 +15617,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　妖艶な娼婦"
+                                "Oh, a new face? If you have any questions, it's better to\nask Reina-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あら、見ない顔だね？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　質問があるならレイナさんに聞いた方がいいよ」"
+                                ""
                             ]
                         },
                         {
@@ -15662,14 +15662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I have a question about a child's ghost..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「子どもの幽霊について質問が……」"
+                                ""
                             ]
                         },
                         {
@@ -15717,21 +15717,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　妖艶な娼婦"
+                                "Seductive Courtesan: Since it's a place like this, ghost\nstories never end, especially when it comes to child\nghosts..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こんな場所だから幽霊話は尽きないよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　特に子どもの幽霊ってなるとなおさらね……」"
+                                ""
                             ]
                         },
                         {
@@ -15755,14 +15755,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　妖艶な娼婦"
+                                "Seductive Courtesan: Lately, I've heard rumors about ghost\nstories circulating around the tavern."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「最近だと酒場あたりで噂話を聞いたような」"
+                                ""
                             ]
                         },
                         {
@@ -15800,14 +15800,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Thank you very much, then--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます、では――」"
+                                ""
                             ]
                         },
                         {
@@ -15838,14 +15838,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　妖艶な娼婦"
+                                "Seductive Courtesan: Wait a moment!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ちょっと待ちな！」"
+                                ""
                             ]
                         },
                         {
@@ -15883,14 +15883,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: U-Um, do you still need money...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「や、やっぱり、お金が必要でしょうか……？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Seductive Courtesan: You're not a courtesan, are you? You\nbetter not come to a place like this by mistake."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15921,21 +15959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　妖艶な娼婦"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あんた娼婦じゃないだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　間違ってもこんなところに来るんじゃないよ」"
+                                "Seductive Courtesan: I'm not sure if it will be helpful,\nbut if you want, I can give it to you."
                             ]
                         },
                         {
@@ -15946,34 +15970,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　妖艶な娼婦"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「役に立つかわからないけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　よかったら持っていっておくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -16193,21 +16193,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　妖艶な娼婦"
+                                "Seductive courtesan: 'You shouldn't think about escaping\nfrom here. This is not meddling... it's just a piece of\nadvice, you know.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここから逃げようなんて考えちゃだめよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これはお節介じゃなくて……忠告だからね」"
+                                ""
                             ]
                         },
                         {
@@ -16275,21 +16275,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　妖艶な娼婦"
+                                "You shouldn't think about escaping from here, my alluring\ncourtesan. This is not meddlesome advice... it's a warning,\nyou know."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここから逃げようなんて考えちゃだめよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これはお節介じゃなくて……忠告だからね」"
+                                ""
                             ]
                         },
                         {
@@ -16366,21 +16366,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ビクビクした男"
+                                "Nervous man: W-What's the matter!? I-I'm not scared or\nanything, I'm used to dealing with women, I swear!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、なんだよ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　別にビビってねーぞ、女なんて慣れたもんだ、ほんとだぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -16457,14 +16457,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　迫力のある娼婦"
+                                "Seductive Courtesan: Hehe... Do you enjoy pain?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ……痛いのはお好きかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -16541,21 +16541,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酔っ払った男"
+                                "Drunk man: Hehe, it's the best feeling. I wish I could live\nhere forever until I die..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えへへ、最高の気分だぜ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　死ぬまでここで暮らせればなぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -16672,21 +16672,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酔っ払った男"
+                                "Drunk Man: Beautiful young lady! I'm too drunk to entertain\nyou..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「美しいお嬢さん！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　酔い過ぎてあんたを楽しませることができない……」"
+                                ""
                             ]
                         },
                         {
@@ -16703,14 +16703,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酔っ払った男"
+                                "Drunk Man: Please forgive me for today."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今日のところはこれで勘弁しておくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -16810,14 +16810,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酔っ払った男"
+                                "Drunk Man: Hic... This bed is unusually hard."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひっく……やけに固い寝床だなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -18048,14 +18048,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (Sigh... Shall we go...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（はぁ……行きますか……）"
+                                ""
                             ]
                         },
                         {
@@ -18637,14 +18637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I must complete the request)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（依頼を遂行しなくては）"
+                                ""
                             ]
                         },
                         {
@@ -18737,14 +18737,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Once I've taken on the task, I can't just run away...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（引き受けた以上は逃げるわけにはいきませんね……）"
+                                ""
                             ]
                         },
                         {
@@ -18820,14 +18820,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I have to catch the customer...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（お客さんを捕まえなきゃ……）"
+                                ""
                             ]
                         },
                         {
@@ -18900,14 +18900,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I have to find the ghost child...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（子どもの幽霊を探し出さないと……）"
+                                ""
                             ]
                         },
                         {
@@ -19072,14 +19072,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Once I've taken on the task, I can't just run away...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（引き受けた以上は逃げるわけにはいきませんね……）"
+                                ""
                             ]
                         },
                         {
@@ -19155,14 +19155,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (This door seems quite sturdy... It doesn't seem\npossible to escape)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（かなり頑丈な扉……逃げるのは無理そうですね）"
+                                ""
                             ]
                         },
                         {
@@ -19238,14 +19238,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I have to catch the customer...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（お客さんを捕まえなきゃ……）"
+                                ""
                             ]
                         },
                         {
@@ -19318,14 +19318,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I have to find the ghost child...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（子どもの幽霊を探し出さないと……）"
+                                ""
                             ]
                         },
                         {
@@ -19401,14 +19401,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -19484,14 +19484,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -19567,14 +19567,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -19650,14 +19650,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -19916,14 +19916,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I must complete the request)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（依頼を遂行しなくては）"
+                                ""
                             ]
                         },
                         {
@@ -20016,14 +20016,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Once I've taken on this task, I can't just run\naway...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（引き受けた以上は逃げるわけにはいきませんね……）"
+                                ""
                             ]
                         },
                         {
@@ -20099,14 +20099,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Nora the Thief (I have to catch the customer...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（お客さんを捕まえなきゃ……）"
+                                ""
                             ]
                         },
                         {
@@ -20179,14 +20179,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Nora the Thief (I have to find the ghost child...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（子どもの幽霊を探し出さないと……）"
+                                ""
                             ]
                         },
                         {
@@ -20351,14 +20351,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Once I've taken on the task, I can't just run away...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（引き受けた以上は逃げるわけにはいきませんね……）"
+                                ""
                             ]
                         },
                         {
@@ -20434,14 +20434,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (This door seems quite sturdy... It doesn't seem\npossible to escape)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（かなり頑丈な扉……逃げるのは無理そうですね）"
+                                ""
                             ]
                         },
                         {
@@ -20517,14 +20517,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I have to catch the customer...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（お客さんを捕まえなきゃ……）"
+                                ""
                             ]
                         },
                         {
@@ -20597,14 +20597,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I have to find the ghost child...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（子どもの幽霊を探し出さないと……）"
+                                ""
                             ]
                         },
                         {
@@ -20680,14 +20680,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -20763,14 +20763,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -20846,14 +20846,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -20929,14 +20929,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -21195,14 +21195,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I must complete the request)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（依頼を遂行しなくては）"
+                                ""
                             ]
                         },
                         {
@@ -21295,14 +21295,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Once I've taken on the task, I can't just run away...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（引き受けた以上は逃げるわけにはいきませんね……）"
+                                ""
                             ]
                         },
                         {
@@ -21378,14 +21378,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I have to catch the customer...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（お客さんを捕まえなきゃ……）"
+                                ""
                             ]
                         },
                         {
@@ -21458,14 +21458,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I have to find the ghost child...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（子どもの幽霊を探し出さないと……）"
+                                ""
                             ]
                         },
                         {
@@ -21630,14 +21630,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Once I've taken on the task, I can't just run away...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（引き受けた以上は逃げるわけにはいきませんね……）"
+                                ""
                             ]
                         },
                         {
@@ -21713,14 +21713,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (This door seems quite sturdy... It doesn't seem\npossible to escape)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（かなり頑丈な扉……逃げるのは無理そうですね）"
+                                ""
                             ]
                         },
                         {
@@ -21796,14 +21796,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I have to catch the customer...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（お客さんを捕まえなきゃ……）"
+                                ""
                             ]
                         },
                         {
@@ -21876,14 +21876,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I have to find the ghost child...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（子どもの幽霊を探し出さないと……）"
+                                ""
                             ]
                         },
                         {
@@ -21959,14 +21959,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -22042,14 +22042,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -22125,14 +22125,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -22208,14 +22208,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Shall we finish quickly?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（すぐに終わらせましょうか）"
+                                ""
                             ]
                         },
                         {
@@ -22378,21 +22378,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人の男"
+                                "Male Merchant: It's not good to be interested in strange\nthings that almost break your asshole..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「危うく尻穴が壊れるところだった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　変なことに興味を持つもんじゃないな……」"
+                                ""
                             ]
                         },
                         {
@@ -22656,21 +22656,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人の男"
+                                "Male Merchant: What is it, a solicitation? I'm tired of\nprostitutes, so go bother someone else."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだ、客引きか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　娼婦にはこりごりだから他を当たってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -22701,14 +22701,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Th-That... I, I can't take it anymore, ugh..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、その……あたし、もう、我慢が、うぅ……」"
+                                ""
                             ]
                         },
                         {
@@ -22739,21 +22739,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人の男"
+                                "Male Merchant: What's wrong, are you feeling unwell?\nThere's an inn right over there, so you should rest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだ、体調でも悪いのか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　すぐそこに宿があるから休んだ方がいいぞ」"
+                                ""
                             ]
                         },
                         {
@@ -22784,14 +22784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Th-Then! Please come with me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「じゃ、じゃあ！　一緒に来てくださいっ！」"
+                                ""
                             ]
                         },
                         {
@@ -22822,14 +22822,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人の男"
+                                "Male Merchant: I don't really mind, but... H-Hey, don't\npull my hand!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「別に構わないが……お、おいっ、手を引っ張るなぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -23074,7 +23074,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -23288,14 +23288,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I-I'm sorry for being so forceful..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご、強引にしてすいませんでしたぁ……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Male Merchant: No, don't worry about it. I realized that\nI'm more suited to being the one in control."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -23326,21 +23364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「いや、気にしなくていいよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　やっぱり責める方が性に合っていることもわかったしな」"
+                                "Male Merchant: I'll add a little extra to the reward."
                             ]
                         },
                         {
@@ -23348,30 +23372,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　商人の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「報酬にはちょっとおまけをつけておくよ」"
                             ]
                         },
                         {
@@ -23679,14 +23679,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　商人の男"
+                                "Male Merchant: I'm more suited to being the one who blames\nrather than being blamed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「俺は責められるより責める方が性にあっているよ」"
+                                ""
                             ]
                         },
                         {
@@ -23713,21 +23713,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　商人の男"
+                                "Male Merchant: I shouldn't be interested in weird things\nthat almost break my asshole..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「危うく尻穴が壊れるところだった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　変なことに興味を持つもんじゃないな……」"
+                                ""
                             ]
                         },
                         {
@@ -24200,14 +24200,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Clea, please change into this outfit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアさんにはこいつに着替えていただきやす」"
+                                ""
                             ]
                         },
                         {
@@ -24233,21 +24233,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: I've come to sell unfortunate young\ngirls... I'll have them legally enter the prostitution\nisland with that kind of script."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「不幸な小娘を売っぱらいに来た……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そういう筋書きで売春島に合法的に入ってもらいます」"
+                                ""
                             ]
                         },
                         {
@@ -24271,21 +24271,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: You can't bring weapons and please\nabsolutely avoid any fights inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「武器は持ち込めませんし"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　中でのドンパチは絶対に避けてくだせぇ」"
+                                ""
                             ]
                         },
                         {
@@ -24302,21 +24302,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Once you're ready, please let me know.\nOnce you enter, you won't be able to leave until the job is\ndone."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「準備ができたらお声がけくだせぇ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　一度入ったら仕事が終わるまで出ることができませんから」"
+                                ""
                             ]
                         },
                         {
@@ -24922,21 +24922,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Once you enter, you won't be able to\nleave until the job is done. Are you sure it's okay to start\nfor real?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「入ったら仕事が終わるまで出られやせん"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本当にはじめてしまって問題ないですかい？」"
+                                ""
                             ]
                         },
                         {
@@ -24982,14 +24982,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before starting.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -25171,21 +25171,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: No problem. I'll go change on Cors-san's ship."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「問題ありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　コルスさんの船で着替えをしてきますので」"
+                                ""
                             ]
                         },
                         {
@@ -25209,21 +25209,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Of course, it's fine. Please let your\ncompanions know that they should also get inside the box."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「もちろん、結構ですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　お仲間にも箱に入るようにお伝えくだせぇ」"
+                                ""
                             ]
                         },
                         {
@@ -25247,14 +25247,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Well, shall we begin?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さぁ、はじめやしょうか」"
+                                ""
                             ]
                         },
                         {
@@ -25925,14 +25925,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Clea, please change into this outfit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアさんにはこいつに着替えていただきやす」"
+                                ""
                             ]
                         },
                         {
@@ -25958,21 +25958,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: I've come to sell unfortunate young\ngirls... I'll have them legally enter the prostitution\nisland with that kind of script."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「不幸な小娘を売っぱらいに来た……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そういう筋書きで売春島に合法的に入ってもらいます」"
+                                ""
                             ]
                         },
                         {
@@ -25996,21 +25996,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: You can't bring weapons and please\nabsolutely avoid any fights inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「武器は持ち込めませんし"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　中でのドンパチは絶対に避けてくだせぇ」"
+                                ""
                             ]
                         },
                         {
@@ -26027,21 +26027,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Once you're ready, please let me know.\nOnce you enter, you won't be able to leave until the job is\ndone."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「準備ができたらお声がけくだせぇ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　一度入ったら仕事が終わるまで出ることができませんから」"
+                                ""
                             ]
                         },
                         {
@@ -26058,21 +26058,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Once you enter, you won't be able to\nleave until the job is done. Are you sure it's okay to start\nthis for the first time?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「入ったら仕事が終わるまで出られやせん"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本当にはじめてしまって問題ないですかい？」"
+                                ""
                             ]
                         },
                         {
@@ -26118,14 +26118,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's wait until we're ready)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -26300,21 +26300,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: No problem. I will change on Cors-san's ship."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「問題ありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　コルスさんの船で着替えをしてきますので」"
+                                ""
                             ]
                         },
                         {
@@ -26331,21 +26331,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Of course, it's fine. Please let your\ncompanions know to get into the box as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「もちろん、結構ですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　お仲間にも箱に入るようにお伝えくだせぇ」"
+                                ""
                             ]
                         },
                         {
@@ -26369,14 +26369,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Well then, shall we begin?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さぁ、はじめやしょうか」"
+                                ""
                             ]
                         },
                         {
@@ -26985,21 +26985,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Once you enter, you won't be able to\nleave until the job is done. Are you sure it's okay to start\nthis for the first time?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「入ったら仕事が終わるまで出られやせん"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本当にはじめてしまって問題ないですかい？」"
+                                ""
                             ]
                         },
                         {
@@ -27045,14 +27045,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before starting.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -27227,21 +27227,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: No problem. I'll go change on Cors-san's ship first."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「問題ありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　コルスさんの船で着替えをしてきますので」"
+                                ""
                             ]
                         },
                         {
@@ -27258,21 +27258,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Of course, it's fine. Please let your\ncompanions know that they should also get inside the box."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「もちろん、結構ですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　お仲間にも箱に入るようにお伝えくだせぇ」"
+                                ""
                             ]
                         },
                         {
@@ -27296,14 +27296,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Well, shall we begin?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さぁ、はじめやしょうか」"
+                                ""
                             ]
                         },
                         {
@@ -27917,14 +27917,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (First, let's find Melena-san's subordinate.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（まずはメレーナさんの部下を探し出しましょう）"
+                                ""
                             ]
                         },
                         {
@@ -28516,14 +28516,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (First, let's find Melena-san's subordinate.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（まずはメレーナさんの部下を探し出しましょう）"
+                                ""
                             ]
                         },
                         {
@@ -28765,14 +28765,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　売春島の用心棒"
+                                "You're a stranger... even coming to the office!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「見ない顔だな……事務所まで来てもらうぜ！」"
+                                ""
                             ]
                         },
                         {
@@ -28789,14 +28789,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Shall we try again?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　もう一度挑戦しますか？"
+                                ""
                             ]
                         },
                         {
@@ -28889,21 +28889,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　売春島の用心棒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　「この女、コルスが連れてきたみたいです"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　いつもの癖で輪姦しましたけど大丈夫ですかね？」"
+                                "The bouncer of the prostitution island said, 'This woman\nseems to have been brought by Cors. We gang-raped her as\nusual, but is she okay?'"
                             ]
                         },
                         {
@@ -28911,68 +28897,6 @@
                             "indent": 2,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　用心棒の元締"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　「掟を破ったのは向こうだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　取り返しに来るなら揉めればいいし、こないようなら」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　用心棒の元締"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　「荒っぽいお客様用の【商品】が増えただけだからな」"
                             ]
                         },
                         {
@@ -29003,21 +28927,97 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　用心棒の元締"
+                                "The boss of the bouncers said, 'If they broke the rules and\ncome back for revenge, we can handle it. And if they don't\ncome back, that's fine too.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「俺はコルスと会ってくる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　お前らは壊さない程度に商品で遊んでな」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "The boss of the bouncers said, 'It's just that the number\nof products for rough customers has increased.'"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "The boss of the bouncers said, 'I'm going to meet Cors, so\nyou guys can have fun with the merchandise without breaking\nthem.'"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -29457,21 +29457,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　組織のチンピラ"
+                                "Organization thug: 'We're still transporting the goods...\nComplete your objective before us, comrades.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まだ荷物を……お仲間を搬送中だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　先にあんたたちの目的を遂行してくれ」"
+                                ""
                             ]
                         },
                         {
@@ -30371,7 +30371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -30780,21 +30780,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　野外で乱交する女"
+                                "Woman engaging in outdoor group sex: 'Ah, it feels so good!\nDoing it outside, I feel even more aroused!'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あぁ、いいわぁ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　外でするの、いつも以上に感じるのぉっ！」"
+                                ""
                             ]
                         },
                         {
@@ -30818,21 +30818,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　野外で乱交する男"
+                                "Man engaging in outdoor group sex: 'Both men and women are\ngetting wild! It's the best way to play on Prostitution\nIsland!'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「男も女も乱れてさぁ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　売春島で一番最高な遊び方だよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -32890,21 +32890,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (She can avoid troublesome things and still get\nmoney without doing anything)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（面倒なことを避けられた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何もしないでお金だってもらうことができる）"
+                                ""
                             ]
                         },
                         {
@@ -32935,14 +32935,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (But this feeling... Could it be that I...?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（でもこの感情は……ボクはもしかして……）"
+                                ""
                             ]
                         },
                         {
@@ -32992,21 +32992,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Are you disappointed...? There's no way\nsomething so foolish could happen, especially not to me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「残念に思っている……？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そんな馬鹿なことはありえません、このボクに限って！」"
+                                ""
                             ]
                         },
                         {
@@ -33080,14 +33080,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Is there something... a sound... like I can hear\na voice...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何か音が……声が聞こえるような……？」"
+                                ""
                             ]
                         },
                         {
@@ -33205,14 +33205,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: This is...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは……！」"
+                                ""
                             ]
                         },
                         {
@@ -33278,7 +33278,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -34325,14 +34325,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: How did it go?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「首尾はどうですかい？」"
+                                ""
                             ]
                         },
                         {
@@ -34370,21 +34370,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: I was able to receive the request and there\nwas an unexpected present as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「依頼を受けてもらえましたわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　思わぬプレゼントもありましたけど」"
+                                ""
                             ]
                         },
                         {
@@ -34415,21 +34415,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: As expected, it was the right decision\nto ask all of you. I will make sure to deliver the Mucos\nsafely to you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やっぱり皆さんに頼んで大正解でした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　しっかりとミュコスまでお送りしますから」"
+                                ""
                             ]
                         },
                         {
@@ -34460,21 +34460,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: And this will be the reward for this\ntime. I will give you the reward from the Pirate Crew of\nPirata as a substitute."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それと今回の報酬になります"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ピラタ海賊団からの報酬を代わりにお渡しします」"
+                                ""
                             ]
                         },
                         {
@@ -34540,21 +34540,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Rest assured, I will make sure to\nproperly request the expenses incurred for this infiltration\nfrom Melena."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今回の潜入にかかった費用を"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　メレーナからしっかりと請求しますからご安心くだせぇ」"
+                                ""
                             ]
                         },
                         {
@@ -34585,21 +34585,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: You're quite mysterious, aren't you?\nSometimes you appear to be a good person, and other times\nyou seem like a villain."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「不思議な方ですわね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　善人のようにも、悪人のようにも見える時がありますわ」"
+                                ""
                             ]
                         },
                         {
@@ -34630,21 +34630,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Hehe, I'm definitely a villain. I'll\nmake sure to arrange something special for all of you to\nwork at the Prostitution Island."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くくっ、私はしっかり悪人ですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　皆さんを特別に売春島で働けるようにするくらいにはね」"
+                                ""
                             ]
                         },
                         {
@@ -34684,21 +34684,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: If you ever feel like earning some\nmoney, come and play. I'll make sure you can take on\nrequests on the Mucos bulletin board."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「稼ぎたくなったら遊びにきてくだせぇ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ミュコスの掲示板で受注できるようにしますから」"
+                                ""
                             ]
                         },
                         {
@@ -35163,21 +35163,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おせっかいな娼婦"
+                                "Meddlesome Prostitute: I actually enjoy taking care of\nothers. Sometimes I get told that I'm being too nosy\nthough."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私、人のお世話を焼くのが好きなの。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "    たまに余計なお世話だって言われちゃうんだけどね」"
+                                ""
                             ]
                         },
                         {
@@ -35219,21 +35219,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　おせっかいな娼婦"
+                                "Meddlesome Prostitute: I've heard the story from Reina-san.\nI'll tell you what you should do now."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「レイナさんから話は聞いてるわ。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "    貴方が今するべきことを教えてあげるわね」"
+                                ""
                             ]
                         },
                         {

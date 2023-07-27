@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "砂漠の街アンモス 商団の倉庫",
+    "displayName": "City of Ammos in the Desert, Warehouse of the Merchant Guild",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4069,21 +4069,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Commercial Guild Leader Narsa: Our job is to distribute to\nstores, so we don't sell to individuals."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うちは店舗に卸すのが仕事"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪いけど個人相手には販売していないんだよ」"
+                                ""
                             ]
                         },
                         {
@@ -4672,14 +4672,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I checked the Magic Academy bulletin board."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法アカデミーの掲示板を見てきました」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Guild Leader Narsa: As expected of Dokusa-san! Without\nfurther ado, let's talk about the main topic."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4710,21 +4748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「さすがドクサさんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　早速だけど本題について話させてもらうよ」"
+                                "Guild Leader Narsa: I want you to go to the Mucos region\nto search for the missing merchant Eisa and not come back\nuntil you find him."
                             ]
                         },
                         {
@@ -4735,34 +4759,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「行方不明になった商人エイサを探して欲しい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ミュコス地方に行かせてから帰ってこないんだ」"
+                                ""
                             ]
                         },
                         {
@@ -4793,21 +4793,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I see... Where exactly did he head to in the Mucos\nregion?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるほど……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ミュコス地方のどこに向かわれたんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -4831,14 +4831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Guild Leader Narsa: Um, well... in the Mucos region..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えーと、それはね……ミュコスの……」"
+                                ""
                             ]
                         },
                         {
@@ -4876,21 +4876,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I'll change the question. Do you have\nany idea where he might have gone missing?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「質問を変えますわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　行方不明になった心当たりがありますか？」"
+                                ""
                             ]
                         },
                         {
@@ -4921,14 +4921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: For example, he might have been involved\nin human trafficking..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「例えば人身売買にあった……とか」"
+                                ""
                             ]
                         },
                         {
@@ -4968,21 +4968,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Guild Leader Narsa: Th-That's not true! That child, of all\npeople, would never...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、そんなことはない！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの子に限ってそんなことは……！」"
+                                ""
                             ]
                         },
                         {
@@ -5013,21 +5013,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like something is being hidden. Can you\nplease tell us everything honestly?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何か隠されているみたいですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　素直にすべてのことを話していただけますか？」"
+                                ""
                             ]
                         },
                         {
@@ -5075,21 +5075,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Guild Leader Narsa: There's a slightly unusual request. I\nsent Eisa to the Mucos region's Thieves Market."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ちょっと特殊な依頼があってね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　エイサをミュコスの泥棒市に行かせたんだよ」"
+                                ""
                             ]
                         },
                         {
@@ -5113,21 +5113,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Guild Leader Narsa: Even though the requested items have\narrived, the crucial Eisa hasn't returned..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「頼んでいたものは届いたのに"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　肝心のエイサが帰ってこないんだ……」"
+                                ""
                             ]
                         },
                         {
@@ -5158,21 +5158,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's a name that doesn't evoke any sense of\nintelligence. It's easy to tell that it's a worthless\nplace."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「知性を感じない名前ですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ろくでもない場所だと簡単にわかりますよ」"
+                                ""
                             ]
                         },
                         {
@@ -5203,21 +5203,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I've heard about it from the guild leader! It's\na place where thieves and bandits sell stolen goods!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「団長から聞いたことあります！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　盗賊や山賊が盗品を売る場所だって！」"
+                                ""
                             ]
                         },
                         {
@@ -5248,21 +5248,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please tell us the location. I want to start the\nsearch from the Thieves Market first."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「場所を教えてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まずは泥棒市から捜索を開始したいと思います」"
+                                ""
                             ]
                         },
                         {
@@ -5286,21 +5286,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Guild Leader Narsa: The Thieves Market is located in the\nslums of the Mucos region. Eisa is a valuable member of our\nguild, please help us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「泥棒市はミュコス地方のスラム街にある"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　エイサは大切な商団の仲間なんだ、頼むよ」"
+                                ""
                             ]
                         },
                         {
@@ -5331,21 +5331,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, I will definitely bring Eisa back here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　必ずエイサさんをここに連れて帰ります」"
+                                ""
                             ]
                         },
                         {
@@ -5522,6 +5522,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Area Liberation\\c[18]\\CL Mucos Region / Slums of the\nDefeated Soldiers\\c[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5529,14 +5536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\CLミュコス地方 / 敗残兵のスラム\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -5635,21 +5635,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Commercial Guild Leader Narsa: I apologize for hiding it,\nbut I want you to definitely help rescue our member, Aisa."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「隠すような真似をして悪かったよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　うちのエイサを必ず助け出して欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -6231,14 +6231,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Did you bring Eisa back with you, Chief of the Merchant\nGuild?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「エイサを連れて帰ってくれたのかい！？」"
+                                ""
                             ]
                         },
                         {
@@ -6262,21 +6262,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I think Eisa-san will wake up soon. There's something\nI want to confirm with her."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もう目を覚ますと思います"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　エイサさんに確認をしたいことがあります」"
+                                ""
                             ]
                         },
                         {
@@ -6440,14 +6440,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Chief of the Merchant Guild, Nursa: Eisa... I'm really glad\nyou're safe."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「エイサ……本当に無事でよかったよ」"
+                                ""
                             ]
                         },
                         {
@@ -6478,21 +6478,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人エイサ"
+                                "Merchant Eisa: I have faint memories, and I apologize for\ncausing trouble to both the guild leader and everyone else."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「薄っすらと記憶があって"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　団長にも皆さんにもご迷惑をおかけしました」"
+                                ""
                             ]
                         },
                         {
@@ -6523,21 +6523,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I collected the clothes. Can we be sure that this\nincident was caused by those clothes?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「服は回収させてもらいました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今回の騒動はあの服が原因で間違いないでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6561,21 +6561,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人エイサ"
+                                "Merchant Eisa: There is no mistake, it was love at first\nsight... It wasn't something as simple as that."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「間違いありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　一目惚れ……そんな生易しいものではありませんでした」"
+                                ""
                             ]
                         },
                         {
@@ -6599,21 +6599,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人エイサ"
+                                "Merchant Eisa: The closest expression would be 'entranced'.\nFrom the moment I saw those clothes, I felt like I was\ncompletely under their control."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魅入られたという表現が一番近いです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの服を見た瞬間から支配されてしまった感じです」"
+                                ""
                             ]
                         },
                         {
@@ -6644,21 +6644,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It might be related to the enchanting demon\nNamudo. It's possible that it wasn't just a coincidence that\nI was in Namudo's cave."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魅惑の悪魔ナムドに関係するかもしれません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ナムドの洞窟にいたのも偶然ではないかもしれませんね」"
+                                ""
                             ]
                         },
                         {
@@ -6682,21 +6682,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Chief of the Merchant Guild, Nursa: Would you take this\ndangerous item? We wouldn't be able to manage it ourselves."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「危険な代物ならもらってくれないかな？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちじゃ管理しきれないだろうからさ」"
+                                ""
                             ]
                         },
                         {
@@ -6884,21 +6884,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人エイサ"
+                                "Merchant Eisa: Um... too tall, too short, a little\ndifferent..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えーと……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　背が大きすぎ、背が小さすぎ、ちょっと違う……」"
+                                ""
                             ]
                         },
                         {
@@ -6922,21 +6922,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人エイサ"
+                                "Merchant Eisa: As I thought, you're the most suitable one!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やっぱりあなたが一番相応しいかな！」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　"
+                                ""
                             ]
                         },
                         {
@@ -7036,14 +7036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Oh my, is it me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あらあら、わたくしですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7074,21 +7074,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人エイサ"
+                                "Merchant Eisa: I love clothes in the first place, and I\nfeel like these clothes want to be worn by you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私は服がそもそも大好きなの"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この服はあなたに着られたがっている気がする」"
+                                ""
                             ]
                         },
                         {
@@ -7150,14 +7150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: ...Are you saying I'm too short!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……背が小さすぎってボクのことですかぁ！？」"
+                                ""
                             ]
                         },
                         {
@@ -7226,14 +7226,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I'm too tall... ugh, it's true though."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「背が大きすぎ……うぅ、確かにそうですけどぉ」"
+                                ""
                             ]
                         },
                         {
@@ -7271,14 +7271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Then, I will make use of it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「では使わせていただきますわ」"
+                                ""
                             ]
                         },
                         {
@@ -7334,21 +7334,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Chief of the Merchant Guild, Nursa: I truly caused you\ntrouble. As for the reward, I will make an additional\npayment."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当に迷惑をかけたね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　報酬については追加で支払いをさせてもらうよ」"
+                                ""
                             ]
                         },
                         {
@@ -7398,21 +7398,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人エイサ"
+                                "Merchant Eisa: Thank you so much. I really like the\nclothes, so please come and show them to me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当にありがとうございました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　その服自体は気に入っているので見せに来てくださいね」"
+                                ""
                             ]
                         },
                         {
@@ -7639,21 +7639,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商団団長ナーサ"
+                                "Commercial Guild Leader Narsa: I truly regret it. I won't\naccept any more requests for finding strange ingredients."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当に反省しているよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　妙な食材探しの依頼なんて今後は受けないよ」"
+                                ""
                             ]
                         },
                         {
@@ -8290,21 +8290,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　商人エイサ"
+                                "Merchant Aisa: Hehe, it suits you very well! I think it's\nmore fitting for you to wear it than for me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「ふふ、すごく似合っているね！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　　私よりもあなたが着るのが相応しいと思う」"
+                                ""
                             ]
                         },
                         {
@@ -8328,14 +8328,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　商人エイサ"
+                                "Merchant Aisa: I'll give you something interesting that I\nfound at the thief market."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「泥棒市で見つけた面白そうなものをあげるね」"
+                                ""
                             ]
                         },
                         {
@@ -8407,21 +8407,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人エイサ"
+                                "Merchant Aisa: Thank you for helping me! Thanks to you, I\ncan continue doing the job I love."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「助けてくれてありがとう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　おかげで大好きな商売の仕事ができるわ」"
+                                ""
                             ]
                         },
                         {

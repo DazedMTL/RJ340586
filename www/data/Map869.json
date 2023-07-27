@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "古えの墳墓入口",
+    "displayName": "Entrance to the Ancient Tomb",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6039,21 +6039,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "The one-armed Opro, seeing numerous skilled warriors who\nwere invited by King Lex to join the Imperial Army but\ndeclined, thinks that the old soldiers are unnecessary."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「レクス王から帝国軍に誘われたが辞退した"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　数多の優秀な戦士たちを見て老兵は不要と思ってな」"
+                                ""
                             ]
                         },
                         {
@@ -6084,21 +6084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「優秀な戦士の筆頭はお前たちだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あの場所で共に戦えたことを誇りに思うよ」"
+                                "One-armed Opro: You guys are the leading skilled warriors.\nI'm proud to have fought alongside you in that place."
                             ]
                         },
                         {
@@ -6106,30 +6092,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　謎の生物"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ぷーす！　ぷーす！」"
                             ]
                         },
                         {
@@ -6160,14 +6122,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　謎の生物"
+                                "Mysterious creature: Poo! Poo!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おーぷ！　おーぷ！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mysterious creature: Opro! Opro!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6205,31 +6205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【隻腕のオプロのその後】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "古えの遺跡を拠点にここで暮らす生物たちを守り続けた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食料調達の際に依頼を頼まれると渋々ながら怪物狩りを行った。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
+                                "\\CL 【The Aftermath of the One-Armed Opro】Opro, who had made\nthe ancient ruins their base and continued to protect the\ncreatures living here, reluctantly went monster hunting when\nasked for help with procuring food."
                             ]
                         },
                         {
@@ -6243,14 +6219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL隻腕の大剣使いというビジュアルは多くの芸術家を魅了した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その人生を描いた絵画や物語は、少年たちの憧れとなる。"
+                                ""
                             ]
                         },
                         {
@@ -6261,6 +6230,13 @@
                                 0,
                                 1,
                                 2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL The visual of the one-armed swordsman has captivated\nmany artists. Paintings and stories depicting their life\nbecome the dreams of young boys."
                             ]
                         },
                         {
@@ -6274,7 +6250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL作品数はオプロが憧れたギルド長プルースを超える数となった。"
+                                ""
                             ]
                         },
                         {
@@ -6291,21 +6267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL【謎の生物？のその後】"
+                                "\\CL The number of works surpassed the guild master Pruce,\nwhom Opro admired."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かなりの知性があると思われる生物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オプロにかなり懐いているようで「おーぷ」と呼んでいる。"
+                                ""
                             ]
                         },
                         {
@@ -6316,6 +6285,13 @@
                                 0,
                                 1,
                                 2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL 【The Aftermath of the Mysterious Creature?】The creature,\nwhich seems to possess considerable intelligence, appears to\nbe quite fond of Opro and calls them Opro."
                             ]
                         },
                         {
@@ -6329,14 +6305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL古えの遺跡でオプロが死亡した後は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　初代ギルド長プルースの墓の横にオプロの墓を作り出した。"
+                                ""
                             ]
                         },
                         {
@@ -6353,6 +6322,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL After Opro's death in the ancient ruins, a grave for\nOpro was created next to the tomb of the first guild master,\nPruce."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -6360,7 +6336,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL長きに渡りオプロの象徴である大剣を守り続けたという。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\CL It is said that Opro, who protected the symbol of the\ngreat sword for a long time."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6600,14 +6600,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "You won't be able to come back, but are you really going to\nmove?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　戻ってくることはできませんが本当に移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -6674,14 +6674,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (We haven't talked yet, have we?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（まだ話したりませんね）"
+                                ""
                             ]
                         },
                         {
@@ -7574,21 +7574,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Before fighting the ogres... my life was just running\naway, if we hadn't met in the forest at night."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「オーガと戦う前に……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　夜の森で出会っていなければ逃げ続けるだけの人生でした」"
+                                ""
                             ]
                         },
                         {
@@ -7619,21 +7619,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: If I hadn't met you, I wouldn't have been\nable to come here and keep my promise to my friends."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わしもお前と出会っていなければ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ここに来て、友たちとの誓いを守ることができなかった」"
+                                ""
                             ]
                         },
                         {
@@ -7664,21 +7664,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: Life is a combination of chance and\ninevitability, but it was your own courage that made you\ndecide to fight."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「人生とは偶然と必然の重なり合いだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　だが、戦うことを決めたのはお前自身の勇気だ」"
+                                ""
                             ]
                         },
                         {
@@ -7723,21 +7723,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: A greatsword imbued with magic power... Hmm, how\ncan I do it without a crystal..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「魔力を帯びた大剣……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　う〜ん、クリスタルもなしにどうやって……」"
+                                ""
                             ]
                         },
                         {
@@ -7768,21 +7768,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: Isn't it the job of your magic academy to\nunravel and put into practical use things like this?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「こういったものを解明し実用化する"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　それが君たち魔法アカデミーの仕事じゃないのか？」"
+                                ""
                             ]
                         },
                         {
@@ -7813,21 +7813,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Of course! Leave it to me! I have plenty of\ncollaborators outside of the academy, you know!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「と、当然ですよっ！　まかせてください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ボクにはアカデミー以外の協力者がいっぱいいますからね！」"
+                                ""
                             ]
                         },
                         {
@@ -7872,21 +7872,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Thanks to Opro-san, I was able to come here and\nnow I know where I came from!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「オプロさんのおかげで"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ここに来られて自分がどこから来たのかわかりました！」"
+                                ""
                             ]
                         },
                         {
@@ -7917,21 +7917,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: You might be the strongest, even though\nyou've lost your memories and your hometown, you're still\nliving in a foreign land."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「君が一番強いのかもしれんな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　記憶も故郷も失ったのに異国の地で生きておる」"
+                                ""
                             ]
                         },
                         {
@@ -7962,21 +7962,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Because you all helped me! The captain, Clea-\nsan and the others, and also Opro-san!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「助けてもらったからですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　団長にも、クレアさんたちにも、オプロさんにもです！」"
+                                ""
                             ]
                         },
                         {
@@ -8021,21 +8021,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: As a priestess, I intend to live by\natoning for various things from the past."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わたくしは僧侶として"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　過去の様々なことの償いをして生きていこうと思います」"
+                                ""
                             ]
                         },
                         {
@@ -8066,21 +8066,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: The shadows will always chase after you,\nbut don't forget that there is a warm sunny spot around\nyou."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「影とはどこまでも追いかけてくるものだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　君の周りには温かな陽だまりがあることを忘れんでくれ」"
+                                ""
                             ]
                         },
                         {
@@ -8111,21 +8111,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Sometimes they shine too brightly, but I\nwant to live together with them without averting my eyes."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「時に彼女たちは眩しすぎますが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　目をそらさずに共に生きていきたいと思いますわ」"
+                                ""
                             ]
                         },
                         {
@@ -8247,14 +8247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　謎の生物"
+                                "Mysterious creature: Oop! Oop!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おーぷ！　おーぷ！」"
+                                ""
                             ]
                         },
                         {
@@ -8292,14 +8292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Is oop referring to Opro-san?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（おーぷはオプロさんのことでしょうか？）"
+                                ""
                             ]
                         },
                         {

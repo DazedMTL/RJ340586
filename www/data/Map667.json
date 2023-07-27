@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ミュコス漁場",
+    "displayName": "Myukos Fishing Grounds",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6397,21 +6397,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: ...I can faintly smell blood. There might be\nsomething happening inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「……微かに血の匂いがします"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　もしかしたら中で何かが起きているかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -6442,14 +6442,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, let's prepare to fight and go inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わかりました、戦う準備をして入りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -6494,14 +6494,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Shall we enter the fisherman's hut?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　漁師小屋に入りますか？"
+                                ""
                             ]
                         },
                         {
@@ -6547,14 +6547,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6732,14 +6732,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「行きましょう」"
+                                ""
                             ]
                         },
                         {
@@ -8879,21 +8879,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: That fisherman's hut from earlier is\nactually a brothel used by people of high status."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さっきの漁師小屋なんですが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　立場がある人たちが利用する売春宿なんですよ」"
+                                ""
                             ]
                         },
                         {
@@ -8924,21 +8924,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: That corpse was also a fairly wealthy\nnoble... Similar incidents have been occurring frequently in\nthe vicinity of Mucos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの死体もそれなりに裕福な貴族……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　似たような事件がミュコス近郊で多発してやす」"
+                                ""
                             ]
                         },
                         {
@@ -8969,14 +8969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: By the way, did you see the corpse?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ところで死体を見やしたか？」"
+                                ""
                             ]
                         },
                         {
@@ -9014,14 +9014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like their throat was slashed with a sharp\nblade."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「鋭利な刃物で喉を斬られていたようです」"
+                                ""
                             ]
                         },
                         {
@@ -9045,21 +9045,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: It's strange that the method of killing\nis always the same, whether it's nobles or merchants, anyone\ncan be killed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「殺しの手口は全部同じ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　不思議なのが貴族も商人も誰でも殺すってことでさぁ」"
+                                ""
                             ]
                         },
                         {
@@ -9090,14 +9090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Because of that, Mucos is on the verge\nof exploding."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そのせいでミュコスは一触即発ですよ」"
+                                ""
                             ]
                         },
                         {
@@ -9135,14 +9135,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Do you have any leads on the culprit?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「犯人の目処はついているのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -9180,21 +9180,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: I have no idea... There are various\ntheories, but I suspect it's the same culprit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それがさっぱりで……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いろいろ説がありますが私は同一犯だと睨んでやす」"
+                                ""
                             ]
                         },
                         {
@@ -9246,21 +9246,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: There's an organization that simply\nkills without taking any valuables, they're called the\n'Dagger of Deirei' as a nickname."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ただ殺すだけ、金品も一切奪わない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　組織では【デイレーの短刀】ってあだ名で呼んでますよ」"
+                                ""
                             ]
                         },
                         {
@@ -9291,14 +9291,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: By the way, why are you here?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ところで、なんでこんなところに？」"
+                                ""
                             ]
                         },
                         {
@@ -9336,14 +9336,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I'll explain it to you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは、あたしから説明します！」"
+                                ""
                             ]
                         },
                         {
@@ -9412,21 +9412,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: So they're targeting beastmen nobles...\nI'm not familiar with the Oros region, so I can't say for\nsure."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「獣人を狙う貴族ですかぁ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オロス地方は専門外ですし確かなことは言えやせんが」"
+                                ""
                             ]
                         },
                         {
@@ -9457,21 +9457,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: The most likely possibility would be the\ngolden city of Dromos. There are many vulgar people there\nwho let money speak for them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「可能性が高いのは黄金の街ドロモスでしょうねぇ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あそこは金にものを言わせる下品な輩が多いですから」"
+                                ""
                             ]
                         },
                         {
@@ -9502,21 +9502,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: For the time being, I plan to\ninvestigate at the fishing grounds. If anything happens,\nplease come here and I should be able to meet you easily."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「当面は漁場で調査をするつもりです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何かあればここらに来ていただければ会えると思いやすよ」"
+                                ""
                             ]
                         },
                         {
@@ -9547,21 +9547,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Well then, I'll take care of disposing\nof the bodies and compensating my subordinates around here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「では私はこのへんで……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　死体の処理と部下の手当をしてやらないとね」"
+                                ""
                             ]
                         },
                         {
@@ -9755,14 +9755,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Our tools are sharp blades, and our targets are\nonly the wealthy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「道具は鋭利な刃物、相手はお金持ちばかり」"
+                                ""
                             ]
                         },
                         {
@@ -9786,14 +9786,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: The culprit... it's not the captain, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「犯人って……団長じゃないですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -9831,14 +9831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Wouldn't Nora-san understand that the most?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それはノラさんが一番わかっているのでは？」"
+                                ""
                             ]
                         },
                         {
@@ -9876,21 +9876,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: He must have sworn to never betray Nora-\nchan since the disbandment of the Emma Thief Guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「絶対にノラちゃんを裏切らない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　エマ盗賊団の解散から彼はそう誓ったはずですわ」"
+                                ""
                             ]
                         },
                         {
@@ -9921,21 +9921,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: He's the one who was investigating Oros! He\nwouldn't commit crimes in Mucos for no reason!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オロスを調査していた人ですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わざわざミュコスで犯罪なんてしませんよ！」"
+                                ""
                             ]
                         },
                         {
@@ -9966,14 +9966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: That's right, thank you very much!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうですよね、ありがとうございます！」"
+                                ""
                             ]
                         },
                         {
@@ -10063,14 +10063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I also absolutely absolutely believe in the\ncaptain!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あたしも団長を絶対に絶対に信じます！」"
+                                ""
                             ]
                         },
                         {
@@ -10108,21 +10108,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We didn't get any useful information. Let's wait for\na message from Clevo-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「有力な情報は得られませんでしたね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちはクレヴォさんからの連絡を待ちましょう」"
+                                ""
                             ]
                         },
                         {
@@ -10153,14 +10153,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes! Understood!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はいっ！　わかりましたぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -11553,21 +11553,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　船乗りの男"
+                                "Male Sailor: Since we've finally come ashore, let's buy a\nwoman and have some fun."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「せっかく陸に上がったんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いっちょ女でも買ってしけこむとするか」"
+                                ""
                             ]
                         },
                         {
@@ -11644,21 +11644,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　海人の男"
+                                "Male Fisherman: This is a fishing spot. If you want to go\nswimming, go to Lepton!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここは漁場だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　海水浴ならレプトンにでも行ってくれ！」"
+                                ""
                             ]
                         },
                         {

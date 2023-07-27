@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マラコ村",
+    "displayName": "Marako Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 58,
@@ -17104,7 +17104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　倉庫に入りますか？"
+                                "Do you want to enter the warehouse?"
                             ]
                         },
                         {
@@ -17150,14 +17150,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before we do that.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしましょう）"
+                                ""
                             ]
                         },
                         {
@@ -17258,14 +17258,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm ready. Let's go inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「準備ができました。中に入りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -18134,14 +18134,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: The key is unlocked...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「鍵が開いています……！」"
+                                ""
                             ]
                         },
                         {
@@ -18165,21 +18165,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: It might be better to consider it as a trap\nand prepare before entering."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「罠と考えた方がいいかもしれない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　準備をしてから中に入るようにしよう」"
+                                ""
                             ]
                         },
                         {
@@ -18203,7 +18203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　倉庫に入りますか？"
+                                "Shall we enter the warehouse?"
                             ]
                         },
                         {
@@ -18249,14 +18249,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare before entering)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしましょう）"
+                                ""
                             ]
                         },
                         {
@@ -18389,14 +18389,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm ready. Let's go inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「準備ができました。中に入りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -18921,14 +18921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm ready. Let's go inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「準備ができました。中に入りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -19271,14 +19271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: In the end, it seems like I didn't know anything."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「結局、何も知らなかったみたいですね」"
+                                ""
                             ]
                         },
                         {
@@ -19302,21 +19302,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: Yeah, I think we should leave\ndealing with them, who are being used by Psema, to the\nguards here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うん、プセマに利用されているだけだと思う"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　彼らのことはここの衛兵の人たちに任せよう」"
+                                ""
                             ]
                         },
                         {
@@ -19366,14 +19366,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Fake Adventurer Psema: Hahaha, it's been a while since I've\nseen those faces!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ははは、随分と久々に見た顔だなぁっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -19641,21 +19641,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Fake Adventurer Psema: Those adventurers from the\nAdventurer's Guild are so persistent. They always try to\ninterfere with my business."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルドの連中はしつこいなぁ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いつだって俺様の商売を邪魔しようとしやがる」"
+                                ""
                             ]
                         },
                         {
@@ -19679,14 +19679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Fake Adventurer Psema: Well, it's good to know who my\nenemies are."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まぁ、俺の敵が誰かわかってよかったよ」"
+                                ""
                             ]
                         },
                         {
@@ -19710,14 +19710,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: ...Wait."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……待て」"
+                                ""
                             ]
                         },
                         {
@@ -19998,21 +19998,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Fake Adventurer Psema: Who's waiting for you! This time,\nI'll embrace you, Clea-chan!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「誰が待つかよっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今度は抱いてやるからな、クレアちゃんっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -20150,14 +20150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's find a way to catch up!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「追いつく方法を探しましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -20219,14 +20219,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: They must have calculated that I\nwouldn't be able to catch up and provoked me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「追いつけないことを計算して挑発してきたはず」"
+                                ""
                             ]
                         },
                         {
@@ -20243,21 +20243,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: Now it's clear that the man who\nknew who our enemies were is an enemy of the Empire. And\nalso an enemy of our guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これでお互いに敵が誰かはっきりした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの男が帝国の敵。それに私たちギルドの敵」"
+                                ""
                             ]
                         },
                         {
@@ -20312,14 +20312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, I will go with you when we fight against Psema."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、プセマと戦う時は私も一緒にいきます」"
+                                ""
                             ]
                         },
                         {
@@ -20343,14 +20343,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: Let's go report to the guild\nleader."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ギルド長に報告しにいこう」"
+                                ""
                             ]
                         },
                         {
@@ -21891,21 +21891,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　呂律が回らない男"
+                                "A man with a speech impediment: 'Hehe... Ahh... With this,\nI can forget about any unpleasant things...'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いひひ……あぁ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これさえあればどんな嫌なことも忘れられる……」"
+                                ""
                             ]
                         },
                         {
@@ -21982,21 +21982,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ミュコスの商人"
+                                "Mucos Merchant: The Valie region lacks vitality. I miss the\nblue sea and blue sky of Mucos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バリエ地方は活気がないね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ミュコスの青い海と青い空が恋しいよ」"
+                                ""
                             ]
                         },
                         {
@@ -22064,21 +22064,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ミュコスの商人"
+                                "Mucos Merchant: The Valie region lacks vitality. I miss the\nblue sea and blue sky of Mucos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バリエ地方は活気がないね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ミュコスの青い海と青い空が恋しいよ」"
+                                ""
                             ]
                         },
                         {
@@ -22155,21 +22155,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酔っ払い"
+                                "Drunkard: I was the greatest miner! Even now, I'm still the\ngreatest man as long as I have crystals!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺は最高の鉱夫だったんだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クリスタルがあればいまだって最高の男さ！」"
+                                ""
                             ]
                         },
                         {
@@ -22246,21 +22246,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　くたびれた娼婦"
+                                "Tired Prostitute: Hey, you're a woman... Don't work in my\nterritory, please!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「っち、女か……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしの縄張りで仕事しないでおくれよ！」"
+                                ""
                             ]
                         },
                         {
@@ -22379,21 +22379,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　くたびれた娼婦"
+                                "Tired Prostitute: Oh, it's you guys!? I haven't done\nanything strange since then!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、あんたたちは！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あれから変なことはしてないよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -25249,21 +25249,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　風来坊の男"
+                                "Wandering man: I may be an outsider, but even I have to say\nthat this place feels gloomy and it seems like luck is about\nto run out."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よそ者の俺が言うのもあれだけど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この場所は辛気臭くてツキが落ちそうだよ」"
+                                ""
                             ]
                         },
                         {
@@ -25331,21 +25331,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　風来坊の男"
+                                "Wandering man: Even though I'm an outsider, I have to say\nthat this place feels gloomy and it seems like luck is about\nto run out."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よそ者の俺が言うのもあれだけど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この場所は辛気臭くてツキが落ちそうだよ」"
+                                ""
                             ]
                         },
                         {

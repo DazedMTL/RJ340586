@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下図書館",
+    "displayName": "Underground Library",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -2900,21 +2900,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: There are an incredible number of books! Can I\nstay overnight... I mean, can I stay for a few nights!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「とんでもない本の数ですね！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　泊まり込み……いえ何泊かしてもいいですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -2945,14 +2945,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please prioritize the requests above all else."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あくまで依頼優先でお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -2990,21 +2990,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いレソ"
+                                "Mage Relm: The books here have been collected specifically\nfor their importance in the history of the Great Rock\nCastle."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここの書籍は大岩の城の歴史の中で"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　特に重要とされたものを集めたものになっている」"
+                                ""
                             ]
                         },
                         {
@@ -3028,21 +3028,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いレソ"
+                                "Mage Relm: I have performed magical processing to ensure\nthat they are not damaged or soiled, but it seems like\neveryone here might be able to break through it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「絶対に傷つけたり汚したりしないようにして欲しい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法による処理をしているが皆さんなら突破しそうだ」"
+                                ""
                             ]
                         },
                         {
@@ -3073,14 +3073,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Nora-chan and I will wait at the edge."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わたくしとノラちゃんは端で待っていましょう」"
+                                ""
                             ]
                         },
                         {
@@ -3118,14 +3118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes! I might trip and break something!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい！　転んで壊しちゃいそうです！」"
+                                ""
                             ]
                         },
                         {
@@ -3163,14 +3163,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いレソ"
+                                "Mage Relm: The far right end is where the negotiator\nProposhi was dealt with."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「奥の右端が交渉人プロポシを扱った場所だ」"
+                                ""
                             ]
                         },
                         {
@@ -3429,14 +3429,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I can't lose either!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクも負けていられませんよ！」"
+                                ""
                             ]
                         },
                         {
@@ -3686,14 +3686,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いレソ"
+                                "Mage Relm: Clea-san, I would like you to protect the\ndocuments, please."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアさん、どうか書類を守って欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -3731,14 +3731,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I doubt if I can win against both of them, but I will\nhandle it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「二人相手に勝てるか疑問ですが善処します」"
+                                ""
                             ]
                         },
                         {
@@ -4039,21 +4039,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: As expected of a place called the [Mycos\nAcademy], there is a wealth of materials in a different\ndirection from the Magic Academy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さすが【ミュコスのアカデミー】と呼ばれる場所ですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法アカデミーとは違った方向の資料が充実しています」"
+                                ""
                             ]
                         },
                         {
@@ -4077,21 +4077,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: What's interesting is that there are many\ndocuments here that are close to biographies. Not only do\nthey cover magical theory, but also a lot about human\nemotions."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「興味深いのが人物伝に近い資料が多いことですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法理論はもちろんですが人間の感情に関するものも多い」"
+                                ""
                             ]
                         },
                         {
@@ -4122,21 +4122,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: Negotiator Proposhi was a master of rhetoric\nand won the establishment of the Adventurer's Guild from the\ncautious King Pharmaco."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「交渉人プロポシは話術の達人で"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　慎重王ファルマコから冒険者ギルドの設立を勝ち取った」"
+                                ""
                             ]
                         },
                         {
@@ -4167,14 +4167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I see, that might be influencing it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるほど、そういった点が影響しているかもしれませんね」"
+                                ""
                             ]
                         },
                         {
@@ -4212,14 +4212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: How was the Adventurer's Guild established?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルドはどういう経緯で発足したんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -4257,21 +4257,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: It is said that the Imperial Army's\nreconnaissance unit served as the precursor to the Guild,\nwith members skilled in negotiation, reconnaissance,\nexploration, investigation, and combat."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帝国軍の斥候部隊がギルドの前身と言われている"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　交渉、斥候、探索、調査、戦闘などに秀でた構成員がいた」"
+                                ""
                             ]
                         },
                         {
@@ -4302,14 +4302,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: There seems to be something that connects to the\ncurrent Adventurer's Guild, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いまの冒険者ギルドに通じるものがありますね」"
+                                ""
                             ]
                         },
                         {
@@ -4347,21 +4347,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: It is said that the form of accepting requests\nwas established by the second Guild Master, Piste."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「依頼を受けるという形態になったのは"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　二代目ギルド長のピストシからだと言われている」"
+                                ""
                             ]
                         },
                         {
@@ -4392,21 +4392,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Celis-san, you really know a lot. It's like\nyou're a researcher from the Magic Academy..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「セリスさんは本当に詳しいですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まるで魔法アカデミーの研究員みたいですよ……」"
+                                ""
                             ]
                         },
                         {
@@ -4439,21 +4439,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: P-Please look! It's written about sending out a\nPulse!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「み、見てください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　プルースを送り出したことについて書かれていますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -4588,21 +4588,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: The current place name is slightly different...\nbut I believe it is near the village of Irini."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いまと地名が少し異なりますが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　おそらくですがイリニ村付近だと思います」"
+                                ""
                             ]
                         },
                         {
@@ -4633,14 +4633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It matches with Opuro-san's information, doesn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オプロさんの情報とも一致しますね」"
+                                ""
                             ]
                         },
                         {
@@ -4709,14 +4709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: They said that you can post requests on the\nCamps bulletin board."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カンプスの掲示板に依頼を出すと行っていた」"
+                                ""
                             ]
                         },
                         {
@@ -4747,14 +4747,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: Let's go quickly."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はやく行こう」"
+                                ""
                             ]
                         },
                         {
@@ -5088,21 +5088,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Indeed, it's like a swift wind... Let's wake the\ntwo of them up as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まさしく疾風ですね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクたちも二人を起こしていきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -5366,14 +5366,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Celis-san's dream that she didn't tell me about that\nday...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（あの日、教えてくれなかったセリスさんの夢……）"
+                                ""
                             ]
                         },
                         {
@@ -5404,14 +5404,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Could it be about the whereabouts of the first Guild\nMaster?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（もしかして、初代ギルド長の行方についてなんでしょうか？）"
+                                ""
                             ]
                         },
                         {

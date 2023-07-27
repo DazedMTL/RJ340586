@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "勇者の遺跡最奥",
+    "displayName": "Deepest part of the Hero's Ruins",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -15952,14 +15952,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                ""
                             ]
                         },
                         {
@@ -16019,14 +16019,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -16843,14 +16843,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It really looks just like the other ruins, doesn't\nit?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当に他の遺跡とそっくりですね」"
+                                ""
                             ]
                         },
                         {
@@ -16888,21 +16888,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: So... are there statues like before further\nahead?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ということは……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この先に前みたいな石像がいるんですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -16933,21 +16933,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: They said this place is special. There\nmight be something different here compared to the ones we've\nseen before."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここは特別な場所だと言っていましたわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いままでとは違う何かがあるのかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -17001,21 +17001,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: It's a statue of the goddess Actina...\nIt's the most beautiful one I've seen so far."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「女神アクティナの石像ですわね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いままで見た中でもっとも美しいものですわ」"
+                                ""
                             ]
                         },
                         {
@@ -17062,14 +17062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: This is a training ground created by the goddess\nActina for the hero."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここは勇者のために女神アクティナが作った訓練場」"
+                                ""
                             ]
                         },
                         {
@@ -17107,14 +17107,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: If that's the case, then our opponents will\nbe..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうなるとボクたちの相手は……」"
+                                ""
                             ]
                         },
                         {
@@ -17209,14 +17209,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's a statue of the goddess Actina!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「女神アクティナの石像！」"
+                                ""
                             ]
                         },
                         {
@@ -17254,14 +17254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I wonder if our powers will work here... Let's give\nit a try!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちのちからが通用するのか……試してみましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -17361,14 +17361,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Did you drop something... Is it a piece of cloth?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何かを落としましたね……布でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -17406,14 +17406,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: After all the effort we put in, is this all we\nget!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これだけ頑張ったのに、これだけですかぁ！？」"
+                                ""
                             ]
                         },
                         {
@@ -17451,21 +17451,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: There might be an amazing function here! It's\nsomething we obtained in a place created by the real goddess\nherself!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すごい機能があるかもしれませんよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本物の女神が作り上げた場所で入手したものですから！」"
+                                ""
                             ]
                         },
                         {
@@ -17496,21 +17496,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: There might be some legends or stories\nhere. Shouldn't we go and report to the shrine maidens\nfirst?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何か伝承があるかもしれませんわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まずは巫女様たちに報告にいきませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -17541,14 +17541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, let's go and talk about it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうですね、お話にいきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -17764,21 +17764,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: The appearance of the magic circle is exactly the\nsame. However, the statue of Actina is not damaged."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法陣の出現もまったく同じですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ただ、アクティナの石像は破損していません」"
+                                ""
                             ]
                         },
                         {
@@ -17809,21 +17809,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Unlike other places, this might be a one-time\nonly location."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「他の場所と違って"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここは一度だけの場所なのかもしれませんね」"
+                                ""
                             ]
                         },
                         {

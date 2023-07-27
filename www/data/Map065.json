@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "アルケー村 民家",
+    "displayName": "Arke Village - Residential House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3770,14 +3770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　農夫の老人"
+                                "Old Farmer: It may seem like an empty place, but this is a\nfulfilled place."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何もない場所だが、ここは満たされた場所だよ」"
+                                ""
                             ]
                         },
                         {
@@ -3887,21 +3887,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　農夫の老人"
+                                "Old Farmer: Oh, it's a blessing to meet a priest. I can no\nlonger move my legs and go to the church."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おぉ、僧侶様に会えるとはありがたい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もう足腰が動かなくて教会に行くことができないから」"
+                                ""
                             ]
                         },
                         {
@@ -3925,21 +3925,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　農夫の老人"
+                                "Old Farmer: The Terios religion is a wonderful thing. To\nlive without forgetting faith is not the way of an imperial\nperson."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「テリオス教は素晴らしいものだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　信仰心を忘れて生きることは帝国人の姿ではないよ」"
+                                ""
                             ]
                         },
                         {
@@ -4039,14 +4039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　農夫の老人"
+                                "Old Farmer: I feel like the empire is starting to forget\nwhat truly matters."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帝国は本当に大切なものを忘れ始めている気がするよ」"
+                                ""
                             ]
                         },
                         {
@@ -4327,21 +4327,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　農夫の妻"
+                                "Farmer's Wife: My husband is always caught up in\ncomplicated things. Please be someone he can talk to."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うちの人は小難しいことばかり"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　良ければ話し相手になってあげてください」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "敗残兵たちのスラム テント内",
+    "displayName": "Slums of the Defeated Soldiers - Inside the Tent",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -3920,14 +3920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボロボロの逃亡兵"
+                                "Worn-out fugitive: 'T-This is my hideout! Get out of\nhere!'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、ここは俺の住処だぞ！　出ていってくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -4044,14 +4044,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボロボロの逃亡兵"
+                                "Worn-out fugitive soldier: 'Ugh, will you give me a\ndrink...?'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ、一杯くれるのかい……？」"
+                                ""
                             ]
                         },
                         {
@@ -4153,21 +4153,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボロボロの逃亡兵"
+                                "Worn-out fugitive soldier: My body pain has lessened a bit.\nI'll give it to you instead of letting someone else steal\nit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「少し身体の痛みが軽くなったよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　他の奴に盗まれるくらいならあんたにやるよ」"
+                                ""
                             ]
                         },
                         {
@@ -4267,14 +4267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボロボロの逃亡兵"
+                                "The ragged fugitive: 'There's no doubt that someday I'll be\ndriven out of here too.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いつかはここも追い出されるに違いない」"
+                                ""
                             ]
                         },
                         {

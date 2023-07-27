@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "売春島　酒場・宿屋2F",
+    "displayName": "Prostitution Island, Tavern/Inn 2F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7933,14 +7933,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Could you possibly be the true form of a\nghost...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君がもしかして幽霊の正体かな……？」"
+                                ""
                             ]
                         },
                         {
@@ -8022,21 +8022,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少年ブエノ"
+                                "Boy Bueno: Uwaaah!? P-Please help me, forgive me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うあぁっ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　た、助けてぇ、許してくださいっ！」"
+                                ""
                             ]
                         },
                         {
@@ -8067,21 +8067,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I'm glad you don't seem to be a ghost. Could\nyou tell me why you're here, big sister?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よかった、幽霊じゃないみたいだね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここにいる理由をお姉ちゃんに話してくれないかなぁ？」"
+                                ""
                             ]
                         },
                         {
@@ -8105,21 +8105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少年ブエノ"
+                                "Boy Bueno: I came here to become a mature man because I\nwas being made fun of by my older brothers!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「兄貴たちから馬鹿にされて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺は大人の男になるためにここに来たんだっ！」"
+                                ""
                             ]
                         },
                         {
@@ -8143,21 +8143,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少年ブエノ"
+                                "Boy Bueno: I managed to sneak in by hiding in the luggage,\nbut it's been quite difficult to get out, and also..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「荷物の中に紛れ込んで入れたけど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　出ることはなかなか難しくてさ、それに……」"
+                                ""
                             ]
                         },
                         {
@@ -8190,21 +8190,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少年ブエノ"
+                                "Boy Bueno: Besides, if I go back like this, my older\nbrothers will definitely make fun of me again!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それにこのまま戻ったら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　また兄貴たちに馬鹿にされるに決まっているんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -8228,21 +8228,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少年ブエノ"
+                                "Boy Bueno: Big sister, you're also one of the people here,\nright? Then please make me into a mature man!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お姉ちゃんもここの人なんだろ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だったら俺を大人の男にしてくれよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -8273,14 +8273,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Um... I'm not really one of the people here..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えーっと……あたしは別にここの人じゃ……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Boy Bueno: Just because I'm the youngest... my older\nbrothers always always make fun of me."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8311,21 +8349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少年ブエノ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「俺が末っ子だからって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　兄貴たちはいつもいつも馬鹿にするんだ」"
+                                "Boy Bueno: I don't want to be made fun of anymore..."
                             ]
                         },
                         {
@@ -8333,30 +8357,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少年ブエノ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「もう馬鹿にされるのは嫌なんだよぉ……」"
                             ]
                         },
                         {
@@ -8403,14 +8403,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Can you turn around for a moment?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「少し後ろを向いてもらっていいかな？」"
+                                ""
                             ]
                         },
                         {
@@ -8531,14 +8531,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少年ブエノ"
+                                "Boy Bueno: Uwaaah!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うわぁっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -8576,21 +8576,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I can't make you into an adult, but... I'll do\nsomething a little [mature-like] for you, okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大人にすることはできないけど……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　少しだけ【大人っぽい】ことをしてあげるね？」"
+                                ""
                             ]
                         },
                         {
@@ -8649,7 +8649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -8803,14 +8803,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少年ブエノ"
+                                "Boy Bueno: Even if I say goodbye, how am I supposed to get\nback..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さよならって言ってもどうやって帰れば……」"
+                                ""
                             ]
                         },
                         {
@@ -8848,21 +8848,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Ahaha, I forgot, um... um... what should I do,\nwhat should I do!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あはは、忘れてた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　えーとえーと……どうしよう、どうしよう！」"
+                                ""
                             ]
                         },
                         {
@@ -8933,21 +8933,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I promise I'll let you escape, so will you\ntrust your big sister and listen to what I say?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「絶対に逃してあげるから"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お姉ちゃんを信じて言うことを聞いてくれる？」"
+                                ""
                             ]
                         },
                         {

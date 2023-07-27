@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "<PLM:!Map245_event><PLM不透明度:255>",
+    "displayName": "<PLM:!Map245_event><PLM opacity:255>",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6483,14 +6483,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I can see a big mountain!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大きな山が見えましたよ！」"
+                                ""
                             ]
                         },
                         {
@@ -6514,14 +6514,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Hehe, it seems like we're definitely in the\nright place."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、ここで間違いないみたいですわ」"
+                                ""
                             ]
                         },
                         {
@@ -6538,14 +6538,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: The one in front of us is Mount Monimos,\nthe largest mountain in the empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「正面にあるのが帝国最大の山であるモニモス山ですわ」"
+                                ""
                             ]
                         },
                         {
@@ -6569,14 +6569,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I had heard about it, but it's really big, isn't\nit?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「聞いてはいましたけど大きいですね」"
+                                ""
                             ]
                         },
                         {
@@ -6600,14 +6600,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's get a little closer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もう少し近づいてみましょう」"
+                                ""
                             ]
                         },
                         {
@@ -7039,14 +7039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: That's Mount Monimos... There's a dragon over\nthere..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あれがモニモス山……あそこにドラゴンがいる……」"
+                                ""
                             ]
                         },
                         {
@@ -7063,21 +7063,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (We finally made it here... If we defeat the\ndragon, everyone in the thief guild should be able to find\nhappiness...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（ようやくここまで来た……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドラゴンを倒せば盗賊団のみんなが幸せになれるはず……）"
+                                ""
                             ]
                         },
                         {
@@ -7094,14 +7094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I will definitely obtain the dragon's eye...!)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（絶対にドラゴンの瞳を手に入れるんだ……！）"
+                                ""
                             ]
                         },
                         {
@@ -7118,21 +7118,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (I'm getting closer to my dream! The time has come\nfor me to become a true magician recognized by everyone!)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（夢に大きく近づいている！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　誰もが認める本物の魔法使いになる時が来た！）"
+                                ""
                             ]
                         },
                         {
@@ -7149,21 +7149,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (Even though I should be able to convince them\nthat I'm an Archmage, if we defeat the dragon, I'll be able\nto be with everyone...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（アークメイジだって説得できるはず"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でもドラゴンを倒したら皆さんとは……）"
+                                ""
                             ]
                         },
                         {
@@ -7180,21 +7180,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia (Hehe, I wonder if Eleo-chan would get mad if\nI told her that we're actually going to fight a dragon?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（ドラゴンと本当に戦うことになるなんて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　うふふ、エレオちゃんに話したら怒られちゃうかしら？）"
+                                ""
                             ]
                         },
                         {
@@ -7211,21 +7211,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia (...I can't afford to die for my true purpose,\nwhich is not the dragon extermination.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（……ドラゴン退治は重要じゃない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私の本当の目的のために絶対に死ぬわけにはいかない）"
+                                ""
                             ]
                         },
                         {
@@ -7242,14 +7242,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I've been chasing after the dragon ever since I swore\nrevenge.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（復讐を誓ってからずっとドラゴンを追いかけてきた）"
+                                ""
                             ]
                         },
                         {
@@ -7266,14 +7266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Meeting with Celis-san, joining the Adventurer's\nGuild)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（セリスさんとの出会い、冒険者ギルドへの入会）"
+                                ""
                             ]
                         },
                         {
@@ -7290,14 +7290,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (There have been good things, bad things, and times\nwhen I wanted to cry.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（良いことも、悪いことも、泣きたくなることもあった）"
+                                ""
                             ]
                         },
                         {
@@ -7314,21 +7314,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (My back scar hurts... It reminds me of the bond I had\nwith my family, torn apart by the dragon's claws.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（背中の傷が痛む……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドラゴンの爪で切り裂かれた家族との絆が痛むんだ）"
+                                ""
                             ]
                         },
                         {
@@ -7345,14 +7345,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I will settle this and reclaim everything...!)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（決着をつけてすべて取り戻してみせる……！）"
+                                ""
                             ]
                         },
                         {
@@ -7376,21 +7376,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Let's go back to the Adventurer's Guild and report\nthat we've found the dragon's whereabouts."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……冒険者ギルドに戻りましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドラゴンの居場所を見つけたと報告をしに」"
+                                ""
                             ]
                         },
                         {

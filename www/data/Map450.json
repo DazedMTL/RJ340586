@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "バルク団駐屯地 隠者の家",
+    "displayName": "Bulk Corps Garrison Hermit's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3770,14 +3770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隠者ポスデー"
+                                "Hermit Posday: This place lacks respect for wizards."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この場所は魔法使いに対する敬意が足りん」"
+                                ""
                             ]
                         },
                         {
@@ -4190,14 +4190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I heard the reward is a grimoire, is that true?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「報酬が魔導書と聞きましたが本当ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -4221,21 +4221,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隠者ポスデー"
+                                "Hermit Piste: So you've realized the value of the reward...\nI see, the Crescent Necklace is not just for show, huh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「報酬の価値に気がついたか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　なるほど、三日月のネックレスは伊達ではないか」"
+                                ""
                             ]
                         },
                         {
@@ -4259,14 +4259,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Please tell me whose grimoire it is."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「誰の魔導書か教えてください」"
+                                ""
                             ]
                         },
                         {
@@ -4290,14 +4290,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隠者ポスデー"
+                                "Hermit Piste: The Fool's grimoire... I wonder if it will\nconvey the message?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「愚者の魔導書……それで伝わるかな？」"
+                                ""
                             ]
                         },
                         {
@@ -4399,14 +4399,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Where are you going?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どこにいくんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -4461,14 +4461,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Let's go back, it's a waste of time."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帰りましょう、時間の無駄です」"
+                                ""
                             ]
                         },
                         {
@@ -4485,21 +4485,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: The Fool's grimoire... It is said to have been\nwritten after the collapse of the Kingdom of Basileia--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「愚者の魔導書……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　バシレイア王国崩壊後に書かれたと言われるもので――」"
+                                ""
                             ]
                         },
                         {
@@ -4523,21 +4523,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隠者ポスデー"
+                                "Hermit Piste: The book that recorded the people who were\ndefeated by demons became a grimoire that surpassed the\nrecord book with its overwhelming emotions."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悪魔に敗北した人々を記録した書"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あまりにも強い感情は記録書を超えて魔導書になった」"
+                                ""
                             ]
                         },
                         {
@@ -4585,21 +4585,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隠者ポスデー"
+                                "Hermit Piste: ...You should understand, right? Can't you\nfeel an incredibly strong magical power from the grimoire?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……君ならわかるはずだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔導書から非常に強い魔力を感じないか？」"
+                                ""
                             ]
                         },
                         {
@@ -4684,14 +4684,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: ...What should I do?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……何をすればいいんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -4715,21 +4715,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隠者ポスデー"
+                                "Hermit Piste: In exchange for retrieving the crystal from\nthose who stole my research results."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わしの研究成果を横取りした者たちがいる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　代わりにクリスタルを取り返してきて欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -4800,14 +4800,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: U-Um... Clea-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、あの……クレアさん」"
+                                ""
                             ]
                         },
                         {
@@ -4831,14 +4831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood. I will retrieve it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました。取り返してきます」"
+                                ""
                             ]
                         },
                         {
@@ -4871,21 +4871,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I-Is it really okay!? It's just a detour for\neveryone else."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「い、いいんですか！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　皆さんにとってはただの遠回りなだけなのに」"
+                                ""
                             ]
                         },
                         {
@@ -4940,14 +4940,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: You want to read a book, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「読みたいんですよね、本？」"
+                                ""
                             ]
                         },
                         {
@@ -4964,21 +4964,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I may not understand its value, but if Relm-san wants\nto read it, I will help."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私には価値がわかりませんが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　リルムさんが読みたいのなら協力します」"
+                                ""
                             ]
                         },
                         {
@@ -5002,14 +5002,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: T-Thank you very much..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、ありがとうございます……」"
+                                ""
                             ]
                         },
                         {
@@ -5033,21 +5033,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隠者ポスデー"
+                                "Hermit Piste: It seems like the story has come together.\nThe enemies are in the old Mucos Highway... Be careful."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「話はまとまったようじゃな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　敵はミュコス街道旧道にいる……気をつけてな」"
+                                ""
                             ]
                         },
                         {
@@ -5182,14 +5182,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Mucos Region/Mucos Highway\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLミュコス地方/ミュコス街道\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -5281,14 +5281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隠者ポスデー"
+                                "Hermit Piste: Oh, those with power, I'm looking forward to\nit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ちからある者よ、楽しみに待っているよ」"
+                                ""
                             ]
                         },
                         {
@@ -5742,21 +5742,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隠者ポスデー"
+                                "Hermit Posday: Oh, impressive skills indeed. So you must be\nfrom the Magic Academy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ほぉ、大した腕だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さすがは魔法アカデミーの人間というわけか」"
+                                ""
                             ]
                         },
                         {
@@ -5780,14 +5780,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Now, please exchange the crystal and the fool's\ngrimoire!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、クリスタルと愚者の魔導書を交換してください！」"
+                                ""
                             ]
                         },
                         {
@@ -5828,14 +5828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隠者ポスデー"
+                                "Hermit Posday: Of course... With this, the book is yours."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もちろん……これで、その本は君のものだ」"
+                                ""
                             ]
                         },
                         {
@@ -5897,14 +5897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Ah, the grimoire I've been searching for all\nthese years!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あぁ、長年探し求めていた魔導書が！」"
+                                ""
                             ]
                         },
                         {
@@ -6183,14 +6183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you for the request."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご依頼をいただきありがとうございました」"
+                                ""
                             ]
                         },
                         {
@@ -6245,21 +6245,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隠者ポスデー"
+                                "Hermit Posday: I should be the one thanking you... Since\nyou're here, would you like me to give you this book as\nwell?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こちらこそ礼を言うよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どうせなら……こちらの本も渡しておこうか」"
+                                ""
                             ]
                         },
                         {
@@ -6393,14 +6393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -6593,14 +6593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: You were quite mysterious, weren't you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「不思議な方でしたね」"
+                                ""
                             ]
                         },
                         {
@@ -6655,14 +6655,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Can I go back to the academy instead of worrying\nabout that!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんなことよりもアカデミーに戻っていいですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -6717,14 +6717,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, let's go to the academy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、アカデミーに行きましょう」"
+                                ""
                             ]
                         },
                         {

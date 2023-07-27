@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "エマ盗賊団の逃走経路最奥",
+    "displayName": "Deepest part of Emma Thief Gang's escape route",
     "encounterList": [],
     "encounterStep": 30,
     "height": 26,
@@ -5020,14 +5020,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                ""
                             ]
                         },
                         {
@@ -5073,14 +5073,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -5730,14 +5730,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Captain, you're safe, right!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「団長、無事だったんですねっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -5775,21 +5775,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I'm so relieved... I was really worried... I'm\nso glad... *sniff*..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よかったぁ……あたしはてっきり……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本当によかった……よかったよぉ……うぅ……」"
+                                ""
                             ]
                         },
                         {
@@ -5820,21 +5820,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Now, how do we make the members of the Emma Thief\nGang retreat?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あとはどうやって"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　エマ盗賊団の人たちを撤退させるかですね」"
+                                ""
                             ]
                         },
                         {
@@ -5865,14 +5865,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: We also need a way to escape from the\npursuers of the Imperial Army."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帝国軍の追っ手から逃げ切る方法も必要ですわ」"
+                                ""
                             ]
                         },
                         {
@@ -5910,14 +5910,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It would be great if we had a place to hide...\nHmm..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「匿える場所があればいいんですけど……う〜ん」"
+                                ""
                             ]
                         },
                         {
@@ -5955,21 +5955,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Don't worry about the details! The captain is\nalive and everyone else is alive too."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「細かいことは大丈夫ですよっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　団長が生きていて他のみんなも生きています」"
+                                ""
                             ]
                         },
                         {
@@ -6000,14 +6000,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: The place where everyone is together is the\nEmma Thief Gang!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「みんながいる場所がエマ盗賊団ですから！」"
+                                ""
                             ]
                         },
                         {
@@ -6054,14 +6054,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: That's right, Captain!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうですよねっ、団長っ！」"
+                                ""
                             ]
                         },
                         {
@@ -6099,14 +6099,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: That's right... You're that kind of person,\nhuh."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうだな……お前はそういう奴だったな」"
+                                ""
                             ]
                         },
                         {
@@ -6144,21 +6144,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: The place where we are is the Emma Thief\nGang. I've also made up my mind... Thank you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺たちがいる場所がエマ盗賊団だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺も覚悟が決まったよ……ありがとよ」"
+                                ""
                             ]
                         },
                         {
@@ -6189,21 +6189,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Hehe, let's hurry and leave this place! There\nare a lot of Imperial Army soldiers heading towards here!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えへへっ、はやくここを出ましょう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国軍の人たちが大勢ここに向かってきてます！」"
+                                ""
                             ]
                         },
                         {
@@ -6296,14 +6296,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: ......"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……」"
+                                ""
                             ]
                         },
                         {
@@ -6341,21 +6341,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Captain...? You drew your knife... Is something\nwrong...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「団長……？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ナイフを抜いて……どうかしたんですか……？」"
+                                ""
                             ]
                         },
                         {
@@ -6386,21 +6386,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: The Emma Thief Gang was formed by returning\nsoldiers who had their land taken away by the nobles."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「エマ盗賊団は"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　貴族に土地を奪われた帰還兵たちで結成された」"
+                                ""
                             ]
                         },
                         {
@@ -6431,21 +6431,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: After returning from that hellish\nbattlefield, I dragged my comrades back into the quagmire of\nwar."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの地獄のような戦場から帰ってきて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺は再び仲間たちを泥沼の戦場に引きずり込んだわけだ」"
+                                ""
                             ]
                         },
                         {
@@ -6476,21 +6476,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: I just wanted to live peaceful days, like\ngrowing wheat..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ただ小麦を育てるような"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　安らかな日々を送りたかっただけなのに……」"
+                                ""
                             ]
                         },
                         {
@@ -6521,21 +6521,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Don't worry, Captain! If it's you, you can\ndefinitely lead everyone to the right place."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大丈夫ですよ、団長！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　団長なら絶対に正しい場所にみんなを連れていけますよ」"
+                                ""
                             ]
                         },
                         {
@@ -6566,21 +6566,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: More than half of the Emma Thief Gang died\nin this incident where we let those people die..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そう言った奴らを何人も死なせてきた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今回の件でエマ盗賊団の半数以上が死んだ……」"
+                                ""
                             ]
                         },
                         {
@@ -6654,14 +6654,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: For the sake of my ideals."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺の理想のために、だ」"
+                                ""
                             ]
                         },
                         {
@@ -6699,21 +6699,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: That's why I'm willing to throw away all my\nbeliefs, ideals, and pride... in order to protect the\nremaining members."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だからこそ俺は残りの仲間は守りたいと思う"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　自分の信念、理念、矜持……すべてかなぐり捨ててでも」"
+                                ""
                             ]
                         },
                         {
@@ -6744,21 +6744,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: I need to fight alongside you all here for\nthe sake of the Emma Thief Gang."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺はエマ盗賊団のために"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここでお前たちと戦う必要がある」"
+                                ""
                             ]
                         },
                         {
@@ -6816,14 +6816,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: ...I don't know what the captain is thinking."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……団長にどんな考えがあるかわかりません」"
+                                ""
                             ]
                         },
                         {
@@ -6861,21 +6861,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: But, our new comrades taught me to never give\nup, to keep resisting no matter what happens!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「でも、新しい仲間たちが教えてくれました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どんなことがあっても諦めるな、抵抗し続けろって！」"
+                                ""
                             ]
                         },
                         {
@@ -6906,14 +6906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: That's why, Captain... I won't let us lose!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だから団長……負けてあげませんっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6951,21 +6951,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I will save the captain and everyone in the\nEmma Thief Gang in my own way!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あたしはあたしのやり方で"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　団長もエマ盗賊団のみんなも助け出してみせます！」"
+                                ""
                             ]
                         },
                         {
@@ -7443,21 +7443,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Hahaha, well said! That's right, a battle is a\nclash of convictions!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「がははっ、よく言った！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そうなのだ、戦いとは信念のぶつかり合いなのだっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7488,21 +7488,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: And I, as a general, am in a position to\nsuppress the thief gang. You all are thieves... and enemies\nof the empire who protect them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そして儂は盗賊団を討伐する立場"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前たちは盗賊と……それをかばう帝国の敵だ」"
+                                ""
                             ]
                         },
                         {
@@ -7533,21 +7533,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Now then, who will challenge me? The Guild\nwarriors, the Emma Thief Gang, or the Academy's mages?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、誰が儂に挑んでくるのだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ギルドの戦士か、エマ盗賊団か、アカデミーの魔法使いか？」"
+                                ""
                             ]
                         },
                         {
@@ -7601,14 +7601,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Nora-san, are you okay being alone there?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ノラさん、そこはひとりで大丈夫ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7662,14 +7662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes, I will definitely stop the captain."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、絶対に団長を止めます」"
+                                ""
                             ]
                         },
                         {
@@ -7800,21 +7800,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We will definitely stop General Atu, so please settle\nthis before then!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちはアトゥ将軍を必ず止めます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だからそれまでに決着をつけてください！」"
+                                ""
                             ]
                         },
                         {
@@ -8012,14 +8012,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Please watch and see how much the crybaby Nora\nhas grown!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「泣き虫ノラがどこまで成長したか……見てくださいっ！」"
+                                ""
                             ]
                         },
                         {
@@ -8265,21 +8265,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Well then, let me hear your specific plan to\nresolve this situation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それでは聞かせてもらおうか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　この状況をどうにかする具体的な方法を」"
+                                ""
                             ]
                         },
                         {
@@ -8419,21 +8419,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Is this... some kind of gem? I'm sorry, but I\ndon't think something like this can solve anything--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「これは……何かの宝石か？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　悪いがこんなものでどうにかなるとは思えないが――」"
+                                ""
                             ]
                         },
                         {
@@ -8464,14 +8464,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: That is the Dragon's Eye."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それはドラゴンの瞳です」"
+                                ""
                             ]
                         },
                         {
@@ -8536,21 +8536,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: This is the genuine Dragon's Eye that the queen\nherself asked me to obtain."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「王妃の人に頼んでもらった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　正真正銘本物のドラゴンの瞳です」"
+                                ""
                             ]
                         },
                         {
@@ -8581,21 +8581,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I will give this to the noble person! So please\nstop any further attacks!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「これを貴族の人にあげます！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　だからこれ以上の攻撃をやめて欲しいです！」"
+                                ""
                             ]
                         },
                         {
@@ -8642,14 +8642,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: H-How is it... ugh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ど、どうでしょうか……うぅ」"
+                                ""
                             ]
                         },
                         {
@@ -8687,21 +8687,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Gahaha, very well! As expected, Pido doesn't\npossess the Dragon's Eye after all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「がははっ、いいだろう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　さすがのピドもドラゴンの瞳はもっておらん」"
+                                ""
                             ]
                         },
                         {
@@ -8732,21 +8732,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Leave the negotiations to me. Instruct them to\nimmediately cease the attack on the Emma Thief Brigade."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「交渉は儂にまかせろ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　いますぐエマ盗賊団への攻撃中止を指示しろ」"
+                                ""
                             ]
                         },
                         {
@@ -8770,21 +8770,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: It's becoming troublesome, haha. But it's\nalways like this under the general's command."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「面倒なことになりますね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　はは、将軍の下ではいつものことですが」"
+                                ""
                             ]
                         },
                         {
@@ -8815,21 +8815,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: If we provide a place for Pido to drop his\nguard and truly believe that he can crush the thief brigade,\nit should work."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ピドも本気で盗賊団を潰せると考えておらん"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あいつの落とし所をこちらが用意してやればいい」"
+                                ""
                             ]
                         },
                         {
@@ -8860,21 +8860,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Politicians are always starting wars, yet they\ndon't know how to stop them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「まったく政治家というやつは"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　戦争をはじめるくせに戦争の止め方を知らん奴が多すぎる」"
+                                ""
                             ]
                         },
                         {
@@ -8905,21 +8905,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Nevertheless, it was quite a good fight. I\nlook forward to the day when we can truly battle seriously."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それにしても、なかなかにいい戦いだった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　いつか本気で戦えることを楽しみにしているぞ」"
+                                ""
                             ]
                         },
                         {
@@ -9127,14 +9127,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Phew, it somehow worked out in the end, didn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ふぅ、どうにか丸く収まりましたね」"
+                                ""
                             ]
                         },
                         {
@@ -9172,21 +9172,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: As planned from the beginning... I wanted to\nstudy the Dragon's Eye, though."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「当初の予定通りとはいえ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ドラゴンの瞳は研究してみたかったですね」"
+                                ""
                             ]
                         },
                         {
@@ -9217,21 +9217,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: There are still many issues regarding\nwhat to do with the captured individuals and the remaining\nmembers of the thief brigade."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「捕まっている人たちをどうするか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　残っている盗賊団の人たちをどうするか問題は山積みですわ」"
+                                ""
                             ]
                         },
                         {
@@ -9262,14 +9262,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I have an idea for that."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それには考えがあります」"
+                                ""
                             ]
                         },
                         {
@@ -9323,14 +9323,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: ...I will surrender myself to Pido."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「……俺はピドの元に出頭する」"
+                                ""
                             ]
                         },
                         {
@@ -9395,21 +9395,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: I don't doubt General Atu, but in exchange\nfor my own life, I want you to release the comrades who were\ncaptured."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「アトゥ将軍を疑うわけじゃない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　俺の首と引き換えに捕まった仲間を解放してもらう」"
+                                ""
                             ]
                         },
                         {
@@ -9440,14 +9440,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Captain, can we talk for a moment?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「団長、少し話をしませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -9485,14 +9485,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: In a bright place... while basking in the\nsunlight."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「明るい場所で……陽の光を浴びながら」"
+                                ""
                             ]
                         },
                         {
@@ -9699,21 +9699,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Ugh... Captain... I... absolutely... ugh...\nahh..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「うぅ……だ、団長……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あたしが……絶対に……あぅ……あぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -9744,21 +9744,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: You've become stronger... to the point where\nI can hardly recognize you..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「強くなったな……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　本当に見違えるくらいに……」"
+                                ""
                             ]
                         },
                         {
@@ -9881,21 +9881,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Nora-san! I'm coming to help... Ugh, please wake up!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ノラさんっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　いま助けに……くぅ、目を覚ましてください！」"
+                                ""
                             ]
                         },
                         {
@@ -9926,21 +9926,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: I will leave the general to me. In exchange\nfor Nora, I will protect the Emma Thief Brigade..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「将軍の相手はまかせる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　俺はノラと引き換えにエマ盗賊団を守る……」"
+                                ""
                             ]
                         },
                         {

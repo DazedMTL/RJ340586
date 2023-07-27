@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "調薬室",
+    "displayName": "Pharmacy Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -2171,14 +2171,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔術師エラトマ"
+                                "Mage Eratoma: If I combine these magic circles... just as I\nexpected!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この魔方陣を組み合わせれば……やっぱり予想通りだ！」"
+                                ""
                             ]
                         },
                         {
@@ -2209,14 +2209,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮魔術師"
+                                "Royal Court Mage Eratoma: Eratoma, a special mission has\nbeen issued by the king."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「エラトマよ、国王からの特務が出た」"
+                                ""
                             ]
                         },
                         {
@@ -2256,21 +2256,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔術師エラトマ"
+                                "Mage Eratoma: Me...!? Are there other excellent mages\nbesides me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私にですか……！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　優秀な魔法使いが他にいらっしゃるのでは」"
+                                ""
                             ]
                         },
                         {
@@ -2294,21 +2294,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮魔術師"
+                                "Royal Court Mage: There are few mages who can match you,\nand now is not a time of peace, but a time of war."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君に並ぶ魔法使いの方が少ない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それにいまは平時ではない戦時なのだ」"
+                                ""
                             ]
                         },
                         {
@@ -2341,21 +2341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮魔術師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「この魔導書を解析して欲しい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　おぞましい話だが……君には怪物を生み出して欲しいのだ」"
+                                "Royal Court Mage: I have a gruesome request for you to\nanalyze this grimoire... I want you to create a monster."
                             ]
                         },
                         {
@@ -2363,30 +2349,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔術師エラトマ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「この魔導書は禁書のはずでは……」"
                             ]
                         },
                         {
@@ -2417,21 +2379,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮魔術師"
+                                "Mage Eratoma: This grimoire should be a forbidden book..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王宮が封印指定したドラゴンを生み出す魔導書"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法陣解析を得意とする君にしか頼めない仕事だ」"
+                                ""
                             ]
                         },
                         {
@@ -2455,21 +2417,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王宮魔術師"
+                                "Royal Court Mage: This is a job that only you, who excels\nin analyzing magic circles and creating monsters, can\nhandle. The royal court has designated a sealed dragon to be\ncreated using the magic circle in this grimoire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは王からの特務なのだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君には解析か処刑か……この２つしか選択肢はない」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Royal Court Mage: This is a special mission from the king.\nYou have only two choices: analyze or execute..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2500,38 +2500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エラトマは第二次タラサ戦争の開始と共に異例の出世を果たす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼が優秀な魔術師であるというだけでなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戦争により多くの人材が必要だったことも理由のひとつだった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Eratoma achieved an unprecedented promotion with the start\nof the Second Tarasa War. Not only was he an excellent mage,\nbut the war also necessitated the need for more personnel,\nwhich was another reason."
                             ]
                         },
                         {
@@ -2545,52 +2514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　劣勢を強いられたタラサは多くの敗戦間近の国家と同じく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一発逆転の方法を模索し、歴代の王が封印していた魔導書を解禁。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エラトマという若き魔術師に国家の存亡を委ねることになる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　当初、魔導書に嫌悪感すら覚えていたエラトマだったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　徐々に魔導書の持つ抗うことのできない【魔力】に没頭していく。"
                             ]
                         },
                         {
@@ -2614,6 +2538,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Tarasa, who was forced into a disadvantageous position, like\nmany other nations on the brink of defeat, sought a way to\nturn the tables and decided to unseal the grimoire that\nprevious kings had sealed. They entrusted the fate of the\nnation to a young mage named Eratoma."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -2621,21 +2552,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　やがてエラトマの目的は国家の救済ではなくなっていく。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　自身の手で神話の怪物ドラゴンを生み出すこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのために、とり憑かれたように研究に没頭していった。"
+                                ""
                             ]
                         },
                         {
@@ -2652,6 +2576,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Initially, Eratoma had even felt disgust towards grimoires,\nbut gradually became absorbed in the irresistible magic\npower possessed by the grimoire."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -2659,21 +2590,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エラトマは魔術師として天才的な才能を持っていた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法陣の解析は周知の事実であり、本人も自覚していた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、ドラゴン研究の中で新たに自己の才能を発見する。"
+                                ""
                             ]
                         },
                         {
@@ -2690,6 +2614,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Eventually, Eratoma's goal shifted from saving the nation to\ncreating a mythical monster, a dragon, with his own hands.\nIn order to achieve this, he became obsessed with his\nresearch as if possessed."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -2697,21 +2628,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　倫理観の欠如。目的のためなら手段を選ばないという才能。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　数多の死体を利用するドラゴン研究にはその才能は不可欠であり、"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吐き気を催すような実験の果てについにドラゴンは完成する。"
+                                "Eratoma had a genius talent as a mage. It was a well-known\nfact that he excelled in analyzing magic circles, and he was\naware of it himself. However, during his research on\ndragons, he discovered a new talent within himself."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Lack of ethics. The talent to choose any means necessary for\nthe sake of one's goals. This talent is essential for the\ndragon research that utilizes numerous corpses, and after\nnauseating experiments, the dragon is finally completed."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

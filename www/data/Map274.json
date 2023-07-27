@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "穴だらけの丘",
+    "displayName": "Hill full of holes",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -15584,7 +15584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -15630,14 +15630,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -16081,14 +16081,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is this the boss's stronghold?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「ここが根城ですかね」"
+                                ""
                             ]
                         },
                         {
@@ -16112,21 +16112,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Let's defeat them quickly and get back to our\nadventure!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「すぐに片付けて冒険に戻りましょう！」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　"
+                                ""
                             ]
                         },
                         {

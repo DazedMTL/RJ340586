@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "狼の洞窟最奥",
+    "displayName": "Innermost part of the Wolf's Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 100,
@@ -60427,7 +60427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -60473,14 +60473,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -60727,7 +60727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -60773,14 +60773,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -61027,7 +61027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -61073,14 +61073,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -61672,14 +61672,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: There's nothing here, huh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なにもいませんね？」"
+                                ""
                             ]
                         },
                         {
@@ -61904,21 +61904,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fuchiyo no Shimosu: It seems like I killed them\nthoroughly. I have enough strength to not lose to a wolf, so\nI can rest assured."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「きっちりぶっ殺したみたいだな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　狼に負けない程度には実力はあるみてーで安心したよ」"
+                                ""
                             ]
                         },
                         {
@@ -62087,14 +62087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is this the end of this request?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これでこの依頼は終わりでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -62130,14 +62130,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fuchiyo no Shimosu: No, it's not over yet."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いや、まだ終わってねーさ」"
+                                ""
                             ]
                         },
                         {
@@ -62228,21 +62228,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fuchiyo no Shimosu: There are various types of requests,\nyou know. Sometimes, before you realize it, you end up being\nthe rat in the bag."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「依頼ってのはいろいろあるもんさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　気がついたら袋のネズミってこともある」"
+                                ""
                             ]
                         },
                         {
@@ -62363,14 +62363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Are you serious... \\|... \\|?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本気…\\|…\\|ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -62394,14 +62394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fuchiyo no Shimosu: I don't like jokes. Let's go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺は冗談が嫌いなんでな。いくぞ」"
+                                ""
                             ]
                         },
                         {
@@ -62688,14 +62688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Huff... strong."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「っく……強い」"
+                                ""
                             ]
                         },
                         {
@@ -62719,21 +62719,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fuchiyo no Shimosu: Well, this is your true strength. Let's\nfinish this... Oh, by the way!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まぁ、これがお前たちの実力だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さて仕上げといこうかね……そいやぁっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -63561,14 +63561,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Nora the Thief: As I thought... I could smell it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やっぱり……匂いがしてました！」"
+                                ""
                             ]
                         },
                         {
@@ -63790,21 +63790,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Rigas Bandit Member: Damn, did you notice?! I'll avenge my\nbrothers who were killed today!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くそっ、気がついてやがったのか！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　兄貴分たちが殺された恨み今日こそ晴らしてやるぜ！」"
+                                ""
                             ]
                         },
                         {
@@ -63828,14 +63828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sophia the Priestess: I see, in order to lure them out, we\nwill engage in battle with them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるほど、彼らを誘い出すためにわたくしたちと戦闘を」"
+                                ""
                             ]
                         },
                         {
@@ -63859,14 +63859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It seemed like I just wanted to fight, though."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクはただ戦いたかっただけに見えましたけどね」"
+                                ""
                             ]
                         },
                         {
@@ -63962,21 +63962,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fuchiyo no Shimosu: The color of that outfit... the Rigas\nBandit gang or your comrades begging for their lives in a\npathetic manner, it was so amusing, wasn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その服の色……リガス山賊団か"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前の仲間が無様に命乞いした姿は最高に笑えたぜ？」"
+                                ""
                             ]
                         },
                         {
@@ -64000,14 +64000,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Rigas Bandit Member: Damn it... I'll never forgive you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くそっ……絶対に許さねぇ！」"
+                                ""
                             ]
                         },
                         {
@@ -64031,21 +64031,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fuchiyo no Shimosu: Hey, let's beat these guys too. Our\nguild will earn as many grudges as the number of requests."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おい、こいつらも蹴散らせ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺たちギルドは依頼の数だけ恨みを買う」"
+                                ""
                             ]
                         },
                         {
@@ -64062,14 +64062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fuchiyo no Shimosu: Getting rid of this kind of trouble is\nalso part of the job."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こういう火の粉を振り払うのも仕事だ」"
+                                ""
                             ]
                         },
                         {
@@ -64093,14 +64093,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました」"
+                                ""
                             ]
                         },
                         {
@@ -64124,21 +64124,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Rigas Bandit Member: First, I'll kill your subordinates,\nthen it'll be your turn, Shimosu!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まずは部下からかよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こいつら殺したら次はお前だぞ、シモス！」"
+                                ""
                             ]
                         },
                         {
@@ -64364,21 +64364,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Riga Bandit Member: Ugh... I-I'll... spare my life...! I\nwon't interfere anymore, a-and I'll pay you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「っくぅ……い、命だけは……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もう邪魔はしない、か、金も払う！」"
+                                ""
                             ]
                         },
                         {
@@ -64402,14 +64402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fuchiyo no Shimosu: Hahaha, begging for your life, huh?\nJust like the others."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ははは、命乞いまで同じかよ」"
+                                ""
                             ]
                         },
                         {
@@ -64426,14 +64426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fuchiyo no Shimosu: So, what are you going to do?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「っで、お前はどうする？」"
+                                ""
                             ]
                         },
                         {
@@ -64634,14 +64634,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: There is no reason to keep them alive for the\nAdventurer's Guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルドのために生かしておく理由はありません」"
+                                ""
                             ]
                         },
                         {
@@ -64665,14 +64665,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Riga Bandit Member: N-No way...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、そんな……！」"
+                                ""
                             ]
                         },
                         {
@@ -64696,14 +64696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Shimosu of the Unknown Night: Oh, but can you kill me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ほぉ、だがお前に殺せるか？」"
+                                ""
                             ]
                         },
                         {
@@ -64819,21 +64819,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I have things I must do, even if it means dirtying my\nown hands...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（私にはやるべきことがある"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　自分の手を汚すことだって……）"
+                                ""
                             ]
                         },
                         {
@@ -64892,14 +64892,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Prepare yourself."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……お覚悟を」"
+                                ""
                             ]
                         },
                         {
@@ -64937,14 +64937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Riga Bandit Member: M-My life... aahhh!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「い、命だけは……うわぁぁぁっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -65178,14 +65178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Is this alright?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……これでいいでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -65209,21 +65209,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Shimosu of the Unknown Night: Not bad, you might actually\nbecome something unexpected."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「上出来だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前は案外モノになるかもしれないな」"
+                                ""
                             ]
                         },
                         {
@@ -65240,21 +65240,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Shimosu of the Unknown Night: I'll take care of this. Now,\ngo collect the reward at the tavern for me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こいつをやるよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さて、酒場で報酬を回収しておいてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -65455,14 +65455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Clea-chan, are you okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアちゃん、大丈夫？」"
+                                ""
                             ]
                         },
                         {
@@ -65486,21 +65486,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Yes, I'm fine. Let's go back and collect the\nreward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……はい、私は大丈夫です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　報酬を受け取りに戻りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -65687,14 +65687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I don't think there's a need to take a life."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「命まで奪う必要はないと思います」"
+                                ""
                             ]
                         },
                         {
@@ -65827,21 +65827,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fushiya Night's Shimosu: Sigh... Is that really the weak-\nminded thinking that made you become an adventurer?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はぁ……そうかい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そんなヌルい考えで冒険者になったのかよ」"
+                                ""
                             ]
                         },
                         {
@@ -65945,21 +65945,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Our goal is the dragon! We're different from\npeople like you who kill!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクたちの目的はドラゴンなんです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたみたいな人殺しとは違うんですよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -66014,21 +66014,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fushiya Night's Shimosu: We naturally accept assassination\nrequests and have earned trust that way."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺たちは殺しの依頼も当然だが受ける"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そうやって信頼を勝ち取ってきたからだ」"
+                                ""
                             ]
                         },
                         {
@@ -66052,21 +66052,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　不知夜のシモス"
+                                "Fushiya Night's Shimosu: It'll be interesting to see if\nyou can achieve your goal with such naive thinking. Take the\nreward from the tag and I'll head back first."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その甘い考えで目的が果たせるか見ものだな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　タグから報酬を受け取っておけ、俺は先に帰る」"
+                                ""
                             ]
                         },
                         {
@@ -66318,21 +66318,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Riga Bandit Member: Thank you for saving me... I give up on\nseeking revenge, I can't defeat that monster."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「助かりました……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もう仇討ちは諦めます、あの化け物には勝てない」"
+                                ""
                             ]
                         },
                         {
@@ -66494,21 +66494,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I think that's fine. Maybe, I think that's just\nnormal."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでいいと思います"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　たぶん、それが普通のことだと思いますから」"
+                                ""
                             ]
                         },
                         {
@@ -66525,14 +66525,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...The people who were killed probably wanted that\ntoo."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……殺された人たちもそれを望んでいるはずです」"
+                                ""
                             ]
                         },
                         {
@@ -66556,14 +66556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Clea-san..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアさん……」"
+                                ""
                             ]
                         },
                         {
@@ -66587,21 +66587,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Riga Bandit Member: If you have any troubles, please come\nto the entrance of the Wolf's Cave."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お困りごとがあれば"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　狼の洞窟の入口にきてください」"
+                                ""
                             ]
                         },
                         {
@@ -66618,14 +66618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Riga Bandit Member: I will definitely repay the favor."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「必ず恩返しをしますので」"
+                                ""
                             ]
                         },
                         {
@@ -66649,21 +66649,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Alright, let's go back to receive our reward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちは報酬を受け取りに戻りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -66694,14 +66694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL山賊ショップ\\c[18]"
+                                "\\CL The Bandit Shop\\c[18]\\CL is now available\\c[0]."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLが利用可能となった\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -67948,21 +67948,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Do you know a person named Skio-san? I have\nsomething to entrust to you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたに預かり物があります"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　スキオさんという方をご存知でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -68150,21 +68150,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Cleric Relm: I apologize for coming all the way here. I\nreceived some money, so I have to show my face."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わざわざこんなところまで悪いな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　金をもらっちまったから顔を出さないといけないな」"
+                                ""
                             ]
                         },
                         {
@@ -68188,14 +68188,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Are you here for training?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここには修行で来ているんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -68219,21 +68219,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Cleric Relm: Well, you know, I'm not really suited for\nstudying, so I'm training to be able to fight for the\nchurch."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まーね、あたしは座学が性に合わなくてさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　教会のために戦えるよう修行をしているんだよ」"
+                                ""
                             ]
                         },
                         {
@@ -68266,21 +68266,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Cleric Relm: I'm really grateful to that guy Skio-san who\ngave me some money for a little 'job'!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ちょっとした【仕事】で金をくれるからな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　スキオのおっさんにはすげー感謝しているよ！」"
+                                ""
                             ]
                         },
                         {
@@ -68297,14 +68297,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Cleric Relm: If you're willing to accompany me in my\ntraining, please let me know."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「修行に付き合ってくれるなら声をかけてくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -68631,21 +68631,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Priestess Ribaru: You seem to have good skills. How about a\nmatch against me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あんた、良い腕をしていそうだな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしと勝負っていうのはどうだい？」"
+                                ""
                             ]
                         },
                         {
@@ -68662,7 +68662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶リバルと戦闘を行いますか？"
+                                "Will you engage in a battle with Priestess Ribaru?"
                             ]
                         },
                         {
@@ -68701,21 +68701,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Priestess Ribaru: I see, that's a shame... I'll be here for\na while, so feel free to call out to me anytime!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そうかい残念……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　当分はここにいるからいつでも声をかけておくれよ！」"
+                                ""
                             ]
                         },
                         {
@@ -68775,14 +68775,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Priestess Ribaru: Great, let's do it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いいね、そうこなくっちゃ！」"
+                                ""
                             ]
                         },
                         {
@@ -68931,14 +68931,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Priestess Ribaru: Let's not hold back... Let's do it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「お互いに遠慮なく……やろう！」"
+                                ""
                             ]
                         },
                         {
@@ -68997,21 +68997,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Priestess Ribaru: This time, I won't lose. Come challenge\nme anytime you want!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「今回はあたしの勝ちな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　いつでも挑戦しにここに来ておくれよ！」"
+                                ""
                             ]
                         },
                         {
@@ -69409,14 +69409,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Monk Libal: Ouch... You're strong!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「痛てててぇ……あんた強いな！」"
+                                ""
                             ]
                         },
                         {
@@ -69440,14 +69440,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I apologize for the trouble."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「恐縮です」"
+                                ""
                             ]
                         },
                         {
@@ -69471,21 +69471,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Monk Libal: I also need more training. I will strive to\nbecome the strongest!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あたしも修行が足りないな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もっと修行して最強を目指すよ！」"
+                                ""
                             ]
                         },
                         {
@@ -69634,21 +69634,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶リバル"
+                                "Priestess Ribaru: Wow, the world is vast! I think I'll also\ntrain my body again!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いやー世界は広い！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしも身体を鍛え直すとするよ！」"
+                                ""
                             ]
                         },
                         {

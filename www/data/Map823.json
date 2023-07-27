@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "帝国軍駐屯地 巨大テント",
+    "displayName": "Imperial Army Garrison - Giant Tent",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4057,21 +4057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アグノス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お前が噂に聞くアトゥか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　帝国の剣という二つ名に偽りはないらしいな」"
+                                "King Agnos: It seems there is no falsehood in the title of\nthe Sword of Atu, which you are rumored to be."
                             ]
                         },
                         {
@@ -4079,68 +4065,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アグノス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お前は悪魔崇拝者の襲撃を未然に防いでくれた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　余だけでなく親族のピリアも救ってくれたこと礼を言うぞ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国軍兵士アトゥ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「もったいなき、お言葉です」"
                             ]
                         },
                         {
@@ -4171,21 +4095,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アグノス王"
+                                "King Agnos: Not only did you prevent the attack of the\ndevil worshippers, but you also saved my relative, Pilia. I\nexpress my gratitude for that."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「余はお前に何か報いなければならぬ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そうだな、お前がすでに帝国の剣であるならば……」"
+                                ""
                             ]
                         },
                         {
@@ -4209,14 +4133,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アグノス王"
+                                "Imperial Army Soldier Atu: It is an honor, your words are\ntoo kind."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帝国の盾というのはどうだ？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "King Agnos: It seems I must reward you in some way, if you\nare indeed the Sword of the Empire..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "King Agnos: What do you think of the title 'Shield of the\nEmpire'?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4256,21 +4256,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アグノス王"
+                                "King Agnos: Hahaha, it seems that your mind doesn't work\nwell outside of battle. I am saying that I want to welcome\nyou as a royal guard."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ははは、戦闘以外は頭が回らぬか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　余はお前を近衛兵として迎えたいと言っておるのだ」"
+                                ""
                             ]
                         },
                         {
@@ -4303,21 +4303,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍兵士アトゥ"
+                                "Imperial Army Soldier Atu: It is an honor beyond measure!\nPlease use me as the shield of the royal family, as the\nsword of the royal family!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「身に余る光栄です！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王家の盾として、王家の剣として、この身をお使いください！」"
+                                ""
                             ]
                         },
                         {
@@ -4348,6 +4348,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "By chance, Atu saved King Agnos. This was a fateful\nencounter that would greatly change Atu's destiny. From this\nday forward, Atu would act together with King Agnos."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4355,21 +4362,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偶然ではあったが、アトゥは時の王アグノスを救う。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　これはアトゥの運命を大きく変える出会いであった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この日より、アトゥはアグノス王と共に行動をするようになる。"
+                                ""
                             ]
                         },
                         {
@@ -4386,6 +4386,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "King Agnos and Atu got along well and had great\ncompatibility. King Agnos, who was filled with passion, and\nAtu, who realized that passion. The two of them would go on\nto suppress numerous rebellions within the empire."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4393,21 +4400,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アグノス王とアトゥは気が合い、何より相性がよかった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　激情を身に宿したアグノス王と、その激情を実現させるアトゥ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ふたりは帝国内の数多くの反乱を鎮圧していくことになる。"
+                                ""
                             ]
                         },
                         {
@@ -4424,6 +4424,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Atu received overwhelming support from the soldiers on the\nbattlefield. Their brave and fearless demeanor, coupled with\na lively and charming personality, made them an admired\nfigure among the troops. The ability to overturn enemy\nstrategies with tactical prowess was a source of inspiration\nfor the soldiers."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4431,21 +4438,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥは戦場の兵士たちに圧倒的な支持を受けていた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　勇猛果敢な戦士としての姿、豪快ながら愛嬌のある性格。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　敵の戦略を戦術で覆すような離れ業は兵士たちの憧れだった。"
+                                ""
                             ]
                         },
                         {
@@ -4462,6 +4462,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "In the empire, there was a custom of calling the king the\nfather of the imperial citizens. Following that tradition,\nAtu came to be called the elder brother of the empire. For\nmany imperial citizens, Atu was a living hero."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4469,21 +4476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国には国王を帝国市民の父と呼ぶ風習が存在した。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　それに習い、アトゥは帝国の長兄と呼ばれるようになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　多くの帝国市民にとってアトゥは生きた英雄だった。"
+                                ""
                             ]
                         },
                         {
@@ -4500,6 +4500,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Many nobles and members of the Senate viewed Atu's existence\nas a threat, but they couldn't lay a hand on King Agnos'\nfavorite. Eventually, Atu would be bestowed with the\nposition of general by King Agnos."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4507,21 +4514,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥの存在を危険視する貴族や元老院は数多くいたが、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アグノス王の【お気に入り】に手を出すことはできなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やがて、アトゥはアグノス王から将軍職を授かることになる。"
+                                ""
                             ]
                         },
                         {
@@ -4538,6 +4538,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "If there is any misfortune for Atu, it would be becoming a\ngeneral without much experience in political maneuvering\nunder the protection of King Agnos. This would later become\nevident as a significant difference between Atu and Caron\nand the others."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4545,21 +4552,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥに不幸があるとすれば、アグノス王の加護のもとで"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　政治的な駆け引きをあまり経験せずに将軍になったことだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これが後にカロンたちとの大きな差として露呈することになる。"
+                                ""
                             ]
                         },
                         {

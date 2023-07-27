@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "黄金の街ドロモス 貴族トラゴスの屋敷2F",
+    "displayName": "Golden City of Dromos, Noble Tragos Mansion 2F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6203,14 +6203,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: Who the hell are you all!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「貴様らっ！　どこの何者だぁっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -6248,21 +6248,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We are members of the Adventurer's Guild, from Ftera.\nWe have come this time not as representatives of the Guild,\nbut for personal reasons."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルド・フテラの者です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今回はギルドとしてではなく個人的な理由できています」"
+                                ""
                             ]
                         },
                         {
@@ -6286,21 +6286,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: So it's you all... Because of you, my\nrelationship with Pido has been ruined!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうかお前たちが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　貴様らのせいでピドとの関係も壊れて散々だ！」"
+                                ""
                             ]
                         },
                         {
@@ -6324,21 +6324,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: But I have money... I have an infinite source\nof money, the Crystal Mine!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だが私には金がある……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　無限に金を生み出すクリスタル鉱山がな！」"
+                                ""
                             ]
                         },
                         {
@@ -6369,14 +6369,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Do you remember the child of the beastman...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「獣人の子どもを覚えていますか……？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Tragos: Ah, Psema. I bought him from a man and kept\nhim as a pet. He's here!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6407,21 +6445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あぁ、プセマって男から買ったんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　私が飼ってやっていたんだよ、ここでな！」"
+                                "Noble Tragos: You were a useless failure who couldn't even\nlearn words, but I wonder if you managed to remember some\nbasic prostitute-like language?"
                             ]
                         },
                         {
@@ -6432,34 +6456,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「言葉を覚えない出来損ないだったがな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　いや、最低限の娼婦らしい言葉が覚えていたかな？」"
+                                ""
                             ]
                         },
                         {
@@ -6508,21 +6508,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: Well, you don't have time to choose means to\nprotect your lives that will definitely not be returned."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、お前たちは絶対に生きて返さない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　身を守るためには手段を選んでいる暇はないからな」"
+                                ""
                             ]
                         },
                         {
@@ -6603,21 +6603,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: Even force can be bought with money. It's a\nshame to kill such beautiful women, but I'll make sure you\ndie!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「武力だって金で買えるのさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　殺すのは惜しい女たちだが死んでもらうぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -6648,14 +6648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Clea-san... Can I go all out?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアさん……全力で行っていいですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -6693,21 +6693,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I didn't expect to encounter someone who\ndespises people to this extent. I will also give it my all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクも全力でやります"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここまで人を嫌悪するとは思いませんでした」"
+                                ""
                             ]
                         },
                         {
@@ -6738,14 +6738,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Oh my, I wonder if everyone feels the\nsame way?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あらあら、全員の気持ちは同じかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -6790,21 +6790,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I apologize to the hired individuals, but please step\nback so that I can punch the person sitting in the back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「雇われの方たちには申し訳ないですが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　奥で座っている人を殴るために退いてもらいます」"
+                                ""
                             ]
                         },
                         {
@@ -6856,14 +6856,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: Th-Those are... former elite soldiers of the\nImperial Army...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、そんな……元帝国軍精鋭の男たちだぞ……！」"
+                                ""
                             ]
                         },
                         {
@@ -6901,21 +6901,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Are you going to buy us with money next? We will\nabsolutely not comply."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「次は私たちをお金で買いますか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　絶対に応じることはありませんが」"
+                                ""
                             ]
                         },
                         {
@@ -6939,21 +6939,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: W-Wait! It's true that I had a daughter of a\nbeastman as a pet!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ま、待ってくれ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　確かに獣人の娘を飼っていたのは事実だ！」"
+                                ""
                             ]
                         },
                         {
@@ -6977,21 +6977,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: When I tried to sell them on the prostitution\nisland, they escaped from the carriage, it was an accident!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「売春島に売ろうとした時に"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　馬車を抜け出して逃げたんだよ、事故だった！」"
+                                ""
                             ]
                         },
                         {
@@ -7015,21 +7015,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: First of all, it's the fault of that merchant\nPsema! He's the one who said he would sell me new beastmen,\nso I..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そもそも商人のプセマが悪いんだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あいつが新しい獣人を売るなんていうから私は……」"
+                                ""
                             ]
                         },
                         {
@@ -7060,21 +7060,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Should I ask you one more time? We've only come here\nto punch you away."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まだ聞いた方がいいでしょうか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちはあなたを殴り飛ばしに来ただけです」"
+                                ""
                             ]
                         },
                         {
@@ -7126,21 +7126,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: Hahaha! Can you hear it? The sound of the\nmercenaries coming towards us!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はははははっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　聞こえるか、傭兵たちがこっちに向かってくる音だ！」"
+                                ""
                             ]
                         },
                         {
@@ -7164,21 +7164,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: I have always been victorious! Today is also\nmy victory, and from now on, forever and ever!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いつだって勝ってきた！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今日だって私の勝ちだ、これからも、ずっと、ずっとだ！」"
+                                ""
                             ]
                         },
                         {
@@ -7370,14 +7370,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: ...Huh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……っへ？」"
+                                ""
                             ]
                         },
                         {
@@ -7415,21 +7415,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: I don't remember being hired by scum like\nyou. So it was you after all, connected to Psema."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前みたいな下衆に雇われた覚えはない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　やっぱりお前だったんだな、プセマと繋がっていたのは」"
+                                ""
                             ]
                         },
                         {
@@ -7460,21 +7460,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Oh, thanks to your strength, I was able\nto come this far unscathed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いやー強い強い"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　おかげで無傷でここまでこれやしたよ」"
+                                ""
                             ]
                         },
                         {
@@ -7498,21 +7498,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: I-I remember you! You're the man from the\norganization Mucos, won't you join forces with me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お、お前のことは覚えている！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ミュコスの組織の男だ、俺と手を組もうじゃないか！」"
+                                ""
                             ]
                         },
                         {
@@ -7536,21 +7536,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: Having a connection with the Crystal Mine...\nIt would be convenient for both your organization and\nyourself, wouldn't it!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クリスタル鉱山との繋がりを持つ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前の組織にもお前自身にとっても都合がいいだろう！？」"
+                                ""
                             ]
                         },
                         {
@@ -7574,14 +7574,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: Even if the conditions are somewhat\nunfavorable now, I'll accept!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いまなら多少は不利な条件でも飲むぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -7706,21 +7706,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: That's enough... I didn't receive any words of\napology from you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もういいです……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたからは謝罪の言葉はありませんでした」"
+                                ""
                             ]
                         },
                         {
@@ -7744,21 +7744,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: I-I will apologize! Letting the beastmen\nescape resulted in a series of murders--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「しゃ、謝罪はするさ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　獣人を逃して結果的に連続殺人が起きたことは――」"
+                                ""
                             ]
                         },
                         {
@@ -7789,14 +7789,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: ...No!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……違う！」"
+                                ""
                             ]
                         },
                         {
@@ -7834,14 +7834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: What I want to hear is an apology to that\ngirl!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あたしが聞きたいのは！　あの子への謝罪だっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7879,14 +7879,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: That girl is not an animal!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの子は動物なんかじゃない！」"
+                                ""
                             ]
                         },
                         {
@@ -8008,14 +8008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: ...Huh, why are you here?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……えっ、どうして、あなたが」"
+                                ""
                             ]
                         },
                         {
@@ -8067,21 +8067,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: I used to boast about never being\nstabbed in my line of work as a small-time thug."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「チンピラ家業で刺されたことがない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それが私の自慢話のひとつだったんですけどねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -8112,14 +8112,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: ...Tragos-san, you know, I'm actually\nfrom Oros."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……トラゴスさん、私は実はオロス出身なんでさぁ」"
+                                ""
                             ]
                         },
                         {
@@ -8166,21 +8166,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: I used to work in Tragos-san's owned\nmine in the past, but after being conscripted, I've been\nliving in Mucos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「むかしはトラゴスさん所有の鉱山で働いてやした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まぁ、徴兵されてからはミュコスで暮らしてやすがね」"
+                                ""
                             ]
                         },
                         {
@@ -8204,21 +8204,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: Do you understand the workings of the mine?!\nAnd to go so far as to risk your life to help me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「鉱山の勝手がわかっているわけか！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　しかも身を挺して私を助けてくれるなんて！」"
+                                ""
                             ]
                         },
                         {
@@ -8242,21 +8242,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: I trust you! Let's earn together, everything\nwill go as we please!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前のことを信用するぞ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　一緒に稼ごうじゃないか、すべてが思うがままだぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -8303,21 +8303,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: This is a bright and nice place. On days\nlike this, it's good to drink wine and take a nap."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここは明るくていい場所だぁ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こんな日はワインを飲んで昼寝をするのもいい」"
+                                ""
                             ]
                         },
                         {
@@ -8341,21 +8341,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: That's great! I have some excellent wine.\nLet's treat your injuries--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それはいい！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　上等のワインがあるんだ、怪我の治療をして――」"
+                                ""
                             ]
                         },
                         {
@@ -8386,21 +8386,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Please, take a look while you can. I'm\ngoing to die in a dirty place, not in such a beautiful place\nlike this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いまのうちに見ておいてくだせぇ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こんな綺麗な所じゃなくて薄汚い場所で死ぬんだから」"
+                                ""
                             ]
                         },
                         {
@@ -8433,14 +8433,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族トラゴス"
+                                "Noble Tragos: W-What, is this loyalty to the\norganization!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、なんだ、組織への忠誠心かぁ！？」"
+                                ""
                             ]
                         },
                         {
@@ -8478,14 +8478,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: I love the sea, you know."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私は海が好きなんですよ」"
+                                ""
                             ]
                         },
                         {
@@ -8602,14 +8602,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　渡世人コルス"
+                                "Cors the Wanderer: Well, for those who want to hit this guy\nwithout killing him, go ahead."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、死なない程度にこいつを殴りたい人はどうぞ」"
+                                ""
                             ]
                         },
                         {
@@ -8705,21 +8705,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: It seems that Pido from Camps was connected\nto this. It's a gift from the comrades who died, please\naccept it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カンプスのピドと繋がっていたそうだな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　死んでいった仲間たちの贈り物だ、受け取れ」"
+                                ""
                             ]
                         },
                         {
@@ -8863,14 +8863,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please give your regards to all of us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たち全員分をお見舞いしてやってください」"
+                                ""
                             ]
                         },
                         {
@@ -8931,21 +8931,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: She was a child whose name I didn't even know,\nbut she was definitely alive and trying to live!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「名前もわからない子だった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でも確かに生きていて生きようとしていた！」"
+                                ""
                             ]
                         },
                         {
@@ -8976,21 +8976,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: It's my frustration for not being able to save\nthat child...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの子のため……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そしてあの子を救えなかった八つ当たりです！」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "民家",
+    "displayName": "Private House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5491,14 +5491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カロンの母親"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ごほごほっ……カロン、私の話をよくお聞き」"
+                                "Caron's mother: Cough... Caron, please listen to what I\nhave to say."
                             ]
                         },
                         {
@@ -5506,37 +5499,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少女カロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お母さん！　もう喋っちゃダメだよ！」"
                             ]
                         },
                         {
@@ -5567,21 +5529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カロンの母親"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「大事なことなんだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あんたには女神様に与えられた美貌と知性がある……」"
+                                "Young girl Caron: Mom! You can't talk anymore!"
                             ]
                         },
                         {
@@ -5589,106 +5537,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カロンの母親"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それを使えば何でも手に入る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　食料も黄金も権力だって何もかも……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カロンの母親"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私は美貌の使い方を間違えた……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　くだらない貴族たちの娼婦で終わってしまった……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少女カロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「でも、そのおかげで私は生きることができました」"
                             ]
                         },
                         {
@@ -5719,21 +5567,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カロンの母親"
+                                "Caron's mother: It's something important... You possess the\nbeauty and intelligence bestowed upon you by the goddess..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんな優しさは捨てなさいっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この手紙を持ってミュコスの貴族のもとに行きなさい」"
+                                ""
                             ]
                         },
                         {
@@ -5757,21 +5605,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カロンの母親"
+                                "Caron's mother: With it, you can obtain anything, be it\nfood, gold, or even power..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あんたが幸せになるための手紙だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　蹴落とせ、騙せ、欺け、そして上り詰めるんだ、頂に！」"
+                                ""
                             ]
                         },
                         {
@@ -5795,21 +5643,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カロンの母親"
+                                "Caron's mother: I made a mistake in how I used my beauty...\nI ended up as a prostitute for worthless nobles..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「一粒食べれば……もうひとつ欲しくなる……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　カロン、あたしの代わりに、その景色を見ておくれ……」"
+                                ""
                             ]
                         },
                         {
@@ -5833,21 +5681,173 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女カロン"
+                                "Young girl Caron: But thanks to that, I was able to\nsurvive."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お母さん……？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　嫌だ、ひとりぼっちにしないで、お母さんっ！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Caron's mother: Abandon such kindness! Take this letter and\ngo to the noble of Mucos."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Caron's mother: This is a letter for you to become happy.\nKick, deceive, trick, and climb to the top, to the summit!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Caron's mother: Once you taste it... you'll want another...\nCaron, please look at that scenery in my place..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Young girl Caron: Mom...? No, I don't want to be alone,\nMom!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5878,6 +5878,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Caron was born as the child of immigrants from the\nneighboring country of Tarasa. Her mother used her beauty to\nengage with nobles and members of the Senate as a\nprostitute. It could be said that the only job available for\nimmigrants from enemy countries was that of a prostitute."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5885,21 +5892,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カロンは隣国タラサから来た移民の子どもとして生まれた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　母は美貌を活かし売春婦として貴族や元老院たちを相手にした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　敵国の移民がつける仕事は売春婦しかなかったとも言える。"
+                                ""
                             ]
                         },
                         {
@@ -5916,6 +5916,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Caron's mother entrusted her daughter with what could be\ncalled her own curse of desires. As a result, she devoted\nher entire life to Caron's education. It was within this\ntwisted affection that Caron's personality was formed."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5923,21 +5930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カロンの母は自分の【呪い】とも言える願望を娘に託した。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　そのため、生活のすべてをカロンの教育に費やした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その歪んだ愛情の中でカロンの性格は構成されていった。"
+                                ""
                             ]
                         },
                         {
@@ -5954,6 +5954,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Caron's life without her mother. Days of being pointed at as\nthe daughter of a prostitute. For Caron, everyone except her\nmother is a stranger, and since the day she lost her mother,\nshe has been the only one she can trust."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5961,21 +5968,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　母が家にいない生活。売春婦の娘と後ろ指をさされる日々。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カロンにとって母以外はすべて他人であり、母を失った日から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　信じることが出来るのは自分だけになった。"
+                                ""
                             ]
                         },
                         {
@@ -5992,6 +5992,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The letter entrusted to Caron by her mother would change her\nlife. Eventually, it would even change the future of the\nempire."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5999,14 +6006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　母より託された手紙はカロンの人生を変えていくことになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やがて、それは帝国の未来すら変えていくことになる。"
+                                ""
                             ]
                         },
                         {

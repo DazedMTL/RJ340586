@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "イリニ村 トロゴ孤児院",
+    "displayName": "Irini Village, Trog Orphanage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9808,14 +9808,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女アリシア"
+                                "Girl Alicia: Teacher, please tell me about medicine instead\nof talking about religion!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「先生、宗教のお話より医学について聞かせてください！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Orphanage Priest: Alicia, it seems you're not interested in\nthe teachings of Terios religion... It's a shame, I believe\nyou have the ability to save both people's hearts and\nbodies."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9846,21 +9884,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　孤児院の僧侶"
+                                "Girl Alicia: I have seen many people suffering from\nillness. It's meaningless if their bodies die before their\nmental illnesses are cured."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アリシアはテリオス教の教えに興味がないのね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたなら人の心も身体も救えると思うのに残念だわ」"
+                                ""
                             ]
                         },
                         {
@@ -9884,21 +9922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私は病気で苦しんでいる人たちを多く見てきました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　心の病気を治す前に身体が死んでしまっては意味がないです」"
+                                "Orphanage Priest: Your way of thinking is like that of a\nmagician... Yes, someone who heard rumors about you has come\ntoday."
                             ]
                         },
                         {
@@ -9909,34 +9933,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　孤児院の僧侶"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「まるで魔法使いのような考え方ね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　そうだ、今日もあなたの噂を聞きつけた人が来ているわ」"
+                                ""
                             ]
                         },
                         {
@@ -10143,14 +10143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒ずくめの男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「こんにちは、お嬢さん」"
+                                "Man in black: Hello, young lady."
                             ]
                         },
                         {
@@ -10158,37 +10151,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少女アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「こ、こんにちは……」"
                             ]
                         },
                         {
@@ -10219,14 +10181,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒ずくめの男"
+                                "Girl Alicia: H-Hello..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ははは、傷だらけで怖いかい？」"
+                                ""
                             ]
                         },
                         {
@@ -10257,14 +10219,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女アリシア"
+                                "Man in black: Hahaha, are you scared of me with all these\nscars?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いえ、痛くないのか……心配になりました」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Girl Alicia: No, does it not hurt...? I became worried."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10304,21 +10304,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒ずくめの男"
+                                "Man in black: I've heard that you are very intelligent.\nMoreover, it's admirable that you want to become a doctor\ninstead of a priest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君は非常に聡明だと聞いているよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　しかも僧侶ではなく医師になりたいなんて立派な志だ」"
+                                ""
                             ]
                         },
                         {
@@ -10351,14 +10351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒ずくめの男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「そうだ、例えば10人と100人のどちらを助けてあげたい？」"
+                                "Man in black: That's right, for example, which would you\nlike to help, 10 people or 100 people?"
                             ]
                         },
                         {
@@ -10366,37 +10359,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少女アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「両方とも助けてあげたいです」"
                             ]
                         },
                         {
@@ -10427,21 +10389,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒ずくめの男"
+                                "Girl Alicia: I want to help both of them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「100人と1000人でも君は同じ解答をするだろうね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　おじさんは何万人の人たちを救う仕事をしているんだ」"
+                                ""
                             ]
                         },
                         {
@@ -10465,14 +10427,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒ずくめの男"
+                                "Man in black: Even if it's 100 people or 1000 people, you\nwould give the same answer, right? I, as an old man, have a\njob of saving tens of thousands of people."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「しかも同時にね」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And at the same time, too."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10512,14 +10512,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女アリシア"
+                                "Girl Alicia: Can you really do something like that!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんなことが出来るんですかっ！？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Man in black: If there are 100 people, it becomes a\nvillage. If there are 1000 people, it becomes a town. If\nthere are 10,000 people, it becomes a city. And if there are\nmore than that, it becomes a country."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10550,21 +10588,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒ずくめの男"
+                                "Man in black: A country is a community of people, and a man\nwho becomes sick is not just a human doctor, but a doctor of\nthe nation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「100人いれば村になる、1000人いれば街になる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　10000人いれば都市になる、それ以上いれば国になる」"
+                                ""
                             ]
                         },
                         {
@@ -10588,21 +10626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒ずくめの男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「国は人間の共同体だ、そして国も病気になる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　おじさんは人間の医師ではなく国家の医師なんだ」"
+                                "Man in black: Your dream of wanting to save many people is\nadmirable. Remember that there are doctors who have that\nsame goal. I'll come again, so keep that in mind."
                             ]
                         },
                         {
@@ -10613,34 +10637,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒ずくめの男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「多くを救いたいという君の夢に近いかもね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　また来るから、そういう医師もいることを覚えておいてよ」"
+                                ""
                             ]
                         },
                         {
@@ -10892,38 +10892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アリシアは当時存在したフォティゾナ近郊のスラムで育った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　両親の名前も自身の名前も知らない【何者】でもない人間。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国に忘れられた【透明】な存在として生きていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Alicia grew up in the slums near Fotizona at that time. She\nwas not just a nobody who didn't know her parents' names\nor her own name. She lived as a forgotten and invisible\nexistence in the empire."
                             ]
                         },
                         {
@@ -10937,14 +10906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　幸運なことに奉仕活動を行う僧侶たちに救出され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　偉人の名を借りてアリシアと名付けられた。"
+                                ""
                             ]
                         },
                         {
@@ -10968,38 +10930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　不思議なもので、名前によってかたちが生まれることがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アリシアはその典型で、名前を与えられてから激変していった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　偉人からつけられた名に恥じぬように猛勉強を開始した。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Fortunately, Alicia was rescued by the monks who were\nengaged in volunteer activities and given the name Alicia,\nborrowing the name of a great person."
                             ]
                         },
                         {
@@ -11013,204 +10944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偉人アリシアは僧侶より医師として高名な人物だったため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人々を治療することがアリシアにとっての大きな目標となった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　当然ながら自身が劣悪な環境で育ったことも大きく影響している。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アリシアは聡明で美しい少女として知られるようになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　中には愛人として迎えたいなど下劣なものもあったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その才能を認め、適切な環境を与えたいと申し出る者もいた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、アリシアは断り続け、孤児院を出なかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは心を救う僧侶として求められていることにあった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　スラムで育った彼女にとって心の傷より身体の傷が優先だった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな中で現れた黒ずくめの男。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼は個人ではなく国家を治療することで多くの人を救済する、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな壮大な仕事が存在することを教えてくれた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アリシアは即答こそしなかったが、心が震えていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　かつての自分のような透明な存在は、国の病気そのものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それを救うことが出来る仕事は崇高なものだと信じた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アリシアは孤児院の扉を希望をもって閉じた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして、アリシアは希望と熱意をもって新しい扉を開いた。"
                             ]
                         },
                         {
@@ -11234,6 +10968,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "It's strange how sometimes form is born from a name. Alicia\nis a typical example of that, as she underwent a drastic\ntransformation after being given a name. She began studying\nintensely so as not to disgrace the name given to her by a\ngreat person."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -11241,21 +10982,280 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　扉の先では吊るされた男が拷問されていた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　そこは帝国の闇、帝国暗部イシェケルの本拠地。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　強固な扉は閉じられ、アリシアは出ることを許されなかった。"
+                                "Alicia, a great person, was a renowned physician rather than\na monk, so treating people became a major goal for her.\nNaturally, her upbringing in a harsh environment also had a\nsignificant impact."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Alicia became known as a smart and beautiful girl. There\nwere some who had vulgar intentions, wanting to take her as\na mistress, but there were also those who recognized her\ntalent and offered to provide her with a suitable\nenvironment."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "However, Alicia continued to refuse and did not leave the\norphanage. It was because she was needed as a monk who saves\nhearts. For her, who grew up in the slums, physical wounds\ntook priority over emotional wounds."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The man dressed in black appeared in such circumstances. He\ntaught me that there is a grand job of saving many people by\ntreating not just individuals, but the nation itself."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Alicia didn't give an immediate answer, but her heart was\ntrembling. She believed that being a transparent existence\nlike her former self was a sickness of the nation itself.\nShe believed that the job of being able to save that\nsickness was a noble one."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Alicia closed the door of the orphanage with hope. And with\nhope and enthusiasm, Alicia opened a new door."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Beyond the door, a man was being tortured, hanging there. It\nwas the dark side of the empire, the headquarters of the\nImperial Secret Service, Ishekeru. The sturdy door was\nclosed, and Alicia was not allowed to leave."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

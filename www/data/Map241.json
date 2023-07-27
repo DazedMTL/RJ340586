@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "アトミス神殿前",
+    "displayName": "Atmis Temple Front",
     "encounterList": [],
     "encounterStep": 30,
     "height": 45,
@@ -10213,21 +10213,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: What an amazing building! Is this the number\none church in the empire?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すごい建物ですね〜！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここが帝国で一番の教会なんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -10251,21 +10251,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: This is the place that oversees the\nTerios Church. Normally, it is where the messengers of the\nThree Goddesses, known as the priestesses, reside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「テリオス教会を束ねる場所ですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　普段は三女神の巫女という神の使いが暮らす場所です」"
+                                ""
                             ]
                         },
                         {
@@ -10289,14 +10289,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: So, normally, are the priestesses not here right\nnow?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「普段はということは、いまはいないのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -10320,21 +10320,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: There is a pilgrimage ritual called the\nDivine Crossing, and in the end, we offer prayers to the\nmain goddess, Sol, in front of this temple."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「御神渡りという巡礼の儀式があって"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　最後はこの神殿前で主神ソールに祈りを捧げる」"
+                                ""
                             ]
                         },
                         {
@@ -10358,14 +10358,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: This is the ritual that Agonia was\ntalking about."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アゴニアさんの言っていた儀式はこれですわ」"
+                                ""
                             ]
                         },
                         {
@@ -10389,14 +10389,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Sophia-san, when you speak seriously, it throws\nme off balance."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ソフィアさんが真面目に話すと調子狂いますね」"
+                                ""
                             ]
                         },
                         {
@@ -10420,21 +10420,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, even though I may not look like it,\nI am a humble priestess of the Terios Church!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、こう見えても"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　テリオス教徒の僧侶の端くれですからね！」"
+                                ""
                             ]
                         },
                         {
@@ -10458,14 +10458,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: First, let's listen to what the client has to say."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まずは依頼者の方に話を聞いてみましょう」"
+                                ""
                             ]
                         },
                         {
@@ -11603,7 +11603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう一度挑戦しますか？"
+                                "Would you like to try again? ※ If you choose No, it will\nbe game over."
                             ]
                         },
                         {
@@ -11617,7 +11617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※「いいえ」を選択するとゲームオーバー"
+                                ""
                             ]
                         },
                         {
@@ -12329,14 +12329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Is this the end?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……これで最後ですかね」"
+                                ""
                             ]
                         },
                         {
@@ -12931,21 +12931,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Hahaha! My sword struck before your knife\ndid!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「がははっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　儂の剣の方がお前のナイフより先に当たったな！」"
+                                ""
                             ]
                         },
                         {
@@ -12969,14 +12969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: As expected, when you stay away from\nthe battlefield, your body becomes dull."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やはり現場から遠ざかると身体が鈍りますね」"
+                                ""
                             ]
                         },
                         {
@@ -14022,14 +14022,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I let one escape. I apologize."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひとり逃していました。申し訳ありません」"
+                                ""
                             ]
                         },
                         {
@@ -14053,21 +14053,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: I thought I had wiped them all out\nbefore they got here... To think they would actually make it\nthis far."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここに来るまでに全滅させたと思ったのですが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　……むしろここまでたどり着かせてしまうとは」"
+                                ""
                             ]
                         },
                         {
@@ -14091,21 +14091,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Compassion: There were more of them than I\nthought. I sensed some kind of movement, but I didn't expect\nthem to come this far."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「思ったよりも数が多かったな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何かしらの動きがあると思ったがここまでとは」"
+                                ""
                             ]
                         },
                         {
@@ -14129,21 +14129,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Pests naturally appear, and there may be bugs\nthat Clea attracted as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「害虫は自然と湧くものよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それにクレアが引きつけた虫もいるかもしれん」"
+                                ""
                             ]
                         },
                         {
@@ -14183,21 +14183,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: The Dragon Slayer is a special existence.\nClea, who defeated the dragon, is their enemy, a symbol of\ndemons."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンスレイヤーとは特別な存在だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪魔の象徴ドラゴンを倒したクレアはやつらの敵だ」"
+                                ""
                             ]
                         },
                         {
@@ -14221,14 +14221,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you for your advice."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご忠告ありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -14252,21 +14252,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド長アゴニア"
+                                "Guild Leader Agonia: Eventually, a request to subjugate\ndemon worshippers might come our way."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いずれ悪魔崇拝者を討伐……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そんな依頼が舞い込んでくるかもしれませんね」"
+                                ""
                             ]
                         },
                         {
@@ -14290,21 +14290,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Compassion: Well, Agonia and I will be heading\nback. We're looking forward to hearing about your audience."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、俺とアゴニアは戻るよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　謁見の土産話を楽しみにしてるよ」"
+                                ""
                             ]
                         },
                         {
@@ -18901,14 +18901,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: You were able to greet Mr. Laoco and the shrine\nmaiden, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ラオコさんや巫女様にご挨拶はできましたね」"
+                                ""
                             ]
                         },
                         {
@@ -18946,21 +18946,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Sending General Atu here... means that\nCaron's side is finally ready."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトゥ将軍をここに送り出した……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　つまりカロン側もいよいよ準備が整ったということですわ」"
+                                ""
                             ]
                         },
                         {
@@ -18991,14 +18991,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Ah, we need to hurry too!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、あたしたちも急がないとダメですよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -19036,21 +19036,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Assuming we return to the guild in the end...\nare there any other people who would be willing to\ncooperate?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「最後はギルドに戻るとして……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　他に協力をしてくれる人たちはいますかね？」"
+                                ""
                             ]
                         },
                         {
@@ -19081,21 +19081,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Remember the days of adventure... There must be people\nwho will cooperate with us)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（冒険の日々を思い出せ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちに協力をしてくれる人たちは必ずいるはず）"
+                                ""
                             ]
                         },
                         {
@@ -20140,21 +20140,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: The reward was a bit disappointing, huh? I was\nhoping for something delicious or useful!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「報酬がちょっと残念でしたね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　美味しいものか、役に立つものがよかったです！」"
+                                ""
                             ]
                         },
                         {
@@ -20185,21 +20185,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's the secret underground ruins of the Atomis\nTemple, right? It's amazing that even someone from the Magic\nAcademy like me can enter legally!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトミス神殿の秘密の地下遺跡ですよ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法アカデミーのボクが合法で入れるなんてすごいですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -20278,21 +20278,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I haven't heard any rumors about it. It\ncould be considered the Terios Church's biggest secret."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「噂でも聞いたことがありませんでしたわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　テリオス教最大の秘密と言ってもいいかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -20402,14 +20402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: Why are you here...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なぜここに……？」"
+                                ""
                             ]
                         },
                         {
@@ -20447,21 +20447,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: It's a stupid question. There's no way the\nDragon Slayer wouldn't be called by the priestess."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くだらない質問だったな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドラゴンスレイヤーが巫女様に呼ばれないわけがないか」"
+                                ""
                             ]
                         },
                         {
@@ -20492,14 +20492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Opro-san, do you know the priestess?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オプロさんも巫女様と面識が？」"
+                                ""
                             ]
                         },
                         {
@@ -20537,21 +20537,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: I am called the Goblin Slayer, favored by\nthe priestess Actina, and I receive requests for monster\nhunting."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アクティナの巫女様に気に入られてな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ゴブリンスレイヤーなどと呼ばれ怪物狩りの依頼を受けておる」"
+                                ""
                             ]
                         },
                         {
@@ -20582,14 +20582,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: So, that means this is also a request, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ということは今回も依頼ということですね」"
+                                ""
                             ]
                         },
                         {
@@ -20627,14 +20627,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: That seems to be the case... This time, it\nlooks like it's going to be a big game hunt after a long\ntime."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうなる……今回は久々の大物狩りになりそうじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -20672,14 +20672,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: We may meet again somewhere on our journey,\ntake care."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「旅のどこかで会う時もあるだろう、達者でな」"
+                                ""
                             ]
                         },
                         {

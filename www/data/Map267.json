@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "キルクルスの遺跡祭壇",
+    "displayName": "Ruins Altar of Kilcrus",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -6534,7 +6534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　祭壇のエリアに入りますか？"
+                                "Will you enter the altar area?"
                             ]
                         },
                         {
@@ -6580,14 +6580,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before entering)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6834,7 +6834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　祭壇のエリアに入りますか？"
+                                "Will you enter the altar area?"
                             ]
                         },
                         {
@@ -6880,14 +6880,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before entering)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -7134,7 +7134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　祭壇のエリアに入りますか？"
+                                "Will you enter the altar area?"
                             ]
                         },
                         {
@@ -7180,14 +7180,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before entering)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -8463,21 +8463,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Adventurer Armada: There seems to be another altar in a\ndifferent location... Please be on guard so that everyone is\nready for battle."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「他の場所にもあった祭壇だね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　全員戦闘できるように警戒していておくれ」"
+                                ""
                             ]
                         },
                         {
@@ -8616,21 +8616,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Adventurer Armada: As I thought... It's a round-shaped\naccessory... Shall I lift it up now?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やっぱりあった……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　丸型のアクセサリーだ……いまから持ち上げるよ？」"
+                                ""
                             ]
                         },
                         {
@@ -8801,14 +8801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Adventurer Armada: ...How about it, Phoni, Nora!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……どうだい、フォニ、ノラ！？」"
+                                ""
                             ]
                         },
                         {
@@ -8894,21 +8894,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: ...I can't hear anything, it's incredibly quiet\nand eerie."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……何も聞こえません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　すごく静かで不気味なくらいです」"
+                                ""
                             ]
                         },
                         {
@@ -8932,14 +8932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Voice Priestess Phoni: I feel the same... It's not just\nsilence, but more like a sense of stillness."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私も同じです……静寂ではなく沈黙のような感じがします」"
+                                ""
                             ]
                         },
                         {
@@ -8963,21 +8963,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I don't know what will happen. Now that we've\nachieved our objective, let's escape quickly."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何が起こるかわかりません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　目的を達成した以上、はやく脱出しましょう」"
+                                ""
                             ]
                         },
                         {
@@ -9059,14 +9059,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Adventurer Armada: Is it okay if I take a quick look around\nhere?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「少しだけここを見てもいいかい？」"
+                                ""
                             ]
                         },
                         {
@@ -9185,21 +9185,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: That's right! Investigation is essential for\nresearch purposes!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　研究のために調査は必須ですからね！」"
+                                ""
                             ]
                         },
                         {
@@ -9223,14 +9223,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Relm-chan is supposed to be in a position\nto stop this originally..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「リルムちゃんは本来止める立場のはずなのだけど……」"
+                                ""
                             ]
                         },
                         {
@@ -9310,21 +9310,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Please look! There's a room further inside!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「見てください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　奥に部屋がありますよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -9463,21 +9463,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Adventurer Armada: There might be a hint to the room with\nthe door hidden in the back of the altar!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「祭壇の奥の部屋……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何か扉の部屋のヒントが隠されているかもしれないね！」"
+                                ""
                             ]
                         },
                         {
@@ -9702,14 +9702,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Nooo~ It's dangerous, so it's not allowed!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もぉ〜危ないからダメですよぉ！」"
+                                ""
                             ]
                         },
                         {
@@ -9733,21 +9733,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go too. There might be something hostile\nthere."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちもいきましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　敵意ある何かがいるかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -10424,14 +10424,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is everyone okay!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「みなさん、無事ですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -10455,21 +10455,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: Sorry, but I'll apologize later. There's a\ndangerous sound coming from behind, and it's getting\ncloser!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悪いけど謝罪は後にさせてもらうよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　後ろからやばい音がどんどん迫ってる！」"
+                                ""
                             ]
                         },
                         {
@@ -10486,21 +10486,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: It's only a matter of time before this\nroom becomes dangerous. Let's hurry back to the entrance!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この部屋も時間の問題さ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　はやいところ入口まで戻ろう！」"
+                                ""
                             ]
                         },
                         {
@@ -10524,21 +10524,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, let's escape to the entrance as quickly\nas possible."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　入口まで最速で逃げましょう」"
+                                ""
                             ]
                         },
                         {
@@ -10651,14 +10651,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL Please escape from the Kilcrus Ruins within 3 minutes."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL３分以内にキルクルス遺跡から脱出してください"
+                                ""
                             ]
                         },
                         {

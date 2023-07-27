@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "砂漠の街アンモス 商人オロの家",
+    "displayName": "City of Ammos in the Desert, Merchant Oro's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4173,14 +4173,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: If you want tools, please try another shop."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「道具が欲しいなら別を当たってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -4495,14 +4495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Do you have any business with the magician?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法使いが何か用事でも？」"
+                                ""
                             ]
                         },
                         {
@@ -4526,21 +4526,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Magician Relm: I came from the Magic Academy. The\nexperimental crystal should be here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法アカデミーからきました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　実験用のクリスタルがここにあるはずです」"
+                                ""
                             ]
                         },
                         {
@@ -4564,21 +4564,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Magician Relm: We are the rightful buyers! We will pay, so\nplease return the crystal."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本来の購入者はボクたちです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お支払いはしますからクリスタルを返してください」"
+                                ""
                             ]
                         },
                         {
@@ -4602,14 +4602,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: I refuse."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「嫌だね」"
+                                ""
                             ]
                         },
                         {
@@ -4642,21 +4642,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: There are many arrogant magicians. It's a big\nmistake to think that they can get whatever they want!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法使いは横暴なやつが多いな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　なんでもワガママが通ると思ったら大間違いだ！」"
+                                ""
                             ]
                         },
                         {
@@ -4680,14 +4680,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Magician Relm: Tsk... They stole our reservation..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「っく……取り置きを横取りしたくせに……！」"
+                                ""
                             ]
                         },
                         {
@@ -4711,21 +4711,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Well, if you're willing to pay 3000G, I might\nconsider it, you know?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何とでも言ってくれ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まぁ3000G支払うなら考えてもいいぜ？」"
+                                ""
                             ]
                         },
                         {
@@ -4742,21 +4742,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Or... allowing me to freely use your insolent\nmouth is the condition for the exchange!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もしくは……生意気なくちを"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　自由に使わせてもらうのが交換条件だ！」"
+                                ""
                             ]
                         },
                         {
@@ -4825,14 +4825,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Hey, if you can't pay, the negotiation is\nover, you know?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「おい、払えないなら交渉は決裂だぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -4849,21 +4849,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Well, I'll wait, so think carefully before\nyou approach me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「まぁ、待ってやるから"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　よく考えてから話しかけるんだな」"
+                                ""
                             ]
                         },
                         {
@@ -5165,14 +5165,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Have you decided whether to pay or lend your\nmouth?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「支払いか、くちを貸すか決まったか？」"
+                                ""
                             ]
                         },
                         {
@@ -5227,14 +5227,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Hey, if you can't pay, negotiations will\nbreak down, you know?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「おい、払えないなら交渉は決裂だぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -5251,21 +5251,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Well, I'll wait, so think carefully before\nyou approach me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「まぁ、待ってやるから"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　よく考えてから話しかけるんだな」"
+                                ""
                             ]
                         },
                         {
@@ -5747,21 +5747,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Even though you're just a brat, you sure have\na lot of money. As expected, being a magician pays well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ほーガキの癖に大金をもってやがる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さすが魔法使い様は高給取りってわけだ」"
+                                ""
                             ]
                         },
                         {
@@ -5831,14 +5831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Magician Relm: Now, please return the crystal."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、クリスタルを返してください」"
+                                ""
                             ]
                         },
                         {
@@ -5892,21 +5892,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Here, take it. If you change your mind, come\nand earn some pocket money."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ほら、もっていきな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それに気が変わったら小遣い稼ぎにきてくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -6018,21 +6018,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I can't afford such a large sum of money...\nPlease don't ask me to do anything outside of the agreed\nconditions!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんな大金は払えませんので……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　条件以外のことは絶対にしないでくださいね！」"
+                                ""
                             ]
                         },
                         {
@@ -6056,21 +6056,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: I need to properly educate this cheeky little\nmage and show her what an adult like me can do."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「小生意気な魔法使いのガキに"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺みたいな大人がしっかりと教育してやらないとな」"
+                                ""
                             ]
                         },
                         {
@@ -6115,7 +6115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -6267,21 +6267,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: I had quite a good time. Come and visit me\nagain for some pocket money."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なかなか楽しませてもらったぜ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　また小遣い稼ぎに遊びにきてくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -6305,14 +6305,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Ugh... Now, please return the crystal!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ……さぁ、クリスタルを返してください！」"
+                                ""
                             ]
                         },
                         {
@@ -6366,14 +6366,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Here, take it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ほら、持っていきな」"
+                                ""
                             ]
                         },
                         {
@@ -6694,14 +6694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: If you want tools, please try another shop."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「道具が欲しいなら別を当たってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -6769,14 +6769,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: What, a brat magician?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだ、魔法使いのガキじゃねーか」"
+                                ""
                             ]
                         },
                         {
@@ -6955,7 +6955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -7168,21 +7168,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Hahaha, you really came! I'll make sure to\nproperly educate the proud mage-sama."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ははは、本当に来やがった！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　プライドの高い魔法使い様をしっかり教育してやるよ」"
+                                ""
                             ]
                         },
                         {
@@ -7199,21 +7199,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人オロ"
+                                "Merchant Oro: Don't just stand there, come over here and\nkneel down."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ぼさっとしてないで"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こっちに来てひざまずくんだよ」"
+                                ""
                             ]
                         },
                         {

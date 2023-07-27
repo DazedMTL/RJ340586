@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "イリニ村",
+    "displayName": "Irini Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 47,
@@ -11514,21 +11514,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ヘイス"
+                                "Noble Heis: Look, Caron! This year's harvest is great!\nThanks to your advice!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「見てくれ、カロン！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今年は大収穫だぞ！　君の助言のおかげだ！」"
+                                ""
                             ]
                         },
                         {
@@ -11552,21 +11552,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族婦人カロン"
+                                "Noble Lady Caron: It is thanks to your efforts, Lord Heis.\nI will also assist with the harvest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ヘイス様の努力の賜物ですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私も収穫のお手伝いをしますから」"
+                                ""
                             ]
                         },
                         {
@@ -11669,21 +11669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ヘイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お腹の子どもに何かあったらどうする！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　私が収穫係で君は料理人だ、これは決定事項だ！」"
+                                "Noble Heis: What will you do if something happens to our\nunborn child!? I will be in charge of the harvest and you\nwill be the cook, this is a decision!"
                             ]
                         },
                         {
@@ -11691,144 +11677,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族婦人カロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「はいはい、旦那様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　従順なカロンはヘイス様に逆らいませんわ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族ヘイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それは素晴らしいね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　じゃあ、少しだけ狩りの時間を増やしてもいいかい？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族婦人カロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それはダメですわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　一緒にいることの出来る時間が減ってしまいますから……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族婦人カロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それにお腹の子も寂しがりますわ」"
                             ]
                         },
                         {
@@ -11859,21 +11707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ヘイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それを人質にとられると降参だ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　わかった、狩りは当面禁止にして家族の時間を増やそう！」"
+                                "Noble Lady Caron: Yes, yes, obedient Caron will not defy\nLord Heis."
                             ]
                         },
                         {
@@ -11881,30 +11715,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族婦人カロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「うふふ、ヘイス様は私に甘すぎますわ」"
                             ]
                         },
                         {
@@ -11935,21 +11745,211 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ヘイス"
+                                "Noble Heis: That's wonderful! Then, can we extend the\nhunting time just a little?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「最愛の妻だからね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君の幸せが私の幸せだ、当然だろ？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Lady Caron: That's not good! It will reduce the time\nwe can spend together..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Lady Caron: And our unborn child will also feel\nlonely."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Heis: If we are held hostage because of that, I will\nsurrender... Alright, let's temporarily ban hunting and\nincrease our family time!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Lady Caron: Hehe, Lord Heis is too sweet to me."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Heis: Because you are my beloved wife, your happiness\nis my happiness, of course, right?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11980,6 +11980,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Caron's marriage caused a shock in high society. Because her\npartner was Heis, a middle-class noble from the Vald family.\nHe was known as a brave and courageous warrior, but that was\nall."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -11987,21 +11994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カロンの結婚は社交界に衝撃を与えた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　なぜなら、相手がヴァルトの中流貴族ヘイスだったからだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼は勇猛果敢な戦士として知られていたが、それだけだった。"
+                                ""
                             ]
                         },
                         {
@@ -12018,6 +12018,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Of course, the nobles of the Mucos family who had invested\nin Caron were furious. However, they couldn't oppose Heis,\nwho had connections with the Vald's Bulk Brigade, with\nforce, and in the end, they had no choice but to give up."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -12025,21 +12032,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　当然、カロンに投資していたミュコスの貴族は激怒した。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　だが、ヴァルトのバルク団とも親交があったヘイスに対して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　武力で対抗することはできず、最終的には諦めるしかなかった。"
+                                ""
                             ]
                         },
                         {
@@ -12056,6 +12056,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Caron's [mother's wish] inside her faded away, and she\nlearned the happiness of surrendering herself to peaceful\nand gentle moments. Heis's kindness definitely filled\nCaron's loneliness."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -12063,21 +12070,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カロンの中にあった【母の願望】は薄れていき、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　穏やかで優しい時間に身を委ねることの幸福を知った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ヘイスの優しさは、確実にカロンの孤独を埋めていった。"
+                                ""
                             ]
                         },
                         {
@@ -12094,6 +12094,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "After the birth of their son, Lloyd, Caron no longer even\nconsidered loneliness. Dalsa, the kind-hearted maid, and her\ndaughter Amina. The world that enveloped Caron was pure\nhappiness."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -12101,21 +12108,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　息子ルイドが誕生すると孤独ということすら考えなくなった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　気立てのいいメイドのダルサ、その娘のアミナ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カロンを包み込む世界は幸福そのものだった。"
+                                ""
                             ]
                         },
                         {
@@ -12132,14 +12132,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Until Heis dies in battle due to the subjugation mission\nordered by King Agnos."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アグノス王の命じた討伐任務によってヘイスが戦死するまでは。"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "咲きこぼれの洞窟入口",
+    "displayName": "Entrance of the Overflowing Blossom Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9773,14 +9773,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's not go in right now."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「今は入るのはやめましょう」"
+                                ""
                             ]
                         },
                         {
@@ -9919,14 +9919,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　クレア"
+                                "Clea (We should be able to defeat the goblins now...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　（いまならゴブリンを倒せるはず……）"
+                                ""
                             ]
                         },
                         {
@@ -9950,14 +9950,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's go in)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　（入りましょう）"
+                                ""
                             ]
                         },
                         {
@@ -10116,14 +10116,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　クレア"
+                                "Clea (We still don't have a priest in our party... Let's\nturn back)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　（僧侶はまだ仲間にいない……引き返そう）"
+                                ""
                             ]
                         },
                         {
@@ -10936,21 +10936,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: This seems to be the entrance to the cave. Are you\nwaiting here, Relm-san?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここが洞窟の入口みたいですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　リルムさんはここで待っていますか？」"
+                                ""
                             ]
                         },
                         {
@@ -11005,21 +11005,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I'll go too. There might be something useful\nbesides our main objective."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクもいきますよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お目当て以外に何か使えるものがあるかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -11043,14 +11043,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Inside the cave, I'll show you the power of a\nmage!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「洞窟の中では魔法使いのちからを見せてあげますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -11074,14 +11074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Can I see some magic!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法を見せてもらえるんですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -11105,21 +11105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Hehe, it's not something you see every day! Let\nme show you what a real mage can do."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ふふんっ、めったにないことですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本物の魔法使いというものを見せてあげましょう」"
+                                ""
                             ]
                         },
                         {
@@ -11143,14 +11143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, let's go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、いきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -12008,21 +12008,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Welcome back, everyone! Let's proceed further\ninside!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「戻ってきましたか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁ、奥に進みましょう！」"
+                                ""
                             ]
                         },
                         {

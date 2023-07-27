@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "クリスタルの中 魂の座",
+    "displayName": "Seat of the Soul in the Crystal",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2650,21 +2650,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The downside here for researcher Albus is that he can't\ntest the knowledge he has acquired. It's too painful for a\nresearcher."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここの難点はあれだね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　知り得た知識を試せない、研究者にとってはつらすぎるよ」"
+                                ""
                             ]
                         },
                         {
@@ -2739,14 +2739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: 'Will you tell me an interesting\nstory?'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何か面白い話を聞かせてくれるのかい？」"
+                                ""
                             ]
                         },
                         {
@@ -3171,21 +3171,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: This is a story that happened in the Fotizona Sea. We\nwere asked by a certain pirate crew to return a crown..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「フォティゾナの海で起きた話です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　私たちはある海賊団から王冠の返却を依頼されました……」"
+                                ""
                             ]
                         },
                         {
@@ -3233,21 +3233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「海賊カルプスが率いるレモス海賊団かぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　君たちはとても素晴らしい体験をしているね」"
+                                "Researcher Albus's soul: The Lemoss Pirates led by Captain\nCarpus, huh! You all must be having a wonderful experience."
                             ]
                         },
                         {
@@ -3255,30 +3241,6 @@
                             "indent": 1,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「ここから出られない身からすれば羨ましい限りだよ」"
                             ]
                         },
                         {
@@ -3309,21 +3271,59 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: As someone who can't leave from\nhere, I envy you all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さて、報酬だけど……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　石巌の悪魔グアイペソの石化魔法を解く方法を教えよう」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Researcher Albus's soul: Now, as for the reward... I will\nteach you how to undo the petrification magic of the demon\nGuaipezo of Ishigan."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3354,14 +3354,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: With this, the petrification curse will be\nlifted!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「これで石像の呪いが解けますね！」"
+                                ""
                             ]
                         },
                         {
@@ -3392,21 +3392,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: If that's the case, I could have\ntaught you for free. Well, never mind. I'll tell you since\nyou seem like you'll understand."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それだったらタダで教えてもよかったなぁ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　まぁ、いいや君なら理解できそうだから伝えるね」"
+                                ""
                             ]
                         },
                         {
@@ -3484,21 +3484,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: K-Knowledge is flowing into me... It's a very\nstrange... peculiar sensation, isn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ち、知識が流れ込んできました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　すごく不思議な……奇妙な感覚ですね」"
+                                ""
                             ]
                         },
                         {
@@ -3529,21 +3529,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: With these ingredients... I know someone\nsuitable for the Magic Academy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「この材料なら……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　魔法アカデミーに適任の人がいるのを知っています」"
+                                ""
                             ]
                         },
                         {
@@ -3567,21 +3567,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: Gather the materials yourself and\nwithin the range I can teach you, I will cooperate with\nyou."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「材料は自分で集めてね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　教えられる範囲で君たちには協力していくよ」"
+                                ""
                             ]
                         },
                         {
@@ -3768,21 +3768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「フォティゾナの海に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　骸骨の船員がいる船がいるみたいなんだ」"
+                                "Researcher Albus's soul: It seems there is a ship with\nskeletal crew members in the Fotizona Sea."
                             ]
                         },
                         {
@@ -3790,30 +3776,6 @@
                             "indent": 1,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「君たちのギルドに海に関連する依頼はきていないかな？」"
                             ]
                         },
                         {
@@ -3844,14 +3806,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: Have any requests related to the\nsea come to your guild?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ここは退屈だから楽しい話を待っているよ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Researcher Albus's soul: I'm bored here, so I'm waiting for\nan interesting story."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3929,21 +3929,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The downside of being a researcher here is that you can't\nput the knowledge you've acquired to the test. It's too\npainful for a researcher."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここの難点はあれだね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　知り得た知識を試せない、研究者にとってはつらすぎるよ」"
+                                ""
                             ]
                         },
                         {
@@ -5190,14 +5190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: The atmosphere here is different from the places\nwe've been to before."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いままでの場所とは雰囲気が違いますね」"
+                                ""
                             ]
                         },
                         {
@@ -5235,21 +5235,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: There is no doubt that this is the center that\nis creating this space."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「間違いありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この空間を作り出している中心です」"
+                                ""
                             ]
                         },
                         {
@@ -5280,14 +5280,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: B-But, we still haven't found Albus-san, you\nknow!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「で、でも、アルブスさんはまだ見つかってませんよぉ！？」"
+                                ""
                             ]
                         },
                         {
@@ -5325,21 +5325,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: There were strange things wandering\naround. Could it be that they have already perished in this\nspace--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「奇妙なものが徘徊していました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まさかすでにこの空間で息絶えてしまったのでは――」"
+                                ""
                             ]
                         },
                         {
@@ -5363,14 +5363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　？？？"
+                                "That's not true."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんなことはない」"
+                                ""
                             ]
                         },
                         {
@@ -5680,21 +5680,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus: 'You wonderful seekers\nhave arrived well with that clue.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「素晴らしき探求者たちよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの手がかりでよくたどり着いた」"
+                                ""
                             ]
                         },
                         {
@@ -5725,21 +5725,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Albus-san! Dokusa-san is worried, so let's go\ntogether!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アルブスさん！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドクサさんが心配していますよ、だから一緒に！」"
+                                ""
                             ]
                         },
                         {
@@ -5763,21 +5763,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus: This is the final trial.\nShow me your skills in defeating the illusions of demons!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは最後の試練だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪魔の幻影を打ち倒した腕前を見せてもらおう！」"
+                                ""
                             ]
                         },
                         {
@@ -5825,14 +5825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: ...hehe, ahahaha!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……ふふ、あはははははっ！」"
+                                ""
                             ]
                         },
                         {
@@ -5899,21 +5899,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: Oh, sorry, sorry! I just wanted\nto play pretend as a cultist possessed by demons!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いやー悪かった悪かった！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪魔に魅入られた邪教徒ごっこをしたかったんだよ！」"
+                                ""
                             ]
                         },
                         {
@@ -5937,21 +5937,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: By the way, who are you guys?\nFrom the way you talk, you seem like friends of Dokusa-\nsan."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ところで君たちは誰だい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　話しぶりからするとドクサさんの友人みたいだね」"
+                                ""
                             ]
                         },
                         {
@@ -5982,14 +5982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Allow me to explain how we ended up here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちがここに来た経緯を説明させていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -6051,21 +6051,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus: 'I see, so it's Dokusa-\nsan's request. That person is truly diligent and caring,\nhuh.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるほど、ドクサさんの依頼か"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの人は本当に律儀で面倒見がいい人だねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -6105,14 +6105,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Relm-san, is something wrong?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「リルムさん、どうかしたんですかぁ？」"
+                                ""
                             ]
                         },
                         {
@@ -6143,21 +6143,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: As expected of my junior from the\nacademy, you're the only one who has noticed that my\nphysical body has disappeared."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さすがはアカデミーの後輩だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君だけは僕の肉体が消滅していることに気がついているね」"
+                                ""
                             ]
                         },
                         {
@@ -6215,14 +6215,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: So, what are we talking about?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「では、わたくしたちは何と話しているでしょうか？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Researcher Albus's soul: The crystal I received from\nDokusa-san was a dangerous artifact created by the\ncivilization of demons."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6253,21 +6291,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: Every time I visited the shrine,\nknowledge flowed into me rapidly. The invitation and crystal\nthat were sent, they are like my conscience, or something\nlike that."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドクサさんからもらったクリスタル"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あれは悪魔の文明が作り出した危険な代物だった」"
+                                ""
                             ]
                         },
                         {
@@ -6291,21 +6329,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: I think I wanted someone to stop\nme, but I couldn't resist my desire for research, and ended\nup like this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「祠を巡るたびに目まぐるしく知識が流れ込んできた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　送った招待状とクリスタルは僕の良心というか何というか」"
+                                ""
                             ]
                         },
                         {
@@ -6329,21 +6367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「誰かに止めて欲しかったんだと思う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　でも研究欲に負けてこうなって、このザマさ」"
+                                "Researcher Albus's soul: As your senior, let me give you\nsome advice. If you're also a researcher, you mustn't make a\nmistake in knowing when to stop, right?"
                             ]
                         },
                         {
@@ -6354,34 +6378,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「先輩として忠告させてもらうけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　君も研究者なら引き際を間違えてはいけないよ？」"
+                                ""
                             ]
                         },
                         {
@@ -6412,14 +6412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ボクの時は友人たちが止めてくれました」"
+                                "Mage Relm: My friends stopped me when it was my turn."
                             ]
                         },
                         {
@@ -6427,37 +6420,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「いい友人だ、大切にした方がいい」"
                             ]
                         },
                         {
@@ -6488,21 +6450,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: They're good friends, you should\ntreasure them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて僕は肉体を失い魂はクリスタルと融合した"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それによってクリスタルに封じられた知識を得た」"
+                                ""
                             ]
                         },
                         {
@@ -6526,21 +6488,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: Well, I lost my physical body and\nmy soul merged with a crystal, gaining knowledge that was\nsealed within the crystal."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ただクリスタルの魔力が消えれば僕も消え去ってしまう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それが今日なのか明日なのか千年後なのかはわからないけど」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Researcher Albus's soul: If only the magic power of the\ncrystal disappears, I will also disappear. Whether it's\ntoday, tomorrow, or a thousand years from now, I don't\nknow."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6571,14 +6571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: D-Don't you want to escape from here?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、ここから出たいと思わないんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -6609,21 +6609,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: I thought about it and tried to\nexecute it, but it didn't work. I was stopped by a wandering\nminstrel."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「考えたし実行しようとしたよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でもダメだった、吟遊詩人の男に止められた」"
+                                ""
                             ]
                         },
                         {
@@ -6699,21 +6699,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: I have a favor to ask. Please tell\nDokusa-san that I'm sorry for causing them worry."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お願いがあるんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドクサさんに心配かけてごめんなさいって伝えて欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -6744,14 +6744,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Understood, I will definitely convey the\nmessage."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、必ず伝えます」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Researcher Albus's soul: Come visit occasionally, you have\nthe qualification to enter here."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6782,21 +6820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「たまに遊びにきてよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　君たちはここに入る資格があるからね」"
+                                "Researcher Albus's soul: I'm glad I made various\npreparations while I still had a physical body."
                             ]
                         },
                         {
@@ -6807,34 +6831,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「肉体がある時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　いろいろと準備をしておいてよかった」"
+                                ""
                             ]
                         },
                         {
@@ -6865,14 +6865,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: By the way, how do you create an illusion of\nthat demon!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうだ、あの悪魔の幻影ってどうやるんですか！？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Researcher Albus's soul: Hahaha, yeah, I better keep it a\nsecret from the wandering minstrel."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6903,21 +6941,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: If it's within my capabilities to\nteach you, feel free to come visit here whenever you're in\ntrouble."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ははは、そうだなぁ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　吟遊詩人に怒られそうだから内緒にするよ」"
+                                ""
                             ]
                         },
                         {
@@ -6941,21 +6979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「教えられる範疇でいいなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　何か困った時にここに遊びにきておくれよ」"
+                                "Researcher Albus's soul: Place a magic circle right next to\nthe entrance so that you can come here directly from now\non."
                             ]
                         },
                         {
@@ -6966,34 +6990,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「入口のすぐ側に魔法陣を置くよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　次からはここに直行で来ることができるようにね」"
+                                ""
                             ]
                         },
                         {
@@ -7024,21 +7024,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Researcher Albus's soul: I apologize for being such an\nincompetent assistant to Dokusa-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドクサさんによろしくね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まったく不甲斐ない助手で申し訳なかったなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -7882,14 +7882,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "Hello, have you come because you want to know something\nabout the researcher Albus?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やぁ、何か知りたいことがあって来たのかな？」"
+                                ""
                             ]
                         },
                         {
@@ -7927,21 +7927,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Actually, I'm looking for a certain material. I'll\nexplain the details to you now."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「実はある素材を探しているのです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　詳細についてはいまから説明させていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -7996,21 +7996,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus... 'The heart of Actina,\nthe heart of Deire, the eyes of Imiserinos, the heart of\nImiserinos...'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アクティナの心臓、デイレーの心臓"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　イミセリノスの瞳、イミセリノスの心臓かぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -8034,14 +8034,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus... 'Any of them would be\nlegendary, huh?'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どれでも伝説的なものだね」"
+                                ""
                             ]
                         },
                         {
@@ -8079,14 +8079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: So, does that mean these legends don't actually\nexist?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「で、伝説ってことは実在しないんですかぁ？」"
+                                ""
                             ]
                         },
                         {
@@ -8117,21 +8117,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus does exist, but there are\nsome concerns..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「存在はしているよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ただ、いくつか懸念事項があってね……」"
+                                ""
                             ]
                         },
                         {
@@ -8162,14 +8162,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Could it be that there is a risk for\nAlbus-san?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もしかしてアルブスさんにリスクがあるのでは？」"
+                                ""
                             ]
                         },
                         {
@@ -8200,21 +8200,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus... It's scary, but\nthere's no other way. There's quite a risk for you guys, to\nbe honest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そっちは怖いけど仕方ない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どちらかと言うと君たちにかなりのリスクがある」"
+                                ""
                             ]
                         },
                         {
@@ -8274,14 +8274,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus, 'Do you remember the\nillusion of the demon?'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悪魔の幻影を覚えているかい？」"
+                                ""
                             ]
                         },
                         {
@@ -8319,14 +8319,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: You're the one who didn't teach me how to do it,\nright?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やり方をボクに教えてくれなかったやつですよね！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The soul of the researcher Albus: Ahaha, aside from jokes,\nthat isn't my original creation."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8357,21 +8395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あはは、魔法使いは根に持つよね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　冗談はさておき、あれは僕のオリジナルじゃないんだ」"
+                                "The soul of the researcher Albus: It's a degraded version\nthat was recreated using modern magic based on something\ncreated in the era of demons."
                             ]
                         },
                         {
@@ -8382,34 +8406,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「悪魔の時代に作られたものを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　現代の魔法で再現した劣化版なんだよね」"
+                                ""
                             ]
                         },
                         {
@@ -8440,21 +8440,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I can see the story now. In order to\nobtain the materials, we need to fight the original\nillusion."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「話が見えてきましたわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　素材の入手には幻影のオリジナルと戦う必要がある」"
+                                ""
                             ]
                         },
                         {
@@ -8485,21 +8485,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Even though we struggled back then, do we\nreally need to fight something even stronger!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの時も苦戦したのに"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もっと強いのと戦う必要があるんですかぁ！？」"
+                                ""
                             ]
                         },
                         {
@@ -8523,21 +8523,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus: To be honest, I don't\nreally recommend it if you understand the risks."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その理解で問題ないよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　正直いってあまりオススメしたくないなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -8561,21 +8561,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus: 'The special material you\nare searching for is the power source for the illusions of\ndemons.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たちが探している特殊な素材"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それを原動力にした悪魔の幻影たちだ」"
+                                ""
                             ]
                         },
                         {
@@ -8599,21 +8599,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus: Well, it's useless to try\nand stop you guys with your personalities. I'll tell you the\nlocations since they're scattered all over, and then..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まぁ、君らの性格だと止めても無駄だよね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　各地にあるから場所を教えるよ、あとは……」"
+                                ""
                             ]
                         },
                         {
@@ -8687,21 +8687,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus: It's okay now. I've made\nit possible to release the magic contained in the shrine."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これで大丈夫だね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　祠に込められた魔力を解放できるようにしたよ」"
+                                ""
                             ]
                         },
                         {
@@ -8732,14 +8732,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -8770,21 +8770,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "The soul of the researcher Albus: It's painful to think\nthat someone might get hurt with the knowledge I taught, so\nplease be really careful."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当に気をつけて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　僕の教えた知識で誰かが傷つくのはつらいからね」"
+                                ""
                             ]
                         },
                         {
@@ -9058,21 +9058,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　研究者アルブスの魂"
+                                "I pray that the bard I told you about won't come because of\nwhat I taught you... He won't come, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たちに教えたことで"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの吟遊詩人が来ないことを祈るよ……来ないよね？」"
+                                ""
                             ]
                         },
                         {

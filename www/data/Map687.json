@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "トモス略奪団隠れ家最奥",
+    "displayName": "Tomosu Raiders' Hideout Innermost",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4184,14 +4184,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                ""
                             ]
                         },
                         {
@@ -4237,14 +4237,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4307,14 +4307,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They should be ahead, let's go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「この先にいるはずです、いきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -5374,14 +5374,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Squad Funnel: Welcome to our hideout"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺たちの隠れ家にようこそ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Former Tomosu Plunder Squad Funnel: The adventurer's guild\nis welcome here... but it seems like I don't remember any of\nthese people."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5412,21 +5450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「冒険者ギルドは大歓迎だが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　俺の記憶にない奴らばっかりだな」"
+                                "Former Tomosu Plunder Squad Funnel: Miss, what is your\nname?"
                             ]
                         },
                         {
@@ -5434,30 +5458,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　元トモス略奪団ファンネル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お嬢ちゃん、名前は？」"
                             ]
                         },
                         {
@@ -5495,14 +5495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I am Clea, a member of the Adventurer's Guild, Futera\nbranch."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルド・フテラ所属のクレアです」"
+                                ""
                             ]
                         },
                         {
@@ -5533,21 +5533,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Squad Funnel: Wearing a green cloak\nmeans that at least you are recognized by Agonia."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「緑のマントを背負っているってことは"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　少なくともアゴニアに認められているってわけだ」"
+                                ""
                             ]
                         },
                         {
@@ -5587,14 +5587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Squad Funnel: We call ourselves the\nFormer Tomosu Plunder Squad."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺たちは自分たちを【元トモス略奪団】と名乗ってる」"
+                                ""
                             ]
                         },
                         {
@@ -5625,14 +5625,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Squad Funnel: Do you know why?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうしてだか、わかるか？」"
+                                ""
                             ]
                         },
                         {
@@ -5670,21 +5670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「興味はありません"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あなたがギルドの敵というだけで十分です」"
+                                "Clea: I have no interest. Just the fact that you are\nenemies of the guild is enough."
                             ]
                         },
                         {
@@ -5692,30 +5678,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　元トモス略奪団ファンネル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ちょっとは、おじさんの話に付き合えよ」"
                             ]
                         },
                         {
@@ -5746,21 +5708,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Squad Funnel: Hey, at least listen to\nwhat I have to say, old man."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの日、アゴニアとシモスがアジトに乗り込んできた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　信じられるか、たったの二人で俺たちの本拠地に来たんだ」"
+                                ""
                             ]
                         },
                         {
@@ -5784,21 +5746,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Squad Funnel: Can you believe it,\nAgonia and Shimos came to our hideout that day, just the two\nof them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それからはひでーもんだよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何のためらいもなく躊躇なく殺してきやがる」"
+                                ""
                             ]
                         },
                         {
@@ -5822,14 +5784,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Squad Funnel: After that, they\nstarted killing without any hesitation or hesitation, it's a\nterrible thing."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その理由が先代ギルド長の墓荒らしをした――」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Former Tomosu Plunder Squad Funnel: The reason is that they\ndesecrated the grave of the former guild leader--"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5876,21 +5876,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: Ah, it was you guys! That place is a\nsacred location for us!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、あなたたちだったんですね！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちにとってあそこは神聖な場所なんです！」"
+                                ""
                             ]
                         },
                         {
@@ -5921,14 +5921,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: So--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だから――」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Former Tomosu Plunder Squad Funnel: But even so! It's not a\nvalid reason to kill 80% of our members, you know!?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5959,21 +5997,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Squad Funnel: We will crush the\nadventurer's guild that took away our pride and return to\nthe Tomosu Plunder Squad!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だからってなぁ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　構成員の８割も殺していい理由にならねーだろうがっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -5997,21 +6035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「俺たちは誇りを取り戻す"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　冒険者ギルドを叩き潰してトモス略奪団に戻るんだ！」"
+                                "Former Tomosu Plunder Squad Funnel: First, I'll send the\nhead of the woman who talked back earlier to the guild."
                             ]
                         },
                         {
@@ -6022,34 +6046,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「まずはお前たちからだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　さっき口答えした女の首をギルドに送りつけてやる」"
+                                ""
                             ]
                         },
                         {
@@ -6092,21 +6092,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I may not understand the deep circumstances, but I\nwon't let Piste-san or the Adventurer's Guild get hurt."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「深い事情はわかりかねますが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ピステさんも冒険者ギルドも傷つけさせません」"
+                                ""
                             ]
                         },
                         {
@@ -6137,14 +6137,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Piste-san, please step back. I'm going to go all\nout."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ピステさんは下がっていてください、大暴れします」"
+                                ""
                             ]
                         },
                         {
@@ -6341,21 +6341,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Squad Funnel: No matter how many\ntimes... no matter how much we're laughed at for being\npathetic... I will reclaim our pride..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「な、何度だって……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　無様だって笑われても……誇りを取り戻してやる……」"
+                                ""
                             ]
                         },
                         {
@@ -6437,14 +6437,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Wait...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「待てっ……！」"
+                                ""
                             ]
                         },
                         {
@@ -6619,14 +6619,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Squad Funnel: As long as I'm here...\nthe Tomosu Plunder Squad will never end!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「俺がいる限り……トモス略奪団は終わらねぇっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6793,14 +6793,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Benevolence: No, it ends here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いいや、ここで終わりだ」"
+                                ""
                             ]
                         },
                         {
@@ -6986,21 +6986,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Squad Funnel: You... you're really\npersistent... hahaha... you monsters... more than us small-\ntime thugs..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「てめぇ……本当にしつこいなぁ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ははは……俺たちチンピラよりも……怪物どもめ……」"
+                                ""
                             ]
                         },
                         {
@@ -7062,21 +7062,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Benevolence: The Adventurer's Guild will surely\nretaliate. You have desecrated the tomb of a great widow."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「冒険者ギルドは必ず報復する"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　お前は偉大なる未亡人の墓を辱めた」"
+                                ""
                             ]
                         },
                         {
@@ -7107,21 +7107,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Benevolence: For us in the Adventurer's Guild,\nwhether they're alive or dead, everyone is a comrade."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「俺たち冒険者ギルドにとっては"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　生きている奴も死んだ奴も全員仲間なんだよ」"
+                                ""
                             ]
                         },
                         {
@@ -7152,14 +7152,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much, Storge-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ありがとうございます、ストルゲさん」"
+                                ""
                             ]
                         },
                         {
@@ -7213,21 +7213,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I apologize if I misunderstood, but did you happen to\nfollow us to the village of Alkay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「勘違いだったら申し訳ないのですが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　もしかしてアルケー村あたりまでつけていました？」"
+                                ""
                             ]
                         },
                         {
@@ -7305,21 +7305,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Benevolence: I thought I was being careful,\nmoving downwind so Nora wouldn't notice, but... well, I\nguess not..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ノラにバレないように風下を移動したり"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　かなり慎重に動いたはずなんだけどなぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -7350,14 +7350,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Benevolence: I should honestly praise you for\nthis."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ここは素直に褒めておくべきだな」"
+                                ""
                             ]
                         },
                         {
@@ -7395,14 +7395,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: Well then, why did you come at such a\ngood timing?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「じゃあ、どうしてタイミングよく来てくれたんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7440,14 +7440,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Benevolence: It's just a coincidence, but\nprobably the same as Piste."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「偶然なんだが、たぶんピステと同じだよ」"
+                                ""
                             ]
                         },
                         {
@@ -7494,21 +7494,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　慈愛のストルゲ"
+                                "Storge of Benevolence: I also felt like coming back after a\nlong time to that place I visited with the great widow."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「俺も久々に来たくなったんだよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　偉大なる未亡人と一緒に来たあの場所に」"
+                                ""
                             ]
                         },
                         {
@@ -7539,21 +7539,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: Oh, I see. In that case, I'll guide\nClea-chan and the others too!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そうだったんですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　じゃあ、クレアちゃんたちも案内しないとっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7939,14 +7939,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Gang Funnel: Well, what are you going\nto do?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「さて、あんたはどうする？」"
+                                ""
                             ]
                         },
                         {
@@ -7984,14 +7984,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: W-Well, as for me..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わ、私は……」"
+                                ""
                             ]
                         },
                         {
@@ -8053,14 +8053,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Gang Funnel: Hehe, there aren't any\nchoices, though."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「くくっ、選択肢はねーんだけどな」"
+                                ""
                             ]
                         },
                         {
@@ -8387,21 +8387,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Gang Funnel: There are four of our\ncomrades on the brink of death, but we still have five of us\nwho can keep going."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「瀕死の仲間が４人"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　こっちは、まだまだやれる５人だ」"
+                                ""
                             ]
                         },
                         {
@@ -8425,14 +8425,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Gang Funnel: Hey, take off your\nclothes."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「おい、服を脱げ」"
+                                ""
                             ]
                         },
                         {
@@ -8470,14 +8470,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: Huh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「えっ？」"
+                                ""
                             ]
                         },
                         {
@@ -8539,21 +8539,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Gang Funnel: Obey my orders\nimmediately. Every time you show a disrespectful attitude, I\nwill kill one of you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「俺の命令に即座に従え"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　お前がふざけた態度を取る度にひとり殺す」"
+                                ""
                             ]
                         },
                         {
@@ -8586,21 +8586,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Gang Funnel: If you obediently follow\nmy orders, I promise that we won't take the lives of the\nfour of you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「お前が俺の命令を素直に聞けば"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　俺たちは４人の命を奪わないことを約束してやる」"
+                                ""
                             ]
                         },
                         {
@@ -8624,21 +8624,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　元トモス略奪団ファンネル"
+                                "Former Tomosu Plunder Gang Funnel: I'll say it one more\ntime. Take off your clothes here and entertain us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「もう一度だけ言うぞ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ここで服を脱いで俺たちを楽しませろ」"
+                                ""
                             ]
                         },
                         {
@@ -8685,14 +8685,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　受付嬢ピステ"
+                                "Receptionist Piste: Y-Yes... I understand."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「は、はい……わかりました」"
+                                ""
                             ]
                         },
                         {
@@ -8775,7 +8775,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -8875,14 +8875,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　戦闘をやり直しますか？"
+                                "Would you like to retry the battle? If you choose No, it\nwill result in a game over."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　※「いいえ」を選ぶとゲームオーバーになります"
+                                ""
                             ]
                         },
                         {

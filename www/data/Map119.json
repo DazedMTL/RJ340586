@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "パラ村 酒場・宿屋1F",
+    "displayName": "Para Village Inn & Tavern 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6511,14 +6511,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: You're free to go, but be careful!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「行くのは勝手だが気をつけてな！」"
+                                ""
                             ]
                         },
                         {
@@ -6655,21 +6655,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: I'll pass on the information about the goblins\nto Opro's husband."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゴブリンのことは"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オプロの旦那に俺から伝えておくよ」"
+                                ""
                             ]
                         },
                         {
@@ -7069,21 +7069,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Do you happen to know a place around here where we\ncan find the herb called Imiserinosu's Lips?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「このあたりでイミセリノスの唇という"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　薬草がとれる場所をご存知でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -7107,21 +7107,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Bar Owner: Oh, alchemy, huh? The Overflowing Blossom Cave\nis a treasure trove of medicinal herbs."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ほー、錬金術かい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　咲きこぼれの洞窟は薬草の宝庫だよ」"
+                                ""
                             ]
                         },
                         {
@@ -7145,14 +7145,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Please mark it on the map. Let's go!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「地図に印をつけてください。さぁ、いきましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -7183,14 +7183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Unlocked\\c[18]\\CL Oros Region/Overflowing Blossom\nCave\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLオロス地方/咲きこぼれの洞窟\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -7272,14 +7272,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕の老人"
+                                "One-armed old man: Young lady."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お嬢さん」"
+                                ""
                             ]
                         },
                         {
@@ -7396,21 +7396,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: ...Huh!? S-Sorry, was I being too loud?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……っひ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ご、ごめんなさい、うるさかったですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7434,14 +7434,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Do you need something?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なにか御用でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -7465,21 +7465,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕の老人"
+                                "One-armed old man: Stop right there, there might be a\ngoblin nest nearby."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やめておくんじゃ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ゴブリンの巣が近くにあるかもしれん」"
+                                ""
                             ]
                         },
                         {
@@ -7503,21 +7503,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I refuse! These girls are members of the\nadventurer guild that I hired."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お断りします！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　彼女たちはボクが雇った冒険者ギルドの人間です」"
+                                ""
                             ]
                         },
                         {
@@ -7541,21 +7541,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Goblins are nothing, a piece of cake for me! I'm\na genius from the Magic Academy, so I've got this under\ncontrol!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゴブリン程度、ちょちょいのちょいですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法アカデミーの天才のボクもいますから余裕です！」"
+                                ""
                             ]
                         },
                         {
@@ -7579,14 +7579,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕の老人"
+                                "One-armed old man: ...I did give you a warning."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……忠告はしたぞ」"
+                                ""
                             ]
                         },
                         {
@@ -7610,21 +7610,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Hmph, let's go! The time of a genius is more\nprecious than anything else, after all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ふんっ、いきましょう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　天才の時間は何よりも貴重ですからね」"
+                                ""
                             ]
                         },
                         {
@@ -7878,21 +7878,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you for your advice. However, it is my job to\ncomplete the request."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご忠告ありがとうございます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ただし、依頼をこなすのが私の仕事ですので」"
+                                ""
                             ]
                         },
                         {
@@ -8142,21 +8142,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Bar Owner: Ah, did she go? Is everything alright, Opro's\nhusband?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あー行っちまったぁ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　大丈夫ですかね、オプロの旦那？」"
+                                ""
                             ]
                         },
                         {
@@ -8231,21 +8231,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: Even if you're adventurers, you should be\nable to escape from goblins, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「仮にも冒険者なら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ゴブリンから逃げることくらいはできるじゃろ」"
+                                ""
                             ]
                         },
                         {
@@ -8293,21 +8293,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: Well, I'm going to the mountains for an\ninvestigation too. The goblins might be attracted to the\nscent of these women."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、わしも山に調査にいくよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ゴブリンが女たちの匂いに釣られるかもしれん」"
+                                ""
                             ]
                         },
                         {
@@ -8877,14 +8877,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: Have you found what you were looking for?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お目当てのものは見つかったかい？」"
+                                ""
                             ]
                         },
                         {
@@ -8908,14 +8908,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I found it, but I was interrupted by goblins."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「見つけたのですがゴブリンに邪魔をされました」"
+                                ""
                             ]
                         },
                         {
@@ -9113,14 +9113,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is the old man from earlier here?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「先程のご老人はいらっしゃいますか？」"
+                                ""
                             ]
                         },
                         {
@@ -9153,14 +9153,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: Haha, it's quite impressive that you understand\nthe abilities of Oplo's husband."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はは、オプロの旦那の実力がわかるとは大したもんだ」"
+                                ""
                             ]
                         },
                         {
@@ -9177,14 +9177,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: I'll pass on the message about the goblins to\nyou."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゴブリンのことは俺から伝えておくよ」"
+                                ""
                             ]
                         },
                         {
@@ -9288,14 +9288,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: But then we won't know when we can get the\nmedicinal herbs!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それだと薬草がいつ手に入るかわからないじゃないですか！」"
+                                ""
                             ]
                         },
                         {
@@ -9479,14 +9479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: Here, the medicinal herbs you were looking for."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ほれ、お目当ての薬草」"
+                                ""
                             ]
                         },
                         {
@@ -9537,14 +9537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Um, how much are you planning to sell it for!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、いくらで売るつもりですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -9577,21 +9577,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: It's an exchange of information, and this is a\nbonus! It's convenient for me because I was looking for the\nwhereabouts of the goblins."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「情報と交換だよ、こいつもおまけだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺はゴブリンの居場所を探していたから都合がいいのさ」"
+                                ""
                             ]
                         },
                         {
@@ -9624,14 +9624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: In that case, the negotiation is complete!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「で、でしたら交渉成立ですね！」"
+                                ""
                             ]
                         },
                         {
@@ -9789,14 +9789,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is Oplo-san an adventurer?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オプロさんは冒険者なんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -9820,21 +9820,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: He's someone who lives as what you would call a\nspecialist in goblins and orcs, commonly known as a hunter."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゴブリンやオーク専門のな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いわゆるハンターとして生活している人だよ」"
+                                ""
                             ]
                         },
                         {
@@ -9851,14 +9851,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: In that field, he's famous as a Goblin Slayer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その筋じゃゴブリンスレイヤーとして有名さ」"
+                                ""
                             ]
                         },
                         {
@@ -10208,21 +10208,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Since we've accomplished our objective, let's go\nback! Now, please take us to the Adventurer's Guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「目的も果たしたことですから帰りましょう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁ、冒険者ギルドまで連れて行ってください」"
+                                ""
                             ]
                         },
                         {
@@ -10246,14 +10246,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Isn't this the Magic Academy?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法アカデミーではないのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -10277,14 +10277,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Yes, I have a little errand to take care of."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、ちょっとした用事ができました」"
+                                ""
                             ]
                         },
                         {
@@ -10515,14 +10515,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕の老人"
+                                "One-armed old man: Is there something you need from me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わしに何かようか？」"
+                                ""
                             ]
                         },
                         {
@@ -10944,21 +10944,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の冒険家"
+                                "As an adventurer, selling medicinal herbs at a high price\nis the perfect way for someone like me to earn some pocket\nmoney."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「薬草は高値で売れるからな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺みたいな奴にはぴったりの小遣い稼ぎさ」"
+                                ""
                             ]
                         },
                         {
@@ -11035,14 +11035,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店員"
+                                "Innkeeper: I recommend our medicinal cuisine!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「薬膳料理がオススメですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -11119,21 +11119,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酔っ払いの客"
+                                "Drunk customer: Delicious wine, delicious cheese, there's\nnothing more I could wish for in life."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「美味いワイン、美味いチーズ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これ以上に人生に望むものはないさ」"
+                                ""
                             ]
                         },
                         {
@@ -11210,21 +11210,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　森林の案内人"
+                                "Forest Guide: I make a profit by guiding alchemists through\nthe forest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「森の案内をしているんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　錬金術士たちを相手に儲けさせてもらっているよ」"
+                                ""
                             ]
                         },
                         {

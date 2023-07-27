@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "森の都市ヴァルト 狩場の最奥",
+    "displayName": "City of the Forest, Valdo / The deepest part of the hunting grounds",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10189,7 +10189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -10235,14 +10235,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -10489,7 +10489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -10535,14 +10535,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -10789,7 +10789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -10835,14 +10835,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -11534,21 +11534,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: A strong scent of blood...! I can also sense a\nvery exciting scent."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「濃い血の匂い……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　すごく興奮している匂いも感じます」"
+                                ""
                             ]
                         },
                         {
@@ -11572,14 +11572,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It might be better to approach this with\ndetermination."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「覚悟をして挑んだ方がいいかもしれませんね」"
+                                ""
                             ]
                         },
                         {
@@ -11752,14 +11752,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: They noticed us! Let's go!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こちらに気が付きましたっ！　行きましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -11982,14 +11982,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　手負いの熊"
+                                "Injured Bear: Grrroooaaaarrr...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ウググオォォォ……！」"
+                                ""
                             ]
                         },
                         {
@@ -12049,14 +12049,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: C-Can you still move!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ま、まだ動けるんですかっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -12080,14 +12080,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: No... I will deliver the finishing blow."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いえ……あたしが止めを刺します」"
+                                ""
                             ]
                         },
                         {
@@ -12188,14 +12188,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I'm sorry for scaring you... I'll make it quick\nand painless."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「怖がらせてごめんなさい……いま楽にしますからね」"
+                                ""
                             ]
                         },
                         {
@@ -12371,14 +12371,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you, Nora-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ノラさん、ありがとうございました」"
+                                ""
                             ]
                         },
                         {
@@ -12402,14 +12402,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: No, let's go back to the trap master!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いえ、罠師さんのところに戻りましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -12433,21 +12433,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: The splatter of blood is intense! Shouldn't we\nwash it off somewhere?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「返り血がすごいですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　どこかで洗い流したほうがいいんじゃないですか？」"
+                                ""
                             ]
                         },
                         {
@@ -12471,21 +12471,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: It would be better to do so. We have\nalready returned ahead of you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そうした方がいいですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　わたくしたちは先に戻っていますから」"
+                                ""
                             ]
                         },
                         {
@@ -12525,21 +12525,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Indeed, it's quite a strong smell...\nUnderstood, I'll go to the nearby lake!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「確かにすごい匂いですね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　わかりました、近くの湖までいってきますね！」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "薬師の大穴最奥",
+    "displayName": "Innermost Depths of the Pharmacist's Abyss",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4543,7 +4543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -4589,14 +4589,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4843,7 +4843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -4889,14 +4889,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -5143,7 +5143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -5189,14 +5189,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -5552,14 +5552,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Will you touch the shrine of the demon of pestilence,\nSuhuran?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疫病の悪魔スフーランの祠に触れますか？"
+                                ""
                             ]
                         },
                         {
@@ -5605,14 +5605,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then do it.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6080,14 +6080,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: This... seems to be a shrine dedicated to the\ndemon Suhuran."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「これは……悪魔スフーランを称える祠のようです」"
+                                ""
                             ]
                         },
                         {
@@ -6125,21 +6125,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: A demon that can freely spread diseases, causing\nsuffering to both enemies and allies, whether it be to\ninflict illness or to provide treatment."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「病気にするのも治療するのも思いのまま"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　疫病をばら撒いて敵味方区別なく苦しめた悪魔」"
+                                ""
                             ]
                         },
                         {
@@ -6163,14 +6163,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: If the legend is true, it seems like it\nwill be a difficult opponent."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「伝承通りなら難儀な相手になりそうですわね」"
+                                ""
                             ]
                         },
                         {
@@ -6208,14 +6208,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: It's okay because Sophia-san is here!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ソフィアさんがいるから大丈夫ですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -6253,14 +6253,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, I hope I can live up to your\nexpectations."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「うふふ、期待に応えられればいいのだけれど」"
+                                ""
                             ]
                         },
                         {
@@ -6319,14 +6319,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like the opponent is ready."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「相手の準備ができたようです」"
+                                ""
                             ]
                         },
                         {
@@ -6364,14 +6364,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's also prepare ourselves."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「私たちも覚悟を決めましょう」"
+                                ""
                             ]
                         },
                         {
@@ -6412,14 +6412,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Huff... huff... They were really troublesome\nopponents, weren't they?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「はぁはぁ……本当に面倒な相手でしたね」"
+                                ""
                             ]
                         },
                         {
@@ -6473,21 +6473,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Can I shave off a little bit of Imiserinos' eye\nfor research purposes...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「これがイミセリノスの瞳"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ちょっとだけ研究のために削ってもいいですかね……？」"
+                                ""
                             ]
                         },
                         {
@@ -6521,14 +6521,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: No, let's hand it over to Elero-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「だめです、エレロさんにお渡ししましょう」"
+                                ""
                             ]
                         },
                         {
@@ -7807,14 +7807,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いパラド"
+                                "Mage Parad: Damn it... Are you guys the rumored mage\nhunters...?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くそ……お前たちが噂の魔法使い狩りか……！」"
+                                ""
                             ]
                         },
                         {
@@ -7831,21 +7831,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いパラド"
+                                "Mage Parad: I, as a mere mage, have no intention of easily\ngiving up my life!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺も魔法使いの端くれ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　簡単に命をくれてやるつもりはないぞっ！」"
+                                ""
                             ]
                         },
                         {
@@ -8166,14 +8166,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: As Dokusa predicted."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドクサさんの予想通りでしたね」"
+                                ""
                             ]
                         },
                         {
@@ -8621,21 +8621,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We'll be your opponents! Everyone, please prepare for\nbattle!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちが相手です！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　皆さんも戦いの準備をよろしくお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -9407,21 +9407,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒頭巾の男"
+                                "Black Hooded Man: 'Gather the magicians... well, as long as\nthere are plenty of materials, there shouldn't be a\nproblem.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法使いを集めろとのお達しだが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まぁ、材料が多い分には困らないだろ」"
+                                ""
                             ]
                         },
                         {
@@ -9438,14 +9438,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒頭巾の男"
+                                "Black Hooded Man: First, restrain everyone."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まずは全員を拘束しろ」"
+                                ""
                             ]
                         },
                         {
@@ -9462,14 +9462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　黒頭巾の男"
+                                "Black Hooded Man: All five of them... It's going to be\nquite a task to carry them out."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「全員で５人……運び出すのは一苦労だな」"
+                                ""
                             ]
                         },
                         {
@@ -10089,14 +10089,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Are you injured?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お怪我はないでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -10120,14 +10120,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いパラド"
+                                "Mage Parad: Thank goodness... Who are you all?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「助かった……君たちはいったい？」"
+                                ""
                             ]
                         },
                         {
@@ -10189,21 +10189,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いパラド"
+                                "Mage Parad: I see, so Dokuza... He may be a strange friend,\nbut he still has a sharp intuition."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうか、ドクサが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　妙な友人ではあるが相変わらず勘が鋭い男だ」"
+                                ""
                             ]
                         },
                         {
@@ -10227,21 +10227,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Who could they have been? Judging from their combat\nskills, they don't seem like ordinary bandits."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何者だったのでしょうか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　戦闘練度からみるにただの山賊とは思えません」"
+                                ""
                             ]
                         },
                         {
@@ -10265,21 +10265,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いパラド"
+                                "Mage Parad: I don't know either... But they might be a\ngroup with a three-legged hawk emblem."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私もわからない……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ただ、三本足の鷹の紋章を持つ集団かもしれない」"
+                                ""
                             ]
                         },
                         {
@@ -10364,21 +10364,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いパラド"
+                                "Mage Parad: I've heard rumors that there is an organization\noperating in the shadows of the empire, although it's just\nspeculation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「噂の域は出ないが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国には政治の裏で暗躍する組織がいると聞いたことがある」"
+                                ""
                             ]
                         },
                         {
@@ -10395,21 +10395,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いパラド"
+                                "Mage Parad: It is an organization called the Demon\nExorcists, who betrayed the demons and allied with the\ngoddesses, led by the demon Ishekeru."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悪魔を裏切り女神たちに味方した悪魔"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　踏破の悪魔イシェケルの名を持つ組織だ」"
+                                ""
                             ]
                         },
                         {
@@ -10485,14 +10485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Why did they target Mr. Parad?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「彼らはなんでパラドさんを狙ったのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -10516,21 +10516,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いパラド"
+                                "Mage Parad: I don't know either, but there are rumors that\nmages are being attacked."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それもわからない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ただ、魔法使いが襲われているという噂がある」"
+                                ""
                             ]
                         },
                         {
@@ -10547,21 +10547,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いパラド"
+                                "Mage Parad: I don't know the reason... but it might be a\ngood idea to warn the academy as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「理由はわからないが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アカデミーにも警告をした方がいいかもしれない」"
+                                ""
                             ]
                         },
                         {
@@ -10739,14 +10739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Bandit Nora: Is it safe to let him go back alone...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひとりで帰して大丈夫でしょうかね……？」"
+                                ""
                             ]
                         },
                         {
@@ -10770,21 +10770,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: If he says so himself, there's no helping it.\nBut more importantly, you'll have to accompany me for my\nnext objective!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本人が言うなら仕方ないですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それよりも次はボクの目的に付き合ってもらいますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -10808,21 +10808,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Alright, let's go! This step will bring me\ncloser to my dream!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、いきましょう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この一歩がボクの夢に近づくんですから！」"
+                                ""
                             ]
                         },
                         {
@@ -11025,14 +11025,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Bandit Nora: Didn't he just tell us to be careful~!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「気をつけろって言われたばかりじゃないですかぁ〜！」"
+                                ""
                             ]
                         },
                         {
@@ -11275,21 +11275,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Sophia-san, are you okay? I feel like something has\nbeen off with you since the battle."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ソフィアさん、大丈夫でしょうか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　戦いの時から少し様子がおかしい気がします」"
+                                ""
                             ]
                         },
                         {
@@ -11344,21 +11344,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, thank you for worrying about me,\nDokusa-san. I'm surprised that your thoughts have hit the\nmark."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、心配してくれてありがとう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドクサさんの考えが的中していることに驚いたの」"
+                                ""
                             ]
                         },
                         {
@@ -11375,14 +11375,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Now, let's go after Relm-chan and the\nothers, shall we?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、リルムちゃんたちを追いかけましょう？」"
+                                ""
                             ]
                         },
                         {
@@ -11611,14 +11611,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Is Sophia-san hiding something...?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（ソフィアさんは何かを隠している……？）"
+                                ""
                             ]
                         },
                         {
@@ -11877,7 +11877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -11923,14 +11923,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -12177,7 +12177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -12223,14 +12223,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -12862,14 +12862,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "It looks like a pedestal for placing something."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　何かをのせるための台座のようだ"
+                                ""
                             ]
                         },
                         {

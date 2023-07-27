@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "イリニ村",
+    "displayName": "Irini Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 47,
@@ -11686,14 +11686,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Sister Eleo: A-Are you alright!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だ、大丈夫ですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -11777,14 +11777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元帝国暗部アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ひっく……あはは、大丈夫ですよー」"
+                                "Former Imperial Dark Operative Alicia: H-Hic... Ahaha, I'm\nfine, don't worry."
                             ]
                         },
                         {
@@ -11792,75 +11785,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　シスター・エレオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お酒のにおいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　まったく大怪我かと思いましたよっ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　元帝国暗部アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あはは、大怪我かもしれませんよぉ？」"
                             ]
                         },
                         {
@@ -11891,21 +11815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「怪我人はこんなに酔えません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　まったく、中に入って休んでください」"
+                                "Sister Eleo: The smell of alcohol! I thought you were\nseriously injured!"
                             ]
                         },
                         {
@@ -11913,30 +11823,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　元帝国暗部アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「目に見えない怪我だってあるんですよ、お嬢ちゃん」"
                             ]
                         },
                         {
@@ -11967,21 +11853,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Former Imperial Dark Operative Alicia: Ahaha, I might have\na serious injury, you know?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それを治すのも私たちの仕事です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お酒で癒やすことができるのは気分だけで心じゃないです」"
+                                ""
                             ]
                         },
                         {
@@ -12005,21 +11891,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元帝国暗部アリシア"
+                                "Sister Eleo: Injured people don't get this drunk!\nSeriously, come inside and rest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「立派な言葉ね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こんな私でも医者を目指せるかしら」"
+                                ""
                             ]
                         },
                         {
@@ -12043,21 +11929,135 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Former Imperial Dark Operative Alicia: There are injuries\nthat you can't see, you know, young lady."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、もちろん！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私がしっかりと面倒を見てあげますよ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sister Eleo: Healing that is also our job. Using alcohol to\nheal is just a temporary mood booster, it doesn't heal the\nheart."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Former Imperial Dark Operative Alicia: Impressive words...\nI wonder if even someone like me can aspire to be a doctor."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sister Eleo: Yes, of course! I will take care of you\nproperly."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12090,14 +12090,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Sister Eleo: I am Eleo. And you are?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私はエレオです。あなたは？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sophia: I... um, my name is Sophia. I am a little doctor."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12128,21 +12166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ソフィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私は……いえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　わたくしはソフィアといいますわ、小さなお医者様」"
+                                "Sister Eleo: Being little is unnecessary! Hehe, please come\nin, Miss Sophia."
                             ]
                         },
                         {
@@ -12153,34 +12177,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「小さいは余計です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ふふ、入ってください。ソフィアさん」"
+                                ""
                             ]
                         },
                         {
@@ -12231,38 +12231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　王妃カロンが放った帝国暗部は仲間たちを殺害していった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクスの捜索どころか生き残ることで精一杯だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やがて、レクスとの日々は幻だったのではと考えるようになる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Queen Caron, who unleashed the Imperial Dark Operatives,\nwent on to kill her comrades. Instead of searching for Lex,\nit was a struggle just to survive. Eventually, I began to\nwonder if my days with Lex were nothing but an illusion."
                             ]
                         },
                         {
@@ -12276,128 +12245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　状況の悪化に伴い増えていくワインの量。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　酒を飲めば、レクスといた美しい日々の夢を見ることができた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、血の沼に引きずり込まれる悪夢を再び見るようになる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここがどこなのか、自分が何者かわからない状況。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうどうにでもなれ、アリシアは絶望すらしなくなっていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな時に、小さな少女に声をかけられる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　シスター・エレオ。アリシアの運命を変える少女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼女の声、彼女の返事、彼女の精神、すべてが眩しかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この娘は【暗部にならなかった自分だ】と感じた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　恥ずかしかった。まるで過去の自分に見られているようで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人々を治療する目標はどうしたのと問われているようで。"
                             ]
                         },
                         {
@@ -12421,38 +12269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　偽名を使ったのは素性を隠すため当然のことだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だが、それだけが理由でないことを自覚していた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あまりにも眩しい彼女の瞳に本当の自分を見せたくなかった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "With the worsening situation, the amount of wine consumed\nincreased. By drinking alcohol, I was able to dream of the\nbeautiful days I spent with Lex. However, I began to see the\nnightmare of being dragged into a pool of blood again."
                             ]
                         },
                         {
@@ -12466,128 +12283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　それに、彼女のもとでならという淡い期待があった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかしたら、生まれ変わることができるかもしれないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな想いが【僧侶ソフィア】を生み出したのだった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　シスター・エレオのもとで僧侶ソフィアは過ごした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エレオに学び、エレオに叱られ、エレオに呆れられる日々。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　温かで穏やかな日々はソフィアに希望を与えた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクス様は必ず生きていて、必ず再会できるに違いない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アリシアは酔ったふりをして、酒場に行くフリをして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カンプスを中心にレクスの行方を調査していた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　幸いカンプスは元老院貴族ピドのお膝元であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さすがのカロンでも無茶ができない土地であった。"
                             ]
                         },
                         {
@@ -12611,6 +12307,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "In a situation where I didn't know where I was or who I was,\nAlicia had reached a point where she didn't even feel\ndespair anymore. It was at that moment that a small girl\ncalled out to her."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -12618,21 +12321,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　同時に、カロンはテリオス教ともいざこざがあり、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　テリオス教会は非常に都合のいい隠れ家として機能した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、決め手にかける状況でもあった。"
+                                ""
                             ]
                         },
                         {
@@ -12649,6 +12345,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The girl who would change Sister Eleo and Alicia's fate.\nHer voice, her response, her spirit, everything about her\nwas dazzling. This girl felt like the version of herself\nthat never became a member of the Dark Operatives."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -12656,21 +12359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　広範囲の調査はできず、エレオたちを巻き込むわけにはいかない。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アリシアは【機】を待っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　かつて拷問室から出ることが出来たような機が必ず来る。"
+                                ""
                             ]
                         },
                         {
@@ -12687,6 +12383,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I felt embarrassed. It was as if my past self was watching\nme. It felt like I was being questioned about my goal to\nheal people."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -12694,21 +12397,318 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アリシアはエレオのもとで、それを待っていた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　そして、機はエレオの依頼というかたちでもたらされた。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アリシアの運命を変えるクレアたちとの出会いであった。"
+                                "It was natural to use a fake name to hide my true identity.\nHowever, I was aware that it wasn't the only reason. I\ndidn't want to show my true self in her dazzling eyes."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And there was a faint hope that if I were with her, maybe I\ncould be reborn. Such feelings gave birth to the Cleric\nSophia."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sister Sophia spent her days under Sister Eleo's guidance.\nShe learned from Eleo, was scolded by Eleo, and was amazed\nby Eleo. The warm and peaceful days gave Sophia hope."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I'm sure that Lord Lex is alive and we will definitely be\nable to reunite. Alicia pretended to be drunk, pretended to\ngo to the tavern, and investigated Lex's whereabouts\ncentered around the campus."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Fortunately, the campus was the stronghold of the Senate\nnoble, Pido, and even Queen Caron couldn't act recklessly in\nsuch a place."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "At the same time, Caron had conflicts with the Terios\nChurch, and the Terios Church served as a very convenient\nhideout. However, it was also a situation that lacked a\ndecisive factor."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Alicia couldn't conduct a wide-ranging investigation and\ncouldn't involve Eleo and the others. She was waiting for an\nopportunity. She believed that a chance would come, just\nlike the one that allowed her to escape from the torture\nchamber in the past."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Alicia was under Eleo's guidance, waiting for that moment.\nAnd the opportunity came in the form of Eleo's request. It\nwas a meeting with Clea and the others who would change\nAlicia's fate."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13397,14 +13397,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I apologize for the wait."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おまたせしましたわ」"
+                                ""
                             ]
                         },
                         {
@@ -13428,14 +13428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Were you able to say goodbye?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お別れはできましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -13459,14 +13459,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Yes, thank you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、ありがとう」"
+                                ""
                             ]
                         },
                         {
@@ -13490,21 +13490,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Once again, I am Priestess Sophia. I will\nbe embarking on this journey with all of you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「改めて僧侶ソフィアですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　皆さんと共に旅をさせていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -13528,14 +13528,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I will chase after the dragons with all\nof you for the sake of heroic deeds."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「英雄的偉業のためドラゴンを皆さんと追いかけますわ」"
+                                ""
                             ]
                         },
                         {
@@ -13559,14 +13559,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Nice to meet you too, please take care of me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こちらこそよろしくお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -13624,38 +13624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クレアたちと行動を共にすること。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それはアリシアにとって手段のひとつに過ぎなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　英雄的偉業の達成もドラゴンも方便でしかなかった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "For Alicia, joining forces with Clea and the others was\njust one means. Achieving heroic deeds and confronting\ndragons were merely expedients."
                             ]
                         },
                         {
@@ -13669,14 +13638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アリシアにとって共に行動することの最大の価値は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クレアが冒険者ギルドに所属しているということだった。"
+                                ""
                             ]
                         },
                         {
@@ -13700,6 +13662,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "For Alicia, the greatest value of acting together was the\nfact that Clea belonged to the Adventurer's Guild."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13707,14 +13676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者ギルドがレクス失踪に何かしら関わっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　限られた時間の中でアリシアが出した結論だった。"
+                                ""
                             ]
                         },
                         {
@@ -13738,6 +13700,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Alicia concluded that the Adventurer's Guild is somehow\ninvolved in Lex's disappearance within the limited time."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13745,21 +13714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレアと行動すれば何かしら情報を得る機会があるかもしれない。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　当然ながら初期のソフィアに仲間意識は微塵もなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ただ、人間とは絶えず変化するものである。"
+                                ""
                             ]
                         },
                         {
@@ -13776,6 +13738,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "If I act with Clea, there might be a chance to obtain some\ninformation. Naturally, in the beginning, Sophia had no\nsense of camaraderie. However, humans are constantly\nchanging beings."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13783,21 +13752,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクスがアリシアを変えたように。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオがアリシアを変えたように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クレア、ノラ、リルムたちはアリシアを変えていった。"
+                                ""
                             ]
                         },
                         {
@@ -13814,6 +13776,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Just as Lex changed Alicia, Sister Eleo changed Alicia.\nClea, Nora, and Relm also changed Alicia."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13821,21 +13790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　非情に生きるには、アリシアは多くのものを手に入れ過ぎた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　光り輝く思い出が溢れるほど手のひらに乗っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからこそ、告白をしなければならない。"
+                                ""
                             ]
                         },
                         {
@@ -13852,6 +13814,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Alicia has obtained too many things to live ruthlessly. Her\nhands are filled with shining memories overflowing. That is\nwhy she must confess."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13859,21 +13828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アリシアのことを、自分の過去を、本当の目的を。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　たとえ、愛すべき仲間たちに軽蔑されることになったとしても。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは当然の報いである。"
+                                ""
                             ]
                         },
                         {
@@ -13890,6 +13852,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Even if it means being despised by my beloved comrades, I\nwill reveal Alicia's true self, her past, and her true\npurpose. It is only natural that I face the consequences."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -13897,7 +13866,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　そのように、アリシアもソフィアも結論づけた。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Both Alicia and Sophia came to the same conclusion."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

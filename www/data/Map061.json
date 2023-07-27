@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "アルケー村 怪しいお店",
+    "displayName": "Arke Village Suspicious Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2090,14 +2090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　売人ナカノ"
+                                "Nakano the Merchant: Long time no see, customer... Oh,\nwait, it seems I made a mistake."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「久々のお客様……おっと、勘違いだったみたいだね」"
+                                ""
                             ]
                         },
                         {
@@ -2181,21 +2181,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　売人ナカノ"
+                                "Merchant Nakano: Welcome, I will sell you my collection at\na reasonable price."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ようこそいらっしゃいました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私のコレクションをそれなりの値段でお譲りしますよ」"
+                                ""
                             ]
                         },
                         {
@@ -2370,14 +2370,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　売人ナカノ"
+                                "Merchant Nakano: Please come and visit only when your\nwallet is filled with gold coins."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「財布が金貨でいっぱいの時だけ遊びにきてください」"
+                                ""
                             ]
                         },
                         {

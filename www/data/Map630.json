@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大転びの湿原入口",
+    "displayName": "Entrance to the Great Tumble Marsh",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5276,21 +5276,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Are you okay?! Sophia-san, can I ask for your\nhelp?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大丈夫ですかっ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ソフィアさん、お願いできますかっ！」"
+                                ""
                             ]
                         },
                         {
@@ -5372,14 +5372,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Yes, please leave it to me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、わたくしにまかせてください」"
+                                ""
                             ]
                         },
                         {
@@ -5485,21 +5485,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エマ盗賊団団員"
+                                "Thief Emma: I'm really grateful... being chased by the\nImperial Army... I've been cornered this far."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当に助かったよ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国軍に追われて……ここまで追い詰められた」"
+                                ""
                             ]
                         },
                         {
@@ -5523,21 +5523,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エマ盗賊団団員"
+                                "Thief Emma: I think the captain's unit is safe, but I\nbelieve it's only a matter of time before the total assault\non the hideout begins."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「団長たちの部隊は無事だと思うが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アジトへの総攻撃がはじまるのは時間の問題だと思う」"
+                                ""
                             ]
                         },
                         {
@@ -5577,14 +5577,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: There are still injured people ahead, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この先に負傷している人がまだいますよね？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Thief Emma: There are injured people besides me, so please\nbe careful if you go inside."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5615,21 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エマ盗賊団団員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「俺以外にも負傷者をがいる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ただ、中に入るなら気をつけてくれ」"
+                                "Thief Emma: There's a giant snake lurking around. We won't\nbe able to pass through the marshland unless we defeat it."
                             ]
                         },
                         {
@@ -5640,34 +5664,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エマ盗賊団団員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「巨大な蛇がうろついているんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あいつを倒さないと湿地帯を抜けられない」"
+                                ""
                             ]
                         },
                         {
@@ -5698,21 +5698,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Please leave this place first. I will\ndefinitely rescue everyone!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「先にここを離れてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしが必ず全員を助け出してみせます！」"
+                                ""
                             ]
                         },
                         {
@@ -6563,21 +6563,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Are you okay!? Sophia-san, can I ask for your\nhelp?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大丈夫ですかっ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ソフィアさん、お願いできますかっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6659,14 +6659,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Yes, please leave it to me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、わたくしにまかせてください」"
+                                ""
                             ]
                         },
                         {
@@ -6783,21 +6783,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エマ盗賊団団員"
+                                "Thief Emma: I'm really grateful... being chased by the\nImperial Army... I've been cornered this far."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当に助かったよ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国軍に追われて……ここまで追い詰められた」"
+                                ""
                             ]
                         },
                         {
@@ -6821,21 +6821,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エマ盗賊団団員"
+                                "Thief Emma: I think the captain's unit is safe, but I\nbelieve it's only a matter of time before the total assault\non the hideout begins."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「団長たちの部隊は無事だと思うが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アジトへの総攻撃がはじまるのは時間の問題だと思う」"
+                                ""
                             ]
                         },
                         {
@@ -6875,14 +6875,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: There are still injured people ahead, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この先に負傷している人がまだいますよね？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Thief Emma: There are injured people besides me, so please\nbe careful if you go inside."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6913,21 +6951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エマ盗賊団団員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「俺以外にも負傷者をがいる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ただ、中に入るなら気をつけてくれ」"
+                                "Thief Emma: There's a giant snake lurking around. We won't\nbe able to pass through the marshland unless we defeat it."
                             ]
                         },
                         {
@@ -6938,34 +6962,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エマ盗賊団団員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「巨大な蛇がうろついているんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あいつを倒さないと湿地帯を抜けられない」"
+                                ""
                             ]
                         },
                         {
@@ -6996,21 +6996,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Please leave this place first. I will\ndefinitely rescue everyone!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「先にここを離れてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしが必ず全員を助け出してみせます！」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "勇者の遺跡1F",
+    "displayName": "Hero's Ruins 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 75,
@@ -22838,14 +22838,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Photizona Region/The Hero's\nRuins\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLフォティゾナ地方/勇者の遺跡\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -33635,14 +33635,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: There's a goddess statue here too!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「女神像がここにもありますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -33680,21 +33680,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It looks just like the ancient ruins and the\nLachio ruins. I wonder if it was created by the same people\nfor the same purpose."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「古代の遺跡やラキオ遺跡とそっくりですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　同じ人間たちが同じ目的で作った場所なのでしょうか」"
+                                ""
                             ]
                         },
                         {
@@ -33956,14 +33956,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: That's a good analysis, but it might be a little\ndifferent."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いい考察だけどちょっと違うかな」"
+                                ""
                             ]
                         },
                         {
@@ -34037,21 +34037,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: From a place with nothing... Haa, I have\nthe confidence to never be surprised by whatever happens in\nthe future."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何もない場所から……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　はぁ、今後何が起きても一生驚かない自信がありますわ」"
+                                ""
                             ]
                         },
                         {
@@ -34082,21 +34082,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: The Kingdom of Basileia created similar training\ngrounds so that humans can fight against demons."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バシレイア王国は似たような訓練場を"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　人間が悪魔と戦うことができるようにするために作ったんだ」"
+                                ""
                             ]
                         },
                         {
@@ -34127,14 +34127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: I think the ruins you all visited are part of it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たちが行った遺跡はその一部だと思うよ」"
+                                ""
                             ]
                         },
                         {
@@ -34172,14 +34172,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Melos-san's prediction was almost spot on,\nhuh..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「メロスさんの予想はほぼ当たっていたんですね……」"
+                                ""
                             ]
                         },
                         {
@@ -34217,14 +34217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is this place special?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここは特別ということでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -34262,21 +34262,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: This place was created by the goddess Actina as a\ntraining ground for heroes."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここは勇者を鍛えるために"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　女神アクティナが中心になって作った場所なんだ」"
+                                ""
                             ]
                         },
                         {
@@ -34307,14 +34307,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Well, we didn't need to use it since we didn't have\nto train."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まぁ、鍛える必要がなかったから使わなかったけどね」"
+                                ""
                             ]
                         },
                         {
@@ -34352,21 +34352,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: So... are you saying that the trials created by\nthe goddess are still untouched here!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ということは……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　女神が作り出した試練が手つかずで残っているんですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -34397,21 +34397,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: Haha, that's right. I don't know the details either,\nbut..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はは、その通りだね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　僕も何があるか詳しくは知らないけど……」"
+                                ""
                             ]
                         },
                         {
@@ -34442,14 +34442,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: I think something useful has been prepared."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何か役に立つものが用意されていると思うよ」"
+                                ""
                             ]
                         },
                         {
@@ -34487,21 +34487,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　吟遊詩人"
+                                "Bard: That's the end of the explanation. Well, whether you\ngo or not is up to your judgment."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これで説明は終わりだね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まぁ、行くか行かないかは判断にまかせるよ」"
+                                ""
                             ]
                         },
                         {
@@ -34708,14 +34708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Everyone, have you all made your decision...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「皆さん、判断は決まってますよね……？」"
+                                ""
                             ]
                         },
                         {
@@ -34753,14 +34753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Hey, that's not fair! You're asking in a way\nthat I can't refuse!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もぉー断れない聞き方はずるいですよぉ！」"
+                                ""
                             ]
                         },
                         {
@@ -34798,21 +34798,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Will we be able to pass the trials of the\ngoddess Actina?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「女神アクティナの試練"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わたくしたちは通用するのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -34843,14 +34843,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go and see."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「行ってみましょう」"
+                                ""
                             ]
                         },
                         {
@@ -35104,14 +35104,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                ""
                             ]
                         },
                         {
@@ -35171,14 +35171,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -35953,14 +35953,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: As expected, it's the same as the other places."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やはり他の場所と同じですね」"
+                                ""
                             ]
                         },
                         {
@@ -35998,14 +35998,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's take on the challenge."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「試練に挑みましょう」"
+                                ""
                             ]
                         },
                         {
@@ -36078,14 +36078,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We've cleared the first gate... I see."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「第一関門は突破……ですね」"
+                                ""
                             ]
                         },
                         {
@@ -36123,14 +36123,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's continue forward aiming for the deepest part."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「最奥を目指して進んでいきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -36349,14 +36349,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Unlocked\\c[18]\\CL Photizona Region/The Hero's\nRuins\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLフォティゾナ地方/勇者の遺跡\\c[0]"
+                                ""
                             ]
                         },
                         {

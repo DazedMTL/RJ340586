@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "クリスタル廃鉱山入口",
+    "displayName": "Crystal Abandoned Mine Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2509,7 +2509,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -2663,14 +2663,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　配達員ウェイ"
+                                "Deliveryman Wei: I'm glad you came."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「来てくれるとは嬉しいねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -2687,14 +2687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　配達員ウェイ"
+                                "Deliveryman Wei: Well, will you accompany me for a\nbreather?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、息抜きに付き合ってもらうぜ？」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ王宮 王の間",
+    "displayName": "Photizona Royal Palace, King's Chamber",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7504,21 +7504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「物々しい警備ですまない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　いまが一番危険な時期と考えているためだ」"
+                                "King Rex: I apologize for the strict security measures, but\nI believe that now is the most dangerous time."
                             ]
                         },
                         {
@@ -7526,30 +7512,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「当然の判断だと思います」"
                             ]
                         },
                         {
@@ -7580,21 +7542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「一部の貴族は第二王子を担ぎ上げるつもりらしい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　第二王子もアトゥ将軍も王宮から姿を消している……」"
+                                "Clea: I think it's a natural decision."
                             ]
                         },
                         {
@@ -7602,68 +7550,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「警護には今後も協力してもらう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　詳細はギルド長から話があるだろう」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「本題だが諸君は最大の功労者だと考えている」"
                             ]
                         },
                         {
@@ -7694,21 +7580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「カロンを追い詰め、ドラゴンを倒し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　多くの帝国市民を救った、まさに英雄と呼ぶに相応しい」"
+                                "King Rex: It seems that some nobles intend to support the\nsecond prince. Both the second prince and General Atu have\ndisappeared from the palace..."
                             ]
                         },
                         {
@@ -7716,30 +7588,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「もったいないお言葉です」"
                             ]
                         },
                         {
@@ -7770,21 +7618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ドラゴンスレイヤーの称号が与えられているが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　カロンのものは撤回し、余から改めて称号を与える」"
+                                "King Rex: The details of continuing to cooperate with the\nsecurity will be discussed by the guild leader."
                             ]
                         },
                         {
@@ -7792,68 +7626,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「他の者たちにも功績に相応しい称号を与える"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　前例のない活躍ゆえ後日に改めて授与を行わせてもらおう」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「身に余る光栄です、レクス王」"
                             ]
                         },
                         {
@@ -7884,21 +7656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「繰り返しになるが諸君の活躍には前例がない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ゆえに前倒しとなるが余にできることで報いたいのだ」"
+                                "King Rex: Now, onto the main topic. I believe that all of\nyou are the greatest contributors."
                             ]
                         },
                         {
@@ -7906,106 +7664,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「どんな願いでも……とはいかないが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　可能な限り諸君の希望を叶えたいと考えたい」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔法使いリルム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「では、ボクからいいでしょうか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　この旅の中で夢を失い、新たな夢を得ました」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔法使いリルム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それは魔法アカデミーのアークメイジになることです」"
                             ]
                         },
                         {
@@ -8036,21 +7694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あたしはエマ傭兵団を大きくしたいです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　困っている人たちや行き場のない人たちを助けたいです」"
+                                "King Rex: Caron cornered the dragon and defeated it, saving\nmany citizens of the empire. She is truly deserving of being\ncalled a hero."
                             ]
                         },
                         {
@@ -8058,30 +7702,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　盗賊ノラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あと、助けてくれた人たちに恩返しがしたいです！」"
                             ]
                         },
                         {
@@ -8112,21 +7732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「わたくしは多くの罪を背負っています"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　これからは罪と向き合い僧侶としての道を歩みますわ」"
+                                "Clea: That's too kind of you to say."
                             ]
                         },
                         {
@@ -8134,30 +7740,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僧侶ソフィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「わたくしの師であるシスター・エレオのもとで」"
                             ]
                         },
                         {
@@ -8188,21 +7770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「すべては難しいな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　特に魔法アカデミーに干渉するのは王といえども――」"
+                                "King Rex: Although Caron has been given the title of Dragon\nSlayer, we will revoke it and give her a new title from us."
                             ]
                         },
                         {
@@ -8210,182 +7778,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「レクス王、これは決意表明です"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　誰かに叶えて欲しいものではなく、自分で叶えるものです」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私たちにとって望みとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　自らの手で掴み取るものであることを学びました」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「大変ありがたいものですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　謹んでご辞退させていただきたく思います」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「無粋なことを言ってすまなかった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　それゆえに君たちはドラゴンを打ち倒した英雄なのだな」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクス王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「……もうひとりの希望を聞いていいだろうか？」"
                             ]
                         },
                         {
@@ -8416,14 +7808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「もうひとりですか？」"
+                                "King Rex: Due to the unprecedented achievements that\ndeserve titles for others as well, we will hold a separate\nceremony to confer them at a later date."
                             ]
                         },
                         {
@@ -8431,75 +7816,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　元帝国暗部アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私は……弱い人間です"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　だからこそ、同じく弱き者のために働きたいのです」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　元帝国暗部アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お心遣いをいただき感謝します、レクス様」"
                             ]
                         },
                         {
@@ -8530,21 +7846,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年レクス"
+                                "Clea: It is an honor beyond what I deserve, King Rex."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「聞かせてくれてありがとう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これで迷いなく僕は王になれるよ、アリシアさん」"
+                                ""
                             ]
                         },
                         {
@@ -8568,21 +7884,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王"
+                                "King Rex: I apologize for repeating myself, but your\nachievements are unprecedented, so I want to repay you in\nadvance for what I can do."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本来は宴席となるのだが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こちらは功績の授与を行う際に執り行う」"
+                                ""
                             ]
                         },
                         {
@@ -8606,21 +7922,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王"
+                                "King Rex: While I cannot grant any wish... I want to do my\nbest to fulfill your hopes as much as possible."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「最後になるが改めて礼を言わせてくれ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちが命をかけてくれたことを後悔させない」"
+                                ""
                             ]
                         },
                         {
@@ -8644,14 +7960,698 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王"
+                                "Mage Relm: Then, may I share? In this journey, I lost my\ndream and gained a new one."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんな王になることを約束する」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mage Relm: That is to become an Archmage of the Magic\nAcademy."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Thief Nora: I want to make the Emma Mercenary Corps bigger!\nI want to help people in need and those who have nowhere to\ngo."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Thief Nora: Also, I want to repay the people who helped\nme!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Priestess Sophia: I carry many sins, but from now on, I\nwill confront them and walk the path of a priestess."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Priestess Sophia: Under the guidance of Sister Eleo, my\nmentor."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "King Rex: Everything is difficult, especially when it comes\nto interfering with the Magic Academy, even for a king--"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Clea: King Rex, this is a declaration of determination.\nIt's not something I want someone else to fulfill, but\nsomething I will fulfill myself."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Clea: We have learned that for us, hopes are something we\nmust seize with our own hands."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Clea: While I am deeply grateful for your offer, I\nrespectfully decline."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "King Rex: I apologize for saying something insensitive.\nThat's why you are the heroes who defeated the dragon."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "King Rex: ...May I hear another hope?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Clea: Another one?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Former Imperial Dark Agent Alicia: I... am a weak human.\nThat's why I want to work for the sake of those who are also\nweak."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Former Imperial Dark Agent Alicia: Thank you for your\nconsideration, Lord Rex."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Young Rex: Thank you for telling me. With this, I can\nbecome a king without hesitation, Alicia-san."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "King Rex: Originally, this would be a banquet, but we hold\nit when awarding achievements."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "King Rex: Finally, let me express my gratitude once again.\nI will not let your sacrifice be in vain."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "King Rex: I promise to become that kind of king."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9837,21 +9837,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Your names, who have successfully defeated the\ndragon, will be forever spoken of alongside the empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの討伐見事であった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前たちの名は帝国と共に永遠に語られるであろう」"
+                                ""
                             ]
                         },
                         {
@@ -9868,21 +9868,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: I shall remember your names as well. Thank you\nfor saving the empire that my late husband loved."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わらわもお前たちの名を覚えておこう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　亡き夫が愛した帝国を救ってくれて感謝する」"
+                                ""
                             ]
                         },
                         {
@@ -9899,14 +9899,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: That's too kind of you to say."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もったいないお言葉です」"
+                                ""
                             ]
                         },
                         {
@@ -9923,21 +9923,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: I have heard that Clea was the central figure\nin this heroic achievement. I shall bestow upon her the\nhonorary title for accomplishing such a great feat."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアが中心人物であったと聞いている"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　英雄的偉業を成し遂げた者として栄誉称号を与えよう」"
+                                ""
                             ]
                         },
                         {
@@ -9954,21 +9954,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Dragon Slayer... The title bestowed upon the\nheroes who saved the nation. It is a title that has been\ngiven to only a few individuals in the long history of the\nempire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンスレイヤー……救国の偉人に与えれる称号"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　長い帝国の歴史の中でも数人にしか与えられていないものだ」"
+                                ""
                             ]
                         },
                         {
@@ -9985,14 +9985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It is an honor beyond what I deserve."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「身に余る光栄です」"
+                                ""
                             ]
                         },
                         {
@@ -10009,14 +10009,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Hehehe, you don't seem too happy, do you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くくく、あまり嬉しそうではないな？」"
+                                ""
                             ]
                         },
                         {
@@ -10033,14 +10033,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: N-No, that's not true!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、そんなことはございません！」"
+                                ""
                             ]
                         },
                         {
@@ -10057,21 +10057,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: In addition to the honorary title... I shall\ndo my best to grant your wishes as much as possible."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「栄誉称号以外にも……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前たちの願いを可能な限り叶えてやろうではないか」"
+                                ""
                             ]
                         },
                         {
@@ -10088,14 +10088,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Clea, do you have any wishes that you desire\nfrom me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアよ、わらわに望む願いはあるか？」"
+                                ""
                             ]
                         },
                         {
@@ -10112,21 +10112,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (My wish... it's something that even the most powerful\nruler cannot grant...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（私の願い……それは……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どんな権力者にも叶えることはできない……）"
+                                ""
                             ]
                         },
                         {
@@ -10143,14 +10143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (... Neither my father nor my mother will come back)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（……お父様も、お母様も帰ってこない）"
+                                ""
                             ]
                         },
                         {
@@ -10206,21 +10206,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It is an honor beyond what I deserve. I do not wish\nfor anything more than the honorary title."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「栄誉称号だけでも身に余る光栄です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それ以上のことを望むことはありません」"
+                                ""
                             ]
                         },
                         {
@@ -10244,21 +10244,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Hmm, then how about this? Let's build a\nmonument to commemorate your great achievement."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ふむ、ではこういうのはどうだろう？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前たちの偉業を称える記念碑を建てよう」"
+                                ""
                             ]
                         },
                         {
@@ -10275,21 +10275,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: And also... I heard that your ancestral home\nwas destroyed by a dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あとは……聞いた話ではあるが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　生家がドラゴンによって破壊されているそうだな」"
+                                ""
                             ]
                         },
                         {
@@ -10313,14 +10313,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, you are correct."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、仰る通りです」"
+                                ""
                             ]
                         },
                         {
@@ -10344,21 +10344,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Let's give you a new home. Your late father\nand mother would surely be pleased."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「新しい家を贈ろう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　亡き父親と母親もお喜びになるはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -10382,14 +10382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I think both my father and mother would be pleased."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「父も母も喜ぶと思います」"
+                                ""
                             ]
                         },
                         {
@@ -10413,14 +10413,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Do the others have any reservations?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「他の者たちも遠慮はいらぬぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -10444,21 +10444,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Queen Caron-sama! Please allow me to possess a\npart of the dragon's remains!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王妃カロン様！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドラゴンの遺体の一部の所有をお認めください！」"
+                                ""
                             ]
                         },
                         {
@@ -10482,14 +10482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Ah, ah, please count me in too!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、あたしもお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -10513,14 +10513,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Understood, I shall grant that wish."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかった、その願いを叶えよう」"
+                                ""
                             ]
                         },
                         {
@@ -10578,21 +10578,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Um, if possible... I would like to request the\nremoval of the magic that turned me into an Archmage!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、あとできれば……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アークメイジにされた魔法の解除をお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -10616,21 +10616,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: As the queen, even I, a special existence,\ncannot interfere with punishments in the academy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アカデミーは特殊な存在だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王妃であるわらわでも懲罰に干渉することはできん」"
+                                ""
                             ]
                         },
                         {
@@ -10654,14 +10654,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: ...Yes, I apologize."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……はい、申し訳ありません」"
+                                ""
                             ]
                         },
                         {
@@ -10685,21 +10685,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　シスター・エレオ"
+                                "Sister Eleo: I want to build a tavern in the village of\nIrini, but I am being opposed by Lord Pido, a member of the\nSenate nobility..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「イリニ村に酒場を作ってあげたいのです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　元老院貴族であるピド様に反対されていて……」"
+                                ""
                             ]
                         },
                         {
@@ -10723,14 +10723,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Understood, I will talk to Pido about it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかった、ピドには話しておこう」"
+                                ""
                             ]
                         },
                         {
@@ -10761,21 +10761,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: The protagonist of today's banquet, which\nwill be held later, is the Dragon Slayer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この後に宴席を開く"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今日の主役はドラゴンスレイヤーだ」"
+                                ""
                             ]
                         },
                         {
@@ -10792,14 +10792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Enjoy to your heart's content."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「たっぷりと楽しんでおくれ」"
+                                ""
                             ]
                         },
                         {
@@ -11082,14 +11082,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: Please be respectful to Lady Caron."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロン様に失礼のないように」"
+                                ""
                             ]
                         },
                         {
@@ -11166,14 +11166,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: It is our duty to protect the beautiful\nqueen of the empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帝国の麗しき王妃を守るのが我らの仕事だ」"
+                                ""
                             ]
                         },
                         {
@@ -11250,14 +11250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guard: You are not allowed to enter beyond this\npoint."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この先に入ることは許可できない」"
+                                ""
                             ]
                         },
                         {
@@ -11334,14 +11334,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guard: You are not allowed to enter beyond this\npoint."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この先に入ることは許可できない」"
+                                ""
                             ]
                         },
                         {
@@ -11651,14 +11651,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Thank you for coming, General Atu."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よく来てくれた、アトゥ将軍」"
+                                ""
                             ]
                         },
                         {
@@ -11696,14 +11696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: The shield of the empire, the eldest brother\nof the imperial army... and the guardian of the royal\nfamily."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帝国の盾、帝国軍の長兄……そして王家の守護者」"
+                                ""
                             ]
                         },
                         {
@@ -11741,21 +11741,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: I came here in response to your sudden\nsummons, but unlike you, I am a busy man."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「急な呼び出しで来てみれば"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　儂はお前と違って忙しい身でな」"
+                                ""
                             ]
                         },
                         {
@@ -11786,21 +11786,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: The disappearance of the magician, the\nsubjugation of the Camps thieves... It's as if someone from\nsomewhere has orchestrated this busyness."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法使いの失踪、カンプスの盗賊団の討伐……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まるでどこかの誰かが仕組んだような忙しさだ」"
+                                ""
                             ]
                         },
                         {
@@ -11831,21 +11831,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: After the death of my husband... the empire is\nstanding on a very precarious balance."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わらわの夫の死後……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国は非常に危ういバランスの上に成立をしている」"
+                                ""
                             ]
                         },
                         {
@@ -11876,21 +11876,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: The guarantor of this balance is Senator Pilia\nof the Senate and the greatest general in the history of the\nempire standing before us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「このバランスの保証人は"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　元老院議員ピリアと目の前にいる帝国史上最高の将軍だ」"
+                                ""
                             ]
                         },
                         {
@@ -11921,21 +11921,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: I have heard that there are forces trying to\ndismantle what we have protected together."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わらわたちが共に守ってきたものを"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　崩そうとする勢力がいると耳にしておる」"
+                                ""
                             ]
                         },
                         {
@@ -11966,21 +11966,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: I believe in your unwavering loyalty, for the\nsake of the royal family... above all, for the sake of the\nFotizona Empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これからも変わらぬ忠誠を信じておるぞ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王家のために……何よりもフォティゾナ帝国のために」"
+                                ""
                             ]
                         },
                         {
@@ -12566,14 +12566,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: You, what do you think you're doing!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「貴様っ、どういうつもりだ！？」"
+                                ""
                             ]
                         },
                         {
@@ -12611,21 +12611,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Don't make a fuss. This is a decision to\nprotect the Fotizona Empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「がなりたてるな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これはフォティゾナ帝国を守るための判断」"
+                                ""
                             ]
                         },
                         {
@@ -12656,14 +12656,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: If we can manage and mass-produce, we can\neasily conquer neighboring countries like Tarasa overnight,\nright?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「管理と量産ができれば隣国タラサなど一夜で取れるぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -12701,21 +12701,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: The Fotizona royal family has created a\ndragon, the symbol of demons, of all things...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「フォティゾナ王家がよりにもよって"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪魔の象徴であるドラゴンを生み出したとは……！」"
+                                ""
                             ]
                         },
                         {
@@ -12746,21 +12746,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: You, who was easily stabbed to death, should\nunderstand the terrifying blood that flows in the royal\nfamily."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ピリアはあっさりと刺殺された"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前にはわかるはずだ、王家に流れる恐ろしき血が」"
+                                ""
                             ]
                         },
                         {
@@ -12791,21 +12791,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Even though I had noticed the danger and\nimprisoned Lex, to release him into the wild and awaken the\nblood of the royal family..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その危険性に気が付きレクスを幽閉していたのに"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　奴を野に放ち、王家の血を目覚めさせてしまうとは……」"
+                                ""
                             ]
                         },
                         {
@@ -12852,21 +12852,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Don't worry, General. This dragon here hasn't\nfully awakened yet."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「心配するな将軍"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ふふ、【こちらのドラゴン】はまだ完全に覚醒していない」"
+                                ""
                             ]
                         },
                         {
@@ -12897,21 +12897,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: That's just the strongest General Atu of the\nInsurance Empire burying Lex and the others..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あれはあくまで保険"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国最強のアトゥ将軍がレクスたちを葬ればいいだけ……」"
+                                ""
                             ]
                         },
                         {
@@ -12942,14 +12942,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: ......!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……！」"
+                                ""
                             ]
                         },
                         {
@@ -12987,21 +12987,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: I don't want to see the entire empire being\ndevastated by a dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わらわも見たくはない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドラゴンによって帝国全土が蹂躙される様などな」"
+                                ""
                             ]
                         },
                         {
@@ -13032,21 +13032,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Hehehe, I'm counting on you, the shield of the\nempire, the eldest brother of the imperial army, the\nguardian of the royal family... Atu."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くくくっ、頼んだぞ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国の盾、帝国軍の長兄、王家の守護者……アトゥよ」"
+                                ""
                             ]
                         },
                         {
@@ -13340,14 +13340,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: Please be respectful to Lady Caron."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロン様に失礼のないように」"
+                                ""
                             ]
                         },
                         {
@@ -13475,14 +13475,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: Please be respectful to Lady Caron."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロン様に失礼のないように」"
+                                ""
                             ]
                         },
                         {
@@ -13610,14 +13610,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: Please be respectful to Lady Caron."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロン様に失礼のないように」"
+                                ""
                             ]
                         },
                         {
@@ -13745,14 +13745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: Please be respectful to Lady Caron."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロン様に失礼のないように」"
+                                ""
                             ]
                         },
                         {
@@ -13880,14 +13880,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: Please be respectful to Lady Caron."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロン様に失礼のないように」"
+                                ""
                             ]
                         },
                         {
@@ -14015,14 +14015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: Please be respectful to Lady Caron."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロン様に失礼のないように」"
+                                ""
                             ]
                         },
                         {
@@ -14150,14 +14150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: Please be respectful to Lady Caron."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロン様に失礼のないように」"
+                                ""
                             ]
                         },
                         {
@@ -14285,14 +14285,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: Please be respectful to Lady Caron."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロン様に失礼のないように」"
+                                ""
                             ]
                         },
                         {
@@ -14752,21 +14752,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: I have understood the outcome of the meeting\nwith General Atu and Agonia. You have worked hard."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトゥ将軍ご苦労であった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アゴニアとの会合の結果も了解した」"
+                                ""
                             ]
                         },
                         {
@@ -14813,21 +14813,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: The noble members who were aligned with the\nqueen did not clearly state their position and remained\nsilent."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王妃派だった貴族たちが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　明確な立場を示さず静観に回った」"
+                                ""
                             ]
                         },
                         {
@@ -14858,21 +14858,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: It seems that the noble Casaro is moving. Not\nonly the nobles, but even the Senate has started to take\naction!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「貴族のカサロが動いているようだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　貴族だけでなく元老院までも動きはじめている！」"
+                                ""
                             ]
                         },
                         {
@@ -14903,21 +14903,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Oh my, it is truly terrifying. We must rely on\nthe brave general before us even more."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それはそれは恐ろしい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ますます目の前の勇敢なる将軍に頼らなくてはなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -14948,21 +14948,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Don't play dumb! That monster, the dragon, has\nbeen completed, right?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「とぼけるなっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　完成したのだろう、あの怪物が、ドラゴンがっ！」"
+                                ""
                             ]
                         },
                         {
@@ -14986,14 +14986,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: If I have misunderstood... then explain that\nconfidence!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「儂の勘違いなら……その余裕を説明してみろっ！」"
+                                ""
                             ]
                         },
                         {
@@ -15031,21 +15031,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: The dragon is just a precaution... The one we\ncan rely on is General Atu, the guardian of the royal\nfamily."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンはあくまで保険……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　頼りになるのは王家の守護者たるアトゥ将軍だけだ」"
+                                ""
                             ]
                         },
                         {
@@ -15076,21 +15076,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Both I, who do not want Rex to become king,\nand the general, do we not share the same sentiment?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「レクスを王にしない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わらわも将軍も想いは同じではないのか？」"
+                                ""
                             ]
                         },
                         {
@@ -15121,21 +15121,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Do you intend to trample upon the traditions\nof the empire and become a queen?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帝国の伝統を踏みにじり"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　貴様は女王にでもなるつもりか！？」"
+                                ""
                             ]
                         },
                         {
@@ -15166,21 +15166,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: What are you talking about... I am just\nfulfilling my role as the queen."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何のことやら……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わらわは王妃としての役目を果たしているだけのこと」"
+                                ""
                             ]
                         },
                         {
@@ -15211,21 +15211,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Many people have defected from you due to the\nmovements of the Adventurer's Guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルドの動きによって"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　数多くの人間がお前から寝返ったのだ」"
+                                ""
                             ]
                         },
                         {
@@ -15256,21 +15256,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: The trust they have built up is what led to\nthis! Even if you become queen, the only thing you can build\nis a fragile sand castle that will crumble!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「奴らが築き上げてきた信頼がそうさせた！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　女王になってもお前が築けるのは脆く崩れる砂の城だけだ！」"
+                                ""
                             ]
                         },
                         {
@@ -15301,21 +15301,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Because no one trusts you. Those who refuse to\nbelieve will not be trusted by anyone!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なぜなら、お前が誰も信用していないからだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　信じようとしない者は誰からも信用されぬのだ！」"
+                                ""
                             ]
                         },
                         {
@@ -15346,14 +15346,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: The conversation ends here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「話はこれで終わりだ」"
+                                ""
                             ]
                         },
                         {
@@ -15822,21 +15822,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: I apologize for the wait.\nThere are no issues with controlling the grimoire or the\ndragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おまたせしました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔導書の制御もドラゴンも問題ありません」"
+                                ""
                             ]
                         },
                         {
@@ -15867,14 +15867,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Emoni, what do you think will happen at the\nroyal palace from now on?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「エモニよ、これから王宮で何が起こると思う？」"
+                                ""
                             ]
                         },
                         {
@@ -15912,14 +15912,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: Are we not going to confront\nPrince Rex...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「レクス王子を迎え撃つのではないのですか……？」"
+                                ""
                             ]
                         },
                         {
@@ -15957,21 +15957,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Once you taste it... you'll want another one."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「一粒食べれば……もうひとつ欲しくなる」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　"
+                                ""
                             ]
                         },
                         {
@@ -16011,21 +16011,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: It's a song that my mother used to often\nhum... Yes, it's exactly right, it makes you want it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「母がよくつぶやいていた歌だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　くくくっ、まさしくその通りだな、欲しくなる」"
+                                ""
                             ]
                         },
                         {
@@ -16056,21 +16056,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Dragons require corpses, and the more high-\nquality ones, the better."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンには死体が必要だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　しかも上質なものが多ければ多いほどいい」"
+                                ""
                             ]
                         },
                         {
@@ -16126,21 +16126,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: Caron-sama... Could it be!?\nNot only the Prince's faction, but General Atu and the\nsoldiers too...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロン様……まさかっ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王子派だけでなく、アトゥ将軍や兵士たちも一緒に……！」"
+                                ""
                             ]
                         },
                         {
@@ -16171,21 +16171,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: You are a reliable person, unlike those who\ncannot be used like a puppet, isn't that right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前は頼れる人間だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ルイドのように使えない人間とは違う、そうであろう？」"
+                                ""
                             ]
                         },
                         {
@@ -16216,21 +16216,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Let us witness the sight of fools being\ntrampled upon by overwhelming power together."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「共に見ようではないか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　圧倒的なちからの前に蹂躙される愚者どもの姿を」"
+                                ""
                             ]
                         },
                         {
@@ -16261,21 +16261,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: I'm counting on you. From now on, you will be\nin charge of the secret agency."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「頼りにしているぞ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今後はお前が暗部を取り仕切っていくのだから」"
+                                ""
                             ]
                         },
                         {
@@ -16322,14 +16322,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Are you ready then?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それで準備はできているのか？」"
+                                ""
                             ]
                         },
                         {
@@ -16367,21 +16367,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: U-Um, if I may... I don't know\nwhen the royal palace will become a battlefield..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お、お言葉ですが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王宮はいつ戦場になるかわかりません……」"
+                                ""
                             ]
                         },
                         {
@@ -16412,21 +16412,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: So... if you could please\nrestrain yourself at least for the time being--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ですから……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　当面の間だけでもご自重いただければ――」"
+                                ""
                             ]
                         },
                         {
@@ -16457,14 +16457,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Answer the question."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「質問に答えろ」"
+                                ""
                             ]
                         },
                         {
@@ -16571,21 +16571,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: ...Huh! Ah, please wait as I\nguide you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……っひ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あ、案内をさせますのでお待ちくださいっ！」"
+                                ""
                             ]
                         },
                         {
@@ -16844,14 +16844,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Hmph, useless woman."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ふん、使えない女だ」"
+                                ""
                             ]
                         },
                         {
@@ -16889,21 +16889,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: I don't mind eliminating Emoni this time...\nbut is she a woman who has any use despite being useless?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「エモニも今回排除して構わぬが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　使い物にならないところに使い道がある女ではあるか」"
+                                ""
                             ]
                         },
                         {
@@ -16934,14 +16934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Just a little more, just a little more and it\nwill reach."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あと少し、もう少しで届くのだ」"
+                                ""
                             ]
                         },
                         {
@@ -16979,14 +16979,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: My hand will reach the pinnacle I have longed\nfor..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「思い焦がれた頂に……わらわの手が」"
+                                ""
                             ]
                         },
                         {
@@ -17678,21 +17678,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: I have understood the outcome of the meeting\nwith General Atu and Agonia. You have worked hard."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトゥ将軍ご苦労であった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アゴニアとの会合の結果も了解した」"
+                                ""
                             ]
                         },
                         {
@@ -17739,21 +17739,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: The noble members who were aligned with the\nqueen did not clearly state their position and remained\nsilent."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王妃派だった貴族たちが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　明確な立場を示さず静観に回った」"
+                                ""
                             ]
                         },
                         {
@@ -17784,21 +17784,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: It seems that the noble Casaro is moving. Not\nonly the nobles, but even the Senate has started to take\naction!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「貴族のカサロが動いているようだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　貴族だけでなく元老院までも動きはじめている！」"
+                                ""
                             ]
                         },
                         {
@@ -17829,21 +17829,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Oh my, it is truly terrifying. We must rely on\nthe brave general before us even more."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それはそれは恐ろしい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ますます目の前の勇敢なる将軍に頼らなくてはなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -17874,21 +17874,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Don't play dumb! That monster, the dragon, has\nbeen completed, right?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「とぼけるなっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　完成したのだろう、あの怪物が、ドラゴンがっ！」"
+                                ""
                             ]
                         },
                         {
@@ -17912,14 +17912,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: If I have misunderstood... then explain that\nconfidence!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「儂の勘違いなら……その余裕を説明してみろっ！」"
+                                ""
                             ]
                         },
                         {
@@ -17957,21 +17957,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: The dragon is just a precaution... The one we\ncan rely on is General Atu, the guardian of the royal\nfamily."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンはあくまで保険……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　頼りになるのは王家の守護者たるアトゥ将軍だけだ」"
+                                ""
                             ]
                         },
                         {
@@ -18002,21 +18002,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Both I, who do not want Rex to become king,\nand the general, do we not share the same sentiment?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「レクスを王にしない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わらわも将軍も想いは同じではないのか？」"
+                                ""
                             ]
                         },
                         {
@@ -18047,21 +18047,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Do you intend to trample upon the traditions\nof the empire and become a queen?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帝国の伝統を踏みにじり"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　貴様は女王にでもなるつもりか！？」"
+                                ""
                             ]
                         },
                         {
@@ -18092,21 +18092,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: What are you talking about... I am just\nfulfilling my role as the queen."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何のことやら……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わらわは王妃としての役目を果たしているだけのこと」"
+                                ""
                             ]
                         },
                         {
@@ -18137,21 +18137,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Many people have defected from you due to the\nmovements of the Adventurer's Guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルドの動きによって"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　数多くの人間がお前から寝返ったのだ」"
+                                ""
                             ]
                         },
                         {
@@ -18182,21 +18182,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: The trust they have built up is what led to\nthis! Even if you become queen, the only thing you can build\nis a fragile sand castle that will crumble!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「奴らが築き上げてきた信頼がそうさせた！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　女王になってもお前が築けるのは脆く崩れる砂の城だけだ！」"
+                                ""
                             ]
                         },
                         {
@@ -18227,21 +18227,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Because no one trusts you. Those who refuse to\nbelieve will not be trusted by anyone!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なぜなら、お前が誰も信用していないからだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　信じようとしない者は誰からも信用されぬのだ！」"
+                                ""
                             ]
                         },
                         {
@@ -18272,14 +18272,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: The conversation ends here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「話はこれで終わりだ」"
+                                ""
                             ]
                         },
                         {
@@ -18748,21 +18748,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: I apologize for the wait.\nThere are no issues with controlling the grimoire or the\ndragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おまたせしました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔導書の制御もドラゴンも問題ありません」"
+                                ""
                             ]
                         },
                         {
@@ -18793,14 +18793,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Emoni, what do you think will happen at the\nroyal palace from now on?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「エモニよ、これから王宮で何が起こると思う？」"
+                                ""
                             ]
                         },
                         {
@@ -18838,14 +18838,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: Are we not going to confront\nPrince Rex...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「レクス王子を迎え撃つのではないのですか……？」"
+                                ""
                             ]
                         },
                         {
@@ -18883,21 +18883,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Once you taste it... you'll want another one."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「一粒食べれば……もうひとつ欲しくなる」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　"
+                                ""
                             ]
                         },
                         {
@@ -18937,21 +18937,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: It's a song that my mother used to often\nhum... Yes, it's exactly right, it makes you want it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「母がよくつぶやいていた歌だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　くくくっ、まさしくその通りだな、欲しくなる」"
+                                ""
                             ]
                         },
                         {
@@ -18982,21 +18982,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Dragons require corpses, and the more high-\nquality ones, the better."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンには死体が必要だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　しかも上質なものが多ければ多いほどいい」"
+                                ""
                             ]
                         },
                         {
@@ -19052,21 +19052,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: Caron-sama... Could it be!?\nNot only the Prince's faction, but General Atu and the\nsoldiers too...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロン様……まさかっ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王子派だけでなく、アトゥ将軍や兵士たちも一緒に……！」"
+                                ""
                             ]
                         },
                         {
@@ -19097,21 +19097,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: You are a reliable person, unlike those who\ncannot be used like Luid, isn't that right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前は頼れる人間だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ルイドのように使えない人間とは違う、そうであろう？」"
+                                ""
                             ]
                         },
                         {
@@ -19142,21 +19142,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Let us witness the sight of fools being\ntrampled upon by overwhelming power together."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「共に見ようではないか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　圧倒的なちからの前に蹂躙される愚者どもの姿を」"
+                                ""
                             ]
                         },
                         {
@@ -19187,21 +19187,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: I'm counting on you. From now on, you will be\nin charge of the secret agency."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「頼りにしているぞ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今後はお前が暗部を取り仕切っていくのだから」"
+                                ""
                             ]
                         },
                         {
@@ -19248,14 +19248,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Are you ready then?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それで準備はできているのか？」"
+                                ""
                             ]
                         },
                         {
@@ -19293,21 +19293,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: U-Um, if I may... I don't know\nwhen the royal palace will become a battlefield..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お、お言葉ですが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王宮はいつ戦場になるかわかりません……」"
+                                ""
                             ]
                         },
                         {
@@ -19338,21 +19338,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: So... if you could please\nrestrain yourself at least for the time being--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ですから……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　当面の間だけでもご自重いただければ――」"
+                                ""
                             ]
                         },
                         {
@@ -19383,14 +19383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Answer the question."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「質問に答えろ」"
+                                ""
                             ]
                         },
                         {
@@ -19504,21 +19504,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: ...H-here it is! We have\ngathered them in the large room!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……っひ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　で、できております、大部屋に、集めておりますっ！」"
+                                ""
                             ]
                         },
                         {
@@ -19549,21 +19549,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　王妃カロン"
+                                "Queen Caron: Now, let me teach you the joy of your final\nmoments. After you've served your purpose, you will become a\npart of the dragon as [material]."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、最期の歓びを教えてやろう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　使い終わったら【材料】としてドラゴンの一部となるのだから」"
+                                ""
                             ]
                         },
                         {
@@ -19668,21 +19668,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: W-When did I go wrong...? Was\nit when I rebelled against my father and ran away from\nhome...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わ、私はいつ間違えたの……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お父様に反発をして家を飛び出した時……？」"
+                                ""
                             ]
                         },
                         {
@@ -19729,14 +19729,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: Or was it when I joined the\nAdventurer's Guild...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それとも冒険者ギルドに入った時……？」"
+                                ""
                             ]
                         },
                         {
@@ -19767,21 +19767,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: No, I know it well... It was\nwhen I was expelled from the Adventurer's Guild by taking\nadvantage of my position..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「違う、わかりきってる……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　立場を利用して冒険者ギルドを追放された時だ……」"
+                                ""
                             ]
                         },
                         {
@@ -19845,21 +19845,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部エモニ"
+                                "Imperial Secret Agent Emoni: Ugh... It's already too\nlate... I can't... turn back from here anymore..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ……もう遅い……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もう……ここから……引き返すことはできない……」"
+                                ""
                             ]
                         },
                         {

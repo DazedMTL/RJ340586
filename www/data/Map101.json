@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "酒場２F",
+    "displayName": "Tavern 2F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -5526,14 +5526,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋リーオン"
+                                "Information Broker Leon: So, is the discussion settled?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それで話はまとまったかい？」"
+                                ""
                             ]
                         },
                         {
@@ -5571,14 +5571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「うふふ、まずは一杯いかがですか？」"
+                                "Sorceress Sophia: Hehe, would you like a drink first?"
                             ]
                         },
                         {
@@ -5586,37 +5579,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　情報屋リーオン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「なるほど、試されているってわけだ」"
                             ]
                         },
                         {
@@ -5647,21 +5609,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋リーオン"
+                                "Information Broker Leon: I see, so you're being tested,\nhuh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「美女と飲めるなら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　とことん付き合わせてもらうぜ？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Information Broker Leon: If I can drink with a beautiful\nwoman, I'll stick with you until the end, okay?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5702,14 +5702,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋リーオン"
+                                "Information Broker Leon: Hic... You really can hold your\nliquor..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひっく……あんた本当に酒がつえーな……」"
+                                ""
                             ]
                         },
                         {
@@ -5747,14 +5747,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sorceress Sophia: Hehe, could you please talk about the\nprince?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、それで王子のこと話していただけますか？」"
+                                ""
                             ]
                         },
                         {
@@ -5785,21 +5785,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋リーオン"
+                                "Information Broker Leon: I can't do just that... I have my\npride as an information broker, you know...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それだけはできないね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　情報屋としての矜持ってやつがあるからな……！」"
+                                ""
                             ]
                         },
                         {
@@ -5832,21 +5832,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋リーオン"
+                                "Information Broker Leon: I-I can't take it anymore...\nSorry, but please spare me for today... Ugh..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、これ以上はもう無理だぁ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪いが今日はこれで勘弁してくれ……うぐぅ」"
+                                ""
                             ]
                         },
                         {
@@ -5951,21 +5951,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sorceress Sophia: If there's even a slight possibility that\nI couldn't extract information about the prince from that\nperson, and it could pose a danger... "
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王子のことは聞き出せなかった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの方に少しでも危険を及ぼす可能性があるなら……」"
+                                ""
                             ]
                         },
                         {
@@ -5996,14 +5996,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sorceress Sophia: It would be quicker to take care of\nthings here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここで始末をした方がはやい」"
+                                ""
                             ]
                         },
                         {
@@ -6114,21 +6114,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sorceress Sophia: Ugh... Ooh... I, I can't... I, ugh,\nanymore..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ……おぇ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　で、できない、私には、うぅ、もう……」"
+                                ""
                             ]
                         },
                         {
@@ -6152,21 +6152,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sorceress Sophia: I've been with those girls for too\nlong... If that's the case, I need to find another way...\nSomething that I can do..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの子たちと長く一緒に居過ぎた……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だったら何か別の方法を……私にできることは……」"
+                                ""
                             ]
                         },
                         {
@@ -6261,14 +6261,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sorceress Sophia (After all, he's just a man... If his mind\nrefuses, I should ask his body instead)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（所詮は男……頭が拒むなら身体に聞けばいい）"
+                                ""
                             ]
                         },
                         {
@@ -6315,21 +6315,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sorceress Sophia (Everything is for that person... Please\nforgive me for defiling this body...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（すべてはあの方のため……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　この身体を汚すことをお許しください……）"
+                                ""
                             ]
                         },
                         {
@@ -6360,21 +6360,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sorceress Sophia: By the time you sober up, I will have you\ntell me everything with your body."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「酔いが覚める頃に"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　あなたの身体に聞かせていただきますわ」"
+                                ""
                             ]
                         },
                         {
@@ -6433,7 +6433,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -6580,21 +6580,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sorceress Sophia (There is a possibility that there is an\nentity manipulating this man, so it might be better to go\nthat route...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（そちらの方がいいかもしれない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　この男を操っている存在がいる可能性もある……）"
+                                ""
                             ]
                         },
                         {
@@ -6618,14 +6618,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sorceress Sophia: And... I..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それに……私は……」"
+                                ""
                             ]
                         },
                         {

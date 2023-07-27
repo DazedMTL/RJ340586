@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "砂漠の街アンモス 酒場・宿屋1F",
+    "displayName": "Ammos, the Desert Town - Tavern/Inn 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6079,21 +6079,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店員"
+                                "Innkeeper: The most popular drink here is just water! When\nit's too hot, people don't seem to want alcohol."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここの一番人気はただの水よ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あまりに暑すぎるとお酒はいらないみたい」"
+                                ""
                             ]
                         },
                         {
@@ -6352,21 +6352,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: Your throat must be dry. Please take your time\nand rest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「喉がカラカラでしょう？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ゆっくりと休んでいってください」"
+                                ""
                             ]
                         },
                         {
@@ -6510,21 +6510,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　修行者の男"
+                                "Male Trainee: This sweltering heat... just wearing armor is\nenough training."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「このうだるような暑さ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　鎧を着ているだけでいい修行になるよ」"
+                                ""
                             ]
                         },
                         {
@@ -6601,21 +6601,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　労働者の女"
+                                "Female Worker: It's so hot that I can't help but dress\nlightly, hehe. It's not bad to have all the men's attention\nto myself."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こう暑いとついつい軽装になってしまうの"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　うふふ、男たちの視線を独り占めするのも悪くないわ」"
+                                ""
                             ]
                         },
                         {
@@ -6692,21 +6692,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　労働者の男"
+                                "Male Worker: Do I look strange in this outfit? It's\ncomfortable for spending time in the desert."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おかしな服装に見えるかい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　砂漠を過ごすにはこれが快適なのさ」"
+                                ""
                             ]
                         },
                         {

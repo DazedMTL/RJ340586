@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マラコ村 怪しいお店",
+    "displayName": "Marako Village Suspicious Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -1999,21 +1999,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　怪しい店の店員"
+                                "Suspicious Store Clerk: I don't feel any charm in you that\nwould make you sellable, huh."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アンタには"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　売れるほどの魅力を感じないねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -2097,21 +2097,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　怪しい店の店員"
+                                "Suspicious Shop Clerk: Oh... I feel like I can sell you\nanything..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おおおお……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アンタには何を売ってもいいと感じるぜ……」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "スフィリ鉱山 テント",
+    "displayName": "Sphiri Mine Tent",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4219,14 +4219,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫ガード"
+                                "Mine Worker Guard: Sigh... I can't focus on my work."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はぁ……仕事が手につかねーぜ」"
+                                ""
                             ]
                         },
                         {
@@ -4497,14 +4497,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫ガード"
+                                "Mine Worker Guard: Who are you guys?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何だい、あんたたちは？」"
+                                ""
                             ]
                         },
                         {
@@ -4551,14 +4551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sophia the priestess: We have come as messengers of the\nImiserinos shrine maiden."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「イミセリノスの巫女様の使いで来ましたわ」"
+                                ""
                             ]
                         },
                         {
@@ -4589,21 +4589,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫ガード"
+                                "Mine Worker Guard: Our prayers have been answered!\nMessengers of the shrine maiden, I want you to listen to\nwhat I have to say."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「願いが届いた！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　巫女の代理人たちよ、俺の話を聞いて欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -4658,14 +4658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I see... So you don't have the courage to\nconfess."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるほど……告白する勇気がないと」"
+                                ""
                             ]
                         },
                         {
@@ -4696,14 +4696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫ガード"
+                                "Mine Worker Guard: After being together for so long, what\nwords should I use to convey my feelings?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「付き合いが長すぎてな、なんて言葉を伝えればいいか」"
+                                ""
                             ]
                         },
                         {
@@ -4750,21 +4750,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Isn't it unnecessary to force yourself to\nchoose your words carefully? Isn't it more important to\nconvey your feelings in your own words?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「無理に言葉を取り繕う必要はないのでは？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたの言葉で伝えることが重要ではないでしょうか」"
+                                ""
                             ]
                         },
                         {
@@ -4795,21 +4795,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Have confidence in your feelings, as they\nreach the Imiserinos shrine maiden."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「イミセリノスの巫女に声が届くほどです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたの持つ気持ちに自信をもってください」"
+                                ""
                             ]
                         },
                         {
@@ -4833,21 +4833,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫ガード"
+                                "Mine Worker Guard: Thank you! Please witness my\nconfession!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺の告白を見届けてくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -4967,14 +4967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　洗濯女ランド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「なんだい、急に呼び出して……こいつら誰だい？」"
+                                "Laundry Woman Land: What's going on? Why did you call us\nhere all of a sudden... Who are these people?"
                             ]
                         },
                         {
@@ -4982,37 +4975,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　鉱山夫ガード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お前が好きだ、結婚してくれ！」"
                             ]
                         },
                         {
@@ -5043,21 +5005,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　洗濯女ランド"
+                                "Mine Worker Guard: I love you, will you marry me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はぁ……！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんた急に何を言っているんだい、冗談だろ？」"
+                                ""
                             ]
                         },
                         {
@@ -5081,21 +5043,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫ガード"
+                                "Laundry Woman Land: Huh...!? What are you suddenly saying?\nAre you joking?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺の愛がイミセリノスを動かした！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺と結婚してくれ、絶対に幸せにする、頼む！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mine Worker Guard: My love has moved Imiserinos! Please\nmarry me and I will make you happy, I beg you!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5179,14 +5179,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　洗濯女ランド"
+                                "Laundry Woman Land: Well, fine. We've been stuck together\nfor a while, after all..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その、いいよ、あんたとは腐れ縁だしね……」"
+                                ""
                             ]
                         },
                         {
@@ -5274,21 +5274,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫ガード"
+                                "Mine Worker Guard: Oh! Land, thank you! Our twisted fate is\neternal!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おお！　ランド、ありがとう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺たちの腐れ縁は永遠だ！」"
+                                ""
                             ]
                         },
                         {
@@ -5336,21 +5336,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫ガード"
+                                "Mine Worker Guard: Representatives of the shrine maidens,\nplease convey my gratitude to the Imiserinos shrine maiden\nas well!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「巫女の代理人たちよ、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　イミセリノスの巫女様にもお礼を言っておいてくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -5374,14 +5374,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, I can't help but feel jealous when\nI see something like this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、ここまで見せつけられると妬けてしまいますわ」"
+                                ""
                             ]
                         },
                         {
@@ -5443,14 +5443,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　洗濯女ランド"
+                                "Laundry Woman Land: You're so noisy... Well, I guess I'm\ngrateful."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うるさいねぇ……まぁ感謝しているよ」"
+                                ""
                             ]
                         },
                         {
@@ -5770,21 +5770,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鉱山夫ガード"
+                                "Mine Worker Guard: I'm glad you mustered up the courage!\nMay the blessings of Imiserinos be with you too!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「勇気を出してよかったぜ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんたたちにも、イミセリノスのご加護を！」"
+                                ""
                             ]
                         },
                         {
@@ -5981,14 +5981,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　洗濯女ランド"
+                                "Laundry Girl Land: 'You're a man who can't function without\nme, since a long time ago.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あたしがいないと駄目な男なんだよ、むかしからね」"
+                                ""
                             ]
                         },
                         {
@@ -6015,14 +6015,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　洗濯女ランド"
+                                "Laundry Girl Land: I appreciate it, please take this with\nyou."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「感謝はしているよ、こいつを持っていっておくれ」"
+                                ""
                             ]
                         },
                         {

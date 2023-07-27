@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "レフガリアの森最奥",
+    "displayName": "Deepest part of the Lefgaria Forest",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5637,7 +5637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -5683,14 +5683,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6210,7 +6210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -6256,14 +6256,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6510,7 +6510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -6556,14 +6556,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -7209,14 +7209,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: What on earth is this..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これはいったい……」"
+                                ""
                             ]
                         },
                         {
@@ -7467,21 +7467,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It seems to be like the Shrine of Lefgaria. It\nlooks like quite some time has passed since it was built."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「レフガリアの祠のようですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　作られてからかなり時間が経っているようです」"
+                                ""
                             ]
                         },
                         {
@@ -7625,21 +7625,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Look! There are shoes and clothes scattered\naround!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「見てください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　靴や服が転がっていますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -7663,21 +7663,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It seems like they were offering the results of\ntheir hunt. If that's the case, they might be nearby."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「狩りの成果を捧げていたようですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そうなるとこの近くにいるかもしれませんよ」"
+                                ""
                             ]
                         },
                         {
@@ -7735,14 +7735,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like we've arrived, although I'm not sure\nwhere we are."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうやら来たみたいです、場所はわかりませんが」"
+                                ""
                             ]
                         },
                         {
@@ -7917,21 +7917,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Leave it to me! I can see sound, you know..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まかせてください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしなら音を見ることができます……」"
+                                ""
                             ]
                         },
                         {
@@ -8040,14 +8040,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: It's in front of us, here it comes!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「正面です、来ますっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -8451,14 +8451,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　狩人デルマ"
+                                "Hunter Delma: Ugh... Where is this...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ…\\|…\\|ここは…\\|…？」"
+                                ""
                             ]
                         },
                         {
@@ -8482,14 +8482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Are you okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大丈夫ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -8513,14 +8513,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　狩人デルマ"
+                                "Hunter Delma: W-Where am I...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わ、わたしはここでいったい……」"
+                                ""
                             ]
                         },
                         {
@@ -8544,14 +8544,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Most likely, you touched a relic of Lefgaria."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おそらくですがレフガリアの遺物に触れたのでしょう」"
+                                ""
                             ]
                         },
                         {
@@ -8575,14 +8575,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　狩人デルマ"
+                                "Hunter Delma: Relic... Could it be a crystal...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「遺物……もしかしてクリスタル……？」"
+                                ""
                             ]
                         },
                         {
@@ -8606,21 +8606,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It seems that you have been freed from the magic\nof Lefgaria by being defeated and becoming prey."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「敗北して獲物になったことで"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　レフガリアの魔法から解き放たれたようです」"
+                                ""
                             ]
                         },
                         {
@@ -8644,21 +8644,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　狩人デルマ"
+                                "Hunter Delma: ...I hate, hate that our forest was taken\naway and I'm starting to remember."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……思い出してきた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちの森が奪われたのが憎くて憎くて」"
+                                ""
                             ]
                         },
                         {
@@ -8675,14 +8675,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　狩人デルマ"
+                                "Hunter Delma: I became a demon hunter by touching the\ncrystal."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クリスタルに触れて悪魔の狩人になった」"
+                                ""
                             ]
                         },
                         {
@@ -8706,21 +8706,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I-I don't think this person is bad! So, could\nyou please stop handing them over to the guards?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、この人は悪くないと思います！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だから衛兵さんに差し出すのはやめませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -8744,21 +8744,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We were just asked to solve the problem, so there\nshouldn't be any more issues, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちは問題の解決を依頼されただけです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もう問題が起きる可能性はありませんよね？」"
+                                ""
                             ]
                         },
                         {
@@ -8782,21 +8782,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Let me take the clothes you were wearing just in\ncase. There might still be some magic residue on them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「念のため着ていた服を預かりましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もしかしたら魔力が残っているかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -8820,21 +8820,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　狩人デルマ"
+                                "Hunter Delma: Thank you very much. Please take this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どうかこれを持っていってください」"
+                                ""
                             ]
                         },
                         {
@@ -9417,14 +9417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Nora-san, is something wrong?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ノラさん、どうかしましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -9479,14 +9479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: No, even if you say beastmen, there might be a\npossibility that they have allies."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いえ、獣人と聞いてもしかしたら仲間がいるかもって」"
+                                ""
                             ]
                         },
                         {
@@ -9510,14 +9510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I just had a little bit of hope. Now, let's\ngo!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「少しだけ期待していただけです。さぁ、いきましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -10214,14 +10214,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "It seems to be a pedestal for placing something."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　何かをのせるための台座のようだ"
+                                ""
                             ]
                         },
                         {
@@ -10746,14 +10746,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Do you want to place the crystal on the pedestal?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クリスタルを台座に設置しますか？"
+                                ""
                             ]
                         },
                         {
@@ -10799,14 +10799,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (I have a bad feeling about this...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（嫌な予感がしますね……）"
+                                ""
                             ]
                         },
                         {
@@ -11038,21 +11038,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I will place the crystal just to be safe,\neveryone please don't move."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ボクがクリスタルを設置します"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　念のため、みなさんは動かないでください」"
+                                ""
                             ]
                         },
                         {
@@ -11147,14 +11147,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: If my prediction is correct, something... should\nhappen."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ボクの予想が正しければ何かが……起こるはず」"
+                                ""
                             ]
                         },
                         {
@@ -11235,14 +11235,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: N-Nothing is happening... Is it broken,\nperhaps?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「な、何も起こらないです……壊れてるのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -11280,21 +11280,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: 'It's troubling, isn't it? We don't have\nany other clues to go on.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「困りましたわね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　他に手がかりになりそうなものがないのに」"
+                                ""
                             ]
                         },
                         {
@@ -11370,14 +11370,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: That shouldn't be the case, my hypothesis is--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そんははずはないですよ、ボクの仮説は――」"
+                                ""
                             ]
                         },
                         {
@@ -11503,21 +11503,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: As Relm-san predicted, it seems to be just as\nexpected. However, it looks like there's an unexpected bonus\nas well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「リルムさんの予想通りでしたね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ただし想像していなかったおまけもついてきそうです」"
+                                ""
                             ]
                         },
                         {
@@ -11626,21 +11626,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いアルブスの幻影"
+                                "Mage Relm's illusion: Just as I thought! This crystal is\nreacting to the demons' shrine!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「やっぱりそうだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　このクリスタルは悪魔たちの祠に反応しているんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -11664,21 +11664,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いアルブスの幻影"
+                                "Mage Relm's illusion: It's truly amazing... It seems like\ncompletely unknown knowledge is flowing into me..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「本当にすごいぞ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　まったく知らない知識が流れ込んでくるようだ……」"
+                                ""
                             ]
                         },
                         {
@@ -11702,21 +11702,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いアルブスの幻影"
+                                "Mage Relm's illusion: Oh, how grateful I am to Duxa-san. He\nshould be amazed by these results!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ドクサさんには本当に感謝だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ふふふ、この成果に驚いてくれるはずだ！」"
+                                ""
                             ]
                         },
                         {
@@ -11740,14 +11740,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いアルブスの幻影"
+                                "Mage Relm's illusion: Next... shall we head towards the\ncave in the inlet?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「次は……入り江の洞窟に向かってみるか」"
+                                ""
                             ]
                         },
                         {
@@ -11873,21 +11873,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: What on earth is this... What were we looking at?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「これはいったい……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　私たちは何を見ていたのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -11918,21 +11918,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I believe it is the Albis from that time. I\ndon't understand the principle, but I can't think of any\nother explanation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「当時のアルブスだと思います"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　原理はわかりませんがそれ以外に考えられません」"
+                                ""
                             ]
                         },
                         {
@@ -11963,14 +11963,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: They said we're heading towards the cave in the\ninlet!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「入り江の洞窟に向かうって言ってましたよ！」"
+                                ""
                             ]
                         },
                         {
@@ -12008,21 +12008,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I never expected Albis-san to have such a\nmischievous personality, creating illusions of demons like\nthis."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「まさか悪魔の幻影なんて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　アルブスさんはいい性格をしていますわね」"
+                                ""
                             ]
                         },
                         {
@@ -12053,21 +12053,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I've become even more interested. I will\ndefinitely meet them and confirm their knowledge of magic!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ボクは余計に興味が出てきましたよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　必ず会って魔法知識について確認させてもらいます！」"
+                                ""
                             ]
                         },
                         {
@@ -12297,14 +12297,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "It seems like the pedestal has lost its functionality."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　台座は機能を失ったようだ"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "売春島　安宿1F",
+    "displayName": "Prostitution Island Cheap Inn 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4011,21 +4011,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
+                                "Inn Receptionist: It's a strange job, but once you get used\nto it, it's quite interesting."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「変な仕事だけどさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　慣れてくるとなかなか面白いもんさ」"
+                                ""
                             ]
                         },
                         {
@@ -4289,21 +4289,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
+                                "Inn Receptionist: What's up? I didn't receive any\nnotification about a prostitute coming."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　娼婦が来るって連絡は受けてないけど」"
+                                ""
                             ]
                         },
                         {
@@ -4334,14 +4334,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I have a question about a child's ghost..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「子どもの幽霊について質問が……」"
+                                ""
                             ]
                         },
                         {
@@ -4389,14 +4389,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
+                                "Inn Receptionist: It's been a topic of gossip for a while\nnow."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「少し前から噂になっているよ」"
+                                ""
                             ]
                         },
                         {
@@ -4434,21 +4434,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Is that true!? Can you tell me about it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当ですかぁ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　教えてもらうことってできますか？」"
+                                ""
                             ]
                         },
                         {
@@ -4472,21 +4472,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
+                                "Inn Receptionist: There's nothing in this island that\ndoesn't come with a price. My information doesn't come\ncheap, you know. Is that alright with you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この島に値段がつかないものはないのさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしの情報は高くつくけどいいのかい？」"
+                                ""
                             ]
                         },
                         {
@@ -4517,21 +4517,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I-I'll get scolded by the big man at the\nreception if I don't solve this... ugh..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「か、解決しないと"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　受付の大きな男の人に怒られちゃう、うぅ……」"
+                                ""
                             ]
                         },
                         {
@@ -4564,14 +4564,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
+                                "Inn Receptionist: Could it be that the client is a right or\nleft-handed person!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もしかして依頼人はライトかレフトかいっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -4609,14 +4609,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: ...Yes, the person is left-handed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……はい、レフトって人ですけどぉ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Inn Receptionist: Ahaha, that's a masterpiece! So, the\nweakness of that annoying man is a ghost, huh!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4647,21 +4685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あはは、そいつは傑作だっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あの嫌な男の弱点は幽霊だったってわけだ！」"
+                                "Inn Receptionist: Try going to the tavern, there might be\nsomething on the mostly unused second floor."
                             ]
                         },
                         {
@@ -4672,34 +4696,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「酒場に行ってみな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ほとんど使われていない２階に何かあるかもしれない」"
+                                ""
                             ]
                         },
                         {
@@ -4732,21 +4732,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
+                                "Inn Receptionist: And this is the difference amount to\nbalance out the value of your information."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それとこいつも持っていきな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんたの情報と釣り合いをとるための差額分だよ」"
+                                ""
                             ]
                         },
                         {
@@ -4966,21 +4966,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
+                                "Inn Receptionist: It's a strange job, but once you get used\nto it, it's quite interesting."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「変な仕事だけどさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　慣れてくるとなかなか面白いもんさ」"
+                                ""
                             ]
                         },
                         {
@@ -5048,21 +5048,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　安宿の受付嬢"
+                                "Inn Receptionist: It's a strange job, but once you get used\nto it, it's quite interesting."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「変な仕事だけどさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　慣れてくるとなかなか面白いもんさ」"
+                                ""
                             ]
                         },
                         {
@@ -5961,14 +5961,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I came to help at Melena-san's request!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「メレーナさんの依頼で助けに来ました！」"
+                                ""
                             ]
                         },
                         {
@@ -6013,14 +6013,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ピラダ海賊団の船員"
+                                "Pirada Pirates Crew Member: I-I'm a lowly pirate, I\napologize!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「い、卑しい海賊ですいませんっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6051,21 +6051,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　女王様"
+                                "Queen: You are the shame of the empire! I will teach you\nthe pleasure of being plundered... Wait, who are you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あんたは帝国の恥さ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　略奪される悦びを教えてやるよ……え、誰ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -6141,21 +6141,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please lower your weapons. I came here to rescue the\nman who is being restrained."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「武器をおろしてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そこの拘束されている男性を救出に来ました」"
+                                ""
                             ]
                         },
                         {
@@ -6186,14 +6186,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: If you can't hear me, then once more--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「聞こえないならもう一度――」"
+                                ""
                             ]
                         },
                         {
@@ -6255,21 +6255,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ピラダ海賊団の船員"
+                                "Pirada Pirates Crew Member: W-Wait, I don't know who you\nare, but hold on! I'm the one who requested her help!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だ、誰だが知らないが待ってくれ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これは俺が望んで彼女に頼んでいるんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -6309,21 +6309,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ピラダ海賊団の船員"
+                                "Pirada Pirates Crew Member: What should I say to the\ncaptain? I got caught up in the Pleasure Island and my\nreturn was delayed..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「船長になんて言えばいいんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　売春島にハマって帰りが遅れたなんて……」"
+                                ""
                             ]
                         },
                         {
@@ -6354,21 +6354,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I understand the situation. Please return to Melena-\nsan immediately!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「事情はわかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　すぐにメレーナさんの元に帰ってください！」"
+                                ""
                             ]
                         },
                         {
@@ -6399,14 +6399,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Next, let's look for a tailor)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（次は仕立屋を探しましょう）"
+                                ""
                             ]
                         },
                         {
@@ -6626,21 +6626,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　女王様"
+                                "Queen: Hehe, actually my favorite hobbies are sewing and\ncooking. The ingredients that customers bring me are what\nmake me the happiest!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、実は裁縫と料理が趣味なの"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お客様の差し入れで一番うれしいのは食材ね！」"
+                                ""
                             ]
                         },
                         {

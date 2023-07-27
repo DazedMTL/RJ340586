@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大転びの湿原",
+    "displayName": "Great Tumble Marsh",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4431,14 +4431,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                ""
                             ]
                         },
                         {
@@ -4484,14 +4484,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -5060,14 +5060,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
+                                "Injured Emma Thief Guild Member: After the Imperial Army,\nnow it's monsters... my luck is terrible."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帝国軍の次は化け物かよ……ツキがねぇな」"
+                                ""
                             ]
                         },
                         {
@@ -5509,21 +5509,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I won't let you lay a finger on them! I'll be\nyour opponent!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「手出しはさせませんよっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたの相手はこっちですっ！」"
+                                ""
                             ]
                         },
                         {
@@ -5632,21 +5632,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
+                                "Injured Emma Thief Guild Member: Phew... Thanks to you, I\nwas saved. I never thought the day would come when Nora\nwould save my life."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ふ〜……おかげで助かった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まさか、ノラに命を助けてもらう日が来るとはな」"
+                                ""
                             ]
                         },
                         {
@@ -5677,14 +5677,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Hehe, I think I've grown too, maybe."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えへへ、あたしも成長したと思います、たぶん」"
+                                ""
                             ]
                         },
                         {
@@ -5722,14 +5722,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Are there any other injured people?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「他に負傷者はいないでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -5760,21 +5760,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
+                                "Injured Emma Thief Guild Member: As long as I meet the\nother five, I'll be fine."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺を入れて５人に会っていれば大丈夫だ」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -5805,21 +5805,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: In that case, there's no problem. I will\nperform healing on you, the last injured person."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「でしたら問題ないですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたが最後の負傷者、回復を行いますね」"
+                                ""
                             ]
                         },
                         {
@@ -5952,21 +5952,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
+                                "Injured Emma Thief Guild Member: I fought against General\nAtu's subordinates, but it seemed like they were holding\nback quite a bit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトゥ将軍の部下と戦ったが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　彼らはかなり手加減をしてくれているようだった」"
+                                ""
                             ]
                         },
                         {
@@ -5997,21 +5997,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: No matter what, that person is a kind-hearted\nindividual! If things continue like this, it seems like they\nmight become our ally!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだかんだ、あの人は甘い人ですね！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この調子ならボクたちの味方になってくれそうです！」"
+                                ""
                             ]
                         },
                         {
@@ -6035,21 +6035,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
+                                "Injured Emma Thief Guild Member: That's absolutely not\ntrue... Besides General Atu's subordinates, they're here to\nkill us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは絶対にない……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アトゥ将軍直下の部下以外は俺たちを殺しにきている」"
+                                ""
                             ]
                         },
                         {
@@ -6073,21 +6073,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
+                                "Injured Emma Thief Guild Member: Nora, do you remember?\nAbout Sid, who was good at baking bread."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ノラ、覚えているか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　パンを焼くのが得意だったシドのこと」"
+                                ""
                             ]
                         },
                         {
@@ -6127,21 +6127,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Of course! I absolutely love Sid's bread, you\nknow!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もちろんですよぉ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　シドおじさんのパンは大好物ですよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6165,14 +6165,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
+                                "Injured Emma Thief Guild Member: I was killed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「殺されたよ」"
+                                ""
                             ]
                         },
                         {
@@ -6210,14 +6210,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: ...eh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……え」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Injured Emma Thief Guild Member: Even though I'm not a\ncombatant, the leader prioritized saving Sid from the\nhideout."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6248,21 +6286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「戦闘員じゃないからって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　団長は真っ先にシドをアジトから逃したんだ」"
+                                "Injured Emma Thief Guild Member: Afterwards, there was a\ncorpse lying in the bandit's grassland. It was covered in\nwounds, they must have been tortured relentlessly."
                             ]
                         },
                         {
@@ -6273,34 +6297,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「その後に野盗の草原に死体が転がっていた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　全身が傷だらけだったよ、執拗に拷問をされたに違いない」"
+                                ""
                             ]
                         },
                         {
@@ -6367,21 +6367,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
+                                "Injured Emma Thief Guild Member: Nora, it would be better\nfor you not to get involved anymore. You should leave the\ncampus and hide somewhere."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ノラ、お前はもう関わらない方がいい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　カンプスから離れてどこかに身を隠した方がいい」"
+                                ""
                             ]
                         },
                         {
@@ -6405,21 +6405,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
+                                "Injured Emma Thief Guild Member: I'll leave this ring with\nyou. It's a memento that Sid cherished."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前にこいつを渡しておくよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　シドが大事にしていた指輪、あいつの形見だ」"
+                                ""
                             ]
                         },
                         {
@@ -6468,14 +6468,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Ah, um..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、あたしは……」"
+                                ""
                             ]
                         },
                         {
@@ -6506,21 +6506,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　負傷したエマ盗賊団団員"
+                                "Injured Emma Thief Guild Member: Thank you for saving me.\nMaybe it would have been better if I had been eaten here, it\nmight have been happier."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「助けてくれてありがとな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここで喰われていた方が幸せだったかもしれないが」"
+                                ""
                             ]
                         },
                         {
@@ -6635,14 +6635,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Nora-chan... Are you okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ノラちゃん……大丈夫？」"
+                                ""
                             ]
                         },
                         {
@@ -6696,21 +6696,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: *sniffle*... I'm okay! I'll definitely rescue\nthem!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ぐすっ……大丈夫ですっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしが必ず助け出してみせますっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6741,21 +6741,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I haven't been able to repay the favor of being\nsaved by everyone in the Emma Thief Guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「エマ盗賊団のみんなに"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　助けてもらった恩を返せてません」"
+                                ""
                             ]
                         },
                         {
@@ -6831,21 +6831,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: So please help me! Please fight together with\nme to save my comrades!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だから助けてください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　仲間を助けるために一緒に戦ってください！」"
+                                ""
                             ]
                         },
                         {
@@ -6876,21 +6876,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Of course, I will fight for Nora-san's sake."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もちろんです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ノラさんのために戦います」"
+                                ""
                             ]
                         },
                         {
@@ -6921,21 +6921,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: There's no problem that can't be solved if the\ngreat genius cooperates, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まったく仕方ないですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　大天才が協力すれば解決できない問題はありませんよ！」"
+                                ""
                             ]
                         },
                         {
@@ -6966,21 +6966,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Of course, Nora-chan. We are your\nallies."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もちろんよ、ノラちゃん"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わたくしたちはあなたの味方だから」"
+                                ""
                             ]
                         },
                         {
@@ -7018,21 +7018,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (Guild Master, please wait. I will definitely\nsave everyone in the Emma Thief Guild!)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（団長、待っていてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしが必ずエマ盗賊団のみんなを助けてみせますから！）"
+                                ""
                             ]
                         },
                         {

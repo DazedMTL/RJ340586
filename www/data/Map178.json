@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "イレモ村 地下牢",
+    "displayName": "Iremo Village Underground Dungeon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5696,14 +5696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Huh, where am I?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……んっ、ここは？」"
+                                ""
                             ]
                         },
                         {
@@ -5994,14 +5994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Everyone, please wake up!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「皆さん、起きてくださいっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6156,14 +6156,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (We need to think of a way to escape)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（脱出する方法を考えないと）"
+                                ""
                             ]
                         },
                         {
@@ -6660,14 +6660,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It has a pretty sturdy lock, doesn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「かなり頑丈な錠前がついてますね」"
+                                ""
                             ]
                         },
                         {
@@ -6691,14 +6691,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Leave it to me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あたしに任せてくださいっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7069,21 +7069,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Hmm... I can't quite manipulate it well from\nthe inside... Moreover, I think it's a structurally unique\none."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ん……内側からだと上手く触れません……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　しかも構造的にかなり特殊なものだと思います」"
+                                ""
                             ]
                         },
                         {
@@ -7107,14 +7107,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's troublesome, isn't it? Let's blow it away\nwith magic!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「面倒ですね、魔法で吹き飛ばしましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -7608,14 +7608,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　村長オルデン"
+                                "Village Chief Olden: I would appreciate it if you refrain\nfrom doing anything that would cause damage here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここを荒らすようなマネはしないでいただきたい」"
+                                ""
                             ]
                         },
                         {
@@ -7772,21 +7772,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: To imprison this genius! Please release me from\nhere quickly!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この天才を閉じ込めるなんて！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　はやくここから出してくださいっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -7810,14 +7810,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please tell us the reason why we were restrained."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちを拘束した理由を教えてください」"
+                                ""
                             ]
                         },
                         {
@@ -7841,21 +7841,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　村長オルデン"
+                                "Village Chief Olden: ...I suspect that you have a true\npurpose. We came here on a request from the Magic Academy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……あなたたちには本当の目的がある"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　我々は魔法アカデミーからの依頼で来たと疑っています」"
+                                ""
                             ]
                         },
                         {
@@ -7872,14 +7872,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　村長オルデン"
+                                "Village Chief Olden: We cannot release you until those\nsuspicions are cleared."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その疑いが晴れるまで返すわけにはいきません」"
+                                ""
                             ]
                         },
                         {
@@ -7910,21 +7910,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We came here on a request from the Adventurer's\nGuild, and we have no other reason."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルドの依頼としてきました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私たちにはそれ以外の理由はありません」"
+                                ""
                             ]
                         },
                         {
@@ -7941,21 +7941,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Personally, I am searching for something, but it has\nnothing to do with the Magic Academy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「個人的に探しているものはありますが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それは魔法アカデミーとは関係がないものです」"
+                                ""
                             ]
                         },
                         {
@@ -7979,21 +7979,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　村長オルデン"
+                                "Village Chief Olden: Please tell us about your personal\nsearch. There is no emotion as dangerous as selfish\ncuriosity."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「個人的な探しものについて教えてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　身勝手な好奇心ほど危険な感情はないのです」"
+                                ""
                             ]
                         },
                         {
@@ -8017,21 +8017,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I am searching for a dragon that killed my parents."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私の両親を殺害したドラゴンを探しています」"
+                                ""
                             ]
                         },
                         {
@@ -8064,14 +8064,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　村長オルデン"
+                                "Village Chief Olden: Dragon...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴン……！」"
+                                ""
                             ]
                         },
                         {
@@ -8247,14 +8247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Could you please let us out of here?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここから出していただけますか？」"
+                                ""
                             ]
                         },
                         {
@@ -8443,21 +8443,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　村長オルデン"
+                                "Village Chief Olden: I will open this lock right away, and\nthere is something I absolutely want to request."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここの鍵はすぐに開けます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そしてどうしてもご依頼したいことがあります」"
+                                ""
                             ]
                         },
                         {
@@ -8497,21 +8497,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: You can't just capture us and expect us to\nbelieve you have a good reason for it!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「勝手に捕まえておいて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そんな虫がいい話があるわけないじゃないですか！！」"
+                                ""
                             ]
                         },
                         {
@@ -8535,14 +8535,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Alright, please tell us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、話してください」"
+                                ""
                             ]
                         },
                         {
@@ -8566,21 +8566,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　村長オルデン"
+                                "Village Chief Olden: I apologize for the inconvenience, but\nplease come to Mount Scrilo."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「勝手で申し訳ございませんが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　スクリロ山まで来てください」"
+                                ""
                             ]
                         },
                         {
@@ -8597,21 +8597,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　村長オルデン"
+                                "Village Chief Olden: Let me tell you about the big, big\nproblem that we are facing there."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そこで我々が直面している"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　大きな大きな問題についてお話をさせていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -8745,14 +8745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Oros Region/Mount Scrilo\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLオロス地方/スクリロ山\\c[0]"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "メロスの遺跡1F",
+    "displayName": "Melos Ruins 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -14232,21 +14232,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Ugh... Could this be... a trap has been set?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くっ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これは……罠が仕掛けられている？」"
+                                ""
                             ]
                         },
                         {
@@ -14270,21 +14270,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Sophia the Priestess: Well done, it's designed to inflict\ndamage on intruders without fail."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よく出来ているわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　侵入者に確実にダメージを与えるように」"
+                                ""
                             ]
                         },
                         {
@@ -14301,21 +14301,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: It seems better to proceed cautiously\nwhile healing."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「回復しながら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　慎重に進んだほうが良さそうね」"
+                                ""
                             ]
                         },
                         {
@@ -26211,14 +26211,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Do you want to start exploring the ruins of Melos?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メロスの遺跡の探索を開始しますか？"
+                                ""
                             ]
                         },
                         {
@@ -26264,14 +26264,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (I have a bad feeling... Let's prepare before we go.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（嫌な予感がします……準備をしてからにしましょう）"
+                                ""
                             ]
                         },
                         {
@@ -26613,21 +26613,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: These ruins are in quite a good condition. It's\nmiraculous that they have remained untouched like this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「かなり状態のいい遺跡ですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　これが手つかずで残っているなんて奇跡的ですよ」"
+                                ""
                             ]
                         },
                         {
@@ -26658,14 +26658,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Is it really that amazing?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そんなにすごいことなんですかぁ？」"
+                                ""
                             ]
                         },
                         {
@@ -26703,21 +26703,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It is said that talent is necessary to discover\nruins. I have seen many mages who gave up at the academy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「遺跡の発見には才能が必要だと言われています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　諦めた魔法使いをアカデミーで何人も見てきました」"
+                                ""
                             ]
                         },
                         {
@@ -26748,21 +26748,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: When it comes to discovering ruins, the mother\nand son duo, Melos and Ect, can be considered geniuses."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「メロス・イクト親子は"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　遺跡の発見に関しては天才的と言えますね」"
+                                ""
                             ]
                         },
                         {
@@ -26963,14 +26963,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: It's dangerous to proceed without permission!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「勝手に進むと危ないですよぉ！」"
+                                ""
                             ]
                         },
                         {
@@ -27084,14 +27084,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: If Ect is at the deepest part, then safety\nshould be confirmed--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「最奥にイクトさんがいるなら安全は確認されているはず――」"
+                                ""
                             ]
                         },
                         {
@@ -27473,14 +27473,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: See! Didn't I say it was dangerous!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ほらぁ！　危ないって言ったじゃないですかぁ！？」"
+                                ""
                             ]
                         },
                         {
@@ -27518,21 +27518,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: By the way... Clea-san, what is this exactly?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そもそも何で……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　クレアさん、これはいったい？」"
+                                ""
                             ]
                         },
                         {
@@ -27579,14 +27579,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm convinced now, let's defeat it first."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「これで確信しました、まずは倒してしまいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -27783,21 +27783,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Perhaps... Ect knows that I killed Melos-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「おそらくですが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　イクトは私がメロスさんを殺したことを知っています」"
+                                ""
                             ]
                         },
                         {
@@ -27853,21 +27853,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: But we kept it a secret at the guild, right?!\nHow did Ect-chan find out!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「でもギルドで内緒にしてたんですよねっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　どうやってイクトちゃんが知ったんですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -27898,21 +27898,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I don't know the method. Without the appearance of\nthe enemy, there is no explanation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「方法はわかりません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　今回の招待、出現した敵、そうでないと説明がつきません」"
+                                ""
                             ]
                         },
                         {
@@ -27943,21 +27943,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Ah, that's it! There's no doubt that it's\nbecause of that jewel!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あ、あれですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あの宝石のせいでこうなっているに違いありません！」"
+                                ""
                             ]
                         },
                         {
@@ -27988,14 +27988,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Let's go and help them!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ボクたちで助けに行きましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -28033,14 +28033,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes! Let's go help!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「はいっ！　助けにいきましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -28085,14 +28085,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Clea-chan..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「クレアちゃん……」"
+                                ""
                             ]
                         },
                         {
@@ -28130,21 +28130,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'll be fine. I'll prepare myself before we reach the\ndeepest part."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「私は大丈夫です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　最奥に着くまでには覚悟を決めますから」"
+                                ""
                             ]
                         },
                         {
@@ -28191,14 +28191,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I can't say that it'll be fine... Clea-\nchan."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「それは大丈夫とは言わないのよ……クレアちゃん」"
+                                ""
                             ]
                         },
                         {
@@ -33537,14 +33537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: This is..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは……」"
+                                ""
                             ]
                         },
                         {
@@ -33568,21 +33568,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: *sniff sniff*... It's faint, but I can smell\nEct-chan's scent."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クンクン……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　微かだけどイクトちゃんの匂い」"
+                                ""
                             ]
                         },
                         {
@@ -33599,21 +33599,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: If we follow these traces, we might be able to\navoid the traps successfully."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この痕跡をたどれば"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　うまく罠が回避できるかもしれない」"
+                                ""
                             ]
                         },
                         {

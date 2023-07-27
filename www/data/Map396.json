@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "エマ盗賊団アジト",
+    "displayName": "Emma Thief Gang Hideout",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -8210,6 +8210,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "You cannot escape from the dungeon until you clear the\nquest. Will you still proceed?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -8217,14 +8224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クエストクリアまでダンジョン内から脱出できません"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それでも進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -8270,14 +8270,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before proceeding)."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -8373,14 +8373,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I can hear noises... It's getting noisy\noutside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「音が聞こえます……外が騒がしくなってきました」"
+                                ""
                             ]
                         },
                         {
@@ -8418,14 +8418,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Let's proceed to the depths of the cave!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「洞窟の奥に進みましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -9093,14 +9093,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: You idiot bastard!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この馬鹿野郎っ！」"
+                                ""
                             ]
                         },
                         {
@@ -9199,14 +9199,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: Are you telling me to betray my comrades!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前は俺に仲間を売れっていうのか！？」"
+                                ""
                             ]
                         },
                         {
@@ -9244,21 +9244,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: Are you telling us to become scum worse than\nthieves, demeaning our oath and comrades!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺たちを、俺たちの誓いを貶めて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　盗賊以下の下衆になれって言いたいのか！？」"
+                                ""
                             ]
                         },
                         {
@@ -9282,21 +9282,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古参のエマ盗賊団団員"
+                                "Veteran member of the Emma Thief Guild: If I may speak,\nCaptain! The Emma Thief Guild is on the verge of\ncollapse..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お言葉ですが団長！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　エマ盗賊団はもう崩壊寸前です……」"
+                                ""
                             ]
                         },
                         {
@@ -9320,21 +9320,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古参のエマ盗賊団団員"
+                                "Veteran member of the Emma Thief Guild: The young members\nwho grew tired of the captain's ideals acted on their own\nand were all killed..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「団長の理念にしびれを切らした若い衆"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あいつらは勝手に行動して皆殺しにされた……」"
+                                ""
                             ]
                         },
                         {
@@ -9358,21 +9358,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古参のエマ盗賊団団員"
+                                "Veteran member of the Emma Thief Guild: Some members, in\norder to survive, have started looting without choosing\ntheir targets."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「一部の団員は生きるために"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　相手を選ばずに略奪をはじめています」"
+                                ""
                             ]
                         },
                         {
@@ -9412,21 +9412,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古参のエマ盗賊団団員"
+                                "Veteran member of the Emma Thief Guild: There are few who\nare willing to die for the ideology of reclaiming land from\nthe nobles..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「貴族から土地を奪い返す……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　その理念のために死ねる人間は少ない……」"
+                                ""
                             ]
                         },
                         {
@@ -9450,21 +9450,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古参のエマ盗賊団団員"
+                                "Veteran member of the Emma Thief Guild: We're already just\nordinary thieves. We're the only ones who still think of\nourselves as righteous thieves..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もうとっくにただの盗賊なんです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　義賊だと思っているのは俺たちだけなんです……」"
+                                ""
                             ]
                         },
                         {
@@ -9495,14 +9495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: Even so, I..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでも俺は……」"
+                                ""
                             ]
                         },
                         {
@@ -9709,14 +9709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: Who are you... and how did you manage to\nbypass the security?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「誰だお前は……どうやって警備をくぐり抜けた？」"
+                                ""
                             ]
                         },
                         {
@@ -9747,21 +9747,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　古参のエマ盗賊団団員"
+                                "Veteran member of the Emma Thief Guild: I called for them.\nThis person is the one I made contact with in Oros."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺が呼びました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オロスで接触した相手はこの人です」"
+                                ""
                             ]
                         },
                         {
@@ -9792,14 +9792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: You... don't tell me you're suggesting\nthat--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前……さっきの提案もまさか――」"
+                                ""
                             ]
                         },
                         {
@@ -9837,14 +9837,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Psema the Fake Adventurer: There is a noble who is willing\nto cooperate with us in Oros."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オロスに協力してくれる貴族の方がいるんですよ」"
+                                ""
                             ]
                         },
                         {
@@ -9882,21 +9882,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Psema the Fake Adventurer: I have quite a peculiar hobby,\nyou see. I absolutely love dealing with beings other than\nhumans."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なかなかいい趣味をしてましてねぇ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　人間以外も相手にするのが大好きなんですよ」"
+                                ""
                             ]
                         },
                         {
@@ -9977,14 +9977,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: Silence."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「黙れ」"
+                                ""
                             ]
                         },
                         {
@@ -10022,14 +10022,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　団長クレヴォ"
+                                "Captain Clevo: If you say any more, I'll kill you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それ以上、話すと殺す」"
+                                ""
                             ]
                         },
                         {
@@ -10098,21 +10098,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Psema the Fake Adventurer: Please don't misunderstand. I\njust came here to propose a way to survive in this desperate\nsituation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「勘違いしないでください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　絶望的な状況において生き残る方法をご提案にきただけです」"
+                                ""
                             ]
                         },
                         {
@@ -10143,21 +10143,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Psema the Fake Adventurer: Ahaha, it's now a matter of\nchoosing between two options, whether to protect your ideal\nof the Emma Thief Guild..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あはは、もはや二者択一なんですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　エマ盗賊団というあなたの理想を守るか……」"
+                                ""
                             ]
                         },
                         {
@@ -10188,14 +10188,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Psema the Fake Adventurer: Or perhaps you'd prefer to sell\noff the beastwoman Nora."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それとも獣人ノラを売り飛ばすか」"
+                                ""
                             ]
                         },
                         {
@@ -10249,21 +10249,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Fake Adventurer Psema: Well, Captain Clevo of the Emma\nThief Guild, which one will you choose...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、どちらを選びますか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　エマ盗賊団団長クレヴォさん……？」"
+                                ""
                             ]
                         },
                         {
@@ -10585,21 +10585,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エマ盗賊団員"
+                                "Emma, a member of the thief gang: Where did you come\nfrom!?... Wait, could it be..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どこから入ってきた！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　……っておまえ、まさか……」"
+                                ""
                             ]
                         },
                         {
@@ -11195,21 +11195,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エマ盗賊団員"
+                                "Emma, a member of the thief gang, says If I remember\ncorrectly... you're the leader, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あんたはたしか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　……団長なら奥だぜ」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "帝国軍駐屯地 巨大テント",
+    "displayName": "Imperial Army Garrison - Giant Tent",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4074,21 +4074,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Well, let's talk about the mission this time.\nOriginally, it was nothing more than a goblin hunt."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、今回の任務について話そうかのぅ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　元は何でもないゴブリン狩りに過ぎなかった」"
+                                ""
                             ]
                         },
                         {
@@ -4105,21 +4105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: However, I received eyewitness reports at the\ntiming when the goblins suddenly became active."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「しかし急にゴブリンたちが活性化した"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そのタイミングである目撃情報が儂に届いた」"
+                                ""
                             ]
                         },
                         {
@@ -4143,14 +4143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Eyewitness reports...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「目撃情報……？」"
+                                ""
                             ]
                         },
                         {
@@ -4209,14 +4209,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: A mythical monster, a symbol of calamity... a\ndragon!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「神話上の怪物、厄災の象徴……ドラゴンだっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4280,21 +4280,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: I heard about your mission from Agonia. There\nmight be a dragon behind the goblin's sudden activity."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アゴニアからお前の目的を聞いてな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ゴブリンの活性化の裏にドラゴンがいるかもしれん」"
+                                ""
                             ]
                         },
                         {
@@ -4318,21 +4318,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you for allowing me to participate here...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが……ここに……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　参加をさせていただきありがとうございます！」"
+                                ""
                             ]
                         },
                         {
@@ -4356,21 +4356,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Well, first of all, I want you to carry out\nthe goblin extermination in the Sazani Grasslands."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まぁ、まずは仕事をしてからだな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　サザニ草原にてゴブリンの討伐を行って欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -4387,14 +4387,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Once you've taken care of most of it, please\ncome back. I'm counting on you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あらかた片付けたら戻ってきてくれ。頼むぞ」"
+                                ""
                             ]
                         },
                         {
@@ -4552,14 +4552,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Oros Region/Sazani\nGrasslands\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLオロス地方/サザニ草原\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -4679,14 +4679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: There's something off about the goblins'\nmovements... I don't know the reason though."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゴブリンたちの動きに違和感がある……理由はわからんがな」"
+                                ""
                             ]
                         },
                         {
@@ -5354,21 +5354,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: I'm glad you came. Please tell me what\nhappened in the Sazani Grasslands!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よく来てくれたな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　サザニ草原で何があったのか話してくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -5616,21 +5616,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: I see, so they assessed the situation and\nfled... Hm, I don't recall ever witnessing such behavior\nmyself."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるほど状況を見て逃げていったか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ふむ、儂の記憶ではそういった行動は見たことがないな」"
+                                ""
                             ]
                         },
                         {
@@ -5647,14 +5647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Please let me hear Goblin Slayer's opinion."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゴブリンスレイヤーの意見を聞かせてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -5678,21 +5678,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-Armed Opro: The one leading the goblins is an orc... In\nfront of orcs, goblins become nothing more than a makeshift\nunit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゴブリンを率いるのはオーク……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オークの前ではゴブリンは寄せ集めの部隊となる」"
+                                ""
                             ]
                         },
                         {
@@ -5709,21 +5709,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-Armed Opro: The one leading the goblins is an ogre...\nWhen there's an ogre present, the goblins become a highly\ntrained unit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オークを率いるのはオーガ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オーガがいる場合は練度の高い部隊となる」"
+                                ""
                             ]
                         },
                         {
@@ -5747,14 +5747,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Are you saying that there is an ogre somewhere?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どこかにオーガがいるということですか？」"
+                                ""
                             ]
                         },
                         {
@@ -5778,21 +5778,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-Armed Opro: That's right... If there's something we\ncan't understand, it's the fact that not only ogres, but\neven orcs haven't appeared."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうなるな……解せぬことがあるとすれば"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オーガどころかオークも出現してないことじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -5809,21 +5809,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-Armed Opro: There might be some issue with the\ndisorganized ogre leading them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「統率が乱れておる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オーガに何らかの問題があるのかもしれん」"
+                                ""
                             ]
                         },
                         {
@@ -5896,21 +5896,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: If we haven't fought against ogres yet, this\nis a rare opportunity if we happen to encounter them!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オーガとはまだやりあったことがない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もしも巡り会えるならまたとない好機っ！」"
+                                ""
                             ]
                         },
                         {
@@ -5986,21 +5986,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Inform everyone! We will offer a reward to\nanyone who finds the ogre!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「全員に伝えてくれ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オーガを見つけた者には報奨金を出すとな！」"
+                                ""
                             ]
                         },
                         {
@@ -6024,14 +6024,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Yes, I will relay the message to\neveryone!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はっ、全員に伝達をします！」"
+                                ""
                             ]
                         },
                         {
@@ -6055,21 +6055,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: If you happen to find the ogre, please report\nit to me so that I can issue a request for its elimination!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「このまま継続の依頼を出させてもらう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オーガを見つけたら儂に報告をくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -6109,14 +6109,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is it okay if we defeat it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「倒してしまっても構わないのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6171,21 +6171,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Hahaha, Agonia has recruited some excellent\nwarriors! Of course, I don't mind. When that time comes, I\nwill give an additional reward!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「がははっ、アゴニアはいい戦士を入れたな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もちろん構わん、その時はさらに報奨金を渡すぞっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6267,21 +6267,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-Armed Opro: The ogre has been my prey for a long\ntime... Well then, let me handle it as I please."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オーガはわしの獲物"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ずーっと前からな……では好きにやらせてもらうぞ」"
+                                ""
                             ]
                         },
                         {
@@ -6488,21 +6488,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: You guys can go too! Now, I have to prepare\nfor the battle against the ogre."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前たちも行っていいぞ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁ、儂もオーガとの戦の準備をしなくてはな」"
+                                ""
                             ]
                         },
                         {
@@ -6724,21 +6724,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: I am also searching for ogres, not just you\nall. Of course, I am not an exception... my arm is hurting."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前たち以外もオーガを探しておる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もちろんこの儂も例外ではない……腕がなるわい」"
+                                ""
                             ]
                         },
                         {
@@ -7246,14 +7246,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I have defeated the ogre."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オーガを討伐してきました」"
+                                ""
                             ]
                         },
                         {
@@ -7295,21 +7295,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: May I see some evidence? There have been\nseveral false reports of defeating ogres."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「証拠を見せてもらっていいかな？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オーガを倒したという虚偽の報告がいくつもあってね」"
+                                ""
                             ]
                         },
                         {
@@ -7342,21 +7342,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Evidence... I don't have any in particular, but the\nplace where I defeated it is a cave called Yuan's Maw."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「証拠……特にはないですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　倒した場所はユアンの大口という洞窟になります」"
+                                ""
                             ]
                         },
                         {
@@ -7398,14 +7398,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: I can't believe it without any proof."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでは信じるわけには」"
+                                ""
                             ]
                         },
                         {
@@ -7441,14 +7441,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Clea, look into my eyes."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアよ、儂の目を見ろ」"
+                                ""
                             ]
                         },
                         {
@@ -7524,21 +7524,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: I understand, I will believe you! Well done\nfor successfully subduing the ogre."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかった、信じよう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　良くぞオーガの討伐を成し遂げてくれた」"
+                                ""
                             ]
                         },
                         {
@@ -7571,14 +7571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: General Atu--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトゥ将軍――」"
+                                ""
                             ]
                         },
                         {
@@ -7602,21 +7602,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: There's no need to say something so tasteless.\nYour demeanor is completely different from before you came\nhere."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「無粋なことを言う必要はないぞ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここに来る前とは目つきがまったく違う」"
+                                ""
                             ]
                         },
                         {
@@ -7640,14 +7640,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: It's the eyes of someone who has been on the\nfront lines, who has passed through the brink of death."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「最前線に身を置き、死線をくぐり抜けた者の目だ」"
+                                ""
                             ]
                         },
                         {
@@ -7671,21 +7671,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It was an incredibly formidable enemy. If I didn't\nhave my comrades, there's no way I could have won against\nit."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「とてつもない強敵でした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　仲間がいなければ絶対に勝てない相手でした」"
+                                ""
                             ]
                         },
                         {
@@ -7709,14 +7709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Well, the reward alone is not enough... I've\ngot it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、報奨金だけでは物足りん……そうだっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7803,21 +7803,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Let's give you the right to participate in the\nPizma Arena! Warriors as skilled as you will compete in\nmind, technique, and body."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ピズマ闘技場に参加する権利をやろう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前のような優れた戦士たちが心技体を競い合っておる」"
+                                ""
                             ]
                         },
                         {
@@ -7841,14 +7841,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: The arena?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「闘技場ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7872,21 +7872,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: You may gain a lot by participating in the\ntournament, but haha, please don't do anything that would\ntarnish my reputation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大会に参加すれば得るものも多いだろう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　がはは、この儂の顔に泥を塗るようなマネはしないでくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -7910,21 +7910,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: I am pleased with your work! If there is\nanother opportunity, I will make a request through the\nAdventurer's Guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前たちの働きは気に入ったぞ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　また機会があれば冒険者ギルドを経由して依頼をする」"
+                                ""
                             ]
                         },
                         {
@@ -7948,14 +7948,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes. Thank you very much!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい。ありがとうございます！」"
+                                ""
                             ]
                         },
                         {
@@ -8076,21 +8076,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Well then, I'll leave the aftermath to you\nguys. I'll go report to the old hag at the royal palace, so\nI'm counting on you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、事後処理はお前たちにまかせる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　儂は王宮のババアに報告にいくから後は頼んだぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -8138,21 +8138,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: That's right, the arena is located in the\nmartial arts city of Jinami in Fotizona. It would be good\nfor you to go and check it out."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうそう闘技場はフォティゾナにある"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　武闘の街ジナミにあるから行ってみるといい」"
+                                ""
                             ]
                         },
                         {
@@ -8308,14 +8308,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Fotizona Region/Martial Arts City\nJinami\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLフォティゾナ地方/武闘の街ジナミ\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -8474,14 +8474,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　隻腕のオプロ"
+                                "One-armed Opro: 'To meet you all here...'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前たちとここで会うとは」"
+                                ""
                             ]
                         },
                         {
@@ -8609,14 +8609,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: The movements of the goblins are beyond\nstrange."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ゴブリンたちの動きは異様の一言です」"
+                                ""
                             ]
                         },
                         {
@@ -8735,21 +8735,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国軍人"
+                                "Imperial Soldier: Since then, there haven't been any more\ndamages caused by goblins. Thank you all for your help."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あれからゴブリンの被害は出ていません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　皆さんのおかげです、ありがとうございました」"
+                                ""
                             ]
                         },
                         {

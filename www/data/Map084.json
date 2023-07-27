@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "引き継ぎ部屋",
+    "displayName": "Inheritance Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1624,21 +1624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付嬢ピステ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは体験版では引き継ぎ部屋だったけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今後はバージョンアップ等を行うための部屋になるわ」"
+                                "Receptionist Piste: This used to be the transfer room for\nthe trial version, but from now on it will become a room for\nperforming version upgrades and such."
                             ]
                         },
                         {
@@ -1646,30 +1632,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受付嬢ピステ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バージョンアップをしたい場合はここでセーブをしてね」"
                             ]
                         },
                         {
@@ -1700,21 +1662,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付嬢ピステ"
+                                "Receptionist Piste: If you want to perform a version\nupgrade, please save your progress here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ、今から自動でセーブ画面を開くけど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バージョンアップなどしない場合は、そのまま閉じても大丈夫だからね」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Receptionist Piste: Alright, I will now automatically open\nthe save screen. If you don't need to perform a version\nupgrade or anything, you can just close it as it is."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1903,6 +1903,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL Here, you can play the Adult Scene on Failure for\nquests that have already been cleared within the quests\nwhere sneak missions occur."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -1910,14 +1917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLここでは、スニークミッションが発生するクエストの中で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリア済のクエストに限り「失敗時のアダルトシーン」を再生できます。"
+                                ""
                             ]
                         },
                         {
@@ -1967,14 +1967,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
+                                "\\CL It seems that there are no cleared quests."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\CLクリア済のクエストがないようです。"
+                                ""
                             ]
                         },
                         {
@@ -2032,6 +2032,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Would you like to play the adult scene on failure for the\nquest Spider in Disarray?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -2039,14 +2046,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLクエスト『偏在する蜘蛛』にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スニーク失敗時のアダルトシーンを再生しますか？"
+                                ""
                             ]
                         },
                         {
@@ -2159,6 +2159,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Would you like to play the adult scene on failure for the\nquest Whereabouts of the Emma Thieves?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -2166,14 +2173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLクエスト『エマ盗賊団の行方』にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スニーク失敗時のアダルトシーンを再生しますか？"
+                                ""
                             ]
                         },
                         {
@@ -2286,6 +2286,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Would you like to play the adult scene on failure for the\nquest Treasure of the Orcs?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -2293,14 +2300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLクエスト『オークたちの秘宝』にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スニーク失敗時のアダルトシーンを再生しますか？"
+                                ""
                             ]
                         },
                         {
@@ -2476,6 +2476,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL Here, you can play the Adult Scene on Failure for\nquests that have already been cleared within the quests\nwhere sneak missions occur."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -2483,14 +2490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLここでは、スニークミッションが発生するクエストの中で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリア済のクエストに限り「失敗時のアダルトシーン」を再生できます。"
+                                ""
                             ]
                         },
                         {
@@ -2540,14 +2540,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
+                                "\\CL It seems that there are no cleared quests."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\CLクリア済のクエストがないようです。"
+                                ""
                             ]
                         },
                         {
@@ -2709,6 +2709,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Would you like to play the adult scene that occurs when\nyou fail the sneak mission in the quest Spider in\nDisarray?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -2716,14 +2723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLクエスト『偏在する蜘蛛』にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スニークミッションに失敗したときのアダルトシーンを再生しますか？"
+                                ""
                             ]
                         },
                         {
@@ -2813,6 +2813,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Would you like to play the adult scene that occurs when\nyou fail the sneak mission in the quest The Whereabouts of\nthe Emma Thieves?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -2820,14 +2827,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLクエスト『エマ盗賊団の行方』にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スニークミッションに失敗したときのアダルトシーンを再生しますか？"
+                                ""
                             ]
                         },
                         {
@@ -2917,6 +2917,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Would you like to play the adult scene that occurs when\nyou fail the sneak mission in the quest Treasure of the\nOrcs?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -2924,14 +2931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLクエスト『オークたちの秘宝』にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スニークミッションに失敗したときのアダルトシーンを再生しますか？"
+                                ""
                             ]
                         },
                         {
@@ -3086,6 +3086,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL Here, you can play adult scenes that occur during\ncertain quests that have already been cleared."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -3093,14 +3100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLここでは、クリア済の一部のクエストに限り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのクエスト中に発生するアダルトシーンを再生できます。"
+                                ""
                             ]
                         },
                         {
@@ -3128,14 +3128,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "\\CL It seems that there are no cleared quests that correspond\nto this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CL該当するクリア済のクエストがないようです。"
+                                ""
                             ]
                         },
                         {
@@ -3178,6 +3178,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Would you like to play the adult scene that occurs in the\nquest Prince of the Sun?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -3185,14 +3192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLクエスト『太陽の王子』で発生する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アダルトシーンを再生しますか？"
+                                ""
                             ]
                         },
                         {
@@ -3292,14 +3292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL These are all the quests that can be confirmed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL確認できるクエストは以上になります。"
+                                ""
                             ]
                         },
                         {
@@ -3406,6 +3406,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL Here, you can play the Adult Scene on Failure for\nquests that have already been cleared within the quests\nwhere sneak missions occur."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -3413,14 +3420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLここでは、スニークミッションが発生するクエストの中で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリア済のクエストに限り「失敗時のアダルトシーン」を再生できます。"
+                                ""
                             ]
                         },
                         {
@@ -3470,14 +3470,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
+                                "\\CL It seems that there are no cleared quests."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\CLクリア済のクエストがないようです。"
+                                ""
                             ]
                         },
                         {
@@ -3639,6 +3639,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Would you like to play the adult scene that occurs when\nyou fail the sneak mission in the quest Spider in\nDisarray?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -3646,14 +3653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLクエスト『偏在する蜘蛛』にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スニークミッションに失敗したときのアダルトシーンを再生しますか？"
+                                ""
                             ]
                         },
                         {
@@ -3743,6 +3743,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Would you like to play the adult scene that occurs when\nyou fail the sneak mission in the quest The Whereabouts of\nthe Emma Thieves?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -3750,14 +3757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLクエスト『エマ盗賊団の行方』にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スニークミッションに失敗したときのアダルトシーンを再生しますか？"
+                                ""
                             ]
                         },
                         {
@@ -3847,6 +3847,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Would you like to play the adult scene that occurs when\nyou fail the sneak mission in the quest Treasure of the\nOrcs?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -3854,14 +3861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLクエスト『オークたちの秘宝』にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スニークミッションに失敗したときのアダルトシーンを再生しますか？"
+                                ""
                             ]
                         },
                         {
@@ -4016,6 +4016,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\CL When you select Yes, the save screen will open and\nrestore the party members to their normal state. \\C[14] *I\napologize for the inconvenience, but I recommend saving\nseparately just to be safe."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4023,21 +4030,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL「はい」を選ぶと、セーブ画面が開いたあと"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パーティーメンバーを正常な状態に戻します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}\\C[14]※恐れ入りますが、念のためセーブを分けておくことを推奨させて頂きます"
+                                ""
                             ]
                         },
                         {

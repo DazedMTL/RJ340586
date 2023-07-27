@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ビーチレプトンの浜辺",
+    "displayName": "Beach Lepton Beach",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -3876,7 +3876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -4115,14 +4115,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I managed to sneak out again today..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今日も抜け出して来ちゃった……」"
+                                ""
                             ]
                         },
                         {
@@ -4160,14 +4160,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I was stared at in my swimsuit again... ugh"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「また水着姿をじろじろ見られて……うぅ」"
+                                ""
                             ]
                         },
                         {
@@ -4870,21 +4870,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　御曹司メトキ"
+                                "Metoji, the heir to a wealthy family: We've been walking\nfor quite a while... Are you sure we're heading in the right\ndirection?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「かなり歩きましたけど……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本当にこちらの方角で間違いないのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -4915,14 +4915,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: 'Oh, do you think I'm lying?'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あら、わたくしが嘘をついているとでも？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Heir Metoji: 'It's not like that! I just have an important\nmeeting with a friend.'"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4953,21 +4991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　御曹司メトキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「そういうわけではありません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ただ、大切な友人との待ち合わせなんです」"
+                                "Heir Metoki: I appreciate your kindness, but... I'll try to\nfind it on my own."
                             ]
                         },
                         {
@@ -4975,30 +4999,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　御曹司メトキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「好意には感謝しますが……自力で探してみます」"
                             ]
                         },
                         {
@@ -5045,21 +5045,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia (Using orthodox methods won't work... I\nneed to find another way to buy some time)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（正攻法ではこれが限界……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何か別の方法を使って時間を稼がないと）"
+                                ""
                             ]
                         },
                         {
@@ -5168,14 +5168,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　御曹司メトキ"
+                                "Heir Metoki: Well then, excuse me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「それでは失礼しますね」"
+                                ""
                             ]
                         },
                         {
@@ -5265,14 +5265,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　御曹司メトキ"
+                                "Heir Metoki: Enough already, I..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「いい加減、僕も――」"
+                                ""
                             ]
                         },
                         {
@@ -5315,14 +5315,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　御曹司メトキ"
+                                "Heir Metoki: Hey, what are you doing!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「ちょっと、何をしているんですかぁ！？」"
+                                ""
                             ]
                         },
                         {
@@ -5360,14 +5360,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: You're slow... Or is it intentional?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「鈍い人……それともわざとでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -5405,21 +5405,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: The reason why a woman seduces a man on\nthe beach... hehe, is there really a need to explain it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「浜辺で女が男を誘う理由……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　うふふ、わざわざ説明する必要がありますか？」"
+                                ""
                             ]
                         },
                         {
@@ -5450,21 +5450,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: If you don't know, then I will explain it\nto you properly from now on."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「知らないようなら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　いまからしっかりと教えて差し上げますわ」"
+                                ""
                             ]
                         },
                         {
@@ -5523,7 +5523,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -5691,14 +5691,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: So they really are an important friend to\nyou."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「本当に大切な友人なんですね」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Heir Metoki: They are my first equal friend. They may be a\nbit rough around the edges, but they're a good person at\nheart."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5729,21 +5767,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　御曹司メトキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「僕にできたはじめての対等な友人です"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　やや粗暴なところがありますけど根は良い奴なんです」"
+                                "Heir Metoki: The night we stayed up drinking was amazing.\nThank you for inviting me to the beach again, even though\nI'm not used to playing around."
                             ]
                         },
                         {
@@ -5754,34 +5778,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　御曹司メトキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「一晩飲み明かした日は最高でした"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　今回も遊び慣れていない僕をビーチに誘ってくれて」"
+                                ""
                             ]
                         },
                         {
@@ -5812,14 +5812,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehehe, in that case, there's no\nproblem."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ふふふ、でしたら問題ないですわね」"
+                                ""
                             ]
                         },
                         {
@@ -5953,21 +5953,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　御曹司メトキ"
+                                "Heir Metoki: Whoa...!? What are you doing, all of a\nsudden!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「うわっぷ……！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　何をするんですか、急に！」"
+                                ""
                             ]
                         },
                         {
@@ -5998,21 +5998,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehehe, shall I teach you how to play?\nAnd if you're an important friend, I'll forgive a little bit\nof lateness."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「うふふ、遊び方をご指導しようかと"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　それに大切な友人なら多少の遅刻は許してくれますわ」"
+                                ""
                             ]
                         },
                         {
@@ -6045,14 +6045,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　御曹司メトキ"
+                                "Heir Metoki: Is that how it is..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そういうものでしょうか……」"
+                                ""
                             ]
                         },
                         {
@@ -6090,21 +6090,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: That's how it is. My friends, even if\nthey drink and walk around, they don't get angry."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そういうものですわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　わたくしの友人たちは飲酒して歩いていても怒りませんわ」"
+                                ""
                             ]
                         },
                         {
@@ -6135,14 +6135,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: No, I was scolded normally."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いえ、普通に怒られてましたわ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Heir Metoki: Haha, ahahaha! You really are a mysterious\nperson."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6173,21 +6211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　御曹司メトキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「はは、あはははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　あなたは本当に不思議な人ですね」"
+                                "Heir Metoki: Please teach me a little bit about how to\nplay."
                             ]
                         },
                         {
@@ -6195,30 +6219,6 @@
                             "indent": 1,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　御曹司メトキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「少しだけ遊び方について教えていただきます」"
                             ]
                         },
                         {

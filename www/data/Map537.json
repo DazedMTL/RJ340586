@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "トゥリパ村 情報屋",
+    "displayName": "Turipa Village Information Broker",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3679,14 +3679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: If you want special information, coming\nhere is the right choice."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「特別な情報が欲しいならここに来て大正解だぜ」"
+                                ""
                             ]
                         },
                         {
@@ -4140,14 +4140,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Do you have any information about the fugitive\nZagal?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「逃亡犯ザガルについての情報はありますか？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Male Informant: I wonder if you were begged by the guards\nof the Valier to know about that?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4178,21 +4216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「そのことを知っているとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　バリエの衛兵にでも泣きつかれたのかな？」"
+                                "Male Informant: I have the information... but what's in it\nfor you if I tell you?"
                             ]
                         },
                         {
@@ -4203,34 +4227,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「情報は手元にあるが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あんたに教えてどんな見返りがあるんだい？」"
+                                ""
                             ]
                         },
                         {
@@ -4261,14 +4261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: C-Can't Valier be at peace...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ば、バリエが平和になるじゃダメですか……？」"
+                                ""
                             ]
                         },
                         {
@@ -4299,21 +4299,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: Hahaha, that guy is a masterpiece! We\ninformation brokers aren't in the charity business, you\nknow."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ははは、そいつは傑作だ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺たちは情報屋で慈善事業をしているわけじゃない」"
+                                ""
                             ]
                         },
                         {
@@ -4344,21 +4344,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Alright, I understand. I will negotiate, so everyone\nplease wait at the tavern."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私が交渉しますので皆さんは酒場で待っていてください」"
+                                ""
                             ]
                         },
                         {
@@ -4382,14 +4382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: It's better to negotiate with a smaller\ngroup. Shall we begin?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「交渉は少ない人数の方がいい、はじめようか」"
+                                ""
                             ]
                         },
                         {
@@ -4444,21 +4444,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: To cut to the chase, I can't give you the\ninformation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「結論から話すと情報は渡せない」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　"
+                                ""
                             ]
                         },
                         {
@@ -4489,14 +4489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「交渉ではなかったのですか？」"
+                                "Clea: Wasn't this supposed to be a negotiation?"
                             ]
                         },
                         {
@@ -4504,75 +4497,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　情報屋の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「逃亡犯のザガルは同業者でね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あんたたちが取り逃がせば面倒なことになる」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「必ず捕まえます」"
                             ]
                         },
                         {
@@ -4603,21 +4527,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: The fugitive Zagal is a fellow\nprofessional. If you let him escape, it will become\ntroublesome for all of you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くちだけなら何とでも言える"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そうだ良いことを思いついた……！」"
+                                ""
                             ]
                         },
                         {
@@ -4641,21 +4565,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Clea: We will definitely catch him."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「情報屋は信頼で成り立っている"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そして信頼って奴は痛みを伴う覚悟のことだ」"
+                                ""
                             ]
                         },
                         {
@@ -4679,14 +4603,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: I heard that you can say anything if you're\njust good with words... I've come up with a good idea...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あんたは依頼遂行のために何でもできるかい？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Male Informant: Information brokers rely on trust, and\ntrust comes with the readiness to endure pain."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Male Informant: Are you willing to do anything to complete\nthe mission?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4733,21 +4733,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: W-Why are you suddenly showing me that...! Please put\nyour pants back on quickly!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「き、急にそんなものを……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　はやくズボンにしまってくださいっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4771,21 +4771,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: I said that you can say anything if you're\njust good with words, didn't I? Are you willing to prove\nyour determination with your own 'words'?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くちだけなら何とでも言えるって言っただろ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんたは覚悟を自分の「くち」で証明してくれるかい？」"
+                                ""
                             ]
                         },
                         {
@@ -4852,14 +4852,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: That's a good judgment. You're suited to be\nan informant."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「いい判断だ、あんたは情報屋に向いているぜ」"
+                                ""
                             ]
                         },
                         {
@@ -5055,7 +5055,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -5171,21 +5171,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I kept my promise. Now it's your turn to answer with\ntrust."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「私は約束を守りました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　次はあなたが信頼に答える番です」"
+                                ""
                             ]
                         },
                         {
@@ -5209,21 +5209,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: I've heard that the fugitive Zagal has fled\nto the Golden Highway in the Oros region, seeking refuge\nwith the Pegal Bandit Gang."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「逃亡犯のザガルはペガル山賊団を頼って"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　オロス地方の黄金街道に逃げたと聞いている」"
+                                ""
                             ]
                         },
                         {
@@ -5247,21 +5247,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: It would be more convenient for us if Zagal\ndisappeared as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「俺たちとしても"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　ガザルには消えてもらった方が都合がいい」"
+                                ""
                             ]
                         },
                         {
@@ -5292,14 +5292,52 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: So you were planning to tell me from the\nbeginning...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「最初から教えるつもりだったんですね……！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Male Informant: Haha, I like strong-willed women, so I'm\nexpecting great things from you when I give you this\nrequest."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5330,21 +5368,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　情報屋の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　「はは、俺は気の強い女が好きでね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　バリエに依頼を出すから期待してるぜ」"
+                                "Male Informant: Because I trust you."
                             ]
                         },
                         {
@@ -5352,30 +5376,6 @@
                             "indent": 2,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　情報屋の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　「お前を信頼しているからさ」"
                             ]
                         },
                         {
@@ -5597,14 +5597,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...I understand."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「……わかりました」"
+                                ""
                             ]
                         },
                         {
@@ -5666,21 +5666,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: That's right, you have to do it! A beauty\nlike you is a rare opponent--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そうこなくっちゃ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あんたみたいな美人は久々の相手――」"
+                                ""
                             ]
                         },
                         {
@@ -5813,14 +5813,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: W-What are you doing!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「な、何をしやがる！」"
+                                ""
                             ]
                         },
                         {
@@ -5858,21 +5858,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I believe that trust comes with the willingness to\nendure pain. I would like to see an example of that first."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「信頼とは痛みを伴う覚悟"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　まずはお手本を見せていただければと思います」"
+                                ""
                             ]
                         },
                         {
@@ -5896,21 +5896,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: I-I understand. I intend to acknowledge\nthat you are skilled."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わ、わかったよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あんたが手練なのは理解しているつもりだ」"
+                                ""
                             ]
                         },
                         {
@@ -5934,21 +5934,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: I've heard that the fugitive Zagal has fled\nto the Golden Highway in the Oros region, seeking refuge\nwith the Pegal Bandit Gang."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「逃亡犯のザガルはペガル山賊団を頼って"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　オロス地方の黄金街道に逃げたと聞いている」"
+                                ""
                             ]
                         },
                         {
@@ -5972,21 +5972,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: It would be more convenient for us if Zagal\ndisappeared as well."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「俺たちとしても"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ガザルには消えてもらった方が都合がいい」"
+                                ""
                             ]
                         },
                         {
@@ -6017,14 +6017,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -6100,21 +6100,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: I like strong-willed women, so I'm\nexpecting great things from you when I give you this\nrequest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「俺は気の強い女が好きでね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　バリエに依頼を出すから期待してるぜ」"
+                                ""
                             ]
                         },
                         {
@@ -6138,14 +6138,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: Because I trust you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「お前を信頼しているからさ」"
+                                ""
                             ]
                         },
                         {
@@ -6496,14 +6496,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: Whether you use or kill the information is\nup to you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「情報を生かすも殺すもあんた次第さ」"
+                                ""
                             ]
                         },
                         {
@@ -6571,14 +6571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: Haha, come anytime."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はは、いつでも来てくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -6938,7 +6938,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -7103,21 +7103,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: 'I'm glad to see you again. I trusted\nthat you would definitely come.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「また会えて嬉しいよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　絶対に来てくれるって信頼していたからな」"
+                                ""
                             ]
                         },
                         {
@@ -7141,14 +7141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: Come over here, please."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、こっちに来てくれ」"
+                                ""
                             ]
                         },
                         {

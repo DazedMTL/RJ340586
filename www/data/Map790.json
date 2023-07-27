@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "民家",
+    "displayName": "Private House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3972,14 +3972,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: W-What on earth happened!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「い、いったい、何が起きたんだっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -4111,14 +4111,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女リルム"
+                                "Girl Relm: I-I'm sorry... It's because I drew the magic\ncircle..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ご、ごめんない……ボクが魔法陣を書いたから……」"
+                                ""
                             ]
                         },
                         {
@@ -4165,21 +4165,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: This was supposed to be a basic magic circle to\ncreate wind. What on earth did you do here?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「風を起こす基本的な魔法陣のはずだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君はいったいここで何をしでかしたんだ？」"
+                                ""
                             ]
                         },
                         {
@@ -4203,21 +4203,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女リルム"
+                                "Girl Relm: I made a magic circle that vibrates the air,\nreferring to the magic circle written on another page."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「他のページに書いてあった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法陣を参考にして空気を振動させる魔法陣にしました」"
+                                ""
                             ]
                         },
                         {
@@ -4241,14 +4241,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女リルム"
+                                "Girl Relm: I'm sorry for doing something strange without\npermission..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「勝手に変なことをしてごめんない……」"
+                                ""
                             ]
                         },
                         {
@@ -4565,21 +4565,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: Hahaha... Hahahaha! A child like you can\nunderstand and dismantle a magic circle!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ふふっ……ふははははっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法陣の分解、理解、解除をこんな子どもが！？」"
+                                ""
                             ]
                         },
                         {
@@ -4603,21 +4603,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: You are in a realm that many people cannot reach\nin their lifetime! I want to recommend you to the Magic\nAcademy through an acquaintance!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「多くの者が生涯たどり着けない境地に君はいる！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　知人を経由して君を魔法アカデミーに推薦させて欲しい！」"
+                                ""
                             ]
                         },
                         {
@@ -4641,14 +4641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: A genius like you shouldn't end up as a road\nworker's daughter!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君のような天才が道路屋の娘で終わっていいはずがない！」"
+                                ""
                             ]
                         },
                         {
@@ -4719,14 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女リルム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「……魔法アカデミーに入れば認められるの？」"
+                                "Girl Relm: ...If I enter the Magic Academy, will I be\nrecognized?"
                             ]
                         },
                         {
@@ -4734,75 +4727,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　魔法使いの老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「もちろんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　カノナス全員、いや帝国全員が君を認めるだろう！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少女リルム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お父ちゃんも認めてくれるかな……？」"
                             ]
                         },
                         {
@@ -4833,21 +4757,97 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: Of course! Everyone in Kanonas, no, everyone in\nthe Empire will recognize you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帝国で暮らす人間だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　娘が魔法アカデミーに入るとなればお祭り騒ぎだ！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Girl Relm: I wonder if Dad will also recognize me...?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Old Mage: If a human living in the Empire enters the Magic\nAcademy, it will be a festive uproar!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4880,14 +4880,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女リルム"
+                                "Girl Relm: I will enter the Magic Academy!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクは魔法アカデミーに入る！」"
+                                ""
                             ]
                         },
                         {
@@ -4927,14 +4927,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女リルム"
+                                "Girl Relm: But, what should I do after I enter...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「でも、入った後に何をすればいいのかな……？」"
+                                ""
                             ]
                         },
                         {
@@ -4983,14 +4983,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: ...I see, you don't have a dream for the Academy,\ndo you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……そうか君にはアカデミーでの夢がないのか」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Old Mage: How about this? You love books, don't you? I have\na grimoire that only one of the past mages was able to\ncreate."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5021,21 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「こんなのはどうだい、君は本が大好きだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　歴代の魔法使いでひとりしか作れなかった魔導書がある」"
+                                "Old Mage: The blank grimoire created by the founder of\nmagic, Subma! You will create the book that is said to have\nsealed away those demons!"
                             ]
                         },
                         {
@@ -5046,34 +5070,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「魔法使いの始祖サブマが作り出した白紙の魔導書！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あの悪魔たちを封じ込めたとされる本を君が作るんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -5106,14 +5106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少女リルム"
+                                "Girl Relm: What will happen if I create it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それを作ったらどうなるの？」"
+                                ""
                             ]
                         },
                         {
@@ -5144,21 +5144,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いの老人"
+                                "Old Mage: Ahaha, it's a simple story! You will be\nrecognized by everyone as a [genius who leaves a mark in\nhistory]."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あははっ、簡単な話さ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君は【歴史に名を刻む大天才】として万人に認められるだろう」"
+                                ""
                             ]
                         },
                         {
@@ -5209,38 +5209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　夢を持つこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これはリルムにとってあまりにも眩しく美しいものだと感じた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　夢のことを考えるだけで心が熱く燃え盛るようだった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Having a dream. Relm felt that this was something incredibly\ndazzling and beautiful. Just thinking about dreams made her\nheart burn passionately."
                             ]
                         },
                         {
@@ -5254,128 +5223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　父親や家族に認められたいという目的とはまったく違うもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自分自身を光り輝かせるものとして、リルムは夢を捉えた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは何よりも尊く、何よりも優先されるべきものだった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リルムは小さな部屋で震えることを辞め、夢に向かうことにした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのことを父親に話すと返事は「そうか」の一言だけだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リルムは父親に必要とされていないことを改めて理解した。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リルムは老人の手引で魔法アカデミーの試験を受けることになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僅かな期間しか魔法に触れて来なかったにも関わらず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　超難関と言われる試験をあっさりと通過してしまう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リルムは魔法使いとして本格的にキャリアを築いていくことになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誰のためでもなく、自分自身の夢のために。"
                             ]
                         },
                         {
@@ -5399,6 +5247,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Relm captured a dream as something that would make herself\nshine and sparkle, completely different from the purpose of\nwanting to be recognized by her father and family. It was\nsomething more precious and should be prioritized above all\nelse."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5406,14 +5261,159 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　夢見ることに価値があり、夢を追うことに意味があることを、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　証明するために。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Relm decided to stop trembling in her small room and set out\ntowards her dream. When she told her father about it, his\nresponse was just a single word, I see. Relm once again\nunderstood that she was not needed by her father."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Relm, guided by the old man, decides to take the entrance\nexam for the Magic Academy. Despite having only a short\nperiod of exposure to magic, she easily passes the\nnotoriously difficult exam."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Relm will build a full-fledged career as a magician, not for\nanyone else, but for her own dream."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "To prove that there is value in dreaming and meaning in\npursuing those dreams."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

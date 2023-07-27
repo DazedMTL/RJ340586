@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ港湾 ナウス・オークション会場",
+    "displayName": "Fotizona Port Naus Auction Venue",
     "encounterList": [],
     "encounterStep": 30,
     "height": 32,
@@ -7366,14 +7366,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　オークション司会者"
+                                "Auction MC: This is the item for this time!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今回の商品はこれです！」"
+                                ""
                             ]
                         },
                         {
@@ -7552,14 +7552,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　オークション司会者"
+                                "Auction MC: \\armor[\\V[61]]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「\\armor[\\V[61]]」"
+                                ""
                             ]
                         },
                         {
@@ -7586,14 +7586,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　オークション司会者"
+                                "Auction MC: \\item[\\V[61]]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「\\item[\\V[61]]」"
+                                ""
                             ]
                         },
                         {
@@ -7620,14 +7620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　オークション司会者"
+                                "Auction MC: Now, let's start with \\V[66]G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでは\\V[66]Gから始めさせていただきます！」"
+                                ""
                             ]
                         },
                         {
@@ -7761,14 +7761,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　１番の男"
+                                "Number one man: \\V[66]G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -7795,14 +7795,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　１番の男"
+                                "Number one man: Ugh... is it no good..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「くっ・・・だめか・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7915,14 +7915,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　２番の男"
+                                "Second man: \\V[66]G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -7958,14 +7958,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　２番の男"
+                                "Second man: I wanted it..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「欲しかったなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -8069,14 +8069,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　３番の男"
+                                "Third man: \\V[66]G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -8112,14 +8112,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　３番の男"
+                                "Third man: Are you giving up..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「諦めるか・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8321,14 +8321,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                " クレア"
+                                "Clea: \\V[66]G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -8369,14 +8369,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                " クレア"
+                                "Clea: \\V[66]G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -8419,14 +8419,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                " クレア"
+                                "Clea: \\V[66]G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -8456,14 +8456,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                " クレア"
+                                "Clea: Let's give up..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「諦めましょう……」"
+                                ""
                             ]
                         },
                         {
@@ -8514,14 +8514,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                " クレア"
+                                "Clea: I don't have enough money..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「お金が足りません……」"
+                                ""
                             ]
                         },
                         {
@@ -8581,7 +8581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今回は\\V[68]番の方が競り落としました！"
+                                "This time, bidder number \\V[68] won the auction!"
                             ]
                         },
                         {
@@ -8617,14 +8617,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　オークション司会者"
+                                "This time, Clea-sama won the auction!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「今回はクレア様が落としました！」"
+                                ""
                             ]
                         },
                         {
@@ -8664,7 +8664,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\I[513] \\armor[\\V[61]]　を手に入れた"
+                                "\\I[513] I obtained \\armor[\\V[61]]."
                             ]
                         },
                         {
@@ -8698,7 +8698,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\I[513] \\item[\\V[61]]　を手に入れた"
+                                "\\I[513] I obtained \\item[\\V[61]]."
                             ]
                         },
                         {
@@ -8739,7 +8739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\I[514] \\V[66]Ｇ失った"
+                                "\\I[514] \\V[66] Lost G."
                             ]
                         },
                         {
@@ -10116,14 +10116,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　オークション司会者"
+                                "Auction Host: The auction for the premium wine, Barie no\nShizuku, has been sold!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「高級ワイン、バリエの雫のオークションが落札されました！」"
+                                ""
                             ]
                         },
                         {
@@ -10159,14 +10159,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　オークション司会者"
+                                "Auction Host: Finally, everyone's long-awaited moment...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いよいよ皆さんお待ちかね……！」"
+                                ""
                             ]
                         },
                         {
@@ -10338,21 +10338,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　オークション司会者"
+                                "Auction Host: It has been decades since we had an auction\nfor the miraculous wine that was created by numerous\ncoincidences!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「数々の偶然が生み出した奇跡のワイン"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　オークションにかけられるのは数十年ぶりです！」"
+                                ""
                             ]
                         },
                         {
@@ -10369,21 +10369,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　オークション司会者"
+                                "Auction Host: We will now begin the auction for the wine\nnamed after the goddess Deirei!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「女神デイレーの名を冠したワイン"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　\\item[\\V[61]]のオークションを開始します！」"
+                                ""
                             ]
                         },
                         {
@@ -10501,14 +10501,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I'm starting to feel nervous...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「なんだか緊張してきました……！」"
+                                ""
                             ]
                         },
                         {
@@ -10532,21 +10532,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's a considerable amount of military funds, so\nit should be fine. I'm not sure if a single bottle of wine\nis worth that much though."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「かなりの軍資金ですから大丈夫ですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ワイン一本にそこまでの価値があるかわかりませんけど」"
+                                ""
                             ]
                         },
                         {
@@ -10601,14 +10601,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Can we trust Sophia to handle the auction?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「オークションはソフィアさんにまかせて大丈夫ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -10663,21 +10663,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Yes, leave it to me! When it comes to\nalcohol, I will handle it seriously."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「えぇ、わたくしにおまかせあれ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　アルコールのことなら真剣に取組みますから」"
+                                ""
                             ]
                         },
                         {
@@ -10732,14 +10732,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, shall I do my best?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「うふふ、がんばっちゃおうかしら」"
+                                ""
                             ]
                         },
                         {
@@ -10780,14 +10780,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, shall I do my best?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「うふふ、がんばっちゃおうかしら」"
+                                ""
                             ]
                         },
                         {
@@ -10821,21 +10821,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　オークション司会者"
+                                "Auction Host: Well then... \\V[66] Let's start from G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでは……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　\\V[66]Ｇからスタートとさせていただきます！」"
+                                ""
                             ]
                         },
                         {
@@ -11123,14 +11123,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　１番の男"
+                                "Man #1: \\V[66] G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -11157,14 +11157,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　１番の男"
+                                "Man #1: Damn... is it no good..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「くっ……だめか……」"
+                                ""
                             ]
                         },
                         {
@@ -11277,14 +11277,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　２番の男"
+                                "Man #2: \\V[66] G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -11320,14 +11320,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　２番の男"
+                                "Man #2: I wanted that."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「欲しかったなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -11431,14 +11431,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　３番の男"
+                                "Man #3: \\V[66] G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -11474,14 +11474,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　３番の男"
+                                "Man #3: Are you giving up...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「諦めるか……」"
+                                ""
                             ]
                         },
                         {
@@ -11697,14 +11697,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: \\V[66] G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -11759,14 +11759,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: \\V[66] G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -11821,14 +11821,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: \\V[66] G!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「\\V[66]Ｇ!」"
+                                ""
                             ]
                         },
                         {
@@ -11872,14 +11872,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: This time, luck is not on my side."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「今回は分が悪いですわ」"
+                                ""
                             ]
                         },
                         {
@@ -11937,14 +11937,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: This time, luck is not on my side."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「今回は分が悪いですわ」"
+                                ""
                             ]
                         },
                         {
@@ -12009,14 +12009,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: We don't have enough military funds..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「軍資金が足りないですわ……」"
+                                ""
                             ]
                         },
                         {
@@ -12090,21 +12090,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　オークションの司会"
+                                "Auctioneer: The right eye of Dela is sold for \\V[66] G!\nPlease give a big round of applause to the bidder number\n\\V[68]!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ディレーの右目は\\V[66]Ｇで落札です！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　\\V[68]番の方に大きな拍手をお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -12147,21 +12147,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I apologize, it seems luck was not on our\nside this time..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「申し訳ございません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　今回は分が悪かったようですね……」"
+                                ""
                             ]
                         },
                         {
@@ -12331,21 +12331,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　オークションの司会"
+                                "Auctioneer: The right eye of Dela is sold for \\V[66] G!\nPlease give a big round of applause to the beautiful woman\nwho made the winning bid!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ディレーの右目は\\V[66]Ｇで落札です！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　落札をした美しい女性に盛大な拍手をお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -12376,7 +12376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\I[513] \\item[\\V[61]]を手に入れた"
+                                "\\I[513] I obtained \\item[\\V[61]]."
                             ]
                         },
                         {
@@ -12450,21 +12450,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　オークション司会者"
+                                "Auctioneer: We will now conclude the wine auction. Thank\nyou for your continued support of Naus Auctions!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ワインオークションを終了とします"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　今後ともナウス・オークションをよろしくお願いします！」"
+                                ""
                             ]
                         },
                         {

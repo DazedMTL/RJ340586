@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大商人アクレオの海賊船",
+    "displayName": "Pirate Ship of the Great Merchant Acreo",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4039,7 +4039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　船長室に入りますか？"
+                                "Do you want to enter the captain's room?"
                             ]
                         },
                         {
@@ -4085,14 +4085,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then do it)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4193,14 +4193,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Acreo should be in here. Let's go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「この中にアクレオがいるはず。いきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -4468,7 +4468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　船長室に入りますか？"
+                                "Do you want to enter the captain's room?"
                             ]
                         },
                         {
@@ -4514,14 +4514,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then do it)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4622,14 +4622,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Acreo should be in here. Let's go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「この中にアクレオがいるはず。いきましょう」"
+                                ""
                             ]
                         },
                         {

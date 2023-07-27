@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ルプス村 貴族クレッソの保養所",
+    "displayName": "Lupus Village, Noble Cresso's Retreat",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4069,14 +4069,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Could you please leave?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「出ていってくれないかね」"
+                                ""
                             ]
                         },
                         {
@@ -4529,21 +4529,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I've looked at the request form. I will definitely\nretrieve the ring."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「依頼書を見てきました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　必ず指輪は私が取り返してきます」"
+                                ""
                             ]
                         },
                         {
@@ -4567,21 +4567,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Have you seen the sign outside? It seems that\nthis place used to be a blacksmith shop until a few years\nago."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「外の看板を見たかね？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここは数年前まで鍛冶屋だったそうだよ」"
+                                ""
                             ]
                         },
                         {
@@ -4614,21 +4614,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: If you say you like this village, young noble\nLud will make preparations for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この村を気に入ったと言ったら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　貴族のルイドくんが用意をしてくれてね」"
+                                ""
                             ]
                         },
                         {
@@ -4652,14 +4652,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: You took care of my son and daughter-in-law,\ndidn't you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君が息子夫婦を看取ってくれたのだろう？」"
+                                ""
                             ]
                         },
                         {
@@ -4706,21 +4706,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm sorry. If only I had arrived at the scene a\nlittle earlier...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「申し訳ありませんでした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あと少しでも早く現場に着いていれば……！」"
+                                ""
                             ]
                         },
                         {
@@ -4744,21 +4744,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: You don't have to apologize. Lud has been\nasking about you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君が謝ることはない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ルイドくんから君のことを聞いているよ」"
+                                ""
                             ]
                         },
                         {
@@ -4782,14 +4782,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: I heard that you belong to the Adventurer's\nGuild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君が冒険者ギルドに所属していること聞いた」"
+                                ""
                             ]
                         },
                         {
@@ -4827,14 +4827,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Why... didn't you ask for a request?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうして……依頼をしていただけなかったのですか」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Cresso: I heard they were young women, but I just\ndidn't feel like contacting the guild."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4865,21 +4903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「若い女性たちだったと聞いてね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　どうもギルドに連絡をする気が起きなかったんだよ」"
+                                "Noble Cresso: This must also be the guidance of the divine\ngod Sol. I have heard that the ring ended up in the slums of\nthe defeated soldiers."
                             ]
                         },
                         {
@@ -4890,34 +4914,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「これも主神ソールのお導きなのだろう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　指輪は敗残兵たちのスラムに流れたと聞いている」"
+                                ""
                             ]
                         },
                         {
@@ -4948,14 +4948,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, I will definitely retrieve it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、必ず取り返してきます」"
+                                ""
                             ]
                         },
                         {
@@ -4995,14 +4995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Ah, I'm counting on you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あぁ、よろしく頼むよ」"
+                                ""
                             ]
                         },
                         {
@@ -5179,6 +5179,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Area Liberation\\c[18]\\CL Mycos Region / Slums of the\nDefeated Soldiers\\c[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5186,14 +5193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\CLミュコス地方 / 敗残兵たちのスラム\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -5285,21 +5285,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Please don't push yourself. There's no need\nto compare life and a ring."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「無理はしないでくれ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　命と指輪は比較するまでもないだろう」"
+                                ""
                             ]
                         },
                         {
@@ -5784,21 +5784,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Here is the promised ring. It's a memento ring, are\nyou sure it's the right one?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「こちらがお約束の指輪です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　形見の指輪でお間違いないでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -5893,21 +5893,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Clea: Indeed, it is the one I gave to my son. Thank\nyou for retrieving his memento."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「確かに私が息子に渡したものだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　形見を取り返してきてくれてありがとう」"
+                                ""
                             ]
                         },
                         {
@@ -5940,21 +5940,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Clea: It seems like you have something to say to me.\nIf you don't mind, would you let me hear it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「何か私に言いたげだね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　よかったら聞かせてくれないか？」"
+                                ""
                             ]
                         },
                         {
@@ -5985,21 +5985,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: My parents were killed by a dragon, and I have\ndedicated everything to seek revenge."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「私は両親をドラゴンに殺されました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　そして復讐のためにすべてを捧げてきました」"
+                                ""
                             ]
                         },
                         {
@@ -6023,21 +6023,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Clea: Have you gained anything from seeking revenge?\nIn many cases, all that remains is an indescribable\nemptiness."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「復讐で得られたものはあったかい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　多くの場合、残るのは言いしれぬ虚しさだけだ」"
+                                ""
                             ]
                         },
                         {
@@ -6061,21 +6061,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Indeed, that may be true. However, I believe it was\nnecessary to take a new step forward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「確かにそうかもしれません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　でも新しい一歩を踏み出すために必要であったと考えます」"
+                                ""
                             ]
                         },
                         {
@@ -6106,21 +6106,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: To live while forgetting everything... that means\nforgetting about the important people too."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「何もかも忘れて生きること……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　それは大切な人たちのことも忘れてしまうことだから」"
+                                ""
                             ]
                         },
                         {
@@ -6144,21 +6144,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please take a look at this memento ring and remember\nthe memories of your loved ones."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「形見の指輪を見てみてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　そして大切な人たちの記憶を思い出してください」"
+                                ""
                             ]
                         },
                         {
@@ -6191,21 +6191,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Clea: I apologize for the reward of the promise, but\ncould you leave me alone for a moment?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「約束の報酬だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　悪いがひとりにしてくれないか？」"
+                                ""
                             ]
                         },
                         {
@@ -6434,21 +6434,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Clea: Take a look at this memento ring... So, what is\nit that you all want from me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「形見の指輪を見ろ、か……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　なぁ、お前たちは私に何を望んでいるんだ？」"
+                                ""
                             ]
                         },
                         {
@@ -6558,21 +6558,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Here is the promised ring. It's a memento ring, are\nyou sure it's the right one?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「こちらがお約束の指輪です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　形見の指輪でお間違いないでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6667,21 +6667,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Clea: Indeed, it is the one I gave to my son. Thank\nyou for retrieving his memento."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「確かに私が息子に渡したものだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　形見を取り返してきてくれてありがとう」"
+                                ""
                             ]
                         },
                         {
@@ -6712,14 +6712,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please give me the next request."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「次の依頼をお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -6750,21 +6750,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Clea: What are you talking about? The request to you\nshould have already been completed."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「何の話かな？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　君への依頼はすでに終わっているはずだが」"
+                                ""
                             ]
                         },
                         {
@@ -6795,21 +6795,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It's not over. We should avenge my sons!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「終わっていません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　息子さんたちの仇討ちを行うべきです！」"
+                                ""
                             ]
                         },
                         {
@@ -6840,14 +6840,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: If we don't... if we don't!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そうしないと……そうでないと！」"
+                                ""
                             ]
                         },
                         {
@@ -6864,14 +6864,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Clea: Can't you affirm yourself?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「君自身を肯定できないのかな？」"
+                                ""
                             ]
                         },
                         {
@@ -6911,21 +6911,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Clea: I should have told you that I heard it from\nLloyd-kun. I want to hear about your background and the\nreason why you fight."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ルイドくんから聞いていると言ったはずだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　君の素性も君が戦う理由も含めて聞いている」"
+                                ""
                             ]
                         },
                         {
@@ -7029,21 +7029,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Aren't you frustrated... having someone precious\ntaken away from you unjustly..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「悔しくないのですか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　大切な人を理不尽に奪われたことが……」"
+                                ""
                             ]
                         },
                         {
@@ -7074,21 +7074,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is the person who took them away still alive?! Or am\nI supposed to live here safely?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「奪った人間が生きていることが！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　それとも自分は安全にここで暮らしていくのですかっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -7119,14 +7119,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Clea-chan, you're going too far."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「クレアちゃん、言い過ぎよ」"
+                                ""
                             ]
                         },
                         {
@@ -7164,21 +7164,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please look at this keepsake ring that only a living\nperson can do something with... and think about it...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「生きている人間にしかできないことがある"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　形見の指輪を見つめて考えてください……！」"
+                                ""
                             ]
                         },
                         {
@@ -7209,21 +7209,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm waiting for your request. I will definitely\ndefeat the Aspida Alliance."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ご依頼をお待ちしています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　アスピダ同盟は必ず倒してみせます」"
+                                ""
                             ]
                         },
                         {
@@ -7455,14 +7455,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I'm sorry."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「申し訳ありません」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Noble Clea: I don't mind. I have also heard about her\nparents."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7493,21 +7531,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「構わないよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　彼女の両親のことも聞いている」"
+                                "Noble Clea: I apologize for the reward of the promise, but\ncould you leave me alone?"
                             ]
                         },
                         {
@@ -7518,34 +7542,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「約束の報酬だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　悪いがひとりにしてくれないか？」"
+                                ""
                             ]
                         },
                         {
@@ -7767,21 +7767,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Clea: Look at this keepsake ring... So, what do you\nall want from me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「形見の指輪を見ろ、か……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　なぁ、お前たちは私に何を望んでいるんだ？」"
+                                ""
                             ]
                         },
                         {
@@ -8011,14 +8011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Leave me alone..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひとりにしてくれ……」"
+                                ""
                             ]
                         },
                         {
@@ -8271,14 +8271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: I apologize for asking you to come."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「来てもらって悪いね」"
+                                ""
                             ]
                         },
                         {
@@ -8316,14 +8316,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I apologize for that time..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの時は……失礼しました」"
+                                ""
                             ]
                         },
                         {
@@ -8354,21 +8354,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: I cannot affirm revenge, as it would deny the\nkindness and the living son and daughter-in-law."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私はやはり復讐を肯定することはできない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　優しさと生きた息子夫婦を否定することになるからだ」"
+                                ""
                             ]
                         },
                         {
@@ -8408,14 +8408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「では今回の依頼の真意を教えていただけますか？」"
+                                "Clea: Could you please tell me the true meaning behind this\nrequest?"
                             ]
                         },
                         {
@@ -8423,37 +8416,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族クレッソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「持ち帰ってきてくれた指輪をずっと眺めていた」"
                             ]
                         },
                         {
@@ -8484,21 +8446,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: I have been gazing at the ring you brought\nback."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「息子が生まれた日、妻が死んだ日"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　息子が大切な女性を連れてきた日……」"
+                                ""
                             ]
                         },
                         {
@@ -8522,21 +8484,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: The day my son was born, the day my wife\ndied, the day my son brought back an important woman..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私の人生の大切な時間を"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この指輪はそばで見守ってくれていた」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Cresso: This ring has been by my side, watching over\nthe important moments of my life."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8569,21 +8569,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: We must not create humans like me who thought\nit was no longer permissible to steal."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もう奪わせてはいけないと思った"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私のような人間を生み出してはいけないのだ」"
+                                ""
                             ]
                         },
                         {
@@ -8614,21 +8614,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood. I will destroy the Aspida Alliance so\nthat such tragedy never happens again."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悲劇が二度と起こらないようにアスピダ同盟を壊滅します」"
+                                ""
                             ]
                         },
                         {
@@ -8652,21 +8652,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: I want to request something from you, with\nthe prayer that someone's kindness will be protected."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「誰かの優しさが守られますように"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そんな祈りを込めて君たちに依頼をしたい」"
+                                ""
                             ]
                         },
                         {
@@ -8690,14 +8690,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Please head towards the abandoned castle\nwhere they have made their stronghold."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やつらの根城にしている廃城に向かっておくれ」"
+                                ""
                             ]
                         },
                         {
@@ -8735,14 +8735,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, I'll go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、いってきます」"
+                                ""
                             ]
                         },
                         {
@@ -8946,21 +8946,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Ah, take care. I sincerely pray for your\nsafety."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あぁ、いってらっしゃい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちの無事を心から祈っているよ」"
+                                ""
                             ]
                         },
                         {
@@ -8984,14 +8984,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Is this alright...? Yes, my son?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これでいい……そうだろう、息子よ？」"
+                                ""
                             ]
                         },
                         {
@@ -9168,6 +9168,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\CL Area Liberation\\c[18]\\CL Valt Region / Abandoned Castle of\nthe Aspida Alliance\\c[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -9175,14 +9182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\CLヴァルト地方 / アスピダ同盟の廃城\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -9274,14 +9274,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Please make sure not to push yourself too\nhard."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「絶対に無理をしないようにしておくれ」"
+                                ""
                             ]
                         },
                         {
@@ -9534,21 +9534,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: It seems that you have annihilated the Aspida\nAlliance. Although it appears that there are still remnants\nlingering in the abandoned city."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アスピダ同盟を壊滅してくれたようだね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もっとも残党はまだまだ廃城にいるようだが」"
+                                ""
                             ]
                         },
                         {
@@ -9581,21 +9581,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: A friend came and investigated your\nmovements."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「友人がやってきてね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちの動きを探ってもらっていたんだ」"
+                                ""
                             ]
                         },
                         {
@@ -9635,21 +9635,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I was once taught by someone I respected not to be\nconsumed by emotions."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私はかつて尊敬する方に"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　感情に飲まれるなと教えていただきました」"
+                                ""
                             ]
                         },
                         {
@@ -9680,21 +9680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ただ……敵と相対した時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　依頼ではなく個人として戦ってしまった気がします」"
+                                "Clea: I just... feel like I ended up fighting not as a\nhired hand, but as an individual when facing the enemy."
                             ]
                         },
                         {
@@ -9702,30 +9688,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私はまだまだ……本当に未熟です」"
                             ]
                         },
                         {
@@ -9756,21 +9718,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Clea: I am still... truly inexperienced."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「息子夫婦がね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　園芸が趣味でふたりで騒ぎながら育てていた」"
+                                ""
                             ]
                         },
                         {
@@ -9794,21 +9756,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: My son and his wife... they had a hobby of\ngardening and would raise plants together while making a\nfuss."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何が楽しいか聞くと"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ひとつとして同じように育たないことだと言った」"
+                                ""
                             ]
                         },
                         {
@@ -9832,21 +9794,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: When asked what was enjoyable, they said it\nwas the fact that no two plants grew the same."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たち冒険者もそうなのだろう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ひとりとして同じようには育たたない」"
+                                ""
                             ]
                         },
                         {
@@ -9870,21 +9832,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: As adventurers, I suppose you all grow\ndifferently as individuals."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君は君の道を歩みなさい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私も君のおかげで新しい一歩を踏み出せそうだ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Cresso: You should walk your own path. Thanks to you,\nI feel like I can take a new step forward."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9915,14 +9915,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, thank you very much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、ありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -9953,21 +9953,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: This is the promised reward... Also, if\npossible, would you mind taking this ring as well?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これが約束の報酬……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あと、できればこの指輪ももらってくれないか？」"
+                                ""
                             ]
                         },
                         {
@@ -10007,14 +10007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I can't accept something so important!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんな大切なものいただけません！」"
+                                ""
                             ]
                         },
                         {
@@ -10045,21 +10045,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Because it's important, I believe my son and\nhis wife would be happy if you lend a helping hand to\nsomeone in need."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大切だからだよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　誰かを救う手にいた方が息子夫婦も喜ぶはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -10090,14 +10090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...I understand, I will treasure it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……わかりました、大切にします」"
+                                ""
                             ]
                         },
                         {
@@ -10148,21 +10148,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Thank you for completing the request. May\nyour days of adventure be filled with happiness."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「依頼を達成してくれてありがとう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちの冒険の日々に幸多からんことを」"
+                                ""
                             ]
                         },
                         {
@@ -10405,21 +10405,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: The villagers kindly taught me how to start\ngardening."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「園芸をはじめたんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　村の人たちが丁寧に教えてくれてね」"
+                                ""
                             ]
                         },
                         {
@@ -10443,14 +10443,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: Every day is a continuous discovery."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「毎日が発見の連続だ」"
+                                ""
                             ]
                         },
                         {
@@ -10488,14 +10488,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「それはいいですね」"
+                                "Clea: That's nice."
                             ]
                         },
                         {
@@ -10503,37 +10496,6 @@
                             "indent": 1,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　貴族クレッソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　「不格好だが私の最初の作品だ」"
                             ]
                         },
                         {
@@ -10564,14 +10526,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: It may not look great, but it's my first\ncreation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「よかったら君たちの冒険に役立てて欲しい」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Noble Cresso: I would like you to make use of your\nadventures if you'd like."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10644,14 +10644,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族クレッソ"
+                                "Noble Cresso: I pray for the safety of your journey."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「君たちの旅の無事を祈っているよ」"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "武闘の街ジナミ",
+    "displayName": "City of Martial Arts, Jinami",
     "encounterList": [],
     "encounterStep": 30,
     "height": 55,
@@ -12099,21 +12099,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ジナミ衛兵"
+                                "Jinami Guard: To participate in the arena, you need\nqualifications. Please prepare a letter of recommendation\nfrom a skilled warrior."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「闘技場参加には資格が必要だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　優秀な戦士からの推薦状を用意して欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -12197,21 +12197,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ジナミ衛兵"
+                                "Jinami Guard: This is... a letter of recommendation from\nGeneral Atu!? Welcome to the Pizma Arena, skilled warrior!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これは……アトゥ将軍の推薦状！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ピズマ闘技場へようこそ、優秀な戦士よ！」"
+                                ""
                             ]
                         },
                         {
@@ -12306,14 +12306,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Photizona Region/Pizma Arena\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLフォティゾナ地方/ピズマ闘技場\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -12715,14 +12715,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵隊長ゲイル"
+                                "Mercenary Captain Gale: What's this? Do you want someone to\npunch you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだ、ぶん殴って欲しい相手でもいるのか？」"
+                                ""
                             ]
                         },
                         {
@@ -12827,7 +12827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦いを挑みますか？"
+                                "Will you challenge me to a fight?"
                             ]
                         },
                         {
@@ -12873,14 +12873,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then do it)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -13251,21 +13251,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: You're a participant in the martial arts tournament,\nright? Please spar with us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「武闘の大会の参加者ですよね？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　私たちと手合わせをお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -13289,21 +13289,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　傭兵隊長ゲイル"
+                                "Mercenary Captain Gale: You're quite confident, young lady.\nMy honor as a mercenary is at stake, so I won't hold back!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「なかなか強気なお嬢さんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　傭兵としての名誉がかかっているからな、手加減はしないぜ！」"
+                                ""
                             ]
                         },
                         {
@@ -13447,21 +13447,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　傭兵隊長ゲイル"
+                                "Mercenary Captain Gale: You have impressive skills... I\nwant you to be in charge of training our new recruits."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「確かな実力だ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　うちの新人の教育を担当して欲しいくらいだぜ」"
+                                ""
                             ]
                         },
                         {
@@ -13485,14 +13485,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: In that case, please make the request at\nthe Adventurer's Guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「でしたら冒険者ギルドまでご依頼をお願いしますわ」"
+                                ""
                             ]
                         },
                         {
@@ -13525,21 +13525,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　傭兵隊長ゲイル"
+                                "Mercenary Captain Gale: Agonia, the killer of all... I'm\nnot good with men. If you want to make a request, do it on\nthe notice board in Oros."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「皆殺しのアゴニアか……苦手な男だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　依頼をするならオロスの掲示板にするさ」"
+                                ""
                             ]
                         },
                         {
@@ -14181,14 +14181,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　高飛車な魔法使い"
+                                "Did you come to me seeking guidance, you arrogant\nmagician?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私に教えをこいに来たのかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -14293,7 +14293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦いを挑みますか？"
+                                "Will you challenge me to a fight?"
                             ]
                         },
                         {
@@ -14339,14 +14339,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then do it)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -14717,21 +14717,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: You're a participant in the martial arts tournament,\nright? Please spar with us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「武闘の大会の参加者ですよね？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　私たちと手合わせをお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -14755,21 +14755,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　高飛車な魔法使い"
+                                "Arrogant magician: 'You underestimate me... Or perhaps you\ncan't comprehend my true power?'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「舐められたものね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　それとも私の実力も理解できないのかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -14913,21 +14913,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　高飛車な魔法使い"
+                                "Arrogant magician: T-Today, I wasn't feeling well! I'll let\nyou win this time, so be grateful!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「きょ、今日は調子が悪かったの！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　今回は譲るからありがたく思いなさい！」"
+                                ""
                             ]
                         },
                         {
@@ -14951,14 +14951,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Hehe, I'll let you have it that way!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「ふふんっ、そういうことにしてあげますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -15360,14 +15360,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　卑屈な人形使い"
+                                "Submissive Puppeteer: ...H-hey, hey there, what can I do\nfor you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……ふ、ふひぃ、何かようかい？」"
+                                ""
                             ]
                         },
                         {
@@ -15472,7 +15472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦いを挑みますか？"
+                                "Will you challenge me to a fight?"
                             ]
                         },
                         {
@@ -15518,14 +15518,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then do it)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -15896,21 +15896,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: You're a participant in the martial arts tournament,\nright? Please spar with us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「武闘の大会の参加者ですよね？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　私たちと手合わせをお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -15934,21 +15934,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　卑屈な人形使い"
+                                "Timid Puppeteer: I-I'll do it...! I'll prove that I'm\nstrong!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「う、うぅ、やってやるぞ……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　強いことをしょ、証明してやるんだぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -16092,21 +16092,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　卑屈な人形使い"
+                                "Timid Puppeteer: Ugh, ugh... it's no use, everything I do\nis useless..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「う、うぅ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　だめ、なにをやってもだめなんだぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -16139,14 +16139,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: D-Don't be so down on yourself!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「そ、そんな卑屈にならないでくださいよぉ！」"
+                                ""
                             ]
                         },
                         {
@@ -16788,21 +16788,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　得意げな男"
+                                "Proud Man: This is the most exciting city in the empire!\nThe Pizma Arena is definitely a place worth visiting."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここは帝国で一番刺激的な街さ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ピズマ闘技場は絶対に行く価値がある場所だよ」"
+                                ""
                             ]
                         },
                         {
@@ -16879,14 +16879,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ジナミ衛兵"
+                                "Jinami Guard: This city is the safest place in the empire,\nexcept for the arena."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「闘技場内以外は帝国一安全な街さ」"
+                                ""
                             ]
                         },
                         {
@@ -16954,14 +16954,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ジナミ衛兵"
+                                "Jinami Guard: This city is the safest place in the empire,\nexcept for the arena."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「闘技場内以外は帝国一安全な街さ」"
+                                ""
                             ]
                         },
                         {
@@ -17038,21 +17038,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の商人"
+                                "Traveling Merchant: Weapons, armor, and consumables, you\nknow? This is one of the best cities for merchants."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「武器も防具も消耗品なんだぜ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここは商人にとって最高の街のひとつさ」"
+                                ""
                             ]
                         },
                         {
@@ -17120,21 +17120,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　旅の商人"
+                                "Traveling Merchant: Weapons, armor, and consumables, you\nknow? This is one of the best cities for merchants."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「武器も防具も消耗品なんだぜ？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここは商人にとって最高の街のひとつさ」"
+                                ""
                             ]
                         },
                         {
@@ -17288,14 +17288,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦士に憧れる少年"
+                                "The boy who aspires to be a warrior says, I'll become\nstrong enough to participate in the arena someday!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いつか闘技場に参加できるくらい強くなるんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -17363,21 +17363,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦士に憧れる少年"
+                                "The young boy who aspires to be a warrior said, I saw a\nbattle! Someday, I'll become strong like my big sister!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「戦いを見ました！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いつかお姉さんみたく強くなります！」"
+                                ""
                             ]
                         },
                         {
@@ -17445,14 +17445,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦士に憧れる少年"
+                                "A boy who admires warriors says, 'I'll become strong enough\nto participate in the arena someday!'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いつか闘技場に参加できるくらい強くなるんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -19222,21 +19222,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酔っぱらいの男"
+                                "Drunk man: What great weather! Cheers to the resilient king\nPizuma!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いい陽気だ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　頑強王ピズマに乾杯っ！」"
+                                ""
                             ]
                         },
                         {
@@ -20147,14 +20147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: I want to eventually make these well-\ntrained ones known to the world."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この鍛え上げたちからをいずれは世に知らしめたいものだ」"
+                                ""
                             ]
                         },
                         {
@@ -20685,21 +20685,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: She has a very strong physique... Clea-chan!\nDoesn't this person seem perfect?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「とてもたくましいからだつきね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クレアちゃん！　この方なんかピッタリじゃないかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -20739,14 +20739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: Do you need something from me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺になにか用かい？」"
+                                ""
                             ]
                         },
                         {
@@ -20787,14 +20787,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: I see, you're looking for a skilled\nwarrior..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるほどな、腕の立つ戦士を探していると……」"
+                                ""
                             ]
                         },
                         {
@@ -20825,21 +20825,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: If that's the case, then I'm the perfect\nfit. Not to brag, but I'm the most skilled warrior in this\ntown!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それなら俺がピッタリさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　自慢じゃないがこの街でも１番腕が立つぜ！」"
+                                ""
                             ]
                         },
                         {
@@ -20879,14 +20879,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: In that case, could you come with us to the client's\nplace?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「でしたら私たちと依頼主のもとへ行っていただけますか？」"
+                                ""
                             ]
                         },
                         {
@@ -20924,21 +20924,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: Of course! But there is one condition..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もちろんさ！　ただ１つだけ条件がある……」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -20969,14 +20969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: What kind of condition?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どんな条件でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -21014,21 +21014,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: That large sword and that appearance...\nYou're Clea, the one who defeated the dragon, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その大剣にその風貌……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんた、ドラゴンを倒したクレアだろ？」"
+                                ""
                             ]
                         },
                         {
@@ -21068,14 +21068,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: That's right, if that's the case, what will happen?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その通りです、だとしたらどうなるのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -21113,21 +21113,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: So you really are the real deal... I've\nheard the rumors, but to think that such a young girl..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やはり本物か……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　しかし驚いたな、噂には聞いていたが、こんな少女が……」"
+                                ""
                             ]
                         },
                         {
@@ -21151,21 +21151,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: Could you please have a duel with me? I\nwant to see how far my strength can go against you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうか俺と決闘してもらえないだろうか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺のちからがどこまであんたに通用するか試してみたいんだ」"
+                                ""
                             ]
                         },
                         {
@@ -21196,14 +21196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: A duel, huh... I won't hold back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「決闘ですか……手加減はできませんよ」"
+                                ""
                             ]
                         },
                         {
@@ -21241,14 +21241,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: Thank you! Let me know when you're ready."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがたい！　準備ができたら声をかけてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -21570,14 +21570,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: I would like to request a duel with the\nDragon Slayer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ドラゴンスレイヤーとの決闘をお願いしたい」"
+                                ""
                             ]
                         },
                         {
@@ -21609,14 +21609,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: Are you ready?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「準備はいいかい？」"
+                                ""
                             ]
                         },
                         {
@@ -21647,14 +21647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Will you engage in a duel with Mercenary Leon?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "                       傭兵レオーンと決闘を行いますか？"
+                                ""
                             ]
                         },
                         {
@@ -21693,14 +21693,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: Let me know when you're ready."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「準備ができたら声をかけてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -21735,14 +21735,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: Now, let's have a fair fight!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いざ尋常に勝負！」"
+                                ""
                             ]
                         },
                         {
@@ -22310,14 +22310,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: I'm impressed! Your skills are just as\nrumored."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「参った！　噂にたがわぬ腕前だな」"
+                                ""
                             ]
                         },
                         {
@@ -22355,21 +22355,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: That was a close match... Leon-san's skills were\namazing!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ギリギリの勝負でした……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　レオーンさんの腕前もすばらしいものでした！」"
+                                ""
                             ]
                         },
                         {
@@ -22400,21 +22400,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: This will serve as good training. Take this\nas a reward!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いい鍛錬になったよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　勉強代だ、こいつを受け取ってくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -22483,21 +22483,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: That was a close match... It seems like I\nhad a bit of luck on my side."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ギリギリの勝負だった……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　どうやら少しだけ俺に運があったようだな」"
+                                ""
                             ]
                         },
                         {
@@ -22528,14 +22528,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm defeated... Your swordsmanship was amazing."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「参りました……すばらしい剣撃でした」"
+                                ""
                             ]
                         },
                         {
@@ -22580,21 +22580,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Both of you had a splendid battle! With\nLeon-san's skills, the client will surely be satisfied."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「２人ともすばらしい闘いでしたわ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　レオーンさんの腕前なら依頼主も満足してくれるでしょう」"
+                                ""
                             ]
                         },
                         {
@@ -22625,14 +22625,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, there's no doubt about Mercenary Leon's skills."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうですね、レオーンさんの腕前なら間違いなしです」"
+                                ""
                             ]
                         },
                         {
@@ -22670,21 +22670,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傭兵レオーン"
+                                "Mercenary Leon: We got caught up in the heated battle and\nforgot about the main objective. Let's take the client to\ntheir destination right away!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「熱い闘いで本題を忘れていたよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さっそく依頼主のもとへ連れて行ってくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -23823,21 +23823,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Everyone! I apologize for not giving a report."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……みなさん！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　報告もなしにすいませんでした」"
+                                ""
                             ]
                         },
                         {
@@ -23868,21 +23868,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I heard you won! And I received lots of\nrewards from Gale-san too!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「優勝したの聞きました！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ゲイルさんからいっぱい報酬ももらいましたよぉ！」"
+                                ""
                             ]
                         },
                         {
@@ -23913,21 +23913,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: We also repelled the thugs! They were scared and\nran away from our strength!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「潰し屋の連中も撃退しましたよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクたちの強さに恐れをなして逃げていきました！」"
+                                ""
                             ]
                         },
                         {
@@ -23958,14 +23958,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much. Let's return to our journey."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます、旅に戻りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -24239,14 +24239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Was it really a good thing...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当によかったの……？」"
+                                ""
                             ]
                         },
                         {
@@ -24284,14 +24284,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I am still a coward after all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私はやっぱり臆病者です」"
+                                ""
                             ]
                         },
                         {
@@ -24322,21 +24322,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Straightforward malice and hostility are also scary.\nI thought I had gotten used to it a little through our\nadventures."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「真っ直ぐな悪意や敵意も怖い"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それは冒険を通して少しは慣れたつもりです」"
+                                ""
                             ]
                         },
                         {
@@ -24367,21 +24367,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: But I didn't know that receiving straightforward\nkindness could be so scary."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「でも真っ直ぐな好意を向けられることが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こんなにも怖いことだとは知りませんでした」"
+                                ""
                             ]
                         },
                         {
@@ -24414,14 +24414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...If I become someone else, will I be able to\nchange?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……何者かになれれば変われるのでしょうか」"
+                                ""
                             ]
                         },
                         {

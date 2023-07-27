@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "野盗の草原",
+    "displayName": "Bandit's Grassland",
     "encounterList": [],
     "encounterStep": 30,
     "height": 27,
@@ -4772,7 +4772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -4818,14 +4818,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -5072,7 +5072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -5118,14 +5118,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -5372,7 +5372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -5418,14 +5418,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -5672,7 +5672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -5718,14 +5718,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6736,21 +6736,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ロパロ略奪団襲撃隊長"
+                                "Leader of the Loparo Plundering Squad: Damn it! What the\nhell is going on!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ちきしょう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いったい、どうなってやがる！？」"
+                                ""
                             ]
                         },
                         {
@@ -6779,21 +6779,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ロパロ略奪団襲撃隊長"
+                                "Leader of the Loparo Plundering Squad: And those guys...!\nThey fed us false information...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それにあいつら……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺たちに偽の情報を流しやがって……！」"
+                                ""
                             ]
                         },
                         {
@@ -7053,14 +7053,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ロパロ略奪団襲撃隊長"
+                                "Leader of the Loparo Plundering Squad: What the hell, you\nguys!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだ、お前たちは！」"
+                                ""
                             ]
                         },
                         {
@@ -7103,21 +7103,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We came here on General Atu's request. There's no\nmistake that you're the culprits behind the carriage raid,\nright?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトゥ将軍からの依頼で来ました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　馬車襲撃事件の犯人で間違いないですね？」"
+                                ""
                             ]
                         },
                         {
@@ -7141,21 +7141,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ロパロ略奪団襲撃隊長"
+                                "Leader of the Loparo Plundering Squad: General Atu...!? Did\nyou even drag that man to Camps?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトゥ将軍だと……！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの男までカンプスに引っ張り出してきたのか」"
+                                ""
                             ]
                         },
                         {
@@ -7172,14 +7172,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ロパロ略奪団襲撃隊長"
+                                "Leader of the Loparo Plundering Squad: ...Even more so, I\nrefuse to die in a place like this!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……なおさら、こんなところで死んでたまるか！」"
+                                ""
                             ]
                         },
                         {
@@ -7365,21 +7365,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ロパロ略奪団襲撃隊長"
+                                "Leader of the Loparo Plundering Squad: General Atu, the\nnobleman... and even the Ema Thief Gang showed up..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「貴族のピドにアトゥ将軍……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　それにエマ盗賊団まで登場か……」"
+                                ""
                             ]
                         },
                         {
@@ -7403,14 +7403,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Do you know about the Ema Thief Gang!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「エマ盗賊団を知っているんですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -7443,21 +7443,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ロパロ略奪団襲撃隊長"
+                                "Leader of the Loparo Plundering Squad: Those guys who\nspread false information about the carriage... were the Ema\nThief Gang... hehehe."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「馬車の偽情報を流していたのが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　エマ盗賊団のやつらだったのさ……くくく」"
+                                ""
                             ]
                         },
                         {
@@ -7474,14 +7474,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ロパロ略奪団襲撃隊長"
+                                "Leader of the Loparo Plundering Squad: We've been\ncompletely deceived."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「俺たちはいっぱい食わされたわけだ」"
+                                ""
                             ]
                         },
                         {
@@ -7505,21 +7505,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: That's a lie! There's no way our leaders would\ndo something like that!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「そんなの嘘です！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　団長たちがそんなことするわけないですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -7543,21 +7543,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ロパロ略奪団襲撃隊長"
+                                "Leader of the Loparo Plundering Squad: Well then, if you\nlook at it from there, we were lured in and they cleverly\nstole the cargo from the carriage."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「だったら、そこから見てみればいいさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　俺たちを餌にまんまと馬車から荷物を盗み出しやがった」"
+                                ""
                             ]
                         },
                         {
@@ -7574,21 +7574,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ロパロ略奪団襲撃隊長"
+                                "Leader of the Loparo Plundering Squad: We might have done\nwell this time... but it was the Ema Thief Gang who turned\nCamps upside down."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「今回はうまくやったかもしれない……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　でもエマ盗賊団はカンプスをひっくり返すことをやった」"
+                                ""
                             ]
                         },
                         {
@@ -7605,21 +7605,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ロパロ略奪団襲撃隊長"
+                                "Leader of the Loparo Plundering Squad: Nobles, Imperial\nArmy, and even fellow professionals, we consider all of them\nas enemies. The Ema Thief Gang no longer has a place to\nsurvive in Camps."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「貴族も帝国軍も俺たち同業者も全員敵だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　エマ盗賊団が生き残れる場所はカンプスにはなくなった」"
+                                ""
                             ]
                         },
                         {
@@ -7759,14 +7759,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: That is... Captain... Captain Clevo!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あれは……団長……クレヴォ団長っ！！」"
+                                ""
                             ]
                         },
                         {
@@ -8454,14 +8454,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Nora-san, are you okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ノラさん、大丈夫ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -8485,14 +8485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes... I'm relieved that everyone is safe."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい……みんなが無事で安心はしました」"
+                                ""
                             ]
                         },
                         {
@@ -8532,21 +8532,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: But the Emma Thief Guild that I know wouldn't\ndo something like this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「でも、あたしが知っている"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　エマ盗賊団はこんなことする人たちじゃないです」"
+                                ""
                             ]
                         },
                         {
@@ -8563,21 +8563,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: That's why... ugh... if only I could hand over\nthe Dragon's Eye, I wouldn't have to do something like\nthis."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だから……うぅ……なんで"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドラゴンの瞳を渡せればこんなことしなくてすむのに」"
+                                ""
                             ]
                         },
                         {
@@ -8601,21 +8601,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Don't worry, I will definitely make sure Nora-san and\nI reunite."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大丈夫ですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　絶対にノラさんと再会させてみせますから」"
+                                ""
                             ]
                         },
                         {
@@ -8750,14 +8750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: So you guys were here!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前たち、ここにいたか！」"
+                                ""
                             ]
                         },
                         {
@@ -8905,21 +8905,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: It seems you have captured the attackers! It's\nnothing significant, but please accept your reward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「襲撃犯を捕らえてくれたようだな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　大したものではないが報酬を受け取ってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -9074,14 +9074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Will this incident change the situation\nin Camps?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今回の騒動はカンプスの情勢を変えるのでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -9105,21 +9105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: It has become an unavoidable threat that can\nno longer be overlooked with sympathy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは避けられんな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もはや同情では見過ごせない脅威となった」"
+                                ""
                             ]
                         },
                         {
@@ -9136,21 +9136,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: I am not enthusiastic about it either, but a\nlarge-scale battle is bound to occur in Camps soon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「儂も気が進まぬが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　やがてカンプスで大規模な戦闘が起こるはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -9167,21 +9167,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥ将軍"
+                                "General Atu: Well then, I'll go. I don't want to see them,\nbut there's a report from Pido."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「では、儂は行くぞ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　会いたくはないがピドに報告があるのでな」"
+                                ""
                             ]
                         },
                         {
@@ -9376,21 +9376,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Don't worry! If we can find the Emma Thief Guild\nbefore them, everything will be fine!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大丈夫ですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクたちが先にエマ盗賊団を見つければいいんですから！」"
+                                ""
                             ]
                         },
                         {
@@ -9483,21 +9483,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Yes... I will definitely find them. This time,\nit's my turn to save everyone in the Emma Thief Guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい……必ず見つけ出します"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今度はあたしがエマ盗賊団のみんなを助ける番ですから」"
+                                ""
                             ]
                         },
                         {

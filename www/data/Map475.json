@@ -5577,6 +5577,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "When you go up to the rooftop, you won't be able to perform\noperations such as saving, loading, changing equipment, or\nusing items."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5584,14 +5591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋上に出るとセーブとロード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　装備の変更やアイテム利用などの操作ができなくなります"
+                                ""
                             ]
                         },
                         {
@@ -5608,14 +5608,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Are you really sure?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　本当によろしいですか？"
+                                ""
                             ]
                         },
                         {
@@ -5946,6 +5946,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "When you go up to the rooftop, you won't be able to perform\noperations such as saving and loading equipment changes or\nusing items."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5953,14 +5960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　屋上に出るとセーブとロード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　装備の変更やアイテム利用などの操作ができなくなります"
+                                ""
                             ]
                         },
                         {
@@ -5977,14 +5977,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Are you really sure?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　本当によろしいですか？"
+                                ""
                             ]
                         },
                         {
@@ -7205,14 +7205,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is something wrong, Relm-san?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「リルムさん、どうかしましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -7316,14 +7316,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Do you remember what happened before we fought\nthe dragon?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンと戦う前のこと覚えてますか？」"
+                                ""
                             ]
                         },
                         {
@@ -7347,14 +7347,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's when we all bumped our fists together..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「みんなで拳を突き合せる……あれです」"
+                                ""
                             ]
                         },
                         {
@@ -7387,21 +7387,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I remember! It's the one where we all exchanged\ninsults together, right?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「覚えてますよぉ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　みんなで悪口を言い合うやつですよねっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7425,14 +7425,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Well, yes... but how about we do that?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まぁ、そうですけど……あれをやりませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -7456,14 +7456,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, that sounds nice, doesn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、いいですわね」"
+                                ""
                             ]
                         },
                         {
@@ -7487,14 +7487,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Then, let me start right away."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「では早速、わたくしから」"
+                                ""
                             ]
                         },
                         {
@@ -7694,21 +7694,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I liked Clea-chan's courageous attitude\nof going from recklessness, but you must never let your\nguard down. Always prioritize your own life, okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアちゃんが無謀から勇気を持っていく姿が好きだった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でも油断は禁物です、絶対に自分の命を優先にしてくださいね」"
+                                ""
                             ]
                         },
                         {
@@ -7732,21 +7732,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I admire Relm-san for being serious about her dreams,\nbut please don't become so obsessed that you can only see\nwhat's in front of you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「自分の夢に本気になるリルムさんを尊敬しています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でも、夢中になり過ぎて前しか見えなくならないでください」"
+                                ""
                             ]
                         },
                         {
@@ -7770,21 +7770,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I think Nora-san has changed a lot! But she\nstill lacks the confidence like mine!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ノラさんは大きく変わったと思います！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でも、まだまだボクのような自信が足りていませんねっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7808,21 +7808,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Sophia-san is a kind older sister and I love\nher! But instead of drinking too much and throwing up,\nplease express your complaints more!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ソフィアさんは優しいお姉さんで大好きです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でも、飲みすぎて吐くより弱音をもっとはいてください！」"
+                                ""
                             ]
                         },
                         {
@@ -7924,14 +7924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: There were actually more compliments than insults,\nweren't there?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悪口のはずが、褒め言葉の方が多かったですね」"
+                                ""
                             ]
                         },
                         {
@@ -7969,14 +7969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I see... I think mine was more like an\ninsult."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうかしら……わたくしのは悪口だったような」"
+                                ""
                             ]
                         },
                         {
@@ -8014,21 +8014,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: This is our growth! Hehe, it means we're getting\ncloser to perfection!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これがボクたちの成長ですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ふふんっ、より完璧に近づいたということですね！」"
+                                ""
                             ]
                         },
                         {
@@ -8059,14 +8059,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: If that's the case, I want to say it to\neveryone!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうせなら全員のを言いたいですよぉ！」"
+                                ""
                             ]
                         },
                         {
@@ -8104,14 +8104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: In that case, I want to say it to everyone too!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それだったらボクも全員に言いたいです！」"
+                                ""
                             ]
                         },
                         {
@@ -8149,14 +8149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hehe, it seems like we all feel the same\nway."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、みんな同じ気持ちみたいね」"
+                                ""
                             ]
                         },
                         {
@@ -8194,14 +8194,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's talk about that after everything is over."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは全部が終わってからにしましょう」"
+                                ""
                             ]
                         },
                         {
@@ -8239,21 +8239,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Last time, we fought for ourselves, but this time,\nit's for the people we've met on our journey..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「前回は自分たちのために戦いました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　でも今回は旅で出会った人たちのために……」"
+                                ""
                             ]
                         },
                         {
@@ -8284,21 +8284,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's definitely defeat that monster, the dragon, for\nthe sake of someone living in the empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「帝国で暮らす誰かのために"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　必ずあの怪物を、ドラゴンを倒しましょう」"
+                                ""
                             ]
                         },
                         {
@@ -8367,14 +8367,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're calling for us."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが呼んでいます」"
+                                ""
                             ]
                         },
                         {
@@ -8412,14 +8412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's head towards the dragon's lair."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの元に向かいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -9254,14 +9254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're calling for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが呼んでいます」"
+                                ""
                             ]
                         },
                         {
@@ -9285,14 +9285,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's head towards the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの元に向かいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -9495,14 +9495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're calling for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが呼んでいます」"
+                                ""
                             ]
                         },
                         {
@@ -9526,14 +9526,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's head towards the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの元に向かいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -9736,14 +9736,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're calling for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが呼んでいます」"
+                                ""
                             ]
                         },
                         {
@@ -9767,14 +9767,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's head towards the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの元に向かいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -9977,14 +9977,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're calling for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが呼んでいます」"
+                                ""
                             ]
                         },
                         {
@@ -10008,14 +10008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's head towards the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの元に向かいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -10218,14 +10218,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're calling for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが呼んでいます」"
+                                ""
                             ]
                         },
                         {
@@ -10249,14 +10249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's head towards the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの元に向かいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -10459,14 +10459,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're calling for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが呼んでいます」"
+                                ""
                             ]
                         },
                         {
@@ -10490,14 +10490,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's head towards the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの元に向かいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -10700,14 +10700,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're calling for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが呼んでいます」"
+                                ""
                             ]
                         },
                         {
@@ -10731,14 +10731,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's head towards the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの元に向かいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -10941,14 +10941,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're calling for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが呼んでいます」"
+                                ""
                             ]
                         },
                         {
@@ -10972,14 +10972,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's head towards the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの元に向かいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -11182,14 +11182,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're calling for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが呼んでいます」"
+                                ""
                             ]
                         },
                         {
@@ -11213,14 +11213,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's head towards the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの元に向かいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -11423,14 +11423,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're calling for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつが呼んでいます」"
+                                ""
                             ]
                         },
                         {
@@ -11454,14 +11454,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's head towards the dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの元に向かいましょう」"
+                                ""
                             ]
                         },
                         {

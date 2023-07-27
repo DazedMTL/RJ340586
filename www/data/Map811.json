@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ王宮屋上",
+    "displayName": "Photizona Royal Palace Rooftop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5812,21 +5812,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴婦人カロン"
+                                "Lady Caron (The quality of the participants today is low...\nIt would have been better if at least a son of a high-\nranking noble was here.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（今日は参加者の質が低い……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　せめて上級貴族の息子でもいればマシだったのに）"
+                                ""
                             ]
                         },
                         {
@@ -5857,14 +5857,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ヘイス"
+                                "Noble Heis: Hey, can I take a break with you guys too?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やぁ、私も一緒に休ませてもらっていいかな？」"
+                                ""
                             ]
                         },
                         {
@@ -5926,14 +5926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴婦人カロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「もちろんですわ、私はカロンと申します」"
+                                "Lady Caron: Of course, I am Caron."
                             ]
                         },
                         {
@@ -5941,113 +5934,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族ヘイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あぁ、君が噂のカロンさんか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　帝国の黒真珠、帝国の至宝、確かに美しい人だ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族ヘイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私は貴族のヘイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　本来はこんな晩餐会に招かれる立場じゃない人間さ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族ヘイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「自分で言うのも情けないけど数合わせってところさ」"
                             ]
                         },
                         {
@@ -6078,14 +5964,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴婦人カロン"
+                                "Noble Heis: Ah, so you're the rumored Lady Caron! The Black\nPearl of the Empire, the Empire's treasure, indeed a\nbeautiful person."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（中流貴族以下……話すまでもない）"
+                                ""
                             ]
                         },
                         {
@@ -6116,21 +6002,135 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴婦人カロン"
+                                "Noble Heis: I, Noble Heis, am not someone who should be\ninvited to such a banquet."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ヘイス様ですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どうか私のことをお見知りおきください、それでは」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Heis: It's embarrassing to say it myself, but I guess\nI'm just here to make up the numbers."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Lady Caron (The quality of the participants today is low...\nIt goes without saying.)"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Lady Caron: You must be Lord Heis, please remember my name,\nthen."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6185,14 +6185,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ヘイス"
+                                "Noble Heis: Have you ever grown vegetables?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君は野菜を育てたことはあるかい？」"
+                                ""
                             ]
                         },
                         {
@@ -6254,14 +6254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴婦人カロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「いえ……ありませんが、それが？」"
+                                "Lady Caron: No... I haven't, but why do you ask?"
                             ]
                         },
                         {
@@ -6269,75 +6262,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族ヘイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それが大変なんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　虫やら雨やら困難ばかりなんだよ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴婦人カロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「では、使用人に命令すればいいのでは？」"
                             ]
                         },
                         {
@@ -6368,21 +6292,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ヘイス"
+                                "Noble Heis: It's tough, you know! It's nothing but bugs and\nrain, full of difficulties!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はははっ、それじゃあ楽しくないじゃないか！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　失敗したり成功したり、泣いたり笑ったり、それがいいんだ」"
+                                ""
                             ]
                         },
                         {
@@ -6406,21 +6330,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ヘイス"
+                                "Lady Caron: Then, why not give orders to the servants?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私は正しい人生はわからないけど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　自分にとって充実した人生はわかっているつもりだ」"
+                                ""
                             ]
                         },
                         {
@@ -6444,21 +6368,97 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ヘイス"
+                                "Noble Heis: Hahaha, but that wouldn't be fun, would it?\nFailing and succeeding, crying and laughing, that's what\nmakes it enjoyable."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロンさんにもそうあって欲しいな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君の後ろ姿はあまりにも寂しすぎる感じがしたから」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Heis: I may not know what a righteous life is, but I\nbelieve I understand what a fulfilling life means to me."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Heis: I hope Lady Caron can have that too. Your back\nfigure felt too lonely."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6489,6 +6489,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The nobles of Myukos tried to politically exploit Caron's\nbeauty. Nobles who dreamed of becoming senators demanded\nthat Caron be sent out into various social circles to find a\nconvenient partner."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -6496,21 +6503,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ミュコスの貴族はカロンの美貌を政治的に利用しようとした。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元老院になることを夢見た貴族はカロンを様々な社交界に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　送り出して【都合のいい相手】を探すことを要求した。"
+                                ""
                             ]
                         },
                         {
@@ -6527,6 +6527,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Instead, Caron's life completely changed, with luxurious\nmeals, beautiful dresses, and surrounded by so many servants\nthat their faces couldn't be remembered. She quickly became\nthe center of the social circle, with everyone drawn to\nCaron's beauty."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -6534,21 +6541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　その代わりにカロンの生活は一変し、豪華な食事、美しいドレス、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　顔が覚えられないほどの使用人に囲まれる日々。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐに社交界の華となり、皆がカロンの美貌を目当てとした。"
+                                ""
                             ]
                         },
                         {
@@ -6565,6 +6565,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Among them, only the noble Heis was worried about Caron and\ngave her advice. Her mother was worried that her own desires\nwould be fulfilled. However, Heis genuinely worried about\nCaron without any lies or deceit..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -6572,21 +6579,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　その中で貴族ヘイスだけがカロンを心配して忠告した。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　母親は自分の願望が果たされることを心配していた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だが、ヘイスは嘘偽りなく自分を心配している……"
+                                ""
                             ]
                         },
                         {
@@ -6603,6 +6603,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "From that day on, Heis never left Caron's mind. Men who only\nsaw her beauty. People who tried to use her. Caron was\nreminded of her own loneliness for the first time in a\nwhile."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -6610,21 +6617,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　その日よりカロンの頭からヘイスが離れなくなった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　自分の美貌だけを見る男たち。自分を利用しようとする者たち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カロンは自身が孤独であることを久々に思い出した。"
+                                ""
                             ]
                         },
                         {
@@ -6641,6 +6641,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Caron thought that this person might be able to fill her\nloneliness... What Caron sought from Heis was simple but\nimportant. In other words, it was the obvious fact that\npeople cannot live alone."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -6648,21 +6655,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　この人は孤独を埋めてくれるかもしれない……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　カロンがヘイスに求めたものは単純だが大切なものだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　つまり人はひとりでは生きられないという当たり前のことだった。"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "入り江の洞窟最奥",
+    "displayName": "Innermost Cave of the Inlet",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6373,7 +6373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -6419,14 +6419,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6673,7 +6673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -6719,14 +6719,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6973,7 +6973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -7019,14 +7019,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -7401,14 +7401,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: This is in the way. Let's move it aside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「邪魔ですねこれ。横にどかしましょう」"
+                                ""
                             ]
                         },
                         {
@@ -8932,21 +8932,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: Hmm~ This place isn't bad at all, but it's\ndifficult to obtain research materials."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「んん〜なかなかどうして"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここは悪くないですが研究材料の入手が困難ですねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -8963,21 +8963,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: I'm getting tired of experimenting with fish...\nFish, fish, fish... Maybe I should go to Mucos next!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魚相手の実験も飽きてきました……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魚、魚、魚……次はミュコスにでもいきましょうか！」"
+                                ""
                             ]
                         },
                         {
@@ -9381,21 +9381,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I was able to make a request to the Magic Academy.\nAre you sure you're Mage Lapis?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法アカデミーの依頼できました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたは魔法使いラピスで間違いないですか？」"
+                                ""
                             ]
                         },
                         {
@@ -9419,21 +9419,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Aren't you surprised? It's no big deal for me to\nfind you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「驚いて声も出ませんか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたを探し出すことなんて造作もないことです！」"
+                                ""
                             ]
                         },
                         {
@@ -9457,14 +9457,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Now, tell me quietly where Monosan is!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、大人しくモノさんの居場所を教えてください！」"
+                                ""
                             ]
                         },
                         {
@@ -9518,21 +9518,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Hey! Are you listening to me? It's about\nMonosan's whereabouts!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ちょっと！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクの話を聞いていますか、モノさんの居場所です！」"
+                                ""
                             ]
                         },
                         {
@@ -9565,21 +9565,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: Wow, there are four of you! And there are even\nrare races among you. Ah, today is a wonderful day!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すごいですねぇ、４人ですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それに珍しい人種もいます、あぁ、今日は素晴らしい日だ！」"
+                                ""
                             ]
                         },
                         {
@@ -9596,21 +9596,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: Do you understand the meaning of what I'm\nsaying? No, I don't need any pointless understanding, I'm\nsorry!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私が話している意味はわかりますか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いえ、くだらない理解は不要です、まっぴらごめんです！」"
+                                ""
                             ]
                         },
                         {
@@ -9641,14 +9641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Th-This person... is scary, it feels...\ncreepy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、この人……怖い、き、気持ちが悪いです」"
+                                ""
                             ]
                         },
                         {
@@ -9802,14 +9802,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Th-This statue... could it be...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、この石像って……もしかして……！」"
+                                ""
                             ]
                         },
                         {
@@ -9953,21 +9953,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: Yes, it's my creation! I turned my lover into a\nstatue! They will be together for eternity!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、私の作品です！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　恋人を石像にしたのです！　ふたりは永遠となりました！」"
+                                ""
                             ]
                         },
                         {
@@ -10108,21 +10108,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: There are still many more! I am an artist, you\nknow, it's pointless--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「他にもまだまだありますよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私は芸術家なのです、わかりますか、いえくだらない――」"
+                                ""
                             ]
                         },
                         {
@@ -10174,21 +10174,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: That's enough. Since you are Mage Lapis, I will\ndefeat you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もう結構です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたが魔法使いラピスである以上は倒します」"
+                                ""
                             ]
                         },
                         {
@@ -10212,14 +10212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Yes, I think it's a waste of time to continue\nany further."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうですね、ボクもこれ以上は時間の無駄だと思います」"
+                                ""
                             ]
                         },
                         {
@@ -10243,14 +10243,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Let's defeat them first and then hear\ntheir story."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まずは倒してからお話を聞きましょう」"
+                                ""
                             ]
                         },
                         {
@@ -10274,14 +10274,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Here I go!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いきます！」"
+                                ""
                             ]
                         },
                         {
@@ -10555,14 +10555,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Ugh... I can't believe they're this strong..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「うぅ……こんなに強いなんて……」"
+                                ""
                             ]
                         },
                         {
@@ -10586,21 +10586,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔術師ラピス"
+                                "Mage Lapis: Wonderful, wonderful! It's been a while since\nI've had such an exciting experience!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「素晴らしい、素晴らしいです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ここまで刺激的な経験は久々ですね！」"
+                                ""
                             ]
                         },
                         {
@@ -10617,21 +10617,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔術師ラピス"
+                                "Mage Lapis: Since the time I experimented with petrifying\nonly the pregnant belly to see what would happen to the\nfetus, it may have been a while!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「妊婦のお腹だけを石化させて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　胎児がどうなるか検証した時、以来かもしれません！」"
+                                ""
                             ]
                         },
                         {
@@ -10655,21 +10655,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (If I don't find an opening and counterattack...\nit's only me... I have to do something somehow...!)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（隙きを見て反撃しないと……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　あたしだけ……あたしがどうにかしないと……！）"
+                                ""
                             ]
                         },
                         {
@@ -10974,14 +10974,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: These are butterflies... gathering... nooo!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「これは蝶々……集まって……いやぁっー！」"
+                                ""
                             ]
                         },
                         {
@@ -11172,21 +11172,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔術師ラピス"
+                                "Mage Lapis: Did I surprise you? You were surprised, right?\nIt's quite shocking, isn't it?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「驚かせてしまいましたか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　驚きましたよね、そうですよね、びっくりですよね！？」"
+                                ""
                             ]
                         },
                         {
@@ -11203,14 +11203,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔術師ラピス"
+                                "Mage Lapis: But the real surprise starts from here!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「でも本当に驚くのはここからですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -11292,14 +11292,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: W-What are you... doing to me--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あ、あたしに……何を――」"
+                                ""
                             ]
                         },
                         {
@@ -11323,21 +11323,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔術師ラピス"
+                                "Mage Lapis: This is just the beginning, don't rush! The\nreal greatness starts from here, are you ready?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「これからです、焦らないで！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ここからが素晴らしいのです、準備はいいですか？」"
+                                ""
                             ]
                         },
                         {
@@ -11456,7 +11456,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -11573,14 +11573,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　戦闘からやり直しますか？"
+                                "Do you want to retry the battle? If you choose No, it\nwill result in a game over."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　※「いいえ」を選ぶとゲームオーバーになります"
+                                ""
                             ]
                         },
                         {
@@ -12335,21 +12335,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: This is the end of the battle! Now, please tell\nme the whereabouts of the person from the Magic Academy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これで勝負ありですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁ、魔法アカデミーのモノさんの行方を教えてください」"
+                                ""
                             ]
                         },
                         {
@@ -12373,21 +12373,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: H-How cruel...! My body hurts, even my bones\nare broken, why would you do such a thing!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「な、なんてひどいことを……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　身体が痛い、骨だって折れていますよ、なんでこんなことを！」"
+                                ""
                             ]
                         },
                         {
@@ -12404,21 +12404,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: I was just dedicated to studying magic! Why\nwon't you accept me, why won't you try to understand me!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私はただ魔法研究に勤しんでいただけ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　なぜ私を受け入れない、なぜ私を理解しようとしない！？」"
+                                ""
                             ]
                         },
                         {
@@ -12442,21 +12442,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's because you don't try to understand that\nyou wish to be understood, even though you don't understand\nothers."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたが理解しようとしないからですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　相手を理解しない癖に理解されることを望む」"
+                                ""
                             ]
                         },
                         {
@@ -12473,14 +12473,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Listening to your words... makes me feel\nuncomfortable."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたの言葉を聞いていると……嫌な気持ちになります」"
+                                ""
                             ]
                         },
                         {
@@ -12504,14 +12504,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: Is it because you are also like me?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたも私と同類だからでは？」"
+                                ""
                             ]
                         },
                         {
@@ -12551,14 +12551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I-I am...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ぼ、ボクは……！」"
+                                ""
                             ]
                         },
                         {
@@ -12591,21 +12591,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: Well, the whereabouts of the item... haha, I\ndon't know! I sold it as a rare sculpture, so who knows\nwhere it is now."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて、モノの行方ですか……あはは知りません！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　珍しい彫刻品として売ってしまったのでどこにいるやら」"
+                                ""
                             ]
                         },
                         {
@@ -12622,21 +12622,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: Perhaps I was bought by a noble! If that's the\ncase, I might be living a quite luxurious life!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もしかしたら貴族に買われたかもしれません！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そうなればなかなか豪華な暮らしをしているかも！」"
+                                ""
                             ]
                         },
                         {
@@ -12739,14 +12739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Please don't say anything more."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……これ以上、話さないでください」"
+                                ""
                             ]
                         },
                         {
@@ -12793,21 +12793,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いラピス"
+                                "Mage Lapis: Even without being told, I will do it! Now,\nbehold the final magic of Mage Lapis!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「言われなくてもそうしますよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁ、魔法使いラピス最後の魔法をご覧くださいっ！」"
+                                ""
                             ]
                         },
                         {
@@ -12852,21 +12852,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Everyone, stay back! She's still hiding\nsomething, she intends to do something!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「全員離れてっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まだ何か隠してる、何かするつもりよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -14155,21 +14155,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: T-That was a close call! Thank you, Sophia-\nsan!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「き、危機一髪でしたぁ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ソフィアさん、ありがとうございます！」"
+                                ""
                             ]
                         },
                         {
@@ -14274,21 +14274,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I'm different... from humans like you... I'm\ndifferent..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクは違います……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたみたいな人間とは……違うんです……」"
+                                ""
                             ]
                         },
                         {
@@ -14350,21 +14350,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: You're different from those monsters, Relm-san. We're\nhere for you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あんな怪物とは違います"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　リルムさんには私たちがいますから」"
+                                ""
                             ]
                         },
                         {
@@ -14466,21 +14466,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Th-There's no need to say such things! Now,\nlet's go back and report to Mr. Doxa!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、そんなこと言われるまでもありません！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁ、ドクサさんに報告をしに戻りますよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -14790,14 +14790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Oh my, you're not being honest, are you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あらあら、素直じゃないですわね」"
+                                ""
                             ]
                         },
                         {
@@ -14821,14 +14821,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go too."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちもいきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -16053,14 +16053,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "It seems to be a pedestal for placing something."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　何かをのせるための台座のようだ"
+                                ""
                             ]
                         },
                         {
@@ -16616,14 +16616,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Do you want to place the crystal on the pedestal?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クリスタルを台座に設置しますか？"
+                                ""
                             ]
                         },
                         {
@@ -16669,14 +16669,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (I have a bad feeling about this...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（嫌な予感がしますね……）"
+                                ""
                             ]
                         },
                         {
@@ -16908,21 +16908,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It should be the same mechanism as last time.\nPlease be careful, as the illusion of a demon might appear\nagain."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「おそらく前回と同じ仕組みのはずです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　気をつけてくださいね、また悪魔の幻影が出てくるはず」"
+                                ""
                             ]
                         },
                         {
@@ -17017,21 +17017,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (Why would someone with such advanced knowledge\nand magical power to create illusions like that go\nmissing...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（あれほど高度な幻影を生み出す知識と魔力"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　そんな人間がなんで行方不明になるのか……）"
+                                ""
                             ]
                         },
                         {
@@ -17109,21 +17109,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (If there's a high possibility of being alive, why\nwouldn't they come back to the Magic Academy...?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（生きている可能性が高い"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ならどうして魔法アカデミーに戻ってこない……？）"
+                                ""
                             ]
                         },
                         {
@@ -17232,21 +17232,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いアルブスの幻影"
+                                "Mage Albus's illusion: It seems like a miracle created by\nan ancient civilization! And it's also a miracle to have met\na genius who can unravel this!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「古代文明が作り出した奇跡としか思えない！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　そしてこれを解明できる天才と出会ったのもまた奇跡だ！」"
+                                ""
                             ]
                         },
                         {
@@ -17270,21 +17270,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いアルブスの幻影"
+                                "Mage Albus's illusion: But... I wonder if it's really\nokay... Heading towards a place where we can't turn back...\nThat's how I feel."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「だが……本当に大丈夫だろうか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　引き返せない場所に向かっている……そんな気がする」"
+                                ""
                             ]
                         },
                         {
@@ -17308,21 +17308,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いアルブスの幻影"
+                                "Mage Albus's illusion: No, no! Why are you being so\npessimistic! Come on, we have to face Euan's big mouth\nnext."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いやいや！　何を弱気になっているんだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　さぁ、次はユアンの大口に向かわなくては」"
+                                ""
                             ]
                         },
                         {
@@ -17441,14 +17441,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I sense confusion and fear from him."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「彼から戸惑いや恐怖のようなものを感じますわ」"
+                                ""
                             ]
                         },
                         {
@@ -17486,21 +17486,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I feel like I somewhat understand it now. That's\nwhat it means to be a researcher, that's what it means."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「いまのボクなら何となくわかる気がします"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　研究者とはそういうものです、そういうものなのです」"
+                                ""
                             ]
                         },
                         {
@@ -17531,21 +17531,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Even if I know there is no path ahead, I will\nnever allow my curiosity to stop."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「その先に道がないとわかっていても"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　探究心が足を止めることを絶対に許さない」"
+                                ""
                             ]
                         },
                         {
@@ -17576,14 +17576,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Relm-san stopped, so it's okay!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「リルムさんは止まれたから大丈夫ですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -17637,14 +17637,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, I also think so."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「はい、私もそう思います」"
+                                ""
                             ]
                         },
                         {
@@ -17682,21 +17682,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Of course! I'm not just a genius, I'm a super\ngenius!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「と、当然ですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ボクは天才ではなく大天才ですからねっ！」"
+                                ""
                             ]
                         },
                         {
@@ -17727,14 +17727,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Oh my, your face is all red, isn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あらあら、顔が真っ赤ですわね」"
+                                ""
                             ]
                         },
                         {
@@ -17772,21 +17772,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Y-You're so noisy! Next, we're heading towards\nEuan's big mouth!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「う、うるさいですね！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　次はユアンの大口に向かいますよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -18016,14 +18016,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "It seems that the pedestal has lost its functionality."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　台座は機能を失ったようだ"
+                                ""
                             ]
                         },
                         {

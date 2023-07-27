@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "黄金街道入口",
+    "displayName": "Golden Street Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2536,14 +2536,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (If we don't ensure safety)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（安全の確保をしないと）"
+                                ""
                             ]
                         },
                         {
@@ -2723,14 +2723,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: ...hmm"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……っむ」"
+                                ""
                             ]
                         },
                         {
@@ -2754,14 +2754,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is something wrong?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうかしましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -2785,21 +2785,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: A place with many large rocks\nwould be perfect for hiding and launching surprise attacks."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大岩が多い場所"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　隠れて襲いかかるにはちょうどいい」"
+                                ""
                             ]
                         },
                         {
@@ -2816,21 +2816,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: Clea, I want you to go ahead and\ncheck if there are any enemies."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレア、先行して"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　敵がいないか確認して欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -2854,14 +2854,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, I will secure the area for safety."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、安全を確保してきます」"
+                                ""
                             ]
                         },
                         {
@@ -2885,21 +2885,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: Leave the crystal to me, I won't\nlet anyone lay a finger on it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クリスタルは私にまかせて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　誰にも指一本触れさせはしない」"
+                                ""
                             ]
                         },
                         {
@@ -3005,14 +3005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Oros Region/Golden Highway\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLオロス地方/黄金街道\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -3575,14 +3575,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (If we don't ensure safety)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（安全の確保をしないと）"
+                                ""
                             ]
                         },
                         {
@@ -3812,14 +3812,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (If we don't ensure safety)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（安全の確保をしないと）"
+                                ""
                             ]
                         },
                         {
@@ -4696,14 +4696,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人風の男"
+                                "Is there something you need from me, as a merchant-like\nman?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私に何か御用でしょうか？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Clea: It's an area where bandits appear. I think it's\nbetter not to pass through without an escort."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4734,21 +4772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「山賊が出る地域です"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　護衛なしで通過しない方がいいと思いますが」"
+                                "Merchant-like man: Do not worry! I am here waiting for the\nescorts to gather."
                             ]
                         },
                         {
@@ -4759,34 +4783,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　商人風の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ご心配なさらず！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ここで護衛たちと待ち合わせをしているのです」"
+                                ""
                             ]
                         },
                         {
@@ -4848,21 +4848,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Bandit Nora: I smell blood! Clea-san, could it be... this\nperson...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「血の匂いがしますよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クレアさんもしかして……この人が……！」"
+                                ""
                             ]
                         },
                         {
@@ -4893,14 +4893,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: You are the fugitive Zagaru, aren't you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたが逃亡犯のザガルですね」"
+                                ""
                             ]
                         },
                         {
@@ -4931,14 +4931,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　逃亡犯ザガル"
+                                "Fugitive Zagaru: Those guys sold me out..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつら俺を売りやがったな……」"
+                                ""
                             ]
                         },
                         {
@@ -5288,21 +5288,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　逃亡犯ザガル"
+                                "Fugitive Zagaru: I'm just moments away from escaping, and\nI'll make sure you all die!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あと少しでオロスなんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんたたちには死んでもらうぜ！」"
+                                ""
                             ]
                         },
                         {
@@ -5509,14 +5509,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We were able to capture him safely, huh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「無事に捕まえることができましたね」"
+                                ""
                             ]
                         },
                         {
@@ -5547,14 +5547,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's hand him over to the guards of Valie."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バリエの衛兵の方に引き渡しましょう」"
+                                ""
                             ]
                         },
                         {

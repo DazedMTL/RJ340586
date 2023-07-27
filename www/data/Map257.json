@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "裁きの跡封印の扉",
+    "displayName": "Door of the Sealed Remnants of Judgment",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4587,14 +4587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like she's not here. Let's search somewhere\nelse."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここにはいないようですね。別の場所を探しましょう」"
+                                ""
                             ]
                         },
                         {
@@ -4718,7 +4718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　穴を調べますか？"
+                                "Do you want to investigate the hole?"
                             ]
                         },
                         {
@@ -4764,14 +4764,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then do it)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4902,14 +4902,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: There's no time... that's a scream, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「後がない……という叫び声ですね」"
+                                ""
                             ]
                         },
                         {
@@ -4952,14 +4952,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go all out without holding back!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「私たちも出し惜しみなしの全力でいきましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -5534,14 +5534,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Finally, we defeated it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「ようやく倒せましたね」"
+                                ""
                             ]
                         },
                         {
@@ -5783,21 +5783,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　研究者ドクサ"
+                                "Researcher Dokusa: I heard the death throes of the monster!\nWell done for defeating the monster with the mark of\njudgment!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「怪物の断末魔が聞こえたぞ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　よくぞ、裁きの跡の怪物を倒してくれた！」"
+                                ""
                             ]
                         },
                         {
@@ -5945,14 +5945,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: They were really persistent opponents."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「本当にしつこい相手でしたよ」"
+                                ""
                             ]
                         },
                         {
@@ -5976,14 +5976,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: By the way, do you know about this door?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「ところでこの扉を知っていますか？」"
+                                ""
                             ]
                         },
                         {
@@ -6140,21 +6140,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Is it something that the Academy, to which I\nbelong, is hiding? I haven't heard about it..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「アカデミー所属のボクが知らない……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　噂になっているアカデミーが隠している何かですか？」"
+                                ""
                             ]
                         },
                         {
@@ -6187,21 +6187,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　研究者ドクサ"
+                                "Researcher Dokusa: I've heard that this place is where the\nfirst Magic Academy was located. It seems that very few\npeople have actually been here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「この先は初代魔法アカデミーがあった場所だと聞いている"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　実際にこの先に行ったことがある人間はごくわずかだそうだ」"
+                                ""
                             ]
                         },
                         {
@@ -6218,14 +6218,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　研究者ドクサ"
+                                "Researcher Dokusa: I myself have applied many times, but I\nwas not approved."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「私自身も何度も申請をしたが通らなかった」"
+                                ""
                             ]
                         },
                         {
@@ -6249,14 +6249,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Well, it doesn't seem to have anything to do\nwith my dream, so it's fine."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「まぁ、ボクの夢とは関係がなさそうですからいいんですけどね」"
+                                ""
                             ]
                         },
                         {
@@ -6280,21 +6280,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Anyway, let's go back to the Academy! My dream\nwill be recognized properly, and my magical power will be\nrestored!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「それよりもアカデミーに戻りましょう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　ボクの夢が正当に認められ、魔力も返ってきますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -6627,21 +6627,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: R-Relm-san! It's dangerous to run in the\ndesert, you know~!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「り、リルムさんっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　砂漠で走ったら危ないですよぉっ〜！」"
+                                ""
                             ]
                         },
                         {
@@ -6836,14 +6836,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Do you really not know anything?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「本当に何も知らないんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -6898,21 +6898,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　研究者ドクサ"
+                                "Researcher Dokusa: I won't lie to you. The Archmage called\nthis place the beginning."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「君たちに嘘はつかないさ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　アークメイジはここをはじまりの場所と呼んでいた」"
+                                ""
                             ]
                         },
                         {
@@ -6936,14 +6936,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is this the beginning?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「はじまりですか？」"
+                                ""
                             ]
                         },
                         {
@@ -6967,14 +6967,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　研究者ドクサ"
+                                "Researcher Dokusa: And also the place of the end."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「そして終わりの場所だとも」"
+                                ""
                             ]
                         },
                         {
@@ -6991,21 +6991,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　研究者ドクサ"
+                                "Researcher Dokusa: As I mentioned earlier, I am\ninvestigating the remains of a dragon. If I make any\ninteresting discoveries, I will definitely share them with\nall of you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「先程も話したがドラゴンの遺体の調査をしているんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　面白い発見があったら君たちにも必ず共有させてもらうよ」"
+                                ""
                             ]
                         },
                         {
@@ -7089,14 +7089,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (The place of beginning and end...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（はじまりと終わりの場所……）"
+                                ""
                             ]
                         },
                         {
@@ -7113,14 +7113,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (What kind of beginning and what kind of end is\nthis...?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（何のはじまりで何の終わりなのでしょうか……？）"
+                                ""
                             ]
                         },
                         {
@@ -7756,21 +7756,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: A sealing magic that has been layered multiple\ntimes... What could possibly be beyond this...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何重にもかけられた封印魔法……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この先にはとんでもない何かがある……？」"
+                                ""
                             ]
                         },
                         {
@@ -8950,21 +8950,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I used to think that most of the legends told by\nthe Terios religion were lies, and that the true heroes were\nthe most important."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクはテリオス教の語る伝説は"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ほとんどが嘘で勇者は最たるものだと思ってました」"
+                                ""
                             ]
                         },
                         {
@@ -8995,14 +8995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: But they actually existed... and they still\nexist to this day."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「でも実在した……そして、いまだに実在している」"
+                                ""
                             ]
                         },
                         {
@@ -9040,21 +9040,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: The heroes were created by the goddess to defeat\nthe demons that couldn't be sealed, and even after\neverything has ended, they still wander the world without\nbeing released."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「勇者は封印できなかった悪魔を倒すために女神に作られて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　すべてが終わっても未だに解放されずに世界をさまよっている」"
+                                ""
                             ]
                         },
                         {
@@ -9085,14 +9085,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: That's such a terrible story, isn't it..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それって、あまりにひどい話ですよね……」"
+                                ""
                             ]
                         },
                         {
@@ -9130,21 +9130,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: But that's because there are humans like me...\nwho become a threat to the world."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「でもそれは、ボクみたいな……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　世界の脅威になるような人間がいるからで」"
+                                ""
                             ]
                         },
                         {
@@ -9175,21 +9175,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: There's no need to put everything into\nwords forcefully."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「無理に全部を言葉にする必要はないですわ」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -9220,21 +9220,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Besides, it is impossible for us to\nunderstand those who have deviated from the principles of\nlife with our common sense."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それに、生命の理から外れてしまった方を"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わたくしたちの常識で理解するのは不可能ですわ」"
+                                ""
                             ]
                         },
                         {
@@ -9281,21 +9281,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Just like the Archmage who lost her name only to be\nknown by her title, there are others who have only their\nroles remaining)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（肩書だけで名前を失ってしまった人"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アークメイジさんも同じだ、役割だけが残った人たち）"
+                                ""
                             ]
                         },
                         {
@@ -9326,21 +9326,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Then, what am I... I have a name, but I don't\nunderstand my true purpose)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（じゃあ、私はなんだろう……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　名前はあるけど本当の意味での役割がわからない）"
+                                ""
                             ]
                         },
                         {
@@ -9371,14 +9371,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Is this what the Guild Master refers to as a\nsomeone?)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（これがギルド長の言う【何者】ということなのでしょうか？）"
+                                ""
                             ]
                         },
                         {
@@ -9416,14 +9416,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: By the way, the sword that the hero has is\namazing!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それにしても勇者さんの持っている剣はすごいですね！」"
+                                ""
                             ]
                         },
                         {
@@ -9461,14 +9461,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: With that, it seems like I can do anything!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あれなら何でもできちゃいそうです！」"
+                                ""
                             ]
                         },
                         {
@@ -9506,21 +9506,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: If it's according to the myth, it's a\nsword blessed by the protection of the three goddesses,\nbearing the name of the supreme god, Sol."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「神話通りであれば"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　主神ソールの名を冠した三女神の加護を受けた剣ですわ」"
+                                ""
                             ]
                         },
                         {
@@ -9551,14 +9551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: To be able to cut through everything that\nexists in this world..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この世に存在するすべてのものを斬り裂くことが……」"
+                                ""
                             ]
                         },
                         {
@@ -9639,21 +9639,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: The chains of the full moon in the underground of the\nAtomis Temple... If we could get some cooperation, we might\nbe able to cut them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アトミス神殿地下の満月の鎖……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　協力をしていただければ切断できるかもしれませんね」"
+                                ""
                             ]
                         },
                         {
@@ -9684,14 +9684,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's have a discussion."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「相談をしてみましょう」"
+                                ""
                             ]
                         },
                         {
@@ -10055,14 +10055,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                ""
                             ]
                         },
                         {
@@ -10108,14 +10108,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -10827,14 +10827,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: So you've finally made it this far."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「遂にここまでたどり着いてしまったか」"
+                                ""
                             ]
                         },
                         {
@@ -10908,21 +10908,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Archmage...! Why are you getting in my way!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アークメイジ……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　なんでボクの邪魔をするんですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -10953,21 +10953,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: The Magic Academy conducts various research,\nisn't my research also within that scope...?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法アカデミーは様々な研究を行っています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクの研究もその範疇じゃないですか……！」"
+                                ""
                             ]
                         },
                         {
@@ -11014,21 +11014,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: Let's talk about something from a little while\nago, it's a story from over 50 years ago..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「少しむかし話をしよう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もう50年以上もむかしの話じゃ……」"
+                                ""
                             ]
                         },
                         {
@@ -11059,21 +11059,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: The young man had the same dream as you and\nentered the academy to create a magic book that seals the\ndemons created by Subma."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「青年は君と同じ夢を見てアカデミーに入った"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　サブマの生み出した悪魔を封じた魔導書の製作」"
+                                ""
                             ]
                         },
                         {
@@ -11104,21 +11104,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: The most who gathered materials and conducted\nresearch just like you... although I couldn't obtain the\ncorpse of a dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君と同じように材料を集め研究をした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もっとも……ドラゴンの死体だけは入手できなかったが」"
+                                ""
                             ]
                         },
                         {
@@ -11165,21 +11165,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: And foolishly, the young man who met him thought\nof summoning a dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そして彼と出会った"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　愚かにもドラゴンを召喚しようと考えた青年の元にだ」"
+                                ""
                             ]
                         },
                         {
@@ -11210,14 +11210,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Him... Could it be...!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「彼って……まさかっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -11255,21 +11255,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: It was that bard who warned me, telling me not to\nbecome an enemy of the world."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの吟遊詩人じゃよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そして警告をされたのだ、世界の敵にならないように、と」"
+                                ""
                             ]
                         },
                         {
@@ -11300,21 +11300,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: The Magic Academy is a dangerous entity beyond\nwhat you can imagine. I don't know what motivates him to\njudge and target others."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君が考える以上に魔法アカデミーは危うい存在だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何が彼を動かし裁きの対象にするのかわからないからな」"
+                                ""
                             ]
                         },
                         {
@@ -11345,21 +11345,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: The remnants of this judgment are proof of\nthat... The old Magic Academy was annihilated in an instant\nby him, along with the entire city."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この裁きの跡はその証明じゃ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　旧魔法アカデミーは彼によって一瞬で都市ごと滅ぼされた」"
+                                ""
                             ]
                         },
                         {
@@ -11399,21 +11399,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: This place, where I have come to know the truth\nof everything, is both the beginning and the end for me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すべての真実を知った場所"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここはわしにとってはじまりであり終わりの場所だ」"
+                                ""
                             ]
                         },
                         {
@@ -11444,21 +11444,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: Since the day the old Academy disappeared, it has\nbeen the role of the Archmage to put an end to research that\nthe bard considers dangerous."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「旧アカデミーが消えた日からアークメイジの役割は決まった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　吟遊詩人が危険視するような研究をやめさせるというものだ」"
+                                ""
                             ]
                         },
                         {
@@ -11489,14 +11489,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: You can still turn back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君はまだ引き返せる」"
+                                ""
                             ]
                         },
                         {
@@ -11527,14 +11527,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: This is the end of your dream."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここが君の夢の終わりだ」"
+                                ""
                             ]
                         },
                         {
@@ -11588,21 +11588,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: This isn't the end! I haven't... I haven't\naccepted anything yet!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「終わりなんかじゃありません！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクはまだ何も……何も納得していませんっ！」"
+                                ""
                             ]
                         },
                         {
@@ -11633,14 +11633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: Are you all also involved?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たちもかな？」"
+                                ""
                             ]
                         },
                         {
@@ -11678,21 +11678,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I may not understand complicated things, but I intend\nto stay with Relm until she is satisfied."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私は難しいことはわかりません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ただ、リルムさんが納得するまで付き合うつもりです」"
+                                ""
                             ]
                         },
                         {
@@ -11723,21 +11723,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Ah, me too! Since you've helped me a lot, I'll\nreturn the favor."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、あたしもです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いっぱい手伝ってもらったので、お返しをします」"
+                                ""
                             ]
                         },
                         {
@@ -11768,21 +11768,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I think Relm-chan is stubborn, so she\nwon't be satisfied unless she goes deeper into it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「リルムちゃんは頑固ですから"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　その奥に行かないと納得しないと思いますわ」"
+                                ""
                             ]
                         },
                         {
@@ -11829,21 +11829,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: There is a tradition where the Archmages of the\npast are given names based on their achievements after their\ndeath."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「歴代のアークメイジは死後に"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　その功績によって呼び名が与えられる慣例がある」"
+                                ""
                             ]
                         },
                         {
@@ -11874,14 +11874,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: In my case, I will probably be called like\nthis--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私の場合はおそらくこう呼ばれるだろう――」"
+                                ""
                             ]
                         },
                         {
@@ -11967,21 +11967,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: I can't compete with your age... No, it's\nprobably because you all have become too strong..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「歳には勝てんか……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いや君たちが強くなりすぎたのだろう……」"
+                                ""
                             ]
                         },
                         {
@@ -12028,21 +12028,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: I won't do anything to stop you anymore, but I\nhave one request."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もう止めるようなことはしない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ただ、ひとつだけ約束をして欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -12066,21 +12066,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: If you determine that her dream is dangerous, I\nwant you all to stop her..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「彼女の夢が危険だと判断したら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちが彼女を止めて欲しい……」"
+                                ""
                             ]
                         },
                         {
@@ -12111,21 +12111,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アークメイジ"
+                                "Archmage: We must never let Kanonas... No, the Empire may\nbe destroyed... Please, I beg you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「絶対に彼を動かしてはいけない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　カノナスが……いや帝国が滅ぶかもしれん……頼む」"
+                                ""
                             ]
                         },
                         {

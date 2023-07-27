@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "アスピダ同盟の廃城最上階",
+    "displayName": "Top Floor of the Abandoned Castle of the Aspida Alliance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4171,14 +4171,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                ""
                             ]
                         },
                         {
@@ -4224,14 +4224,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4327,14 +4327,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's proceed further."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「奥に進みましょう」"
+                                ""
                             ]
                         },
                         {
@@ -4989,21 +4989,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アスピダ同盟戦士長"
+                                "Aspida Alliance Warrior Captain: Let us give thanks to the\ngoddess Actina! She has provided us with the perfect\nopportunity to avenge ourselves!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「女神アクティナに感謝をしよう！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　雪辱を晴らす最高の機会を用意してくれたことを！」"
+                                ""
                             ]
                         },
                         {
@@ -5036,14 +5036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アスピダ同盟戦士長"
+                                "Aspida Alliance Warrior Captain: Hahaha, you can't even\nscream in fear!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はははっ、恐怖で声も出ないか！」"
+                                ""
                             ]
                         },
                         {
@@ -5081,14 +5081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ここで戦って大丈夫ですか？」"
+                                "Clea: Is it safe to fight here?"
                             ]
                         },
                         {
@@ -5096,37 +5089,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アスピダ同盟戦士長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「どういう意味だ？」"
                             ]
                         },
                         {
@@ -5157,14 +5119,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Aspida Alliance Warrior Captain: What do you mean?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「後ろは壁で最上階。逃げられませんよ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Clea: There's a wall behind us and it's the top floor.\nThere's no way to escape."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5204,14 +5204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アスピダ同盟戦士長"
+                                "Aspida Alliance Warrior Captain: You dare to mock me?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「貴様ぁっ！　この私を愚弄するつもりかぁっ！」"
+                                ""
                             ]
                         },
                         {
@@ -5249,21 +5249,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Mocking... it was you who mocked our lives!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「愚弄したのは……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　命を愚弄したのはお前たちでしょう！」"
+                                ""
                             ]
                         },
                         {
@@ -5294,21 +5294,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: You can't escape from here... No, I won't let you\nescape. So be prepared!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここから逃げられませんよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いえ……絶対に逃しませんから、覚悟してください！」"
+                                ""
                             ]
                         },
                         {
@@ -5478,21 +5478,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It's over... Let's go back and report to Cresso-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「終わりましたね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クレッソさんに報告に戻りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -5523,14 +5523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: There are so many weapons and armor here!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「武器や防具がいっぱいありますね！」"
+                                ""
                             ]
                         },
                         {
@@ -5568,14 +5568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: They must have stolen these things."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「彼らが奪ってきたものでしょう」"
+                                ""
                             ]
                         },
                         {
@@ -5993,14 +5993,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: This clothing..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この服は……」"
+                                ""
                             ]
                         },
                         {
@@ -6047,14 +6047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: What's wrong with this clothing?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この服がどうかしましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -6092,21 +6092,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: This is the clothing worn by the Imperial\nDark Division's combatants, the right leg of the demon\nIshekel..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悪魔イシェケルの右足……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国暗部イシェケルの戦闘員が着る服ですわ」"
+                                ""
                             ]
                         },
                         {
@@ -6137,21 +6137,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's burn it all down, for the sake of those who\nhave been stolen from, including Sophia-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「焼き払いましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ソフィアさんにとっても奪われた人のためにも」"
+                                ""
                             ]
                         },
                         {
@@ -6182,14 +6182,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: May I share my thoughts with you?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わたくしの考えを聞いてもらっていいかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -6227,14 +6227,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: If possible, I would like Clea-chan to\nwear this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「出来ればこれをクレアちゃんに着て欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -6281,21 +6281,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: The person who wore this clothing must\nhave killed many people for the sake of the empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この服を着ていた人間は"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　たくさんの人々を帝国にためにと殺害してきたはず」"
+                                ""
                             ]
                         },
                         {
@@ -6326,21 +6326,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Because it is such a sinful thing, I want\nit to be used to save as many people as possible, even if\nit's just one person."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そんな罪深いものだからこそ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ひとりでも多くの人間を救うために使って欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -6380,14 +6380,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Is it wrong for me to be selfish?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わたくしのワガママはだめかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -6425,21 +6425,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I understand. If that's how Sophia-san can be\nsaved..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それでソフィアさんが救われるのなら」"
+                                ""
                             ]
                         },
                         {
@@ -6470,14 +6470,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Thank you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとう」"
+                                ""
                             ]
                         },
                         {
@@ -6714,21 +6714,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: There are dangerous tools scattered around, like\nthe armor that man was wearing earlier."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さっきの男が着ていた鎧といい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　危険な道具がゴロゴロとしていますね」"
+                                ""
                             ]
                         },
                         {
@@ -6759,21 +6759,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It might be a good idea to consult with the Bulk\nBrigade, the Adventurer's Guild, and even the Magic\nAcademy..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バルク団や冒険者ギルド……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法アカデミーにも相談した方がいいかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -6804,21 +6804,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood. Let's start by reporting to Cresso-san\nfirst."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まずはクレッソさんに報告することからはじめましょう」"
+                                ""
                             ]
                         },
                         {

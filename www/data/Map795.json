@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "暗部の牢獄",
+    "displayName": "Prison of Darkness",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4125,14 +4125,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部構成員"
+                                "Imperial Dark Ops Member: Looks like she fainted from the\npain."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「っち、痛みで失神したみたいだな」"
+                                ""
                             ]
                         },
                         {
@@ -4163,14 +4163,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部構成員"
+                                "Imperial Dark Ops Member: She's broken, so please fix her\nas usual."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「壊れたから、いつものように治してくれ」"
+                                ""
                             ]
                         },
                         {
@@ -4226,21 +4226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「この男はもう３日も吐いていません"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　今回の事件のことは何も知らないのでは？」"
+                                "Imperial Dark Ops Alicia: This man hasn't vomited for three\ndays. Does he really not know anything about the incident\nthis time?"
                             ]
                         },
                         {
@@ -4248,106 +4234,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国暗部構成員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「そろそろ覚えてくれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ここに来た時点で【クロ】なんだよ、アリシア」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国暗部構成員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「結果的に【シロ】だったとしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　死ぬまでこいつは【クロ】として俺たちは調査する」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国暗部アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「しかし――」"
                             ]
                         },
                         {
@@ -4378,21 +4264,135 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部構成員"
+                                "Imperial Dark Ops Member: Remember, you were already a\n'Crow' when you came here, Alicia."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前の言いたいことはわかる"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だが、これが帝国暗部イシェケルに与えられた仕事だ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Imperial Dark Ops Member: Even if she turns out to be\ninnocent, we will investigate her as a 'Crow' until she\ndies."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Imperial Dark Ops Alicia: However--"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Imperial Dark Ops Member: I understand what you're trying\nto say, but this is the task given to the Imperial Dark Ops\nIshekel."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4425,21 +4425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部構成員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「俺は今日までに数多くの同僚を失った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　戦闘部隊のやつはもちろん、拷問官もだ」"
+                                "Imperial Dark Ops Member: I've lost numerous comrades from\nthe combat unit, as well as the interrogators, up until\ntoday."
                             ]
                         },
                         {
@@ -4447,30 +4433,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帝国暗部アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「拷問官がどうして……まさか」"
                             ]
                         },
                         {
@@ -4501,21 +4463,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部構成員"
+                                "Imperial Dark Ops Alicia: Why... the interrogator, could it\nbe..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「全員自殺だよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まともでいる贅沢は捨てろ、アリシア」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Imperial Dark Ops Member: Everyone commit suicide. Get rid\nof any luxury of being sane, Alicia."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4629,21 +4629,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部構成員"
+                                "Imperial Dark Ops Member: This is the only medicine for her\nto survive here. What's the point of surviving if she can't\ndo anything..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こいつが、ここで生き残るための唯一の薬さ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もっとも生き残ってどうするって話だがな……」"
+                                ""
                             ]
                         },
                         {
@@ -4667,14 +4667,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部アリシア"
+                                "Imperial Dark Ops Alicia: ...I'll take it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……受け取っておきます」"
+                                ""
                             ]
                         },
                         {
@@ -4725,6 +4725,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Alicia received wine. It was a deep red color, as if it had\nbeen simmered with the resentment of the victims. From that\nday on, Alicia started to drink wine regularly."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4732,21 +4739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アリシアが受け取ったのはワインだった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　まるで犠牲者たちの怨嗟を煮込んだような真っ赤な色。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この日よりアリシアはワインを常飲するようになる。"
+                                ""
                             ]
                         },
                         {
@@ -4763,6 +4763,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Alicia's main job was to heal the tortured individuals. She\nwould inflict wounds, heal them, inflict wounds again, and\nrepeat endlessly. The techniques that were supposed to be\nused as a doctor were instead utilized for efficient\ntorture."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4770,21 +4777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アリシアの主な仕事は拷問にかけられた人間の回復だった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　傷つけ、治し、傷つけ、治すを延々と繰り返していく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　医師として使うはずだった技術は効率的な拷問に利用された。"
+                                ""
                             ]
                         },
                         {
@@ -4801,6 +4801,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Alicia experienced guilt, disgust, and despair... She had\nnightmares every day, nightmares that dragged her into a\npool of blood created by the victims. However, the victims\nwouldn't completely drag her into the pool of blood."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4808,21 +4815,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　罪悪感、嫌悪感、絶望感……アリシアは悪夢を毎日見ていた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　犠牲者たちによって血の沼に引きずり込まれる悪夢だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、犠牲者たちは完全に血の沼に引きずり込んでくれない。"
+                                ""
                             ]
                         },
                         {
@@ -4839,6 +4839,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Make them suffer more, make them suffer even more. Covered\nin sweat, I wake up and gulp down wine while trembling in\nfear. Just as I was told, wine was the only medicine."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4846,21 +4853,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　もっと苦しめ、もっともっと苦しめ。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　大汗をかき目が覚めると恐怖に怯えながらワインを飲み干す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言われた通りだ、ワインだけが唯一の薬だった。"
+                                ""
                             ]
                         },
                         {
@@ -4877,6 +4877,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Several months later, the member who gave me the wine took\ntheir own life. They chose a horribly painful death by\ncutting their entire body with a knife. I considered it as\nan act of repentance. Afterward, I cleaned up the corpse as\nusual."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4884,21 +4891,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　数ヶ月後、ワインをくれた構成員が自ら命を絶った。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　全身をナイフで切り刻む、ひどく苦しい死に方を選んでいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは懺悔だと考えた。その後、いつものように死体を片付けた。"
+                                ""
                             ]
                         },
                         {
@@ -4915,6 +4915,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "After falling into the dark ops for several years, Alicia\nstopped thinking about anything. She could only live by\nerasing her own identity. She didn't know the reason why she\ndidn't commit suicide herself."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4922,21 +4929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　暗部に堕ちて数年が経つと、アリシアは何も考えなくなった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　自分が【何者】かを消し去ることでしか生きることができなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自殺をしない理由はアリシア自身にもわからなかった。"
+                                ""
                             ]
                         },
                         {
@@ -4953,6 +4953,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Perhaps it was my childhood self crying out from my\nunconscious. It wasn't my goal to heal people. I couldn't\ncompletely abandon that dream somewhere."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4960,21 +4967,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　無意識の中で、幼少期の自分が声を上げていたのかもしれない。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　人々を治療することが目標じゃなかったの、と。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その夢をどこかで捨てきることができなかったのだ。"
+                                ""
                             ]
                         },
                         {
@@ -4991,6 +4991,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Alicia was waiting for something. She didn't know the\nspecifics, but she was waiting. And then, it came in an\nunexpected form."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4998,21 +5005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アリシアは【何か】を待っていた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　具体的なことは一切わからなかったが、待っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして、思わぬかたちでそれはやってきた。"
+                                ""
                             ]
                         },
                         {
@@ -5029,6 +5029,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The plan is to rescue Prince Rex from the prison. It was a\nrequest from a member who had been dispatched as a spy from\nthe Senate, asking to save the severely weakened Prince Rex."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5036,21 +5043,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子を牢獄より奪還するという計画である。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　これは元老院からの密偵として派遣されていた構成員から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　衰弱が激しいレクス王子を救って欲しいという依頼だった。"
+                                ""
                             ]
                         },
                         {
@@ -5067,6 +5067,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Others who were dissatisfied with the current situation, and\nthose who wanted to escape from the bloody place, also\nagreed. In other words, it was a coup against Caron."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5074,21 +5081,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アリシア以外にも現状に不満を持つ者、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　血生臭い場所から抜け出したいと考える者が賛同していた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言わば、カロンに対するクーデターである。"
+                                ""
                             ]
                         },
                         {
@@ -5105,6 +5105,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Alicia made an immediate decision on the request. It wasn't\nthat she wanted to escape from here, but rather, she wanted\nto save someone. That was what she desired most."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5112,21 +5119,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アリシアは依頼を即決した。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ここから抜け出したいわけではない、誰かを【救い】たかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それが、もっとも渇望するものだった。"
+                                ""
                             ]
                         },
                         {
@@ -5143,6 +5143,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "For the sake of her childhood dream, Alicia headed towards\nthe person who would change her fate, Prince Rex."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -5150,14 +5157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　幼き頃の自分自身の夢のために、アリシアは向かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　運命を変える人物、レクス王子のもとに。"
+                                ""
                             ]
                         },
                         {

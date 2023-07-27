@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "バルク団の狩場最奥",
+    "displayName": "Innermost Hunting Grounds of the Bulk Gang",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4022,21 +4022,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団の戦士"
+                                "Bulk Brigade Warrior: Stop! This is private property of the\nBulk Brigade."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「止まれっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここからは我らバルク団の私有地だ」"
+                                ""
                             ]
                         },
                         {
@@ -4091,14 +4091,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please let me speak with the leader of the Bulk\nBrigade, Goat."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バルク団の団長ゴートとお話させてください」"
+                                ""
                             ]
                         },
                         {
@@ -4122,21 +4122,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団の戦士"
+                                "Bulk Brigade Warrior: I see, you must be a noble's\nmessenger. We have already refused negotiations before."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるほど、貴族の使いだな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　交渉については以前に断ったはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -4153,21 +4153,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団の戦士"
+                                "Bulk Brigade Warrior: If you really want to pass, then show\nus your strength by defeating us according to the ancient\ntradition!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうしても通りたいなら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　古の因習に従い我らをねじ伏せてみせろっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4191,7 +4191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦いを挑みますか？"
+                                "Will you challenge us to a fight?"
                             ]
                         },
                         {
@@ -4230,14 +4230,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4514,21 +4514,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, I will follow everyone's style."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　皆さんの流儀に従います」"
+                                ""
                             ]
                         },
                         {
@@ -4696,21 +4696,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団の戦士"
+                                "Bulk Corps Warrior: Impressive! Warrior, we shall grant you\npermission to enter our private land."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「見事っ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　戦士よ、我らが私有地に入ることを許可しよう」"
+                                ""
                             ]
                         },
                         {
@@ -4734,14 +4734,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -4861,14 +4861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Valt Region/Bulk Corps\nGarrison\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLヴァルト地方/バルク団駐屯地\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -5031,7 +5031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦いを挑みますか？"
+                                "Will you challenge me to a fight?"
                             ]
                         },
                         {
@@ -5077,14 +5077,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then do it)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -5331,7 +5331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦いを挑みますか？"
+                                "Will you challenge me to a fight?"
                             ]
                         },
                         {
@@ -5377,14 +5377,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then do it)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -5631,7 +5631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　戦いを挑みますか？"
+                                "Will you challenge me to a fight?"
                             ]
                         },
                         {
@@ -5677,14 +5677,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first and then do it)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マラコ村",
+    "displayName": "Marako Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 58,
@@ -17104,7 +17104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　倉庫に入りますか？"
+                                "Do you want to enter the warehouse?"
                             ]
                         },
                         {
@@ -17150,14 +17150,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before we go in.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしましょう）"
+                                ""
                             ]
                         },
                         {
@@ -17258,14 +17258,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm ready. Let's go inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「準備ができました。中に入りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -18141,14 +18141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: The key is unlocked...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「鍵が開いています……！」"
+                                ""
                             ]
                         },
                         {
@@ -18172,21 +18172,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Swift Celis: It might be better to consider it as a trap\nand prepare before entering."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「罠と考えた方がいいかもしれない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　準備をしてから中に入るようにしよう」"
+                                ""
                             ]
                         },
                         {
@@ -18210,7 +18210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　倉庫に入りますか？"
+                                "Shall we enter the warehouse?"
                             ]
                         },
                         {
@@ -18256,14 +18256,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare before entering)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしましょう）"
+                                ""
                             ]
                         },
                         {
@@ -18396,14 +18396,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm ready. Let's go inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「準備ができました。中に入りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -18935,14 +18935,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I'm ready. Let's go inside."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「準備ができました。中に入りましょう」"
+                                ""
                             ]
                         },
                         {
@@ -19292,14 +19292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: In the end, it seems like you didn't know anything."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「結局、何も知らなかったみたいですね」"
+                                ""
                             ]
                         },
                         {
@@ -19323,21 +19323,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: Yeah, I think we should leave it\nto the guards here to deal with them, as they're just being\nused by Psema."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うん、プセマに利用されているだけだと思う"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　彼らのことはここの衛兵の人たちに任せよう」"
+                                ""
                             ]
                         },
                         {
@@ -19387,14 +19387,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Fake Adventurer Psema: Hahaha, it's been a while since I've\nseen that face!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ははは、随分と久々に見た顔だなぁっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -19662,21 +19662,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Fake Adventurer Psema: Those adventurers from the\nAdventurer's Guild are so persistent. They always try to\ninterfere with my business."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冒険者ギルドの連中はしつこいなぁ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いつだって俺様の商売を邪魔しようとしやがる」"
+                                ""
                             ]
                         },
                         {
@@ -19700,14 +19700,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Fake Adventurer Psema: Well, it's good to know who my\nenemies are."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まぁ、俺の敵が誰かわかってよかったよ」"
+                                ""
                             ]
                         },
                         {
@@ -19731,14 +19731,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: ...Wait."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……待て」"
+                                ""
                             ]
                         },
                         {
@@ -20019,21 +20019,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偽冒険者プセマ"
+                                "Fake Adventurer Psema: Who's waiting, huh! This time, I'll\nembrace you, Clea-chan!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「誰が待つかよっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今度は抱いてやるからな、クレアちゃんっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -20171,14 +20171,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's find a way to catch up!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「追いつく方法を探しましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -20240,14 +20240,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: They must have calculated that I\nwouldn't be able to catch up and provoked me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「追いつけないことを計算して挑発してきたはず」"
+                                ""
                             ]
                         },
                         {
@@ -20264,21 +20264,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: Now it's clear that the man who\nknew who our enemies were is an enemy of the Empire. And\nalso an enemy of our guild."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これでお互いに敵が誰かはっきりした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの男が帝国の敵。それに私たちギルドの敵」"
+                                ""
                             ]
                         },
                         {
@@ -20333,14 +20333,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, when we fight against Psema, I will go with you\ntoo."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、プセマと戦う時は私も一緒にいきます」"
+                                ""
                             ]
                         },
                         {
@@ -20364,14 +20364,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis of the Swift Wind: Let's go report to the guild\nleader."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ギルド長に報告しにいこう」"
+                                ""
                             ]
                         },
                         {
@@ -21352,14 +21352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「大丈夫、お嬢さん？」"
+                                "Are you okay, miss?"
                             ]
                         },
                         {
@@ -21367,151 +21360,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　冒険者エモニ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お構いなく、ご婦人……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　私は誇り高き貴族の娘……施しを受けるわけにはいきませんわ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　冒険者エモニ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「それとも下劣な依頼ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　そんなものは売春婦にでも頼んでください」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「見たところ冒険者のようね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　そうだ、私の仕事を手伝ってくれないかしら？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　冒険者エモニ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「……名前を知らない方の依頼は受けられませんわ」"
                             ]
                         },
                         {
@@ -21542,21 +21390,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偉大なる未亡人"
+                                "Adventurer Emoni: Please don't worry about me, madam... I\nam the proud daughter of a noble... I cannot accept\ncharity."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「名は捨てました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　恥ずかしいけど皆は偉大なる未亡人と私を呼ぶわ」"
+                                ""
                             ]
                         },
                         {
@@ -21580,14 +21428,166 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偉大なる未亡人"
+                                "Adventurer Emoni: Or is it a lowly request? Please ask a\nprostitute for something like that."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よろしくね……えーと」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hmm... You seem to be an adventurer. Would you mind helping\nme with my work?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Adventurer Emoni: ...I cannot accept requests from someone\nwhose name I don't know."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Great Widow: I have discarded my name, it's embarrassing,\nbut everyone calls me the Great Widow."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Great Widow: Nice to meet you... um..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21657,21 +21657,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　冒険者エモニ"
+                                "Adventurer Emoni: I am Emoni, madam. I cannot accept being\ncalled great by someone I don't acknowledge."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「エモニですわ、ご婦人"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私は認めていない方を偉大などと呼ぶことはできません」"
+                                ""
                             ]
                         },
                         {
@@ -21702,38 +21702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　偉大なる未亡人との出会いはエモニの人生を変えることになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴族すら黙らせる胆力、商人すら震え上がらせる交渉術。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それらの能力はエモニが憧れ、欲したものだった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "The encounter with the Great Widow will change Emoni's life.\nThe courage to silence even nobles, the negotiation skills\nthat make even merchants tremble. Those abilities were what\nEmoni admired and desired."
                             ]
                         },
                         {
@@ -21747,52 +21716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　何よりもエモニの心を震わせたのは女性ということだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女でも男たちと対等に、それ以上に戦うことができる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　偉大なる未亡人はエモニにとっての理想そのものだった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　偉大なる未亡人に導かれ、エモニは冒険者ギルドに入会する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アゴニアとシモスは難色を示したが最終的に入会は許可された。"
                             ]
                         },
                         {
@@ -21816,6 +21740,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "What shook Emoni's heart more than anything was the fact\nthat she was a woman. Being able to fight on equal terms\nwith men, and even surpass them. The Great Widow was the\nembodiment of Emoni's ideal."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -21823,21 +21754,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　この頃のエモニは軽率さや慢心とは程遠いものだった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　自分を推薦した偉大なる未亡人に恥をかかせたくないという想い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニは、はじめて自分のためではなく、他者のために働いた。"
+                                ""
                             ]
                         },
                         {
@@ -21854,6 +21778,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Guided by the Great Widow, Emoni joined the Adventurer's\nGuild. Agonia and Shimos showed reluctance, but ultimately\nher membership was approved."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -21861,21 +21792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　それは、清々しく満たされる経験だった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　依頼者のため、仲間のため、何よりも偉大なる未亡人のため。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニは調査、護衛、交渉など数多くの仕事をこなしていった。"
+                                ""
                             ]
                         },
                         {
@@ -21892,6 +21816,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "During this time, Emoni was far from being reckless or\narrogant. She had a strong desire not to bring shame to the\nGreat Widow who had recommended her. Emoni was working not\nfor herself, but for the sake of others for the first time."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -21899,21 +21830,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルドの中で認められていくエモニをアゴニアは不安視していた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　理由はエモニの原動力が偉大なる未亡人という点だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エモニは自分が【何者】であるかを考えもしていない。"
+                                ""
                             ]
                         },
                         {
@@ -21930,6 +21854,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "It was a refreshing and fulfilling experience. For the sake\nof the clients, for the sake of her comrades, and above all,\nfor the Great Widow. Emoni carried out numerous tasks such\nas investigations, escorts, and negotiations."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -21937,21 +21868,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニは尊敬と依存が混在していると考えていたのだ。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　偉大なる未亡人が死んだ時にエモニはどうなるのか。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アゴニアはエモニを徐々に警戒するようになっていく。"
+                                "Agonia was uneasy about Emoni being recognized within the\nguild. The reason was that Emoni's driving force was the\nGreat Widow. Emoni didn't even consider what kind of person\nshe was."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Emoni believed that her feelings towards the Great Widow\nwere a mixture of admiration and dependence. She wondered\nwhat would happen to her when the Great Widow passed away.\nAgonia gradually began to grow wary of Emoni."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

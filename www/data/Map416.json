@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "リピ村 テリオス教会1F",
+    "displayName": "Lypi Village Terios Church 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6456,21 +6456,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: I have heard that you are the heroes who have\nliberated the village of Rippi. Thank you for coming."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よく来てくれました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなた方がリピ村を解放してくれた英雄と聞いています」"
+                                ""
                             ]
                         },
                         {
@@ -6494,21 +6494,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: There are only a few survivors left in the\nvillage of Rippi... Allow me to express my gratitude in\ntheir place."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「リピ村の生き残りはわずかですが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私が代わりにお礼の言葉を言わせてください」"
+                                ""
                             ]
                         },
                         {
@@ -6539,14 +6539,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I apologize, please tell us the details of the\nrequest."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「恐縮です、依頼の詳細を聞かせてください」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noble Perosu: You should know about the underground cave.\nIt used to be a place where devil worshippers lived in\nhiding."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6577,21 +6615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「地下の洞窟はご存知のはず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　元は悪魔崇拝者たちが隠れ住んでいた場所です」"
+                                "Noble Perosu: Now it has become the dwelling of hideous\nmonsters. The request is to exterminate the monsters and\nretrieve the corpses of four beings."
                             ]
                         },
                         {
@@ -6602,34 +6626,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「いまは醜悪な怪物の住処になっています"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　依頼内容は怪物の駆除と４体の亡骸の回収となります」"
+                                ""
                             ]
                         },
                         {
@@ -6660,14 +6660,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood, we will definitely accomplish it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました、必ず達成します」"
+                                ""
                             ]
                         },
                         {
@@ -6698,21 +6698,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: The monsters have an abnormal attachment to\nthe corpses, so please be careful as they may attack during\nthe retrieval."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「怪物は亡骸に異常な執着心を持っています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　回収時に襲いかかってくるので気をつけてください」"
+                                ""
                             ]
                         },
                         {
@@ -6932,21 +6932,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perno: The remains should be buried with care.\nPlease, also for the sake of relieving their regrets."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「亡骸は丁寧に埋葬されるべきです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どうか彼らの無念を晴らすためにもお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -7521,21 +7521,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: Indeed, those who have been recognized by the\npriestess of Actina for the recovery of corpses and the\nsubjugation of monsters."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「亡骸の回収と怪物の討伐"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さすがはアクティナの巫女様に認められた人たちだ」"
+                                ""
                             ]
                         },
                         {
@@ -7621,21 +7621,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: We will further seal the deepest part of the\nunderground cave. We have already contacted the Terios\nChurch and the Magic Academy--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「地下洞窟の最奥は更に封印をかけます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　テリオス教会と魔法アカデミーには連絡済みで――」"
+                                ""
                             ]
                         },
                         {
@@ -7671,21 +7671,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: If we spread rumors, this will be our reward\nfor this time."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「噂をすればですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こちらが今回の報酬となります」"
+                                ""
                             ]
                         },
                         {
@@ -7725,21 +7725,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: May I assist with the sealing? I have\nquite a connection with this place."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「封印のお手伝いをしてもいいでしょうか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この場所とはずいぶんと縁があったものですから」"
+                                ""
                             ]
                         },
                         {
@@ -7770,21 +7770,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Please count me in as well. It would be more\nefficient to have a genius like me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクからもお願いします"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　天才がいた方が効率がいいでしょうから！」"
+                                ""
                             ]
                         },
                         {
@@ -7808,21 +7808,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: You couldn't ask for more! We will give you\nan additional reward, so please, I beg you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「願ってもないです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　追加で報酬をお渡ししますからお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -7932,14 +7932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is there anything we can do as well?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちも何かできることはあるでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -7970,21 +7970,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: The entire village is quite damaged and we\nneed to bring in a lot of materials..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「村全体がかなり傷んでいて"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　多くの資材を運び入れる必要があるのですが……」"
+                                ""
                             ]
                         },
                         {
@@ -8015,21 +8015,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Leave it to me! I'm really good at simple\nphysical work!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まかせてください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　単純なちから作業はすっごく得意ですから！」"
+                                ""
                             ]
                         },
                         {
@@ -8149,14 +8149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: Um, so next is... cleaning up this place, I\nsuppose."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えーと、あとは……ここの片付けですかね」"
+                                ""
                             ]
                         },
                         {
@@ -8194,14 +8194,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I apologize for causing you trouble by being\nconsiderate."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「気を使っていただいてすいません」"
+                                ""
                             ]
                         },
                         {
@@ -8271,14 +8271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: We temporarily moved the belongings from\nother buildings."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「他の建物から一時的に荷物を移動したのです」"
+                                ""
                             ]
                         },
                         {
@@ -8309,21 +8309,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: While it is certainly sinful to use valuable\nheirlooms, we will allocate them towards the reconstruction\nexpenses."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「大切な遺品はもちろん"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　罪深いことですが高級品を復興費用に当てるためにです」"
+                                ""
                             ]
                         },
                         {
@@ -8354,14 +8354,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: In that case, it might be better not to work in\narmor."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「でしたら鎧姿で作業しない方がいいかもしれませんね」"
+                                ""
                             ]
                         },
                         {
@@ -8392,14 +8392,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please wait for just a moment."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「少しだけお待ちください」"
+                                ""
                             ]
                         },
                         {
@@ -8515,14 +8515,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It seems like there won't be any problems with this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これなら問題がなさそうです」"
+                                ""
                             ]
                         },
                         {
@@ -8578,14 +8578,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is there something wrong?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうかされましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -8647,14 +8647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: No, let's continue with the work."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いえ、作業を続けましょう」"
+                                ""
                             ]
                         },
                         {
@@ -8716,14 +8716,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: What should we do next?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「次は何をすればいいでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -8754,14 +8754,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: Yes, that's right. Can you please help me\nmove that wooden box over there?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうですね、そこの木箱を運んでもらっていいですか」"
+                                ""
                             ]
                         },
                         {
@@ -8844,14 +8844,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: This is it, heave ho--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これですよね、よいしょ――」"
+                                ""
                             ]
                         },
                         {
@@ -8901,14 +8901,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Th-this is...!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、これは……！？」"
+                                ""
                             ]
                         },
                         {
@@ -8946,21 +8946,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: This is an extremely valuable plate. It can\nbe said to be the most expensive item in this village."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは非常に貴重な皿です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この村でもっとも高価なものと言っていいほどです」"
+                                ""
                             ]
                         },
                         {
@@ -9002,21 +9002,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: Ahaha, it was just a joke. You're so\nbeautiful that I couldn't resist playing a prank."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あはは、冗談ですよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あまり美しい方なのでイタズラをしたくなっただけ」"
+                                ""
                             ]
                         },
                         {
@@ -9049,14 +9049,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: Um... Are you okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あの……大丈夫ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -9094,14 +9094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...I'm sorry, Master."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……申し訳ありませんでした、ご主人様」"
+                                ""
                             ]
                         },
                         {
@@ -9141,21 +9141,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: Haha, so you were in the mood for it!\nAlthough, I've been in the mood since I first saw you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はは、その気だったんですね！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もっとも私はあなたを見た時からその気でしたけどね」"
+                                ""
                             ]
                         },
                         {
@@ -9179,14 +9179,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: Hehehe, please come over here, Master."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ふふふ、ご主人様の方に来てください」"
+                                ""
                             ]
                         },
                         {
@@ -9283,7 +9283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Would you like to skip the adult scene?"
                             ]
                         },
                         {
@@ -9743,14 +9743,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: Thank you so much for everything."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何から何まで本当に助かりました」"
+                                ""
                             ]
                         },
                         {
@@ -9781,14 +9781,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: This will be an additional reward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こちらは追加の報酬となります」"
+                                ""
                             ]
                         },
                         {
@@ -9849,21 +9849,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: I think it will take time for the village to\nrecover. Please come and visit once the residents have\nsettled in."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「復興には時間がかかると思います"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　住民たちが暮らすようになったら遊びにきてください」"
+                                ""
                             ]
                         },
                         {
@@ -9918,14 +9918,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: ...We are always recruiting maids, so feel\nfree to apply anytime."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……メイドはいつでも募集していますから」"
+                                ""
                             ]
                         },
                         {
@@ -9972,14 +9972,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please stop with the jokes, then."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「冗談はよしてください、では」"
+                                ""
                             ]
                         },
                         {
@@ -10210,21 +10210,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perno: The reconstruction will take time. Please\ncontinue to support us and take breaks when needed..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「復興には時間がかかります"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　今後も息抜きにご協力ください……」"
+                                ""
                             ]
                         },
                         {
@@ -10251,14 +10251,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perno: The reconstruction of this village is a\nlifelong mission for me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「この村の復興が私の生涯をかけた使命です」"
+                                ""
                             ]
                         },
                         {
@@ -11368,7 +11368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -11565,21 +11565,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: As always, the maid outfit suits you. It\nmakes me feel like a real master..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「相変わらずメイド服がお似合いですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私も本物の御主人様になった気分ですよ……」"
+                                ""
                             ]
                         },
                         {
@@ -11603,14 +11603,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族ペロース"
+                                "Noble Perosu: Now, I must discipline this clumsy maid."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、ドジなメイドに躾をしなければね」"
+                                ""
                             ]
                         },
                         {

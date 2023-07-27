@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ミュコス漁場",
+    "displayName": "Myukos Fishing Grounds",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6431,14 +6431,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ派のチンピラ"
+                                "Today, we're gonna make you guys from the Fotizona faction\nget out of our island!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今日こそ俺たちの島から出ていってもらうぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -6469,21 +6469,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　タラサ派のチンピラ"
+                                "Thug from the Tarasa faction: 'That's our line! Finally,\nrecognize that this island belongs to Tarasa!'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それはこっちのセリフだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いい加減、島がタラサのものだと認めろ！」"
+                                ""
                             ]
                         },
                         {
@@ -6544,14 +6544,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年アゴニア"
+                                "Young Agonia: You're quite spirited, but that's all it is."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「随分と威勢がいいですね、威勢だけですが」"
+                                ""
                             ]
                         },
                         {
@@ -6600,14 +6600,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ派のチンピラ"
+                                "Fotizona faction thug: Traitors who abandoned Fotizona...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「フォティゾナを捨てた裏切りものが……！」"
+                                ""
                             ]
                         },
                         {
@@ -6624,14 +6624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年アゴニア"
+                                "Young Agonia: If you're traitors, then your leader over\nthere is the same, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「裏切り者ならそちらのリーダーも同じでしょう？」"
+                                ""
                             ]
                         },
                         {
@@ -6761,21 +6761,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年アトゥ"
+                                "Young Agonia: Hahaha, it's a mutual feeling. Today, I'll\nsettle the score with you in our match!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はははっ、それはお互い様だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今日こそお前との勝負に決着をつけさせてもらうぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -6799,21 +6799,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年アゴニア"
+                                "Young Agonia: That's right... It wouldn't be interesting to\nkeep playing chess with the same opponent all the time."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうですね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　同じ相手とずっとチェスをしていても面白くありませんから」"
+                                ""
                             ]
                         },
                         {
@@ -6837,14 +6837,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年アトゥ"
+                                "Young Agonia: Let's go, Agonia!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「行くぞ、アゴニア！」"
+                                ""
                             ]
                         },
                         {
@@ -6989,6 +6989,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "By the time Atu became a young man, the First Tarasa War\nbroke out. The island where Atu lived was divided into two\nfactions and was in the midst of chaos."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -6996,14 +7003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥが少年から青年になる頃に、第一次タラサ戦争が勃発。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アトゥが暮らす島はふたつの陣営に別れ混乱の最中にあった。"
+                                ""
                             ]
                         },
                         {
@@ -7027,6 +7027,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Tarasa and Fotizona were special places where residents from\nboth factions lived, and ownership of this island became one\nof the points of contention in the war. Skirmishes between\nthe residents were a daily occurrence and gradually became\nmore intense."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7034,21 +7041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　タラサ、フォティゾナ双方の住民が暮らす特殊な場所であり、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　この島の所有権も戦争の争点のひとつとなっていたからだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　住民同士の小競り合いは日常茶飯事で徐々に過激なものとなる。"
+                                ""
                             ]
                         },
                         {
@@ -7065,6 +7065,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "In the midst of such chaos, two factions emerged. Atu, a\nresident of Tarasa who supported Fotizona, and Agonia, a\nresident of Fotizona who supported Tarasa."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7072,21 +7079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　そんな中で台頭してきたふたつの勢力があった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　タラサ系住民でありながらフォティゾナを支持するアトゥ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フォティゾナ系住民でありながらタラサを支持するアゴニア。"
+                                ""
                             ]
                         },
                         {
@@ -7103,6 +7103,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "They repeated the war game every day, sometimes using\nwords, but most of the time resorting to violence. At the\ncenter of it all were always Atu and Agonia."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7110,21 +7117,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　彼らは毎日のように【戦争ごっこ】を繰り返し、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　時には弁舌をもって、多くの場合は暴力をもって争った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その中心にいたのは常にアトゥとアゴニアであった。"
+                                ""
                             ]
                         },
                         {
@@ -7141,6 +7141,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The common point between these two completely different\ntypes was that they had no interest in the conflict over the\nisland. They used the war as an excuse to release their\nexcess energy."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7148,21 +7155,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　このまったくタイプが異なるふたりの共通点は、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　島をめぐる争いにまったく興味がなかったことだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　余りあるエネルギーを発散する口実として戦争を利用していた。"
+                                ""
                             ]
                         },
                         {
@@ -7179,6 +7179,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Atu and Agonia were originally best friends, and the reason\nthey became enemies was simply because it seemed more fun\nto be enemies. They also joined opposing factions for the\nsame reason, despite their different backgrounds."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7186,21 +7193,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　そもそもアトゥとアゴニアは親友であり、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　敵対した理由も「敵対した方が楽しそうだから」というものだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　出生と異なる陣営に所属したのも同じ理由からだった。"
+                                ""
                             ]
                         },
                         {
@@ -7217,6 +7217,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The two of them decided to leave the island when they got\ntired of playing war games. The place they headed to was the\nFotizona Empire, the largest power in the region. It was a\nsuitable place to escape from the cramped island and go\ntowards."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -7224,21 +7231,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ふたりは戦争ごっこに飽きると島を飛び出すことにした。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　向かった場所は地域最大の勢力であるフォティゾナ帝国。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　窮屈な島を飛び出して向かうには相応しい場所だった。"
+                                ""
                             ]
                         },
                         {

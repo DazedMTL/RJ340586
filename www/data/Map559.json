@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "薬の街メディシナ 民家",
+    "displayName": "Medicine Town - Residential Area",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5650,21 +5650,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師の男"
+                                "Male Herbalist: I'm conducting research on cultivating\nmedicinal herbs. It would be great if I could easily obtain\nthe hard-to-find herbs through collection."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「薬草の栽培の研究をしているんだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　採集が難しい薬草が簡単に手に入るようになればいいけど」"
+                                ""
                             ]
                         },
                         {

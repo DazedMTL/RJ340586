@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "イシェケルの檻",
+    "displayName": "Ishekel's Cage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -3918,14 +3918,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Shall we proceed with the operation?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　作戦を実行しますか？"
+                                ""
                             ]
                         },
                         {
@@ -3971,14 +3971,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's wait until we're prepared)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -4524,14 +4524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: I think this area is good for an ambush..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「このあたりが待ち伏せにはいいと思いますけど……」"
+                                ""
                             ]
                         },
                         {
@@ -4569,14 +4569,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: A-Are you really going to do it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ほ、本当にやるんですかぁ？」"
+                                ""
                             ]
                         },
                         {
@@ -4614,14 +4614,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I'll do it, my thoughts haven't changed!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクはやりますよ、考えは変わりません！」"
+                                ""
                             ]
                         },
                         {
@@ -4659,21 +4659,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: And it's not just my plan alone, it will\ndefinitely work out because everyone is here!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それにボクひとりの作戦ではありません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　みなさんがいるから絶対に上手くいきますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -4704,14 +4704,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We don't have any confirmation that the enemy is\ncoming, but let's proceed with the plan."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「敵が来る確証はありませんが実行してみましょう」"
+                                ""
                             ]
                         },
                         {
@@ -4749,21 +4749,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: If we try it for a little while and it\ndoesn't work, let's go back. We're running out of wine..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「少しやってダメなら帰りましょう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ワインが少なくなってしまったので……」"
+                                ""
                             ]
                         },
                         {
@@ -4794,14 +4794,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Honestly... there's no sense of tension here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まったく……緊張感がないですね」"
+                                ""
                             ]
                         },
                         {
@@ -4839,14 +4839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Alright, everyone except me, please hide!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、ボク以外は隠れてください！」"
+                                ""
                             ]
                         },
                         {
@@ -5091,21 +5091,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (Just one step away from completing the\ngrimoire... hehehe, finally, my dream will come true!)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（魔導書完成まであと一歩……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ふふふ、ようやく、ボクの夢が叶うっ！）"
+                                ""
                             ]
                         },
                         {
@@ -5136,21 +5136,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (Oops, I shouldn't have said that. We were in the\nmiddle of a plan to lure out those troublemakers.)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（おっといけませんね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　不届き者たちをおびき出す作戦中でした）"
+                                ""
                             ]
                         },
                         {
@@ -5181,21 +5181,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora (I hear footsteps from the back... I'm not sure\nif it's the enemy, but we should be cautious!)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（奥から足音がします……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　敵かわかりませんが警戒した方がいいですっ！）"
+                                ""
                             ]
                         },
                         {
@@ -5219,21 +5219,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm (Nora's signal... If I listen carefully, I can\nindeed hear it too)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（ノラさんからの合図……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　確かに耳をすませばボクでも聞こえる）"
+                                ""
                             ]
                         },
                         {
@@ -5327,14 +5327,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Huh... why are you here?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えっ……なんで、ここに」"
+                                ""
                             ]
                         },
                         {
@@ -5372,21 +5372,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: Ahaha, what a coincidence! Perhaps it's\nfate that I've crossed paths with all of you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あはは、奇遇ですねぇ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　みなさんとは巡り合う運命なのかもしれません」"
+                                ""
                             ]
                         },
                         {
@@ -5417,21 +5417,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Didn't you give a warning? There's an incident\nof mages going missing!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたが警告したじゃないですか！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法使いが失踪している事件があるって！」"
+                                ""
                             ]
                         },
                         {
@@ -5462,14 +5462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It's dangerous to be alone in a place like\nthis!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こんなところにひとりなんて危ないですよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -5493,21 +5493,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: What is your dream? A part of a\ndragon's corpse, moss as a medium for magic..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたの夢はなんですか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドラゴンの死体の一部、魔法の媒介物である苔……」"
+                                ""
                             ]
                         },
                         {
@@ -5531,14 +5531,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: I must say, I have a great interest in\nmagic users."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「魔法使いとして大変興味がありますねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -5576,21 +5576,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I can't talk about my research because of the\ncircumstances at the Magic Academy."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「研究内容はお話できません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法アカデミーの事情もありますので」"
+                                ""
                             ]
                         },
                         {
@@ -5621,21 +5621,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: You shouldn't be able to talk about your\nresearch either, as a court mage. There must be a lot of\nconfidential information."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたも研究内容は話せないはずです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　宮廷魔術師となれば機密も多いでしょうから」"
+                                ""
                             ]
                         },
                         {
@@ -5673,14 +5673,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: I am researching dragons."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私はドラゴンの研究です」"
+                                ""
                             ]
                         },
                         {
@@ -5704,21 +5704,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: By the way, I heard that the royal palace has\nalso been secured. It seems there's no problem in discussing\nthe dragon dissection research."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そういえば王宮も確保してましたね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドラゴンの解剖研究はたしかに話しても問題ないですね」"
+                                ""
                             ]
                         },
                         {
@@ -5749,14 +5749,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: And, the creation of dragons."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そして、ドラゴンの製造です」"
+                                ""
                             ]
                         },
                         {
@@ -5780,21 +5780,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Huh?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えっ？」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　"
+                                ""
                             ]
                         },
                         {
@@ -5825,28 +5825,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: Did you not hear? I am researching the\nmethod of creating dragons."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「聞こえませんでしたか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私はドラゴンの製造法を研究しています」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　"
+                                ""
                             ]
                         },
                         {
@@ -5870,21 +5870,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: The first time was a [unexpected\ninterruption], which was very, very sad, but the second time\nyielded results!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「記念すべき１回目は【思わぬ邪魔】が入りました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　とてもとても悲しかったのですが２回目は成果がありました！」"
+                                ""
                             ]
                         },
                         {
@@ -5915,21 +5915,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: Well... it was in an uncontrollable\nstate, so I have to say it was a failure in terms of\nresults, you know."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もっとも……制御不能な状態でしたから"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　成果としては不合格と言わざるを得ないですねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -5960,14 +5960,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: By the way, do you know why dragons can\nfly!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうだ、なぜドラゴンが飛ぶかわかりますか！？」"
+                                ""
                             ]
                         },
                         {
@@ -6005,21 +6005,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: Dragons fly because they are beautiful!\nThey are allowed to dance in the vast sky because they are\nbeautiful!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「美しいから飛ぶのです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　美しいから大空を舞うことが許されるのですっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6050,14 +6050,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: What have you been--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたはさっきから何を――」"
+                                ""
                             ]
                         },
                         {
@@ -6095,21 +6095,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: Ahaha, don't you understand? I am the\none who created the dragons that you defeated."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あはは、わかりませんか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私があなたたちが倒したドラゴンを作ったのです」"
+                                ""
                             ]
                         },
                         {
@@ -6149,21 +6149,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: Creating dragons requires a massive\namount of magical power. Taking the lessons from the\nprevious attempt, we should increase the amount of magical\npower even more."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンの製造には大量の魔力が必要なのです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　前回の反省を活かし魔力量をもっともっと増やすべきです」"
+                                ""
                             ]
                         },
                         {
@@ -6194,21 +6194,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: There is a talented magician right in\nfront of me. Now, would you be willing to help me with my\ndream?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「目の前に優秀な魔法使いがいますね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁ、私の夢に協力をしてもらいましょうか！」"
+                                ""
                             ]
                         },
                         {
@@ -6469,21 +6469,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: It was a very exciting experience. It's\nnot a bad idea to occasionally leave the laboratory, you\nknow."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「非常に刺激的な体験でした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　たまには研究室から出るのも悪くないですねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -6514,14 +6514,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　宮廷魔術師エラトマ"
+                                "Court Mage Eratoma: Well then, until another opportunity\narises."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでは、また別の機会に」"
+                                ""
                             ]
                         },
                         {
@@ -6657,14 +6657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: ...I won't let you escape."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……逃さない」"
+                                ""
                             ]
                         },
                         {
@@ -6773,14 +6773,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Sophia-san, please wait!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ソフィアさん、待ってください！」"
+                                ""
                             ]
                         },
                         {

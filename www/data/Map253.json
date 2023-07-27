@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究者の館1F",
+    "displayName": "Researcher's Mansion 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6221,21 +6221,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのカマリ"
+                                "Maid Kamari: The Crescent Necklace... Does the Academy have\nany business with you, Master?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「三日月のネックレス……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アカデミーの方が御主人様に何か御用でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6266,21 +6266,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I came here on a request from Crow. This great\ngenius will definitely solve it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クロウさんからの依頼で来ました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この大天才が必ず解決してみせますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -6311,14 +6311,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is it possible for me to meet Mr. Crow?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クロウさんに会わせていただくことは可能でしょうか？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Maid Kamari: Master, it seems you cannot sleep at night...\nPlease solve the mysterious phenomena occurring in the\nmansion."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6349,21 +6387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのカマリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「御主人様は夜も眠れぬご様子……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　どうか館で起きている怪現象の解決をお願いします」"
+                                "Maid Kamari: I will guide you to the master's room."
                             ]
                         },
                         {
@@ -6371,30 +6395,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　メイドのカマリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「御主人様の元にご案内をさせていただきます」"
                             ]
                         },
                         {
@@ -6535,14 +6535,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go too."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私たちも行きましょう」"
+                                ""
                             ]
                         },
                         {
@@ -7374,14 +7374,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is Kamari-san an important person?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カマリさんは大切な方なのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7428,21 +7428,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: My research is not something to be praised,\nbut she is the only one who stays in the mansion without\nmaking a displeased face."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私の研究はお世辞にも綺麗なものじゃないが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　彼女だけは嫌な顔をせずに屋敷に残ってくれている」"
+                                ""
                             ]
                         },
                         {
@@ -7466,21 +7466,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: Moreover, when I drink her tea, it tastes\njust like my deceased mother's comforting flavor..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それに彼女の紅茶を飲むと安心する"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　亡くなった母の味にそっくりなんだ……」"
+                                ""
                             ]
                         },
                         {
@@ -7511,14 +7511,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: He must be an important person."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは大切な方ですね」"
+                                ""
                             ]
                         },
                         {
@@ -7685,21 +7685,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: H-How was it!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ど、どうでしたかっ！？」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　"
+                                ""
                             ]
                         },
                         {
@@ -7730,21 +7730,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Not only the person herself, but there were no\nissues with her clothes or the room itself."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本人はもちろんですが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　衣服や部屋自体にも問題がありませんでした」"
+                                ""
                             ]
                         },
                         {
@@ -7775,14 +7775,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: In that case, the mystery only deepens..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうなると謎は深まるばかりですね……」"
+                                ""
                             ]
                         },
                         {
@@ -7813,21 +7813,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: I'm glad it wasn't Kamari as the cause. Now\nI can request the guards to protect us with peace of mind."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カマリが原因でなくてよかった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これで安心して衛兵に警護を依頼することができるよ」"
+                                ""
                             ]
                         },
                         {
@@ -7882,21 +7882,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: If you don't mind, how about having a meal?\nKamari's cooking is exquisite, so please enjoy it."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よろしければお食事でもどうでしょうか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　カマリの作る料理は絶品ですから楽しんでください」"
+                                ""
                             ]
                         },
                         {
@@ -7927,21 +7927,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Huh, is it really okay!? I haven't eaten\nanything since lunch, so I'm getting hungry!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えっ、いいんですかぁ！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お昼から何も食べてないからお腹が減りましたぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -7965,21 +7965,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: Hahaha, it's already this late, so please\ngive me your thoughts on the magic I've been researching."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ははは、こんな時間ですからね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私の研究している魔法についてご意見をぜひ」"
+                                ""
                             ]
                         },
                         {
@@ -8019,21 +8019,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: All the strange phenomena occurred at night.\nIt's pointless to think about it now, but..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「怪現象が起こったのはすべて夜でした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いまさらそんなことを考えても仕方がないですが――」"
+                                ""
                             ]
                         },
                         {
@@ -8288,21 +8288,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: Where is Kamari!? Could it be that she's\nstill in the basement...?!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カマリはどこに！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まさかまだ地下室に……！」"
+                                ""
                             ]
                         },
                         {
@@ -8364,14 +8364,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I was left behind in the room after\ncleaning."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「掃除をすると部屋に残られましたわ」"
+                                ""
                             ]
                         },
                         {
@@ -8409,21 +8409,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It might be convenient. I will now rescue Kamari-san\nand solve the mystery phenomenon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「都合がいいかもしれません"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いまからカマリさんの救出と怪現象の解決をします」"
+                                ""
                             ]
                         },
                         {
@@ -8478,21 +8478,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: I'm counting on you. If anything happens to\nKamari... I..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「よろしく頼みます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もしカマリの身に何かあれば……私は……！」"
+                                ""
                             ]
                         },
                         {
@@ -8719,14 +8719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Kuro Kamari... Please be safe."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カマリ……無事でいてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -9288,21 +9288,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: Is Kamari safe!? Please tell me in detail\nwhat happened!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カマリは無事だったかい！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　何が起きたのか詳しく教えてくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -9333,21 +9333,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I also have a question. Are you researching the\nsubordinate demon Dillark?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクからも質問があります"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　従属の悪魔ディラークの研究をしていますね？」"
+                                ""
                             ]
                         },
                         {
@@ -9402,14 +9402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: Was it all my fault..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私がすべての原因だったのか……」"
+                                ""
                             ]
                         },
                         {
@@ -9447,21 +9447,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: I apologize for the disrespectful use of magic\nthat accidentally made Kamari a subordinate, but it was due\nto Crow's imperfect magic."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「誤って従属させる魔法がカマリさんに使われた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　失礼ですがクロウさんの不完全な魔法としてです」"
+                                ""
                             ]
                         },
                         {
@@ -9492,21 +9492,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: It is my prediction that it became a magic that\nactivates under specific conditions, and strange phenomena\nshould have occurred on the night when the guest arrived."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その結果が特定の条件になると発動する魔法になった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクの予想ですが客人が来た時の夜に怪現象が起きたはず」"
+                                ""
                             ]
                         },
                         {
@@ -9530,21 +9530,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: That's right, I remember... I ordered for\nthe noisy guest to be silenced."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その通りだ、思い出した……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　うるさい客を静かにさせて欲しいと命令した」"
+                                ""
                             ]
                         },
                         {
@@ -9568,14 +9568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: But more importantly, is Kamari okay? Is she\nsafe!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それよりもカマリに問題はないのか、大丈夫なのか！？」"
+                                ""
                             ]
                         },
                         {
@@ -9613,21 +9613,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Actually, it was the maid outfit she was wearing\nthat caused it. Kamari herself is fine, so don't worry!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「正確には着ていたメイド服が原因です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　カマリさん自身には問題がないので大丈夫ですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -9658,14 +9658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Relm-san."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「リルムさん」"
+                                ""
                             ]
                         },
                         {
@@ -9703,14 +9703,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Hehe, if it's praise for this genius, it's very\nmuch welcome!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ふふんっ、この天才への賛辞なら大歓迎ですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -9748,14 +9748,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, you truly are an amazing mage."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、やっぱりすごい魔法使いですね」"
+                                ""
                             ]
                         },
                         {
@@ -9793,14 +9793,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: H-Heh, it feels strange to be praised\nnormally..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ふ、普通に褒められると違和感がありますね……」"
+                                ""
                             ]
                         },
                         {
@@ -9831,21 +9831,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: Kamari cherished wearing the same maid\noutfit, and it was all because of my foolishness. How can I\nmake amends..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カマリは同じメイド服を大切に着てくれていた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　すべては私の愚かさが原因だ、どうやって償えば……」"
+                                ""
                             ]
                         },
                         {
@@ -10082,21 +10082,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのカマリ"
+                                "Maid Kamari: There is no need for compensation. I have\npledged my loyalty to the master who kindly took me in."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「償いなど不要です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　拾っていただいた御主人様に忠誠を誓っていますから」"
+                                ""
                             ]
                         },
                         {
@@ -10113,21 +10113,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのカマリ"
+                                "Maid Kamari: May I offer you this maid outfit? I thought it\ncould be put to good use in your [work], Master."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「このメイド服ですが差し上げてもいいでしょうか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　御主人様の【作品】を有効に使っていただけると思いまして」"
+                                ""
                             ]
                         },
                         {
@@ -10182,21 +10182,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: Would you accept it as an additional\nreward?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　追加の報酬として受け取ってくれないか？」"
+                                ""
                             ]
                         },
                         {
@@ -10227,14 +10227,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, we will take care of the management and\nutilization."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、私たちが管理と利用をさせていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -10299,21 +10299,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: In terms of size... Clea-san seems like she\ncould wear it! It's not because my body is small or anything\nlike that!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「サイズ的に……クレアさんが着れそうですね！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ボクの身体が小さいだとかそんな理由ではないですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -10337,21 +10337,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Crow: Thank you very much. Finally, it seems like\nI'll be able to sleep peacefully."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当にありがとう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ようやくゆっくりと眠ることができそうだよ」"
+                                ""
                             ]
                         },
                         {
@@ -10578,21 +10578,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族クロウ"
+                                "Nobleman Kuro I can't thank you enough for this... Is it\nstrange for me to propose to a maid?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君たちには感謝しきれないよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　その……メイドに求婚するのはおかしいだろうか？」"
+                                ""
                             ]
                         },
                         {
@@ -11185,21 +11185,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　メイドのカマリ"
+                                "Maid Kamari: Lately, I've been feeling your gaze, Master.\nHave I made some kind of mistake...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「最近ですが御主人様の視線を感じます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　何か粗相をしてしまったのでしょうか……？」"
+                                ""
                             ]
                         },
                         {
@@ -11226,21 +11226,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　メイドのカマリ"
+                                "Maid Kamari: I apologize for any inconvenience I may have\ncaused. If it's alright with you, please make use of this."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「皆様にはご迷惑をおかけしました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　よろしければこちらはご活用ください」"
+                                ""
                             ]
                         },
                         {

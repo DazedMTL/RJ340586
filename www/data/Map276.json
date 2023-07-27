@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "掟の都市カノナス 情報屋",
+    "displayName": "City of Canonas, Information Broker",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4342,21 +4342,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: That attire...! What is someone from the\nMagic Academy doing here!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その服装……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法アカデミーのやつが何しに来た！？」"
+                                ""
                             ]
                         },
                         {
@@ -4380,21 +4380,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: We were asked by Dokusa-san to come here. If\npossible, we would like to cooperate with you as\ninformants."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ボクたちはドクサさんに頼まれてきました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　できれば情報屋として再協力して欲しいんですけど」"
+                                ""
                             ]
                         },
                         {
@@ -4418,21 +4418,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: He's so rough with people, I can't\nunderstand a word he's saying. I can't work with someone\nlike that anymore!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「人使いは荒い、何を言ってるかわからん"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんなやつとこれ以上は仕事はできねーよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4465,14 +4465,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Ugh... I can't come up with a comeback...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ……言い返せない……！」"
+                                ""
                             ]
                         },
                         {
@@ -4496,21 +4496,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Well, well, would you all mind letting us\nspeak with the representative here?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まぁまぁ、皆さん"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ここの代表の方とお話をさせてくれませんかぁ〜？」"
+                                ""
                             ]
                         },
                         {
@@ -4618,21 +4618,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雄牛のロポス"
+                                "Lopos the Bull: I apologize, but as the representative\nhere, I must sever ties with Dokusa."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここの代表のロポスだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪いがドクサとは縁切りをさせてもらう」"
+                                ""
                             ]
                         },
                         {
@@ -4656,14 +4656,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Is there really no way at all?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どうしてもダメでしょうかぁ？」"
+                                ""
                             ]
                         },
                         {
@@ -4687,14 +4687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雄牛のロポス"
+                                "Lopos the Bull: I'm sorry, but it's a decision that has\nbeen made. Please go back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悪いが決めたことだ。帰ってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -4718,14 +4718,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I see, I see... It's quite troublesome,\nisn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なるほどなるほど……困りましたね」"
+                                ""
                             ]
                         },
                         {
@@ -4829,21 +4829,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Phew... I understand, let's resolve this\nwith violence."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ぷはぁ〜！！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わかりました、暴力で解決しましょう」"
+                                ""
                             ]
                         },
                         {
@@ -4894,21 +4894,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: What a woman! She's definitely acquainted\nwith Dokusa, she's a mess!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんて女だっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ドクサの知り合いなだけはある、めちゃくちゃだ！」"
+                                ""
                             ]
                         },
                         {
@@ -4932,14 +4932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Ugh... I can't deny it...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うぅ……否定できない……！」"
+                                ""
                             ]
                         },
                         {
@@ -4975,21 +4975,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: If it's come to this, I'll go all out! Now, even\nif I have to force you, I'll make you nod your head!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こうなったらヤケです！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　さぁ、無理やりにでも首を縦に振ってもらいますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -5042,21 +5042,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雄牛のロポス"
+                                "Lopos the Bull: Hmph... Your strength is impressive, but we\nwon't waver from our decision."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「っく……たいした実力だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　だが、俺たちは決めたことを曲げないぞ」"
+                                ""
                             ]
                         },
                         {
@@ -5080,21 +5080,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Could it be that you two... hehe, would\nyou like to have a private conversation in the back?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あなたもしかして……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　うふふ、ふたりで奥でお話をしませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -5111,14 +5111,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Could you tell me the reason behind your\nsmile?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「笑顔の理由……聞かせていただけるかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -5151,21 +5151,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雄牛のロポス"
+                                "Lopos the Bull: Don't let anyone in, let the two of us have\na conversation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「誰も入ってくるなよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ふたりで話をさせてもらうぞ」"
+                                ""
                             ]
                         },
                         {
@@ -5257,14 +5257,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Oh my, you're quite strong..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あらあらお強いですわね……」"
+                                ""
                             ]
                         },
                         {
@@ -5288,21 +5288,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雄牛のロポス"
+                                "Lopos the Bull: We are Tarasa war veterans, so we have work\nto do. Please leave."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「俺たちはタラサ戦の帰還兵だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　仕事があるから出ていってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -5850,21 +5850,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　雄牛のロポス"
+                                "Ropos the Bull: You've come back, huh...! I'll make you try\nagain and again until you give up!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「懲りずに来たのか……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　諦めるまで何度もやらせてもらうぞ」"
+                                ""
                             ]
                         },
                         {
@@ -5934,21 +5934,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雄牛のロポス"
+                                "Ropos the Bull: Hmph... You may have some skill, but we\nwon't waver from our decision."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「っく……たいした実力だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　だが、俺たちは決めたことを曲げないぞ」"
+                                ""
                             ]
                         },
                         {
@@ -5972,21 +5972,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Could it be that you two... hehe, would you\nlike to have a private conversation in the back?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あなたもしかして……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　うふふ、ふたりで奥でお話をしませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -6003,14 +6003,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Could you tell me the reason behind your\nsmile?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「笑顔の理由……聞かせていただけるかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -6043,21 +6043,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雄牛のロポス"
+                                "Ropos the Bull: Don't let anyone come in, let the two of us\nhave a conversation."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「誰も入ってくるなよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ふたりで話をさせてもらうぞ」"
+                                ""
                             ]
                         },
                         {
@@ -6149,14 +6149,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Oh my, you're quite strong, aren't you..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あらあらお強いですわね……」"
+                                ""
                             ]
                         },
                         {
@@ -6180,21 +6180,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　雄牛のロポス"
+                                "Ropos the Bull: We are Tarasa battle veterans, so we have\nwork to do. Please leave."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「俺たちはタラサ戦の帰還兵だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　仕事があるから出ていってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -6620,21 +6620,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: Our Lopos is amazing! In the previous\nwar, they returned us to our hometown alive."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うちのロポスさんはすごいんだぜ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　前回の戦争でも俺たちを生きたまま故郷に返してくれた」"
+                                ""
                             ]
                         },
                         {
@@ -6753,21 +6753,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Information Broker: Our Lopos is amazing! In the previous\nwar, they returned us to our hometown alive."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うちのロポスさんはすごいんだぜ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　前回の戦争でも俺たちを生きたまま故郷に返してくれた」"
+                                ""
                             ]
                         },
                         {
@@ -6844,14 +6844,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: I'd prefer a request that doesn't involve\nmagic if possible."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「できれば魔法が絡まない依頼がしたいぜ」"
+                                ""
                             ]
                         },
                         {
@@ -6919,21 +6919,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: Ugh... a magician, huh! I refuse\ntroublesome requests, seriously..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うげっ……魔法使いかよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　厄介な依頼はお断りだぜ、まったくよぉ……」"
+                                ""
                             ]
                         },
                         {
@@ -7052,14 +7052,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: I'd prefer a request that doesn't involve\nmagic if possible."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「できれば魔法が絡まない依頼がしたいぜ」"
+                                ""
                             ]
                         },
                         {
@@ -7127,21 +7127,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　情報屋の男"
+                                "Male Informant: Ugh... a magician, huh! I refuse\ntroublesome requests, seriously..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うげっ……魔法使いかよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　厄介な依頼はお断りだぜ、まったくよぉ……」"
+                                ""
                             ]
                         },
                         {

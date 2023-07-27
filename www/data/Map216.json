@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "放蕩貴族の所有地最奥",
+    "displayName": "Innermost Territory of the Profligate Noble",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3100,7 +3100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -3146,14 +3146,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -3660,21 +3660,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アスピダ同盟戦士長"
+                                "Aspida Alliance Warrior Captain: We meet again, mighty\nwarriors! We cannot afford to be defeated by the Goddess\nActina for the second time!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「また会ったな、強き戦士たちよっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　女神アクティナにかけて２度敗北するわけにはいかん！」"
+                                ""
                             ]
                         },
                         {
@@ -3698,21 +3698,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: The carriage at the entrance... Is it your doing?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「入口の馬車……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたたちの仕業でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -3736,21 +3736,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アスピダ同盟戦士長"
+                                "Aspida Alliance Warrior Captain: Anyone, no matter who or\nwhat they may be, who sets foot on our land, Valt, is an\nenemy of the Aspida Alliance!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「我らが土地ヴァルトに土足で踏み込んだ帝国人"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それは誰であれ何であれアスピダ同盟の敵なのだ！」"
+                                ""
                             ]
                         },
                         {
@@ -3767,21 +3767,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アスピダ同盟戦士長"
+                                "Aspida Alliance Warrior Captain: Now, draw your swords!\nLet us offer the blood of the Imperial people to the land of\nValt!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、剣を抜けっ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国人の血をヴァルトの大地に捧げてやろう！」"
+                                ""
                             ]
                         },
                         {
@@ -3821,21 +3821,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They were people I didn't know, but when I think\nabout their families, they don't seem like strangers to me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「知りもしない方々でしたが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの人たちの家族のことを考えれば他人とは思えません」"
+                                ""
                             ]
                         },
                         {
@@ -3885,21 +3885,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: This is also some kind of fate. I will avenge them in\ntheir place."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これもなにかの縁です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私が代わりに仇討ちをさせていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -4348,14 +4348,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is there anything else you want to say?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なにか言い残すことはありますか？」"
+                                ""
                             ]
                         },
                         {
@@ -4458,14 +4458,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アスピダ同盟戦士長"
+                                "Aspida Alliance Warrior Captain: R-Retreat\nstrategically!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「せ、戦略的撤退っ！！」"
+                                ""
                             ]
                         },
                         {
@@ -4716,21 +4716,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アスピダ同盟戦士長"
+                                "Aspida Alliance Warrior Captain: We leave this battle in\nthe hands of the Supreme God Sol! Let us settle the score\nwhen we meet again!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この勝負は主神ソールに預けた！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　我らが再び会うときに決着をつけようぞっ！」"
+                                ""
                             ]
                         },
                         {
@@ -5014,14 +5014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Wait! Don't run away!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「くっ、待って！　逃げるなっ！」"
+                                ""
                             ]
                         },
                         {
@@ -5116,14 +5116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis, calm down... What is our mission?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレア、落ち着いて……私たちの任務はなに？」"
+                                ""
                             ]
                         },
                         {
@@ -5255,14 +5255,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: ...Our mission is to transport the crystal."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……クリスタルを運ぶことです」"
+                                ""
                             ]
                         },
                         {
@@ -5397,21 +5397,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis, the Gale: Clea, as an adventurer who often gets\nconsumed by emotions, you must be more calm than anyone\nelse."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアは感情に飲まれることが多い"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　冒険者は誰よりも冷静でいないといけない」"
+                                ""
                             ]
                         },
                         {
@@ -5428,21 +5428,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis, the Gale: What you carry is not just your own life,\nremember that."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたが背負っているのは"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　自分の命だけじゃない、覚えておいて」"
+                                ""
                             ]
                         },
                         {
@@ -5496,21 +5496,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I apologize... I will strive not to be consumed by\nanger."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すいませんでした……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　怒りに飲まれないように精進します」"
+                                ""
                             ]
                         },
                         {
@@ -5534,21 +5534,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis, the Gale: Thanks to everyone, we've made it this\nfar. Let's pass through the forest in one go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「みんなのおかげでここまでこれた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　このまま森を一気に通り抜けよう」"
+                                ""
                             ]
                         },
                         {
@@ -5774,21 +5774,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis, the Gale (Emotions are not just anger, but if you\nwere consumed by uncontrollable fear in battle)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（感情は怒りだけじゃない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もし戦いの中で制御できない恐怖に飲み込まれたとしたら）"
+                                ""
                             ]
                         },
                         {
@@ -5842,14 +5842,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疾風のセリス"
+                                "Celis, the Gale (Clea might not be able to continue wielding\nher sword...)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　（クレアは剣を握り続けることができないかもしれない……）"
+                                ""
                             ]
                         },
                         {
@@ -7219,7 +7219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -7265,14 +7265,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {
@@ -7519,7 +7519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ボスのエリアに入りますか？"
+                                "Do you want to enter the boss area?"
                             ]
                         },
                         {
@@ -7565,14 +7565,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (Let's prepare first before doing that)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（準備をしてからにしよう）"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "バルク団駐屯地 酒場・宿屋1F",
+    "displayName": "Bulk Corps Garrison Inn and Tavern 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6079,21 +6079,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　熟練の魔術士"
+                                "Skilled magician: 'Today, I defeated another incompetent\nwarrior in this town where many people underestimate\nmagic.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この街は魔法を軽んじる者が多い"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今日も低能な戦士を叩きのめしたところだ」"
+                                ""
                             ]
                         },
                         {
@@ -6177,14 +6177,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　熟練の魔術士"
+                                "The skilled magician says, 'A battle of mourning between\nwarriors is very welcome, you know?'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「戦士たちの弔い合戦は大歓迎だぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -6201,7 +6201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　決闘を行いますか？"
+                                "Shall we have a duel?"
                             ]
                         },
                         {
@@ -6240,14 +6240,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　熟練の魔術士"
+                                "The skilled magician says, Hehe, it seems we can learn how\nto escape from the warriors."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ふふ、逃げ方は戦士たちから学べそうだ」"
+                                ""
                             ]
                         },
                         {
@@ -6277,21 +6277,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　熟練の魔術士"
+                                "The skilled magician says, Oh, you've come without\nhesitation! I'll show you real magic."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ほぉ、臆さず来るか！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　本物の魔法をお前に見せてやろう」"
+                                ""
                             ]
                         },
                         {
@@ -6368,21 +6368,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　熟練の魔術士"
+                                "The skilled magician says, I don't want to admit that there\nare warriors like you... but I'll accept defeat..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「お前のような戦士もいるのか"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　認めたくはないが……敗北を受け入れよう……」"
+                                ""
                             ]
                         },
                         {
@@ -6428,14 +6428,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　熟練の魔術士"
+                                "The skilled magician says, It's good that there's an inn\nnearby."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「宿屋が近くてよかったな」"
+                                ""
                             ]
                         },
                         {
@@ -6938,14 +6938,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: We don't have wine, but we can serve you the\nbest beer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ワインはないが最高のビールを振る舞えるよ」"
+                                ""
                             ]
                         },
                         {
@@ -7013,14 +7013,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店主"
+                                "Innkeeper: We don't have wine, but I can offer you the best\nbeer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ワインはないが最高のビールを振る舞えるよ」"
+                                ""
                             ]
                         },
                         {
@@ -7097,21 +7097,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酒場の店員"
+                                "Innkeeper: Have you ever been to Myukos? I want to see a\nplace that's bigger than the lake, the sea!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ミュコスに行ったことある？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　湖よりも大きい海って場所を一度見てみたいわ！」"
+                                ""
                             ]
                         },
                         {
@@ -7188,21 +7188,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　農夫の男"
+                                "Farmer Man: Have you had the beer? It seems like the\nquality is pretty good this year."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ビールは飲んだかい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　今年はかなりできがいいみたいだよ」"
+                                ""
                             ]
                         },
                         {
@@ -7279,21 +7279,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　酔っ払いの客"
+                                "Drunk customer: Glory to the Bulk Brigade! We are the\ngreatest warriors, the chosen ones loved by the goddess\nActina!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「バルク団に栄光あれ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　最高の戦士たち、女神アクティナに愛されし者たちだ！」"
+                                ""
                             ]
                         },
                         {
@@ -7784,21 +7784,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Oh, it's you guys from the Bulk Gang! Why don't you come\nover here and have a drink with us!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おぉ、お前たちではないか！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こっちに来て一杯やろうではないか！」"
+                                ""
                             ]
                         },
                         {
@@ -7829,14 +7829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Hehe, I would be delighted to accompany\nyou."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、お付き合いさせていただきますわ」"
+                                ""
                             ]
                         },
                         {
@@ -7874,21 +7874,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: By the way... Have you heard the rumors\nabout the appearance of a werewolf?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その前に……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　人狼が出現したという噂はご存知でしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -7928,21 +7928,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Bulk Gang's Goat: 'Do werewolves really exist? Hahaha, it's\namusing coming from a man who almost turned into an orc!'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「人狼なぞ実在するのか？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　がはは、オークになりかけた男が言うと面白いな！」"
+                                ""
                             ]
                         },
                         {
@@ -7973,21 +7973,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Bulk Gang's Goat: It's a serious matter, but if werewolves\nreally exist, there should definitely be reports from\nsomeone."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「真面目な話だが俺の耳に入っていない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　実在するなら確実に誰かから報告があるはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -8018,21 +8018,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Bulk Gang's Goat: If you need any help, make sure to let us\nknow. We'll definitely repay you guys a little!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「協力が必要なら必ず伝えてくれ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　少しはお前たちに恩返しをさせてくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -8102,21 +8102,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Bulk Gang's Goat: I see, Stasis... He's the man who started\ntalking after interacting with you guys."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうかスタシスが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前たちとの交流を経て話すようになった男だな」"
+                                ""
                             ]
                         },
                         {
@@ -8147,14 +8147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Did anything seem different?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何か変わった様子はありましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -8192,21 +8192,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Bulk Gang's Goat: I hear he often has nightmares. Well, it\nseems like this is not something new."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悪夢をよくみるそうだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まぁ、これはいまに始まったことではないらしいが」"
+                                ""
                             ]
                         },
                         {
@@ -8246,21 +8246,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Bulk Gang's Goat: I've got an idea! How about we provide\nsecurity for him? That way, he can sleep peacefully."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうだ！　俺たちで警護をするのはどうだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そうすればあいつも安心して眠れるだろうからな」"
+                                ""
                             ]
                         },
                         {
@@ -8284,14 +8284,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バルク団のゴート"
+                                "Bulk Gang's Goat: Once you guys are ready, please join us!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前たちも準備ができたら合流してくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -8617,21 +8617,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Oh my, I hope Mr. Goat's departure doesn't\nend up being counterproductive..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あらあら、行ってしまいましたわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ゴートさんが逆効果にならなければいいですが……」"
+                                ""
                             ]
                         },
                         {
@@ -8662,14 +8662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Wouldn't it be reassuring if we had a hero like\nValt?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ヴァルトの英雄がいれば安心では？」"
+                                ""
                             ]
                         },
                         {
@@ -8707,14 +8707,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Hehe, Clea-chan is on that side too, isn't\nshe?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、クレアちゃんもそっち側ですものね」"
+                                ""
                             ]
                         },
                         {
@@ -9775,14 +9775,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Hehe, I thought it would be about time."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「うふふ、そろそろだと思ってましたわ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mage Stasis: I appreciate the kindness, but I won't be able\nto sleep if the men are banging axes and shields."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9813,21 +9851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いスタシス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「好意はありがたいですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　男たちが斧と盾を叩いていたら眠れませんよ」"
+                                "Mage Stasis: Well, I can't sleep in the first place...\nLately, I've been forcing myself with alcohol, so to speak."
                             ]
                         },
                         {
@@ -9838,34 +9862,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いスタシス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「そもそも眠ることができませんけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　最近はアルコールで無理やりどうにかという感じです」"
+                                ""
                             ]
                         },
                         {
@@ -9896,14 +9896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: I heard you've been researching the demons\nof nightmares, is that true?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「凶夢の悪魔についてご研究されているとか？」"
+                                ""
                             ]
                         },
                         {
@@ -9934,21 +9934,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いスタシス"
+                                "Mage Stasis: Yes, originally I was researching that. As for\nthe demons of transformation, I've only recently started\nstudying them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、元はそっちを研究してました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　変質の悪魔については最近はじめたばかりです」"
+                                ""
                             ]
                         },
                         {
@@ -9981,21 +9981,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いスタシス"
+                                "Mage Stasis: When I was five years old, my mother abandoned\nme because I was getting in the way of her remarriage... But\neven now, I can't bring myself to hate her."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「５歳の時に母親に捨てられたんです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　再婚の邪魔になるからと……でもいまだ母を憎めずにいます」"
+                                ""
                             ]
                         },
                         {
@@ -10026,14 +10026,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: That is..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mage Stasis: Since then, I've been dealing with nightmares,\nso I became a mage and started researching the demons of\nnightmares."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10064,21 +10102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いスタシス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「悪夢との付き合いはそれからずっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　だから魔法使いになって凶夢の悪魔の研究をはじめました」"
+                                "Mage Stasis: I'm currently researching about the\ntransformation of dreams. It's strange, isn't it? I can talk\nabout anything when I'm with you."
                             ]
                         },
                         {
@@ -10089,34 +10113,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いスタシス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「行き詰まって夢の変質について研究中です"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　不思議ですね、あなたが相手だと何でも話せてしまう」"
+                                ""
                             ]
                         },
                         {
@@ -10147,14 +10147,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Oh my, are you being flirted with?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あらあら、口説かれているのかしら？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mage Stasis: N-No, that's not it! I just feel like you\nsomehow understand me..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10185,21 +10223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いスタシス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ち、違いますよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　何となく理解をしてくれる気がして……」"
+                                "Mage Stasis: C-Can I sleep for a little while? It's safe to\nsleep here since the werewolves won't come..."
                             ]
                         },
                         {
@@ -10210,34 +10234,10 @@
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いスタシス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「す、少しだけ寝てもいいですかね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　ここなら人狼は来ないし安心して眠れる……」"
+                                ""
                             ]
                         },
                         {
@@ -10317,21 +10317,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: Yes, I understand. I've been having\nnightmares for a long time too..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、わかりますよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私もずっと悪夢を見続けていますから……」"
+                                ""
                             ]
                         },
                         {
@@ -10684,21 +10684,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いスタシス"
+                                "Mage Stasis: Grrrr! Ughhhhh!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「グルルルッ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ウガガガガアアァァァァッ！」"
+                                ""
                             ]
                         },
                         {
@@ -10827,14 +10827,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: T-This is... Mage Stasis!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こ、これは……スタシスさん！？」"
+                                ""
                             ]
                         },
                         {
@@ -10932,21 +10932,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Cleric Sophia: I have to go tell Clea-chan and the others\nabout the true identity of the werewolves!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「人狼の正体が……！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　クレアちゃんたちに伝えにいかないと！」"
+                                ""
                             ]
                         },
                         {

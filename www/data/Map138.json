@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "貴族オリクトの屋敷",
+    "displayName": "Nobleman Ect's Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4383,14 +4383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ガラの悪い門番"
+                                "Rude Gatekeeper: Hehe, you're quite the attractive woman,\naren't you, Valie?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「へへっ、バリエじゃ見ねーいい女だな」"
+                                ""
                             ]
                         },
                         {
@@ -4509,14 +4509,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ガラの悪い門番"
+                                "Rude Gatekeeper: 'Tell the captain I said hello if you see\nhim.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「団長にあったらよろしく伝えておいてくれよな」"
+                                ""
                             ]
                         },
                         {
@@ -4593,14 +4593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ガラの悪い門番"
+                                "Rude Gatekeeper: What do you want, monster?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんかようかい？」"
+                                ""
                             ]
                         },
                         {
@@ -4719,14 +4719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ガラの悪い門番"
+                                "Leave it to us, Mr. Orikto, the ill-tempered gatekeeper."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オリクトさんは俺たちにまかせておきな」"
+                                ""
                             ]
                         },
                         {
@@ -5273,21 +5273,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　貴族オリクトの執事"
+                                "Butler of the noble Ect: Welcome back from your carriage\nride, Lord Ect. He is waiting for you in the room on the\nfirst floor."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「馬車の移動お疲れ様でした"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　オリクト様は１階のお部屋でお待ちしております」"
+                                ""
                             ]
                         },
                         {
@@ -5547,14 +5547,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CL　　エリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Valley Region/Noble Oricto's\nMansion\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CL　バリエ地方/貴族オリクトの屋敷\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -6759,21 +6759,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: My request is now complete. Thank you for\naccompanying me for such a long time."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あたしの依頼はこれで終了さ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本当に長い間、付き合ってくれてありがとう」"
+                                ""
                             ]
                         },
                         {
@@ -6797,21 +6797,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: I can't thank you enough for helping me\nreturn Ect to her original form..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オリクトも元に戻ってくれた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんたたちには感謝しきれないよ……」"
+                                ""
                             ]
                         },
                         {
@@ -6835,21 +6835,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Because it was a request... No, I'm glad that we were\nable to chase our dreams together."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「依頼ですから……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いえ、一緒に夢を追いかけることができてよかったです」"
+                                ""
                             ]
                         },
                         {
@@ -6873,21 +6873,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Before we went to help Ect, you were\nabout to say something to us, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「オリクトさんを助けに行く前に"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わたくしたちに何か言いかけていましたよね？」"
+                                ""
                             ]
                         },
                         {
@@ -6927,21 +6927,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: That's right, that's right! I found this\nbeyond the magic circle!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうだそうだ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　魔法陣の先でこれを見つけたのさ！」"
+                                ""
                             ]
                         },
                         {
@@ -7019,14 +7019,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Wow, it's so beautiful! Is it a gem?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「すごい綺麗ですねぇ〜宝石ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7050,21 +7050,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: This is something they created! I can feel\nincredible magical power from it. Can I investigate it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「彼らが作り出したものですよ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　すごい魔力を感じます、これ調べていいですか！？」"
+                                ""
                             ]
                         },
                         {
@@ -7088,21 +7088,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: Ahaha, how about this as a reward? There's\nan exact same thing here too."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あはは、これが報酬でどうだい？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まったく同じものがここにもあるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -7126,21 +7126,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: Would you accept this as a symbol of the\nbond we formed through our joys and hardships together?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「苦楽を共にした証"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あたしたちの絆として受け取ってくれないかい？」"
+                                ""
                             ]
                         },
                         {
@@ -7248,21 +7248,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Thank you very much. I will accept this as a reward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとうございます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　こちらを報酬としていただきます」"
+                                ""
                             ]
                         },
                         {
@@ -7286,14 +7286,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: Phoni, can you lend me your ear for a\nmoment?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「フォニには……ちょっと耳を貸しな」"
+                                ""
                             ]
                         },
                         {
@@ -7403,14 +7403,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　声の巫女フォニ"
+                                "Priestess Phoni: Huh, is it okay...!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えっ、いいんですか……！？」"
+                                ""
                             ]
                         },
                         {
@@ -7545,21 +7545,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: Ahaha, once things settle down, I'll\ncontact you again myself!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あはは、こっちが落ち着いたら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　改めてあたしから連絡をさせてもらうよ！」"
+                                ""
                             ]
                         },
                         {
@@ -7583,21 +7583,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: Clea and the others should continue to\nface unimaginable difficulties from now on."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「クレアたちはこれからも"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　想像できないような困難に向かっていくはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -7614,21 +7614,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　探検家アルマダ"
+                                "Explorer Armada: If you ever need me, please call out to\nme. Just like how everyone helped me, I will definitely come\nrunning!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「もしあたしが必要な時は声をかけておくれ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　みんなが手伝ってくれたように必ず駆けつけるからさ！」"
+                                ""
                             ]
                         },
                         {
@@ -7652,14 +7652,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Yes, please take care of me at that time!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はい、その時はよろしくお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -8124,14 +8124,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クロノス盗賊団団長ギフト"
+                                "Leader of the Chronos Thieves, Gift: It seems like they\nasked us to hire them."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺たちを雇うように言ったらしいな」"
+                                ""
                             ]
                         },
                         {
@@ -8155,21 +8155,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I handed over your subordinates to the guards before.\nI thought that if I could contribute even a little to the\nsecurity of Valeria, it would be worthwhile."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「以前にあなたの部下を衛兵に突き出しています"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　少しでもバリエの治安に貢献できればと思いました」"
+                                ""
                             ]
                         },
                         {
@@ -8193,21 +8193,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クロノス盗賊団団長ギフト"
+                                "Leader of the Chronos Thieves, Gift: Thanks to you, it\nseems like my subordinates won't die in vain."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おかげで部下が野垂れ死にしなくてすみそうだ」"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　"
+                                ""
                             ]
                         },
                         {
@@ -8224,21 +8224,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クロノス盗賊団団長ギフト"
+                                "Leader of the Chronos Thieves, Gift: Thanks, though I doubt\nyou'd be happy to hear that from someone like me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ありがとよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺なんかに言われても嬉しくないだろうが」"
+                                ""
                             ]
                         },
                         {
@@ -8320,14 +8320,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Are you not staying?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたは残らないのですか？」"
+                                ""
                             ]
                         },
                         {
@@ -8351,21 +8351,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クロノス盗賊団団長ギフト"
+                                "Leader of the Chronos Thieves, Gift: I abandoned my husband\nand ran away, so I have no right to stay here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「俺は旦那を見捨てて逃げた"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だからここに残る資格なんてないのさ」"
+                                ""
                             ]
                         },
                         {
@@ -8382,21 +8382,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クロノス盗賊団団長ギフト"
+                                "Leader of the Chronos Thieves, Gift: And... adventurers who\nhave once again become eager to aim for it... the children\nof pioneers."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それに……もう一度目指したくなった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　冒険者を……開拓者の子どもたちってやつを」"
+                                ""
                             ]
                         },
                         {
@@ -8420,14 +8420,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: We might meet somewhere someday, you know."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いつかどこかで会うかもしれませんね」"
+                                ""
                             ]
                         },
                         {

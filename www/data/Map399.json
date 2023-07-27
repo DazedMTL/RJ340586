@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "薬の街メディシナ 薬師ピトンの家",
+    "displayName": "Medicine Town Medicina, Home of the Pharmacist Piton",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5420,21 +5420,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: You came...!? You look like a different\nperson, it's confusing, go back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「来たのか……！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　別人かよ、紛らわしい、帰ってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -5860,14 +5860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: Who are you guys?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なんだお前たちは？」"
+                                ""
                             ]
                         },
                         {
@@ -5891,14 +5891,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: I came to see the request form from Kanonas."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カノナスの依頼書を見て来ました」"
+                                ""
                             ]
                         },
                         {
@@ -5931,21 +5931,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: Kanonas...!? That bastard sent it to the\nwrong place..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カノナスだって……！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あの野郎、送る場所を間違えやがったな……」"
+                                ""
                             ]
                         },
                         {
@@ -5969,14 +5969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Is there a problem?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「何か問題でもありましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -6000,14 +6000,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: Well... it's about the snake incident..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いや……蛇の件だがな……」"
+                                ""
                             ]
                         },
                         {
@@ -6031,21 +6031,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: If it's something you're looking for, leave it\nto me! I'll investigate by following the scent!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「探しものならまかせてください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　匂いをたどって調査をしてみます！」"
+                                ""
                             ]
                         },
                         {
@@ -6069,14 +6069,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: May I investigate, including inside the house?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「家の中を含めて調査してもよろしいでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6109,21 +6109,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: Ah, ah... I want you to search\nseparately, please stay here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あっ、あぁ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　手分けして探して欲しい、あんたは残ってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -6147,14 +6147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました」"
+                                ""
                             ]
                         },
                         {
@@ -6315,14 +6315,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: By the way, may I ask for more details about the\nsnake?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ところで蛇の詳細をうかがってもいいでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6339,21 +6339,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: If you could tell me the color, shape, size, and\nother characteristics, it would make the investigation\neasier."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「色や形状、大きさなど"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　特徴を教えていただければ調査がしやすいので」"
+                                ""
                             ]
                         },
                         {
@@ -6386,14 +6386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: Sigh... It seems like you really don't\nknow anything."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はぁ……本当に何も知らないみたいだな」"
+                                ""
                             ]
                         },
                         {
@@ -6492,21 +6492,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Hey, what are you taking out...!? P-Please put it\naway immediately, hurry!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ちょっと、何を出して……！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　す、すぐにしまってください、はやくっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6530,21 +6530,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: It was just a small mistake. I was\nsupposed to ask Valie for help, actually."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ちょっとした手違いだったんだよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　本当はバリエの方に依頼を出すはずだったんだ」"
+                                ""
                             ]
                         },
                         {
@@ -6568,14 +6568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: W-What does that have to do with the current\nsituation!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、それと今の状態になんの関係が！？」"
+                                ""
                             ]
                         },
                         {
@@ -6599,21 +6599,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: You really are an ignorant young lady.\nThe condition is a woman, and the content is a giant\nsnake..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「世間知らずのお嬢さんだな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　条件が女、内容が大蛇っていうのはな……」"
+                                ""
                             ]
                         },
                         {
@@ -6646,21 +6646,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: It's a code word for calling a\nprostitute. This town is strict, so I intended to ask Valie\nfor help."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「娼婦を呼ぶための隠語なんだよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この街は厳しいからバリエに頼んだつもりだったのに」"
+                                ""
                             ]
                         },
                         {
@@ -6677,21 +6677,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: After explaining all this, are you going\nto defeat my giant snake, of course?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここまで説明してどうだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺の大蛇をもちろん討伐してくれるよな？」"
+                                ""
                             ]
                         },
                         {
@@ -6953,14 +6953,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: Gufeh!?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「ぐふぇっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -6984,21 +6984,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: The giant snake has become smaller. We can crush it,\nbut what should we do?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「大蛇が小さくなりましたね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　潰すこともできますがどうしますか？」"
+                                ""
                             ]
                         },
                         {
@@ -7022,21 +7022,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: Ugh, ugh... F-Fine, the request is\nover... damn it...!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「うぅ、うぐぅ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　わ、わかった、依頼はこれで終わりだ……くそっ……！」"
+                                ""
                             ]
                         },
                         {
@@ -7053,21 +7053,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: Here's some pocket change, take it! I\nlike strong-willed women, looking forward to seeing you\nagain."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「はした金だ、持っていけ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　俺は気の強い女は好きだ、また会えるのを楽しみにしてるぜ」"
+                                ""
                             ]
                         },
                         {
@@ -7127,14 +7127,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood... However--"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わかりました……ただし――」"
+                                ""
                             ]
                         },
                         {
@@ -7158,21 +7158,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: I know, you came without knowing. I won't\ninsert anything."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わかっているよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　知らないで来たんだ、挿入はしない」"
+                                ""
                             ]
                         },
                         {
@@ -7189,21 +7189,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: You have a good body hidden under that\narmor, don't you? How about lending me your chest?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「鎧に隠れているが良い身体しているよな"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　どうだい、あんたの胸を借りるっていうのは？」"
+                                ""
                             ]
                         },
                         {
@@ -7243,14 +7243,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Understood... If that's what you want."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わかりました……それでいいなら」"
+                                ""
                             ]
                         },
                         {
@@ -7274,21 +7274,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: Take off that unsightly armor and show me\nyour beautiful body already."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「鎧なんて無粋なものは脱いでくれよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　はやくあんたの綺麗な身体を俺に見せてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -7340,7 +7340,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -7505,21 +7505,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: What a magnificent chest! I have to thank\nthe one who made this mistake."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「最高の胸だな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　こいつは間違えたやつに感謝しないと」"
+                                ""
                             ]
                         },
                         {
@@ -7543,14 +7543,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Please give me my reward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「報酬をお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -7574,21 +7574,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: I understand. Here, I'll give you some\ncolored medicine, so cheer up."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「わかっているよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　ほら、色つけて渡すから機嫌を直してくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -7685,21 +7685,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: If you feel like earning money again,\ncome back. This town doesn't have much entertainment to\nspend money on, so I'll pay you generously, okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「また稼ぎたくなったら来てくれ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　この街は金を使う娯楽がないからたっぷり支払うぜ？」"
+                                ""
                             ]
                         },
                         {
@@ -7897,21 +7897,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: You came...!? You look different, it's\nconfusing, go back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「来たのか……！？"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　別人かよ、紛らわしい、帰ってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -7979,14 +7979,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: I'm looking forward to seeing you again."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「また会えるのを楽しみにしてるぜ」"
+                                ""
                             ]
                         },
                         {
@@ -8415,7 +8415,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　アダルトシーンをスキップしますか？"
+                                "Do you want to skip the adult scene?"
                             ]
                         },
                         {
@@ -8901,21 +8901,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: The snake is in a bad mood... I'll use\nyour breasts to calm it down."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「蛇の機嫌が悪くてな……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あんたの胸を使って鎮めさせてもらうぜ」"
+                                ""
                             ]
                         },
                         {
@@ -8932,21 +8932,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　薬師ピトン"
+                                "Pharmacist Piton: Now, take off that stuffy armor. I can't\nhold back any longer..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さぁ、暑苦しい鎧を脱いでくれよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　俺はもう我慢の限界だからさ……」"
+                                ""
                             ]
                         },
                         {

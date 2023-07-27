@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "谷の都市バリエ 防具屋",
+    "displayName": "Valley City Barié Armor Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2090,21 +2090,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鍛冶屋カルフ"
+                                "Blacksmith Carlf: I can't help but feel grateful to all of\nyou who made it possible for the ore to be delivered!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おかげで鉱石が届くようになった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　君たちには感謝の気持ちしかないよ！」"
+                                ""
                             ]
                         },
                         {
@@ -2319,21 +2319,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鍛冶屋カルフ"
+                                "Blacksmith Carlf: Thank you for coming. I want you to go to\nthe Sufiri Mine and collect ore."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「来てくれてありがとう"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　スフィリ鉱山まで鉱石の回収に行って欲しいんだ」"
+                                ""
                             ]
                         },
                         {
@@ -2357,14 +2357,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Y-Yes, understood! Leave it to me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わ、わかりました！　まかせてください！」"
+                                ""
                             ]
                         },
                         {
@@ -2388,21 +2388,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鍛冶屋カルフ"
+                                "Blacksmith Carlf: This is the harsh reality of Valier, once\nrenowned in the empire, unable to deliver what was requested\nsatisfactorily..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「頼んだものも満足に送れない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　これがかつて帝国に名を馳せたバリエの現実さ……」"
+                                ""
                             ]
                         },
                         {
@@ -2426,14 +2426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: Y-Yes, um... I will definitely bring it back!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そ、その……必ず運んできますから！」"
+                                ""
                             ]
                         },
                         {
@@ -2457,14 +2457,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鍛冶屋カルフ"
+                                "Blacksmith Carlf: Ah, I've asked for your help."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あぁ、頼んだよ」"
+                                ""
                             ]
                         },
                         {
@@ -2599,14 +2599,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLエリア解放\\c[18]"
+                                "\\CL Area Liberation\\c[18]\\CL Valier Region/Sufiri Mine\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CLバリエ地方/スフィリ鉱山\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -2698,14 +2698,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鍛冶屋カルフ"
+                                "Blacksmith Carlf: Sorry, I've finished the request."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「悪いけど、頼んだよ」"
+                                ""
                             ]
                         },
                         {
@@ -2920,14 +2920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鍛冶屋カルフ"
+                                "Blacksmith Carlf: Oh, you brought it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おぉ、持ってきてくれたのか！」"
+                                ""
                             ]
                         },
                         {
@@ -3083,14 +3083,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: U-Um, it seems that the leader has fallen ill\nand is running late."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「だ、代表の方が倒れていて遅れているみたいです」"
+                                ""
                             ]
                         },
                         {
@@ -3123,21 +3123,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鍛冶屋カルフ"
+                                "Blacksmith Carlf: I wonder how much of it is true... I\nguess it means I should give up on doing business here."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「どこまで真実やら……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いい加減、ここでの商売を諦めろってことかな」"
+                                ""
                             ]
                         },
                         {
@@ -3154,21 +3154,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鍛冶屋カルフ"
+                                "Blacksmith Carlf: Anyway, I'm glad you helped. Oh, by the\nway, I need to give you your reward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「なにはともあれ助かったよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　そうだ、報酬を渡さないとね」"
+                                ""
                             ]
                         },
                         {
@@ -3265,14 +3265,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: T-Thank you very much!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あ、ありがとうございます！」"
+                                ""
                             ]
                         },
                         {
@@ -3491,14 +3491,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鍛冶屋カルフ"
+                                "Blacksmith Carufu: I wonder if the shipment from the mine\nwill arrive today..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「鉱山からの荷物は今日も来ないか……」"
+                                ""
                             ]
                         },
                         {

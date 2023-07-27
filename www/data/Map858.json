@@ -5779,14 +5779,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Are you going up the stairs?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　階段を上がりますか？"
+                                ""
                             ]
                         },
                         {
@@ -5839,14 +5839,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　クレア"
+                                "Clea (There's a dragon on the rooftop, let's prepare\nthoroughly)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　（屋上にはドラゴンがいる、十分に準備をしよう）"
+                                ""
                             ]
                         },
                         {
@@ -6036,6 +6036,13 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "When you go up the stairs, you won't be able to perform\nactions such as saving, loading, changing equipment, or\nusing items."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -6043,14 +6050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　階段を上がるとセーブとロード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　装備の変更やアイテム利用などの操作ができなくなります"
+                                ""
                             ]
                         },
                         {
@@ -6074,14 +6074,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Are you really sure?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　本当によろしいですか？"
+                                ""
                             ]
                         },
                         {
@@ -6147,14 +6147,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Everyone, let's head to the rooftop."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「みなさん、屋上に向かいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -6658,21 +6658,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　クレア"
+                                "Clea (The dragon we need to go with is our enemy)"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　（一緒に行く必要がある"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　ドラゴンは私たちの敵だから）"
+                                ""
                             ]
                         },
                         {
@@ -7813,14 +7813,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Lord Rex! Are you safe?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「レクス様！　ご無事でしたかっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7858,14 +7858,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I'm so relieved..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当によかった……」"
+                                ""
                             ]
                         },
                         {
@@ -7903,14 +7903,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: I'm grateful for clearing the way up to this\npoint."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここまでの道を切り開いてくれてこと感謝する」"
+                                ""
                             ]
                         },
                         {
@@ -7934,14 +7934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: Caron released monsters in the town and even\nunleashed a dragon."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロンは街に魔物を放ちドラゴンも解き放った」"
+                                ""
                             ]
                         },
                         {
@@ -8010,14 +8010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: Do you still have any attachment to what you\nsaw?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前は、あれを見ても未練があるのか？」"
+                                ""
                             ]
                         },
                         {
@@ -8057,21 +8057,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元帝国暗部ルイド"
+                                "Former Imperial Dark Agent Luid: I might be laughed at by\nthe prince, but I came here to [convince] myself."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王子に笑われそうですが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　自分自身が【納得】するためにここに来ました」"
+                                ""
                             ]
                         },
                         {
@@ -8102,21 +8102,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元帝国暗部ルイド"
+                                "Former Imperial Dark Agent Luid: Until I meet him... No,\nuntil I am rejected by him..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本人に会うまでは……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いえ、本人に拒絶されるまでは……」"
+                                ""
                             ]
                         },
                         {
@@ -8147,14 +8147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: Well, it's fine... I won't go back on what I've\nacknowledged."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まぁ、いい……私が認めたものだ、覆したりはしない」"
+                                ""
                             ]
                         },
                         {
@@ -8178,21 +8178,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: Caron should be on the rooftop ahead, probably\nwith the dragon and the sorcerer Eramota..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「カロンはこの先の屋上にいるはずです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　おそらく、ドラゴンと魔術師エラトマと一緒に……」"
+                                ""
                             ]
                         },
                         {
@@ -8223,21 +8223,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Please leave it to me from here on!\nPrince Rex, please evacuate to a safe place!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この先は、おまかせください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　レクス王子はどうか安全な場所に避難を！」"
+                                ""
                             ]
                         },
                         {
@@ -8299,21 +8299,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: I can't just leave it at that. As someone who\nwill become king, I need to talk to Caron."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そういうわけにはいかない"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　私は王になる者としてカロンと話す必要がある」"
+                                ""
                             ]
                         },
                         {
@@ -8353,21 +8353,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: I don't necessarily need to know about his\nexistence now, but I want to be aware of the appearance of\nsomeone who should be destroyed as a warning."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「奴のあり方をいまさら知る必要もないが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　滅ぶべき者の姿を戒めとして知っておきたいのだ」"
+                                ""
                             ]
                         },
                         {
@@ -8398,14 +8398,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: As someone who will become king"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「王になる者として」"
+                                ""
                             ]
                         },
                         {
@@ -8459,21 +8459,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I understand. There is no one who can\nstop the determination of someone who will become king."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　王になる方の覚悟を止められる者はおりません」"
+                                ""
                             ]
                         },
                         {
@@ -8504,21 +8504,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Maid Amina, please take care of Prince\nRex's protection."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「アミナさん"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　レクス王子の護衛をどうかよろしくお願いしますわ」"
+                                ""
                             ]
                         },
                         {
@@ -8549,21 +8549,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: Everyone, you are our benefactors. You saved\nour dying hearts."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「皆さんは私たちの恩人です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　死にゆくだけだった心を救ってくれました」"
+                                ""
                             ]
                         },
                         {
@@ -8580,14 +8580,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: I will definitely protect Prince Rex."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「必ずレクス王子をお守りします」"
+                                ""
                             ]
                         },
                         {
@@ -8611,21 +8611,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: They're humans who will launch a surprise attack with\na dragon. I'll go to the rooftop first, so please come after\nensuring your safety."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンで奇襲をかけてくる人間です"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　先に屋上に行きますので安全が確保されてから来てください」"
+                                ""
                             ]
                         },
                         {
@@ -8649,14 +8649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -8709,14 +8709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL Sophia has \\C[14]unlocked the support skill Bloodstained\nSword \\C[0]and can now use it. \\|"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLソフィアが\\C[14]援護スキル「血塗られた剣」\\C[0]を利用可能になった\\|"
+                                ""
                             ]
                         },
                         {
@@ -8762,14 +8762,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL Relm has \\C[14]unlocked the support skill Indomitable\nShield \\C[0]and can now use it. \\|"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLリルムが\\C[14]援護スキル「不屈の盾」\\C[0]を利用可能になった\\|"
+                                ""
                             ]
                         },
                         {
@@ -8815,14 +8815,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\CL Sophia has \\C[14]unlocked the support skill Royal\nCommand \\C[0]and can now use it. \\|"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CLソフィアが\\C[14]援護スキル「王の号令」\\C[0]を利用可能になった\\|"
+                                ""
                             ]
                         },
                         {
@@ -9778,21 +9778,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: I am well aware of the danger, but as the new\nking, I need to confront him."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「危険なのは百も承知している"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　だが、新たな王として奴と対峙する必要がある」"
+                                ""
                             ]
                         },
                         {
@@ -10027,21 +10027,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　元帝国暗部ルイド"
+                                "Former Imperial Secret Service Agent Luid: I'm truly\nsorry... I will definitely repay this debt to all of you\nsomeday."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当にすまないね……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この借りはいつか必ず君たちに返すよ」"
+                                ""
                             ]
                         },
                         {
@@ -10276,21 +10276,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　メイドのアミナ"
+                                "Maid Amina: I will definitely protect the prince's life...\nso please grant Lud's wish."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「必ずや王子の命はお守りします"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ですから……ルイドの望みを叶えてやってください」"
+                                ""
                             ]
                         },
                         {
@@ -10667,14 +10667,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ギルド・フテラに協力している商人"
+                                "Guild. A merchant who is cooperating with Ftera says, 'If\nyou need anything, please come back anytime.'"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「必要なものがあれば、またいつでも来て下さい」"
+                                ""
                             ]
                         },
                         {

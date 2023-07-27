@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "古えの港",
+    "displayName": "Ancient Port",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -3974,14 +3974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ノラ"
+                                "Nora: ......?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……？」"
+                                ""
                             ]
                         },
                         {
@@ -4278,14 +4278,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ノラ"
+                                "Nora: ......"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……」"
+                                ""
                             ]
                         },
                         {
@@ -4702,38 +4702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ノラが覚えているもっとも古い記憶。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは殺風景な浜辺を歩く自分の姿だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見知らぬ景色、見知らぬ匂い、すべてが疑問だった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Nora's oldest memory that she remembers. It was her walking\non a desolate beach. Unfamiliar scenery, unfamiliar smells,\neverything was a mystery."
                             ]
                         },
                         {
@@ -4747,14 +4716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　何よりも、思い出せない自分の名前。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どこから来たのか、何者なのか、すべての記憶は消え去っていた。"
+                                ""
                             ]
                         },
                         {
@@ -4778,38 +4740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その後の約1年はノラにとって非常に厳しい期間だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カンプスの草原を狩場として野生児のように暮らす日々。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戻ることのない記憶、それらは心と身体を押しつぶしていった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Above all, I couldn't remember my own name. Where I came\nfrom, what I was, all of my memories had vanished."
                             ]
                         },
                         {
@@ -4823,52 +4754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　そんな中でカンプスの草原には【野獣】がいる――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やがて噂は広がり戦争に参加しなかったが、功名心だけは強い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな貴族が【野獣狩り】と称して傭兵たちと共に狩りをはじめた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　不快な笑みを浮かべながら追いかけてくる男たち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ノラが男性に苦手意識を持ったのはこの時期からだった。"
                             ]
                         },
                         {
@@ -4892,6 +4778,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The following year was a very difficult period for Nora.\nShe lived like a wild child, using the grasslands of the\ncampus as her hunting grounds. Memories that would never\nreturn, they weighed heavily on her mind and body."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4899,21 +4792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　天性の勘で逃げてきたノラだったが、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ついに貴族の手によって捕らえられ拘束されてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　猿ぐつわをつけられ、拘束具で手足を固定される。"
+                                ""
                             ]
                         },
                         {
@@ -4930,6 +4816,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "In the midst of all that, there were beasts in the campus\ngrasslands. Eventually, rumors spread and although they did\nnot participate in the war, nobles with strong ambitions for\nfame began hunting with mercenaries under the name of beast\nhunting."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4937,21 +4830,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　本来のノラの怪力をもってすれば容易に破壊ができたはずである。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　しかし、男性に対する恐怖、現状に対する絶望、先の見えない日々、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それらすべてがノラから生きる希望を奪い去っていた。"
+                                ""
                             ]
                         },
                         {
@@ -4968,6 +4854,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Men chasing after her with unpleasant smiles. It was during\nthis time that Nora developed a discomfort towards men."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4975,14 +4868,121 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　自分の人生なんて、もうどうにでもなっていい。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　それがノラの唯一の感情だった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Nora, who had escaped by instinct, was finally captured and\nrestrained by the hands of nobles. She was fitted with a\nmuzzle and her hands and feet were immobilized with\nrestraints."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Nora, who possessed her original superhuman strength, should\nhave been able to easily destroy her restraints. However,\nher fear of men, despair over her current situation, and the\nendless days without a clear future had taken away all hope\nfor Nora to live."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "My life doesn't matter anymore. That was Nora's only\nemotion."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

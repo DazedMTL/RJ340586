@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マラコ村 民家",
+    "displayName": "Malako Village House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5650,14 +5650,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ポン引きの男"
+                                "Pimp: Oh, a prostitute applicant... wait, that's not right.\nGet out of here quickly."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おぉ、娼婦希望者か……って違うのか、はやく出ていきな」"
+                                ""
                             ]
                         },
                         {
@@ -5776,14 +5776,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ポン引きの男"
+                                "Ponhiki no otoko Taka no me no fuego... Hontōni\nosoroshī...  Man in a poncho: Fuego with the hawk's eye...\nTruly terrifying..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「鷹の目のフエゴ……本当におそろしい……」"
+                                ""
                             ]
                         },
                         {
@@ -6424,14 +6424,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ポン引きの男"
+                                "Ponhiki Man: Hey! Who the hell are you!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「おいっ！　なんだ、てめーはっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6474,21 +6474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「静かにしてください"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　それともナイフで永久に静かになりますか？」"
+                                "Fuego, the Hawk-eyed: Please be quiet, or would you like to\nbe permanently silenced with a knife?"
                             ]
                         },
                         {
@@ -6496,30 +6482,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ポン引きの男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「っひ、わ、わかった……大人しくする！」"
                             ]
                         },
                         {
@@ -6550,21 +6512,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Ponhiki Man: I-I understand... I'll behave!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「外の娼婦を連れてきてください"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　もっとも娼婦のふりをした見張りでしょうけどね」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Fuego, the Hawk-eyed: Please bring me a prostitute from\noutside. Although it will be more like a disguised lookout."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6777,14 +6777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Fuego, the Hawk-eyed: Well... this is where the real show\nbegins."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「さて……ここからが本番です」"
+                                ""
                             ]
                         },
                         {
@@ -6826,21 +6826,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Fuego, the Hawk-eyed: This basement should be turned into a\ngambling den. I want to capture everyone, including the\nhousemaster, Lance, by any means necessary."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「この下が賭博場になっているはずです"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　どうにかして胴元のランスを含めた全員を捕縛したい」"
+                                ""
                             ]
                         },
                         {
@@ -6930,14 +6930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Leave it to me, I'll be right back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「まかせてください、行ってきます」"
+                                ""
                             ]
                         },
                         {
@@ -6999,21 +6999,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Fuego, the Hawk-eyed: Please listen to the end of the\nstory! The opponent, Lance, is not a fool. He must have\nprepared a way to escape."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「話を最後まで聞いてください！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　相手も馬鹿じゃないランスは逃げる方法を用意しているはず」"
+                                ""
                             ]
                         },
                         {
@@ -7044,21 +7044,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Fuego, the Hawk-eyed: I would like to ask, is there any\nskilled gambler among us?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そこでお聞きしたいのですが"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　この中に腕自慢のギャンブラーはいますか？」"
+                                ""
                             ]
                         },
                         {
@@ -7165,14 +7165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「うふふ、嗜む程度ですけど」"
+                                "Sophia the Priestess: Hehe, just to indulge a little."
                             ]
                         },
                         {
@@ -7180,75 +7173,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　鷹の目のフエゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「ここの胴元のランスは大のギャンブル好き"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　あなたが場を荒らせば我慢できずにやってくるはず」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　鷹の目のフエゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「十分にランスを引きつけたらこう叫んでください」"
                             ]
                         },
                         {
@@ -7279,14 +7203,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Fuego, the Hawk-eyed: The housemaster Lance here is a big\nfan of gambling. If you disrupt the game, he won't be able\nto resist and will come running."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そうですね……スペードのエース、と」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Fuego the Hawk-eyed: Once you have successfully lured\nLance, please shout like this."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Fuego the Hawk-eyed: Yes... the Ace of Spades, huh."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7324,21 +7324,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: I understand. Should I dress up a\nlittle?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「わかりましたわ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　少し、おめかしをした方がよろしいかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -7355,14 +7355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Fuego, the Hawk-eyed: Yes, that side is more eye-catching."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「えぇ、そちらの方が目が引けますからね」"
+                                ""
                             ]
                         },
                         {
@@ -7651,21 +7651,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Fuego with the Hawk Eye: This outfit seems suitable for the\nsocial scene. Now then, are you ready to go underground?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「社交界でも通用しそうな服装だ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　さて、地下に行く準備は整いましたか？」"
+                                ""
                             ]
                         },
                         {
@@ -7704,21 +7704,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Hawk Eye Fuego: Understood. Please quickly make sure Lance\ndoesn't escape."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「わかりました"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　　ランスに逃げられないように手早くお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -7748,21 +7748,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Hawk Eye Fuego: I'm praying for your victory to the goddess\nActina."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　「あなたの勝利を"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　　女神アクティナに祈っていますよ」"
+                                ""
                             ]
                         },
                         {
@@ -7827,14 +7827,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Hawk Eye Fuego: Do you have any more elegant clothes?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「もう少し上品な服はありませんかね？」"
+                                ""
                             ]
                         },
                         {
@@ -7878,14 +7878,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Hawk Eye Fuego: Please only the clergy members go down."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「下に降りるのは僧侶の方だけでお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -8346,21 +8346,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Fuego, the Hawk-eyed: Thanks to all of you, we were able to\nsuccessfully annihilate the large-scale gambling den."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「みなさんのおかげで"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　無事に大規模賭博場の壊滅ができました」"
+                                ""
                             ]
                         },
                         {
@@ -8393,14 +8393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Hawk-eyed Fuego: Here is the promised reward... from Lance\nto you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こちらは約束の報酬と……ランスからあなたに」"
+                                ""
                             ]
                         },
                         {
@@ -8458,14 +8458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お礼を代わりに伝えておいてください」"
+                                "Cleric Sophia: Please convey my gratitude in my place."
                             ]
                         },
                         {
@@ -8473,37 +8466,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　鷹の目のフエゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「似たような賭博場はいくらでもあります」"
                             ]
                         },
                         {
@@ -8534,21 +8496,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　鷹の目のフエゴ"
+                                "Hawk-eyed Fuego: There are plenty of similar gambling dens\nout there."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「その時は頼らせていただきます"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　バリエの掲示板に依頼を出しますので」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hawk-eyed Fuego: At that time, I will rely on you to post\nthe request on the Valier bulletin board."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

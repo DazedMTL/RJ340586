@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "狼の洞窟入口",
+    "displayName": "Wolf's Cave Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3850,14 +3850,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: It certainly looks like... a place, doesn't it?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いかにも……という場所ですね」"
+                                ""
                             ]
                         },
                         {
@@ -3881,14 +3881,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　僧侶ソフィア"
+                                "Priestess Sophia: Hic, if you get injured, please leave it\nto me!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ひっく、怪我をしたらわたくしに任せてください！」"
+                                ""
                             ]
                         },
                         {
@@ -4021,14 +4021,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: That's not me, it's a rock. Are you okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それは私ではなく岩です。大丈夫ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -4068,14 +4068,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Sigh... This person, honestly."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はぁ……まったくこの人は」"
+                                ""
                             ]
                         },
                         {
@@ -4130,14 +4130,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: ...The opponent is a wolf, right?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……相手は狼ですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -4192,14 +4192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法使いリルム"
+                                "Mage Relm: Didn't you hear?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「聞いてませんでしたか？」"
+                                ""
                             ]
                         },
                         {
@@ -4223,21 +4223,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　盗賊ノラ"
+                                "Thief Nora: No... There's a different scent... It's not an\nanimal... This is a human...?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いえ……別の匂いが……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　動物じゃない……これは人間……？」"
+                                ""
                             ]
                         },
                         {
@@ -4268,14 +4268,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　クレア"
+                                "Clea: Let's go fulfill the request."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「依頼を果たしにいきましょう」"
+                                ""
                             ]
                         },
                         {
@@ -5098,14 +5098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Member of the Riga Bandit Group: Thank you for sparing our\nlives."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「命を取らないでいただきありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -5122,14 +5122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Riga Bandit Group Member: We will offer you a special\nitem."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「特別な品物をご提供いたします」"
+                                ""
                             ]
                         },
                         {
@@ -5260,14 +5260,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Riga Bandit Member: We have a special item to offer."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「特別な品物をご提供いたします」"
+                                ""
                             ]
                         },
                         {
@@ -5390,14 +5390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Riga Bandit Member: To think you would buy all of our\nmerchandise..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「全ての商品を買っていただけるとは……」"
+                                ""
                             ]
                         },
                         {
@@ -5414,14 +5414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　リガス山賊団員"
+                                "Riga Bandit Member: Thank you so much!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「本当にありがとうございます！」"
+                                ""
                             ]
                         },
                         {

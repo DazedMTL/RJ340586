@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "元老院議員ピリアの屋敷前",
+    "displayName": "Manor of Senator Pilia",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -3991,14 +3991,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニの父親"
+                                "Emoni's father: What did you just say?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いま何と言った？」"
+                                ""
                             ]
                         },
                         {
@@ -4060,14 +4060,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　息女エモニ"
+                                "Emoni, the daughter: Please give me one more chance, that's\nwhat I said!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「私にもう一度だけ機会をください、そう申し上げました！」"
+                                ""
                             ]
                         },
                         {
@@ -4098,21 +4098,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　息女エモニ"
+                                "Emoni, the daughter: This time, I will definitely complete\nthe job successfully... No, this time I will definitely show\nyou that I can accomplish it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「今度こそ上手く……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　いえ、今度こそ確実に仕事をやり遂げてみせますわ！」"
+                                ""
                             ]
                         },
                         {
@@ -4218,14 +4218,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニの父親"
+                                "Emoni's father: This is the third time, I have given you\nthree chances."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「三度だ、お前には三度の機会を与えた」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Emoni's father: Do you understand that it's because you're\nmy daughter that you haven't been punished for the\nsignificant losses caused by your recklessness?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4256,21 +4294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニの父親"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お前の軽率さで大きな損失が出た"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　罰せられていないのは私の娘だからだと理解しているか？」"
+                                "Emoni, the daughter: W-Well, that's..."
                             ]
                         },
                         {
@@ -4278,30 +4302,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　息女エモニ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「そ、それは……」"
                             ]
                         },
                         {
@@ -4363,21 +4363,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニの父親"
+                                "Emoni's father: Humans have their own strengths and\nweaknesses. It seems like you want to be like my sons, but\ngive up on that."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「人間には向き不向きがある"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お前は息子たちのようになりたいようだが諦めろ」"
+                                ""
                             ]
                         },
                         {
@@ -4401,21 +4401,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニの父親"
+                                "Emoni's father: Those [people] are different. They will\nsurpass me and bring great prosperity to our family."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あいつらは【モノ】が違う"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　やがて私を超えて一族に大きな繁栄をもたらすだろう」"
+                                ""
                             ]
                         },
                         {
@@ -4439,21 +4439,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニの父親"
+                                "Emoni's father: You have the innate talent of beauty, use\nit to contribute to the family."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前には美しさという天賦の才がある"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　それを活用し一族に貢献するのが務めと知れ」"
+                                ""
                             ]
                         },
                         {
@@ -4615,21 +4615,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　息女エモニ"
+                                "Emoni, the daughter: If only I had the opportunity to gain\nthe same experience as the dolls... then I could catch up to\nmy brothers..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「それでは人形と同じ……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　経験を積む機会があればお兄様たちに追いつけるのに……」"
+                                ""
                             ]
                         },
                         {
@@ -4660,6 +4660,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Emoni was born as the daughter of a powerful noble. She\ninherited her mother's beautiful appearance and her father's\ncompetitive personality. She had a happy childhood, being\nloved by her two older brothers despite the age difference."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4667,21 +4674,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニは有力貴族の娘として生を受けた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　母親譲りの美しい容姿と父親譲りの負けん気を持った性格。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　二人の歳の離れた兄たちにも可愛がられ幸せな幼少期を送った。"
+                                ""
                             ]
                         },
                         {
@@ -4698,6 +4698,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Emoni, who has grown up, begins to admire her active and\nsuccessful older brothers. The eldest son who competes on\nequal terms with cunning aristocrats despite his young age.\nThe second son who possesses exceptional business acumen\ndespite his frail health."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4705,21 +4712,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　成長したエモニは精力的に活躍する兄たちに憧れるようになる。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　若いながらに老獪な貴族たちと対等以上に渡り合う長男。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　病弱な身体を持って余りある商才を持った次男。"
+                                ""
                             ]
                         },
                         {
@@ -4736,6 +4736,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "For Emoni, her two older brothers were her pride and heroes.\nHowever, her father did not expect her to achieve the same\nsuccess as her brothers. He believed that marrying into a\ngood family was the happiest thing for her."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4743,21 +4750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニにとって二人の兄は誇りであり英雄だった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　しかし、父親は娘に兄たちのような活躍を求めなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良き家に嫁ぐこと、それがもっとも幸せなことと信じていた。"
+                                ""
                             ]
                         },
                         {
@@ -4774,6 +4774,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Emoni still wished to succeed like her brothers. Her father\nrelented and gave her three chances, but Emoni failed each\ntime. While she had some success, her failures were due to\narrogance and recklessness."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4781,21 +4788,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニはそれでも兄たちのように活躍することを望んだ。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　父親は折れ、三度の機会を与えたがエモニは尽く失敗をした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ある程度は上手くいくが慢心と軽率さによって失敗をする。"
+                                ""
                             ]
                         },
                         {
@@ -4812,6 +4812,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Emoni's father saw through her recklessness and gave her\nthree chances. However, Emoni attributed her failures to the\nenvironment rather than herself. She believed that it was\nsociety's fault for not allowing women to succeed."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4819,21 +4826,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニの持つ軽率さを父親は見抜きあえて三度の機会を与えた。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　しかし、エモニは失敗の原因を自己ではなく環境に求めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女が活躍することを許容しない社会が悪いというものである。"
+                                ""
                             ]
                         },
                         {
@@ -4850,6 +4850,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Emoni decided to leave home in order to impress her admired\nbrothers and prove her stubborn father wrong. Although her\nfather noticed her departure, he did not attempt to search\nfor her."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4857,21 +4864,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エモニは尊敬する兄たちを驚かせるため、"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　自分を頑なに認めない父を見返すために家を出ることにした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　父親はそれに気がついたが、捜索をすることはしなかった。"
+                                ""
                             ]
                         },
                         {

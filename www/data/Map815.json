@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究者の館前",
+    "displayName": "Researcher's Mansion Front",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4082,21 +4082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　学徒エラトマ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「お父様、お母様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　タラサのため、一族のために必ず合格してきます」"
+                                "Student Eratoma: Father, Mother, I will definitely pass for\nthe sake of Tarasa and our clan."
                             ]
                         },
                         {
@@ -4104,30 +4090,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エラトマの母親"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「あなたなら必ず魔導院に入学できるわ！」"
                             ]
                         },
                         {
@@ -4158,21 +4120,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エラトマの父親"
+                                "Eratoma's mother: You will definitely be able to enroll in\nthe Magic Academy!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前は一族の中でもっとも優秀な魔法使いだ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　当家のことはもちろんだが、タラサのために尽くしなさい」"
+                                ""
                             ]
                         },
                         {
@@ -4196,21 +4158,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エラトマの父親"
+                                "Eratoma's Father: You are the most talented magician in our\nclan. Not only for the sake of our family, but also for\nTarasa, give it your all."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前たちの代で……"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　悪魔の帝国フォティゾナを打ち倒してくれ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Eratoma's Father: In your generation... please defeat the\nDemon Empire Fotizona."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4398,38 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エラトマは優秀な魔法使いの家系に生まれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　歴代でもっとも優秀な魔法使いとして期待されていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼に期待されていたことは長きに渡る戦争の勝利だった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Eratoma was born into a prestigious lineage of talented\nmagicians and was expected to be the most exceptional\nmagician in generations. What was expected of him was the\nvictory in a long-lasting war."
                             ]
                         },
                         {
@@ -4443,14 +4412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　８年も続いた第一次タラサ戦争は両者痛み分けで終わったものの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　食料自給率や人口比率から見ればタラサの方が傷が深かった。"
+                                ""
                             ]
                         },
                         {
@@ -4474,6 +4436,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The first Tarasa War, which lasted for 8 years, ended with\nboth sides suffering losses, but considering the self-\nsufficiency rate of food and the population ratio, Tarasa\nwas more deeply affected."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -4481,21 +4450,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　魔法研究施設が国家主導で量産されていた時代。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　エラトマが入学を希望する魔導院はその中でも最高峰のものだった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　家のため、国家のために情熱を燃やし青年は旅立っていった。"
+                                "During the era when magic research facilities were being\nmass-produced under national leadership, the magic academy\nthat Eratoma wished to enroll in was among the most\nprestigious. Burning with passion for the sake of his family\nand the nation, the young man set off on his journey."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

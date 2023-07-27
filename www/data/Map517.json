@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "草原の都市カンプス 食堂",
+    "displayName": "Campus Grassland City Dining Hall",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5445,14 +5445,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂の料理人"
+                                "Dining Hall Chef: Are you interested in helping with the\ncooking?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あなたたち料理のお手伝いに興味ない？」"
+                                ""
                             ]
                         },
                         {
@@ -5491,14 +5491,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　食堂の料理人"
+                                "Dining Hall Chef: Oh dear, I have to figure something out\nmyself."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「あらら、自分でどうにかしないとね」"
+                                ""
                             ]
                         },
                         {
@@ -5528,14 +5528,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　食堂の料理人"
+                                "Dining Hall Chef: Thank goodness! Come with me to the\nkitchen!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　「助かるわ！　厨房まで一緒に来て！」"
+                                ""
                             ]
                         },
                         {
@@ -5575,14 +5575,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　食堂の料理人"
+                                "Dining Hall Chef: I'm really grateful, if you're willing,\nplease take it!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「本当に助かったわ、よかったら持っていって！」"
+                                ""
                             ]
                         },
                         {
@@ -5618,14 +5618,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　食堂の料理人"
+                                "Dining Hall Chef: Ahaha... Are you okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　「あはは……大丈夫かしら？」"
+                                ""
                             ]
                         },
                         {
@@ -5872,21 +5872,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　食堂の店員"
+                                "Cafeteria Staff: Welcome! We use fresh vegetables and\ncheese."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いらっしゃいませ！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　新鮮な野菜とチーズを使っていますよ」"
+                                ""
                             ]
                         },
                         {
@@ -5963,21 +5963,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　慌ただしい女"
+                                "Busy Woman: I need to eat quickly and get back to work!\nTaking care of the cows, preparing the cheese... I have so\nmuch to do!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「はやく食べて仕事に戻らないと！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　牛の世話にチーズの仕込み……やることだらけだわ！」"
+                                ""
                             ]
                         },
                         {
@@ -6054,21 +6054,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　農夫の男"
+                                "Farmer Man: It's better not to approach the grassland area.\nIt's a really dangerous place with many bandits."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「草原地帯には近づかない方がいい"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　野盗が多くて本当に危険な場所なんだ」"
+                                ""
                             ]
                         },
                         {
@@ -6145,21 +6145,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　労働者の男"
+                                "Male Worker: The nobles here are too rough with their\ntreatment of people... Oops... I shouldn't be talking about\nthis to a traveler."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ここの貴族は人使いが荒すぎるよ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　おっと……旅の人に話すようなことじゃなかったな」"
+                                ""
                             ]
                         },
                         {
@@ -6236,21 +6236,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　疲れ切った男"
+                                "Exhausted man: I want to change the current situation where\nmy son has joined a band of thieves... even though the only\nthing that changes is our lifespan... ugh."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「息子が盗賊団に入ってしまった"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　現状を変えたいと……変わるのは寿命だけなのに……うぅ」"
+                                ""
                             ]
                         },
                         {

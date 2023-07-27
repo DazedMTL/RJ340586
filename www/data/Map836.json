@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ王宮 地下牢B1",
+    "displayName": "Photizona Royal Palace Underground Dungeon B1",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5671,14 +5671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「レクス様！　よくぞ、ご無事で……！」"
+                                "Imperial Secret Agent Alicia: Lord Rex! I'm glad you're\nsafe...!"
                             ]
                         },
                         {
@@ -5686,37 +5679,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクス王子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「君は……いったい……」"
                             ]
                         },
                         {
@@ -5747,21 +5709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部アリシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私は帝国暗部のアリシアと申します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　そしてレクス王子こそが正統な王になると信じている者です」"
+                                "Prince Rex: You... just what..."
                             ]
                         },
                         {
@@ -5769,30 +5717,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクス王子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「私が正統な……王になる……？」"
                             ]
                         },
                         {
@@ -5823,21 +5747,97 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　帝国暗部アリシア"
+                                "Imperial Secret Agent Alicia: I am Alicia from the\nImperial Secret Agency, and I believe that Prince Rex is the\nrightful king."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「追っ手がきます！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　お待ちください、すぐに【檻】から【解放】します」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Prince Rex: Am I the rightful... king...?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Imperial Secret Agent Alicia: The pursuers are coming!\nPlease wait, I will release you from the [cage]\nimmediately."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5870,14 +5870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: ...Thank you for coming to rescue me."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「……助けに来てくれてありがとう」"
+                                ""
                             ]
                         },
                         {
@@ -5939,14 +5939,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子"
+                                "Prince Rex: I will believe in you and follow you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「君を信じてついていくよ」"
+                                ""
                             ]
                         },
                         {
@@ -5977,38 +5977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクスは絶望の中にいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　太陽は存在するだけで多くのものに影響を及ぼすように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクスもまた存在しているだけで多くのものに影響を及ぼす。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Rex was in despair. Just as the sun has a great influence\nsimply by existing, Rex also has a great influence simply by\nexisting."
                             ]
                         },
                         {
@@ -6022,52 +5991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　レクス王子を正統後継者と認める王子派たちは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カロンに幽閉されたレクスを死物狂いで救出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　当然ながら双方に大量の犠牲者が出て多くの血が流された。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　レクスは流れる血の一滴一滴が自身の存在によって起こっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そのことを理解していたからこそ、絶望の中にいたのだ。"
                             ]
                         },
                         {
@@ -6091,38 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もうここで、怪物と共に朽ち果てても構わない……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そう考えている矢先に帝国暗部を名乗る女が助けに来た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　衰弱し朦朧とする中で、ある言葉が強烈に心を揺さぶった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "The faction that recognizes Prince Rex as the legitimate\nheir went to great lengths to rescue Rex, who was imprisoned\nby Caron. Naturally, there were numerous casualties and much\nbloodshed on both sides."
                             ]
                         },
                         {
@@ -6136,52 +6029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　檻からの解放――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　心の中の檻が軋む音がした。檻の隙間から伸びる鋭利な爪。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　存在をすべてに否定された怪物の爪がレクスに触れる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして、ゆっくりとレクスの肉をえぐり取っていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　不思議と痛みはない、ただ、強烈な熱を感じるだけだ。"
                             ]
                         },
                         {
@@ -6205,6 +6053,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Rex was in despair because he understood that every drop of\nflowing blood was happening because of his own existence."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -6212,21 +6067,166 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　怪物は笑いながらレクスに語りかける。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　お前が檻を壊さなくても、誰かがお前の檻を必ず壊す。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　お前が考えるより早く、取り巻きが考えるより遅くに、と。"
+                                "Just as I was thinking that I wouldn't mind decaying here\nwith the monsters... a woman claiming to be from the\nImperial Secret Agency came to my rescue. In my weakened and\nhazy state, one word strongly shook my heart."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Liberation from the Cage--I heard the sound of the cage in\nmy heart creaking. Sharp claws reaching through the gaps in\nthe cage. The claws of a monster, denied by everything,\ntouch Rex."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And slowly, they gouge out Rex's flesh. Strangely, there is\nno pain, only a strong sensation of heat."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The monster speaks to Rex with a laugh. Even if you don't\nbreak the cage yourself, someone will definitely break your\ncage. Faster than you think, slower than your entourage\nthinks, and so on."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

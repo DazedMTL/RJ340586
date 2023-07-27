@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォティゾナ大通り",
+    "displayName": "Fotizona Avenue",
     "encounterList": [],
     "encounterStep": 30,
     "height": 56,
@@ -9978,14 +9978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年アトゥ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「アゴニア、本当に軍を離れるのかっ！？」"
+                                "Young Atu: Agonia, are you really leaving the army!?"
                             ]
                         },
                         {
@@ -9993,75 +9986,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　青年アゴニア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「はい、自分のやるべきこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　多くのことを学ばせてくれる人に出会うことができました」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　青年アトゥ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　「むぅ……まだまだ戦争の混乱が収まっていない状況だ」"
                             ]
                         },
                         {
@@ -10092,21 +10016,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年アトゥ"
+                                "Young Agonia: Yes, I have met someone who will teach me\nmany things that I should do."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「これからも帝国中を暴れまわりながら"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　野盗や怪物たちを叩き潰す楽しい日々が続くのにな……」"
+                                ""
                             ]
                         },
                         {
@@ -10130,21 +10054,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年アゴニア"
+                                "Young Atu: Hmm... the chaos of war is still far from\nsettling down."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「あはは、アトゥらしいですね"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あなたの勇猛さは帝国軍でも噂されていますよ」"
+                                ""
                             ]
                         },
                         {
@@ -10168,21 +10092,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年アゴニア"
+                                "Young Atu: I wish the fun days of rampaging through the\nempire, crushing bandits and monsters, would continue..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「やがて、あなたを満足させる敵が現れるはず"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　願わくは敵だけでなく尊敬に値する人に出会って欲しいものです」"
+                                ""
                             ]
                         },
                         {
@@ -10206,21 +10130,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年アトゥ"
+                                "Young Agonia: Ahaha, it's just like you, Atu. Your bravery\nis rumored even within the Imperial Army."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「お前はいつも小難しいことを言うな！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　まぁ、適当に軍の中で出世でもしておく」"
+                                ""
                             ]
                         },
                         {
@@ -10244,14 +10168,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　青年アトゥ"
+                                "Young Agonia: Eventually, I hope you encounter not only\nworthy enemies but also people deserving of your respect,\nAtu."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「そちらの方がより面白い戦いができそうだからな！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Young Atu: You always say complicated things! Well, I'll\njust casually climb the ranks within the army."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Young Atu: Because it seems like I can have more\ninteresting battles over there!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10624,38 +10624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アトゥとアゴニアは帝国側として第一次タラサ戦争に参戦。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　島で育ったアトゥたちは海戦技術に秀でており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　数多くの兵士たちの窮地を救い注目される兵士となった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
+                                "Atu and Agonia participated in the First Tarasa War on the\nside of the Empire. Atu, who grew up on the island, excelled\nin naval warfare and became a soldier who saved many\nsoldiers in dire situations, attracting attention."
                             ]
                         },
                         {
@@ -10669,128 +10638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ふたりは戦後も帝国軍に在籍し、戦後の混乱期を駆け抜けた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大胆不敵に敵陣に突撃し、敵たちを蹂躙するアトゥ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あえて逃げ道を用意し冷静に敵を狩っていくアゴニア。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何もかもが対極なふたりだったが、共に戦い、共に戦果を上げた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その二人の活躍を帝国軍が無視するはずもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　昇進の話が噂された直後にアゴニアから軍を離れる告白があった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アトゥはアゴニアを一瞬だけ引き止めるか迷った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、親友の決断を止めるのは野暮だとすぐに考えなおした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それに、どこかでまた会えることをアトゥは確信していた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして、アゴニアは偉大なる未亡人のいる冒険者ギルドへ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アトゥは帝国軍で戦い続けることを選択したのだった。"
                             ]
                         },
                         {
@@ -10814,6 +10662,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "The two of them remained in the Imperial Army even after\nthe war, and they raced through the chaotic post-war period.\nAtu fearlessly charged into enemy lines, trampling over the\nenemies. Agonia, on the other hand, calmly hunted down the\nenemies, deliberately preparing escape routes."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -10821,21 +10676,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥにとって戦いとは自己表現の究極のかたちだった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　そのため、戦いを手段ではなく、目的とすることができた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　出世するために戦うのではなく、戦うために出世をするのだ。"
+                                ""
                             ]
                         },
                         {
@@ -10852,6 +10700,13 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Although they were complete opposites in every way, they\nfought together and achieved great results. The Imperial\nArmy could not ignore their contributions, and just after\nrumors of their promotion began to circulate, Agonia\nconfessed that she would be leaving the army."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
@@ -10859,21 +10714,166 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　しかし、その美学には大きな落とし穴があった。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　出世には大きなしがらみがあり、政治となれば尚更だ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　アトゥにはその世界に踏み込んだという自覚がなかったのだ。"
+                                "Atu hesitated for a moment about whether to stop Agonia's\ndecision. However, he quickly reconsidered, thinking that it\nwould be rude to stop his best friend's determination.\nBesides, Atu was confident that they would meet again\nsomewhere."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And so, Agonia headed towards the adventurer's guild where\nthe great widow resides. Atu, on the other hand, chose to\ncontinue fighting in the Imperial Army."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "For Atu, battle was the ultimate form of self-expression.\nTherefore, he could view battle not as a means, but as an\nend in itself. He fought not to advance in rank, but to rank\nup in order to fight."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "However, there was a major pitfall in that aesthetic. There\nwere significant entanglements in terms of career\nadvancement, and even more so when it came to politics. Atu\nwas not aware that he had stepped into that world."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11207,14 +11207,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: Hello, miss."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こんにちは、お嬢さん」"
+                                ""
                             ]
                         },
                         {
@@ -11282,21 +11282,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guard: Are you from the Guild? Please don't take\naway our jobs too much, okay?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ギルドの人間か"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　あまり俺たちの仕事を奪わないでくれよ？」"
+                                ""
                             ]
                         },
                         {
@@ -11364,21 +11364,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guard: Dragon Slayer! It is an honor to be able to\nconverse with the hero of the empire."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「ドラゴンスレイヤー！"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　帝国の英雄と会話ができて光栄だ」"
+                                ""
                             ]
                         },
                         {
@@ -11568,14 +11568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guard: Hello, miss."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こんにちは、お嬢さん」"
+                                ""
                             ]
                         },
                         {
@@ -11743,14 +11743,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　フォティゾナ衛兵"
+                                "Fotizona Guardsman: Hello, miss."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「こんにちは、お嬢さん」"
+                                ""
                             ]
                         },
                         {
