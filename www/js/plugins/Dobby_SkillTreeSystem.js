@@ -1783,16 +1783,16 @@
                         SoundManager.playOk();
                     }
                 } else {
-                    this._alertWindow.setTxt("SPが足りません");
+                    this._alertWindow.setTxt("Not Enough SP");
                     this._alertWindow.startAnimation();
                     SoundManager.playBuzzer();
                 }
             } else {
                 if (this._actor.hasSkill(skillId)) {
-                    this._alertWindow.setTxt("すでに習得済みのスキルです");
+                    this._alertWindow.setTxt("Skill already acquired.");
                     this._alertWindow.startAnimation();
                 } else {
-                    this._alertWindow.setTxt("派生元のスキルを取得しておりません");
+                    this._alertWindow.setTxt("You have not acquired the skill from which it is derived.");
                     this._alertWindow.startAnimation();
                 }
                 SoundManager.playBuzzer();
@@ -2292,7 +2292,7 @@
             this.contents.clear();
         }
         var skillName = skillData._skillName;
-        var sp = "消費SP：" + skillData._sp;
+        var sp = "SP Cost: " + skillData._sp;
         var description = skillData._description;
         if (skillData._dmp > 0) {
             skillName = skillName + " (MP Cost: " + skillData._dmp + ")"
@@ -2946,7 +2946,7 @@
             }
         } else if (!this._nastyFlag) {
             if ($gameSystem.getCharacterNastyLevel(this._actor._actorId) >= 2 && isNextLv) {
-                this._alertWindow.setTxt("処女では淫乱Lv.3に上げられません");
+                this._alertWindow.setTxt("A virgin cannot raise the lewdness level to 3.");
                 this._alertWindow.startAnimation();
                 this.playBuzzerSound();
                 return;
@@ -2970,7 +2970,7 @@
             }
 
         } else {
-            this._alertWindow.setTxt("スキルを取得していません");
+            this._alertWindow.setTxt("Skill not acquired.");
             this._alertWindow.startAnimation();
             this.playBuzzerSound();
         }
@@ -2980,15 +2980,15 @@
         if (!this.checkHasSkill()) {
             // スキルを持っているかどうか
             // 多分デッドロジック
-            this._alertWindow.setTxt("スキルを取得していません");
+            this._alertWindow.setTxt("Skill not acquired.");
             return false;
         } else if (!this.checkAsp()) {
             // ポイントが足りているか？
-            this._alertWindow.setTxt("APが足りません");
+            this._alertWindow.setTxt("Not enough AP");
             return false;
         } else if (!this.checkLv()) {
             //Lvが最大ではないか？
-            this._alertWindow.setTxt("LVが最大の為、強化できません");
+            this._alertWindow.setTxt("Already MAX LV");
             return false;
         }
         return true;
@@ -3154,7 +3154,7 @@
             addY += this.lineHeight();
         }
 
-        let text = "スキル取得";
+        let text = "Acquire Skill";
         let textWidth = Math.floor(this.textWidth(text) / 2);
         let centerXPos = windowWidthHalf - textWidth;
         let skillNameWidthHalf = Math.floor(this.textWidth(this._skillData._skillName) / 2);
@@ -3193,7 +3193,7 @@
         if (this.contents) {
             this.contents.clear();
         }
-        let text = "この性技を強化しますか？";
+        let text = "Do you want to enhance this sex technique?";
         let textWidth = Math.floor(this.textWidth(text) / 2);
         let windowWidthHalf = Math.floor(this.width / 2) - 22;
         let centerXPos = windowWidthHalf - textWidth;
@@ -3205,7 +3205,7 @@
         this.drawTextEx('\\c[2]' + text, centerXPos, this.lineHeight() + addY);
         this.drawTextEx(this._backSkillData._skillName, windowWidthHalf - skillNameWidthHalf, 30 + this.lineHeight() + addY);
         if (this.isNextLv()) {
-            this.drawTextEx('\\c[6]' + "\\}\n※現在のレベルでプレイしていないアダルトシーンが\n　　　見られなくなりますが、よろしいですか？\\{", (windowWidthHalf - skillNameWidthHalf) / 3 - 10, 80 + this.lineHeight() - 20 - 20);
+            this.drawTextEx('\\c[6]' + "\\}\n※If you continue to play at the current level, \nyou will not be able to view adult scenes. \nAre you okay with that?\\{", (windowWidthHalf - skillNameWidthHalf) / 3 - 10, 80 + this.lineHeight() - 20 - 20);
         }
     };
 
@@ -3216,7 +3216,7 @@
 
         let windowWidthHalf = Math.floor(this.width / 2) - 22;
 
-        let text = "性技開発成功";
+        let text = "Sex Technique Developed";
         let textWidth = Math.floor(this.textWidth(text) / 2);
         let centerXPos = windowWidthHalf - textWidth;
         let skillNameWidthHalf = Math.floor(this.textWidth(this._backSkillData._skillName) / 2);
