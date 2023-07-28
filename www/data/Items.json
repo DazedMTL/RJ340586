@@ -25431,7 +25431,7 @@
         "successRate": 100,
         "tpGain": 0,
         "note": "<SG種別:2>\n<SG説明:\n\\{\nHP：\\mhp[1]　MP：\\mmp[1]\nAttack Power: \\atk[1] Defense Power: \\def[1] Magic Power: \\mag[1]\nMagic Defense: \\mdf[1] Agility: \\agi[1] Luck: \\luk[1] Experience\nPoints: \\exp[1] Gold.：\\money[1]\n\\}> \n\n<SGピクチャ位置:top>\n<SGテキスト位置:0>\n<SGピクチャ優先度:top>\n<SG敵キャラ>\n\n<SG説明2:\\DATA[description] >\n<SGピクチャ2:armorBreak_picture/armorBreak_anato01>\n<SGピクチャ位置2:top>\n<SGテキスト位置2:0>\n<SGピクチャ優先度2:bottom>\n<SG敵キャラ2>\n\n<SGピクチャ3:armorBreak_picture/armorBreak_anato02>\n<SGピクチャ位置3:top>\n<SGテキスト位置3:0>\n<SGピクチャ優先度3:bottom>\n<SG敵キャラ3>",
-        "description": "Translated description: Anat is dressed in a magical outfit that she created herself, as a true magician.",
+        "description": "Anat is dressed in a magical outfit that she created herself, as a true magician.",
         "params": [],
         "damage": {
             "critical": false,

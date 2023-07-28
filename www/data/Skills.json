@@ -1117,7 +1117,7 @@
     {
         "id": 33,
         "animationId": 49,
-        "description": "Translate: \"Revive from incapacitation.",
+        "description": "Revive from incapacitation.",
         "effects": [
             {
                 "code": 22,
@@ -24836,7 +24836,7 @@
         "hitType": 2,
         "iconIndex": 0,
         "mpCost": 0,
-        "name": "Translated Text: Aggregated Light",
+        "name": "Aggregated Light",
         "occasion": 1,
         "repeats": 1,
         "requiredWtypeId1": 0,
