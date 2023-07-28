@@ -6999,7 +6999,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>敵単体に炎属性の小ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n敵単体に炎属性の小ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 2,
@@ -7028,7 +7028,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>敵単体に炎属性の中ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n敵単体に炎属性の中ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 2,
@@ -7057,7 +7057,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>敵２体ランダムに氷属性の小ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n敵２体ランダムに氷属性の小ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 3,
@@ -7086,7 +7086,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>敵２体ランダムに氷属性の中ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n敵２体ランダムに氷属性の中ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 3,
@@ -7115,7 +7115,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>敵全体に雷属性の小ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n敵全体に雷属性の小ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 4,
@@ -7144,7 +7144,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>敵全体に雷属性の中ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n敵全体に雷属性の中ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 4,
@@ -7173,7 +7173,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>敵単体に水属性の小ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n敵単体に水属性の小ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 5,
@@ -7202,7 +7202,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>敵単体に水属性の中ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n敵単体に水属性の中ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 5,
@@ -7238,7 +7238,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>敵全体に闇属性の小ダメージを与えて\n高確率で暗闇状態にする</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n敵全体に闇属性の小ダメージを与えて\n高確率で暗闇状態にする\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 9,
@@ -7274,7 +7274,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>敵全体に闇属性の中ダメージを与えて\n高確率で暗闇状態にする</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n敵全体に闇属性の中ダメージを与えて\n高確率で暗闇状態にする\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 9,
@@ -7303,7 +7303,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵全体に無属性の魔法防御無視の小ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵全体に無属性の魔法防御無視の小ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 11,
@@ -7332,7 +7332,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵全体に無属性の魔法防御無視の中ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵全体に無属性の魔法防御無視の中ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 11,
@@ -7361,7 +7361,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵全体に無属性の魔法防御無視の大ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵全体に無属性の魔法防御無視の大ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 11,
@@ -7396,7 +7396,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>味方単体に物理攻撃に炎属性と\n攻撃力の微小アップを５ターン付与する</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n味方単体に物理攻撃に炎属性と\n攻撃力の微小アップを５ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -7432,7 +7432,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>味方単体に物理攻撃に氷属性と\n攻撃力の微小アップを５ターン付与する</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n味方単体に物理攻撃に氷属性と\n攻撃力の微小アップを５ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 3,
@@ -7467,7 +7467,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>味方単体に物理攻撃に雷属性と\n攻撃力の微小アップを５ターン付与する</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n味方単体に物理攻撃に雷属性と\n攻撃力の微小アップを５ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 4,
@@ -7502,7 +7502,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>味方単体に物理攻撃に水属性と\n攻撃力の微小アップを５ターン付与する</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n味方単体に物理攻撃に水属性と\n攻撃力の微小アップを５ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 5,
@@ -7537,7 +7537,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>味方単体に物理攻撃に光属性と\n攻撃力の微小アップを５ターン付与する</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n味方単体に物理攻撃に光属性と\n攻撃力の微小アップを５ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 8,
@@ -7572,7 +7572,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>味方単体に物理攻撃に闇属性と\n攻撃力の微小アップを５ターン付与する</DOBBY_SKILLINFO>",
+        "note": "アニメーション設定完了\n<DOBBY_SKILLINFO>\n味方単体に物理攻撃に闇属性と\n攻撃力の微小アップを５ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -7602,7 +7602,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵単体のHPを吸収する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵単体のHPを吸収する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -7631,7 +7631,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵単体のMPを吸収する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵単体のMPを吸収する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -7803,7 +7803,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵単体に攻撃力の大ダウンを３ターン付与する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵単体に攻撃力の大ダウンを３ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -7845,7 +7845,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵単体に敏捷性の中ダウンを３ターン付与する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵単体に敏捷性の中ダウンを３ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -7881,7 +7881,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵単体に防御力の大ダウンを３ターン付与する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵単体に防御力の大ダウンを３ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -7935,7 +7935,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵単体に攻撃力と防御力の大ダウンと\n敏捷性の中ダウンを３ターン付与する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵単体に攻撃力と防御力の大ダウンと\n敏捷性の中ダウンを３ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -8001,7 +8001,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵単体に全属性耐性の大ダウンを３ターン付与する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵単体に全属性耐性の大ダウンを３ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -8116,7 +8116,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "モンスターが利用する能力強化次第では\n解除内容を増やす必要がある\n<DOBBY_SKILLINFO>敵全体の能力強化を解除する</DOBBY_SKILLINFO>",
+        "note": "モンスターが利用する能力強化次第では\n解除内容を増やす必要がある\n<DOBBY_SKILLINFO>\n敵全体の能力強化を解除する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -8151,7 +8151,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>使用者に気絶状態の自動治療を付与する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n使用者に気絶状態の自動治療を付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -8575,7 +8575,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "パッシブスキル\n<passiveSTREG0004>\n<DOBBY_SKILLINFO>\\I[2]毒状態に対して100％の耐性を得る</DOBBY_SKILLINFO>",
+        "note": "パッシブスキル\n<passiveSTREG0004>\n<DOBBY_SKILLINFO>\\I[2]毒状態に対して100％の耐性を得る\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -10312,7 +10312,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵単体に防御力無視の雷属性ダメージを与える</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵単体に防御力無視の雷属性ダメージを与える\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": true,
             "elementId": 4,
@@ -10540,7 +10540,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵に先制し、反撃に下記の追加効果を１ターン得る\n毒状態の付与</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵に先制し、反撃に下記の追加効果を１ターン得る\n毒状態の付与\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -10576,7 +10576,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵に先制し、反撃に下記の追加効果を１ターン得る\n暗闇状態の付与</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵に先制し、反撃に下記の追加効果を１ターン得る\n暗闇状態の付与\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -10612,7 +10612,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵に先制し、反撃に下記の追加効果を１ターン得る\n睡眠状態の付与</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵に先制し、反撃に下記の追加効果を１ターン得る\n睡眠状態の付与\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -10648,7 +10648,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵に先制し、反撃に下記の追加効果を１ターン得る\n麻痺状態の付与</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵に先制し、反撃に下記の追加効果を１ターン得る\n麻痺状態の付与\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -10684,7 +10684,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵に先制し、反撃に下記の追加効果を１ターン得る\n沈黙状態の付与</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵に先制し、反撃に下記の追加効果を１ターン得る\n沈黙状態の付与\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -10720,7 +10720,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵に先制し、反撃に下記の追加効果を１ターン得る\n混乱状態の付与</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵に先制し、反撃に下記の追加効果を１ターン得る\n混乱状態の付与\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -10756,7 +10756,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵に先制し、反撃に下記の追加効果を１ターン得る\n激昂状態の付与</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵に先制し、反撃に下記の追加効果を１ターン得る\n激昂状態の付与\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -10792,7 +10792,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵に先制し、反撃に下記の追加効果を１ターン得る\n魅了状態の付与</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵に先制し、反撃に下記の追加効果を１ターン得る\n魅了状態の付与\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -10863,7 +10863,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵に先制し、反撃に下記の追加効果を１ターン得る\n高確率で即死</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵に先制し、反撃に下記の追加効果を１ターン得る\n高確率で即死\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -10899,7 +10899,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵に先制し、反撃に下記の追加効果を１ターン得る\n攻撃力の大アップと光属性によるクリティカルヒット</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵に先制し、反撃に下記の追加効果を１ターン得る\n攻撃力の大アップと光属性によるクリティカルヒット\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -11018,7 +11018,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵単体に防御力の大ダウンを３ターン付与する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵単体に防御力の大ダウンを３ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -11072,7 +11072,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵単体に敏捷性と運の中ダウンを３ターン付与する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵単体に敏捷性と運の中ダウンを３ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -11126,7 +11126,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵全体に攻撃力と防御力の中ダウンを５ターン付与する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵全体に攻撃力と防御力の中ダウンを５ターン付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -11168,7 +11168,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵全体に防御力の大ダウンを３ターン付与し\n高確率でスタンも付与する</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵全体に防御力の大ダウンを３ターン付与し\n高確率でスタンも付与する\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -11282,7 +11282,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "パッシブスキル\n<passiveSPBST3:25>\n<DOBBY_SKILLINFO>アイテムの効果値が25％アップする</DOBBY_SKILLINFO>",
+        "note": "パッシブスキル\n<passiveSPBST3:25>\n<DOBBY_SKILLINFO>\nアイテムの効果値が25％アップする\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -11847,7 +11847,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>隠密(Lv4習得時、敵シンボルに索敵されなくなる)の\nヒントを得る</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n隠密(Lv4習得時、敵シンボルに索敵されなくなる)の\nヒントを得る\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -12132,7 +12132,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>隠密(Lv4習得時、敵シンボルに索敵されなくなる)の\nヒントを得る</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n隠密(Lv4習得時、敵シンボルに索敵されなくなる)の\nヒントを得る\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -12160,7 +12160,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>隠密(Lv4習得時、敵シンボルに索敵されなくなる)の\nヒントを得る</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n隠密(Lv4習得時、敵シンボルに索敵されなくなる)の\nヒントを得る\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -12189,7 +12189,7 @@
         "successRate": 100,
         "tpCost": 0,
         "tpGain": 0,
-        "note": "<DOBBY_SKILLINFO>敵シンボルに索敵されなくなる</DOBBY_SKILLINFO>",
+        "note": "<DOBBY_SKILLINFO>\n敵シンボルに索敵されなくなる\n</DOBBY_SKILLINFO>",
         "damage": {
             "critical": false,
             "elementId": 0,
