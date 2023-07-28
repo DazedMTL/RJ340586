@@ -5609,7 +5609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Information Broker Leon: I see, so you're being tested,\nhuh?"
+                                "Information Broker Leon: I see, so you're being tested, huh?"
                             ]
                         },
                         {
@@ -5832,7 +5832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Information Broker Leon: I-I can't take it anymore...\nSorry, but please spare me for today... Ugh..."
+                                "Information Broker Leon: I-I can't take it anymore... Sorry,\nbut please spare me for today... Ugh..."
                             ]
                         },
                         {
@@ -5951,7 +5951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sorceress Sophia: If there's even a slight possibility that\nI couldn't extract information about the prince from that\nperson, and it could pose a danger... "
+                                "Sorceress Sophia: If there's even a slight possibility that\nI couldn't extract information about the prince from that\nperson, and it could pose a danger..."
                             ]
                         },
                         {
@@ -5996,7 +5996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sorceress Sophia: It would be quicker to take care of\nthings here."
+                                "Sorceress Sophia: It would be quicker to take care of things\nhere."
                             ]
                         },
                         {
@@ -6152,7 +6152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sorceress Sophia: I've been with those girls for too\nlong... If that's the case, I need to find another way...\nSomething that I can do..."
+                                "Sorceress Sophia: I've been with those girls for too long...\nIf that's the case, I need to find another way... Something\nthat I can do..."
                             ]
                         },
                         {
@@ -6203,8 +6203,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "依頼を受けて探る",
-                                    "誘惑して聞き出す"
+                                    "Investigating upon receiving a request",
+                                    "Tempt and extract information"
                                 ],
                                 -1,
                                 -1,
@@ -6441,8 +6441,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

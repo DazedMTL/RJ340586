@@ -6486,9 +6486,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ぶん殴る",
-                                    "ギャンブル勝負をする",
-                                    "出直す"
+                                    "Punch",
+                                    "Engage in a gambling match",
+                                    "I'll try again"
                                 ],
                                 2,
                                 0,
@@ -7047,7 +7047,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Solitary Gambler: It's boring if you don't challenge me to\na match."
+                                "Solitary Gambler: It's boring if you don't challenge me to a\nmatch."
                             ]
                         },
                         {
@@ -7890,7 +7890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Innkeeper: There aren't enough varieties to get lost in\nyour order, right?"
+                                "Innkeeper: There aren't enough varieties to get lost in your\norder, right?"
                             ]
                         },
                         {

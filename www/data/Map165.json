@@ -6244,8 +6244,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6627,7 +6627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Young Roche: I'm sorry! It was the result of drinking...\nI'm truly sorry!"
+                                "Young Roche: I'm sorry! It was the result of drinking... I'm\ntruly sorry!"
                             ]
                         },
                         {
@@ -8991,7 +8991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Regular Customer: No one believes the drunken ramblings of\na drunkard."
+                                "Regular Customer: No one believes the drunken ramblings of a\ndrunkard."
                             ]
                         },
                         {
@@ -9240,8 +9240,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

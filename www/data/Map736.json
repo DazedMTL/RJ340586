@@ -17436,8 +17436,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ぶん殴る",
-                                    "身体で払う if(v[])"
+                                    "Punch",
+                                    "Pay with your body if(v[])"
                                 ],
                                 -1,
                                 0,
@@ -17579,8 +17579,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17777,8 +17777,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17950,8 +17950,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -24706,7 +24706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: I see... So I just need to bring back a fugitive\nnamed Zagal, right?"
+                                "Clea: I see... So I just need to bring back a fugitive named\nZagal, right?"
                             ]
                         },
                         {
@@ -24782,7 +24782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Valier Guardsman: The informants seem to know something,\nbut we can't afford to owe them any favors."
+                                "Valier Guardsman: The informants seem to know something, but\nwe can't afford to owe them any favors."
                             ]
                         },
                         {
@@ -28440,8 +28440,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -28610,8 +28610,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -28795,8 +28795,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29878,8 +29878,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29970,7 +29970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do you want to retry the battle? If you choose 'No', it\nwill result in a game over."
+                                "Do you want to retry the battle? If you choose 'No', it will\nresult in a game over."
                             ]
                         },
                         {
@@ -29985,8 +29985,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30585,8 +30585,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30677,7 +30677,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do you want to retry the battle? If you choose 'No', it\nwill result in a game over."
+                                "Do you want to retry the battle? If you choose 'No', it will\nresult in a game over."
                             ]
                         },
                         {
@@ -30692,8 +30692,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -31821,8 +31821,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,
@@ -32207,7 +32207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CL Area Liberation\\c[18]\\CL Valley Region/Marako Village\\c[0]"
+                                "\\CL Area Liberation\\c[18]\\CL Valley Region/Marako\nVillage\\c[0]"
                             ]
                         },
                         {
@@ -40549,7 +40549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kasaro Bathhouse/Wolf Pack, immediately after Clea's\nclear."
+                                "Kasaro Bathhouse/Wolf Pack, immediately after Clea's clear."
                             ]
                         },
                         {
@@ -49438,8 +49438,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "エクスポート",
-                                    "インポ"
+                                    "Export",
+                                    "Impotence"
                                 ],
                                 1,
                                 0,

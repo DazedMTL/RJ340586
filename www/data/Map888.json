@@ -7773,7 +7773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bard: You all seem like adventurers. I would like to\nconsult with you when you have some free time."
+                                "Bard: You all seem like adventurers. I would like to consult\nwith you when you have some free time."
                             ]
                         },
                         {
@@ -10274,7 +10274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Skilled gambler: 'Don't raise your voice too much, okay?\nThe nobleman of Camps seems to dislike vulgar things.'"
+                                "Skilled gambler: 'Don't raise your voice too much, okay? The\nnobleman of Camps seems to dislike vulgar things.'"
                             ]
                         },
                         {
@@ -10411,8 +10411,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,
@@ -10593,7 +10593,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Skilled gambler: To lose to a drunken lady... hand it\nover."
+                                "Skilled gambler: To lose to a drunken lady... hand it over."
                             ]
                         },
                         {
@@ -11008,7 +11008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Skilled warrior: My skills will dull if I only face\nthieves."
+                                "Skilled warrior: My skills will dull if I only face thieves."
                             ]
                         },
                         {
@@ -11138,8 +11138,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,

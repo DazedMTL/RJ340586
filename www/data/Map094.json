@@ -2960,7 +2960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thief Nora: Hehe, it's a secret code only for thieves!\nLet's proceed carefully to the depths."
+                                "Thief Nora: Hehe, it's a secret code only for thieves! Let's\nproceed carefully to the depths."
                             ]
                         },
                         {
@@ -3822,7 +3822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Deliveryman Wei: Damn, looks like a problem with the\nwheels. Just my luck."
+                                "Deliveryman Wei: Damn, looks like a problem with the wheels.\nJust my luck."
                             ]
                         },
                         {
@@ -3924,7 +3924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Deliveryman Wei: Oh, sorry to bother you, but could you\nlend me a hand?"
+                                "Deliveryman Wei: Oh, sorry to bother you, but could you lend\nme a hand?"
                             ]
                         },
                         {
@@ -4483,8 +4483,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "断る",
-                                    "依頼を受ける if(v[38] == 1)"
+                                    "I refuse",
+                                    "Accept the request if(v[38] == 1)"
                                 ],
                                 1,
                                 0,
@@ -4744,8 +4744,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

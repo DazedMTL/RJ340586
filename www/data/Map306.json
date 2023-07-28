@@ -5878,7 +5878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fuego, the Hawk-eyed: Without delay, I would like all of\nyou to defeat the reigning champion of the underground\narena."
+                                "Fuego, the Hawk-eyed: Without delay, I would like all of you\nto defeat the reigning champion of the underground arena."
                             ]
                         },
                         {
@@ -5956,7 +5956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fuego, the Hawk-eyed: It is a monster that suddenly\nappeared a few months ago and is feared as the Iron Mask\nhere."
+                                "Fuego, the Hawk-eyed: It is a monster that suddenly appeared\na few months ago and is feared as the Iron Mask here."
                             ]
                         },
                         {
@@ -6949,7 +6949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Priestess Sophia: Is this request related to someone who\nhas broken those rules?"
+                                "Priestess Sophia: Is this request related to someone who has\nbroken those rules?"
                             ]
                         },
                         {
@@ -7222,7 +7222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fuego, the Hawk-eyed: Also, this is optional, but there is\na small job here."
+                                "Fuego, the Hawk-eyed: Also, this is optional, but there is a\nsmall job here."
                             ]
                         },
                         {
@@ -8366,7 +8366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Underground arena receptionist: Do you want to challenge\nthe absolute champion?"
+                                "Underground arena receptionist: Do you want to challenge the\nabsolute champion?"
                             ]
                         },
                         {
@@ -8381,8 +8381,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,
@@ -8854,7 +8854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Underground arena receptionist: Even with a 4 vs 1, it's\nnot a bet. This is the absolute champion of the underground\narena."
+                                "Underground arena receptionist: Even with a 4 vs 1, it's not\na bet. This is the absolute champion of the underground\narena."
                             ]
                         },
                         {
@@ -9218,11 +9218,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "クレア",
-                                    "盗賊ノラ",
-                                    "魔法使いリルム",
-                                    "僧侶ソフィア",
-                                    "やめる"
+                                    "Clea",
+                                    "Thief Nora",
+                                    "Mage Relm",
+                                    "Sophia the Priestess",
+                                    "I quit"
                                 ],
                                 4,
                                 0,
@@ -9415,8 +9415,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10798,7 +10798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Underground Arena Receptionist: We look forward to your\nnext challenge."
+                                "Underground Arena Receptionist: We look forward to your next\nchallenge."
                             ]
                         },
                         {
@@ -12180,7 +12180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mage Relm: It's surprising that you were drinking during\nthe match..."
+                                "Mage Relm: It's surprising that you were drinking during the\nmatch..."
                             ]
                         },
                         {
@@ -12677,7 +12677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Greedy Merchant: This isn't a place for beautiful women,\nyou know?"
+                                "Greedy Merchant: This isn't a place for beautiful women, you\nknow?"
                             ]
                         },
                         {
@@ -13412,12 +13412,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "猛虎の首輪　１００００枚 en(v[92] >= 10000)",
-                                    "薬師のチョーカー　１００００枚 en(v[92] >= 10000)",
-                                    "伏虎の首輪　１００００枚 en(v[92] >= 10000)",
-                                    "狩人の首輪　１００００枚 en(v[92] >= 10000)",
-                                    "戦士の首輪　１００００枚 en(v[92] >= 10000)",
-                                    "反射のチョーカー　１００００枚 en(v[92] >= 10000)"
+                                    "Tiger's Collar, 10,000 pieces en(v[92] >= 10000)",
+                                    "Pharmacist's Choker, 10,000 pieces en(v[92] >= 10000)",
+                                    "Fukko's Collar, 10,000 pieces en(v[92] >= 10000)",
+                                    "Hunter's Collar, 10,000 pieces en(v[92] >= 10000)",
+                                    "Warrior's Collar, 10,000 pieces en(v[92] >= 10000)",
+                                    "Reflective Choker, 10,000 pieces en(v[92] >= 10000)"
                                 ],
                                 -1,
                                 0,
@@ -13861,10 +13861,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "狂戦士の指輪　１００００枚 en(v[92] >= 10000)",
-                                    "魔術狂のリング　１００００枚 en(v[92] >= 10000)",
-                                    "道化師の服　１００００枚 en(v[92] >= 10000)",
-                                    "やめる"
+                                    "Ring of the Berserker, 10,000 pieces en(v[92] >= 10000)",
+                                    "Ring of the Magic Fanatic, 10,000 pieces en(v[92] >= 10000)",
+                                    "Jester's outfit, 10,000 pieces en(v[92] >= 10000)",
+                                    "Stop"
                                 ],
                                 3,
                                 3,
@@ -14564,8 +14564,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14792,7 +14792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fuego, the Hawk's Eye: Please infiltrate the illegal\ngambling den and buy us some time, regardless of the\nmethod."
+                                "Fuego, the Hawk's Eye: Please infiltrate the illegal\ngambling den and buy us some time, regardless of the method."
                             ]
                         },
                         {

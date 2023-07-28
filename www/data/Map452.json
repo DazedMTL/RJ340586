@@ -5947,7 +5947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alchemist Miti: Ah... I can't shake off this gloomy\nfeeling, but if you all came, then it should be fine."
+                                "Alchemist Miti: Ah... I can't shake off this gloomy feeling,\nbut if you all came, then it should be fine."
                             ]
                         },
                         {
@@ -5978,7 +5978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alchemist Miti: I want you to find the Eyes of Oradoru in\nmy place."
+                                "Alchemist Miti: I want you to find the Eyes of Oradoru in my\nplace."
                             ]
                         },
                         {
@@ -6025,7 +6025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: What do you plan to use the Eyes of Oradoru\nfor!?"
+                                "Mage Relm: What do you plan to use the Eyes of Oradoru for!?"
                             ]
                         },
                         {
@@ -7134,7 +7134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alchemist Miti: Thank goodness... I'll mix it right away\nand try drinking it."
+                                "Alchemist Miti: Thank goodness... I'll mix it right away and\ntry drinking it."
                             ]
                         },
                         {
@@ -7219,7 +7219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alchemist Miti: I-I'm starting to feel a bit\nlightheaded..."
+                                "Alchemist Miti: I-I'm starting to feel a bit lightheaded..."
                             ]
                         },
                         {
@@ -7390,7 +7390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: I haven't received the reward yet, and I've heard\nthat it's a dangerous herb."
+                                "Clea: I haven't received the reward yet, and I've heard that\nit's a dangerous herb."
                             ]
                         },
                         {
@@ -8194,8 +8194,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "断る",
-                                    "飲む if(v[36] < 4)"
+                                    "I refuse",
+                                    "Drink if(v[36] < 4)"
                                 ],
                                 -1,
                                 0,
@@ -8775,7 +8775,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Clea: It seems like you were temporarily confused due to\nthe medicine, but if you have returned to your senses, then\nthere's no problem."
+                                "Clea: It seems like you were temporarily confused due to the\nmedicine, but if you have returned to your senses, then\nthere's no problem."
                             ]
                         },
                         {
@@ -9128,7 +9128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Clea: I understand... If you doubt it that much, then I\nwill drink it."
+                                "Clea: I understand... If you doubt it that much, then I will\ndrink it."
                             ]
                         },
                         {
@@ -9475,8 +9475,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9727,7 +9727,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Alchemist Miti: I'm sorry... I want you to accept the\nreward and apology."
+                                "Alchemist Miti: I'm sorry... I want you to accept the reward\nand apology."
                             ]
                         },
                         {
@@ -10976,8 +10976,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 0,
                                 0,

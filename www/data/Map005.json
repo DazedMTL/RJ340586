@@ -3754,7 +3754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ropos the Bull: Ah, it's you... Are you keeping your\npromise properly...?"
+                                "Ropos the Bull: Ah, it's you... Are you keeping your promise\nproperly...?"
                             ]
                         },
                         {
@@ -4130,7 +4130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cleric Sophia: Do you happen to enjoy pain... or\nsomething?"
+                                "Cleric Sophia: Do you happen to enjoy pain... or something?"
                             ]
                         },
                         {
@@ -4230,8 +4230,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "女神イミセリノスに誓い秘密を守る",
-                                    "身体に説得する if(v[42] < 2)"
+                                    "I swear to the goddess Imiserinos to keep this secret",
+                                    "Convincing the body if(v[42] < 2)"
                                 ],
                                 -1,
                                 0,
@@ -4435,7 +4435,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cleric Sophia: If you're going to be so stubborn, hehe,\nI'll have to persuade you with my body."
+                                "Cleric Sophia: If you're going to be so stubborn, hehe, I'll\nhave to persuade you with my body."
                             ]
                         },
                         {
@@ -4661,8 +4661,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4872,7 +4872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cleric Sophia: Yes, everything that happens here is a\nsecret. I didn't know that the bull would make such a\nsound."
+                                "Cleric Sophia: Yes, everything that happens here is a\nsecret. I didn't know that the bull would make such a sound."
                             ]
                         },
                         {
@@ -5184,8 +5184,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

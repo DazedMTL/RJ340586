@@ -7650,8 +7650,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7788,8 +7788,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -7849,7 +7849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you want to start over? If you choose 'No', you will\nexit the dungeon."
+                                "Do you want to start over? If you choose 'No', you will exit\nthe dungeon."
                             ]
                         },
                         {
@@ -7864,8 +7864,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

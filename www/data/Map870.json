@@ -7593,7 +7593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL The guards who had been chasing after Phantom Thief Perno\nfor a long time were on high alert for the occurrence of\nanother incident, but it didn't last long."
+                                "\\CL The guards who had been chasing after Phantom Thief\nPerno for a long time were on high alert for the occurrence\nof another incident, but it didn't last long."
                             ]
                         },
                         {
@@ -7979,8 +7979,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 -1,
                                 -1,
@@ -8207,12 +8207,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "　探検家アルマダに会いにいく if(!s[411])",
-                                    "　声の巫女フォニに会いにいく if(!s[412])",
-                                    "　隻腕のオプロに会いにいく if(!s[413])",
-                                    "　怪盗ペルノに会いにいく if(!s[414])",
-                                    "　渡世人コルスに会いにいく if(!s[415])",
-                                    "　バルク団のゴートに会いにいく if(!s[416])"
+                                    "I'm going to meet the explorer Armada if(!s[411])",
+                                    "I'm going to meet the Voice Priestess Phoni if(!s[412])",
+                                    "I'm going to meet the one-armed Opro if(!s[413])",
+                                    "I'm going to meet the Phantom Thief Perno if(!s[414])",
+                                    "I'm going to meet Cors, the wanderer if(!s[415])",
+                                    "I'm going to meet Goat from the Bulk Gang if(!s[416])"
                                 ],
                                 -1,
                                 -1,
@@ -8560,7 +8560,7 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "　元帝国暗部ルイドに会いにいく if(!s[417])"
+                                    "I'm going to meet with the former Imperial Dark Division, Luid if(!s[417])"
                                 ],
                                 -1,
                                 -1,
@@ -8955,7 +8955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Shino the Housewife: I was able to witness a wonderful\nscene of taking a new step forward."
+                                "Shino the Housewife: I was able to witness a wonderful scene\nof taking a new step forward."
                             ]
                         },
                         {
@@ -9090,7 +9090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Housewife Shino: I think magic is just a tool, and if the\nuser is not skilled, even a greatsword becomes a mere\nstick."
+                                "Housewife Shino: I think magic is just a tool, and if the\nuser is not skilled, even a greatsword becomes a mere stick."
                             ]
                         },
                         {
@@ -9135,7 +9135,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mage Relm: As you said, it may be true. I also want to\ntrain my body to become an Archmage!"
+                                "Mage Relm: As you said, it may be true. I also want to train\nmy body to become an Archmage!"
                             ]
                         },
                         {
@@ -9194,7 +9194,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Thief Nora: Um, well, I shouldn't say this! But I was\nreally happy to receive praise about being a thief from that\nperson."
+                                "Thief Nora: Um, well, I shouldn't say this! But I was really\nhappy to receive praise about being a thief from that\nperson."
                             ]
                         },
                         {
@@ -9336,7 +9336,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Priestess Sophia: They seem so happy, it's quite enviable.\nI plan to return to the campus, so if you have the time,\nplease come by."
+                                "Priestess Sophia: They seem so happy, it's quite enviable. I\nplan to return to the campus, so if you have the time,\nplease come by."
                             ]
                         },
                         {
@@ -9419,7 +9419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Priestess Sophia: Hehe, that's good. Let's make sure\nneither of us becomes loose-lipped, okay?"
+                                "Priestess Sophia: Hehe, that's good. Let's make sure neither\nof us becomes loose-lipped, okay?"
                             ]
                         },
                         {

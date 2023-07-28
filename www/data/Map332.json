@@ -6381,8 +6381,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,
@@ -6681,8 +6681,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,
@@ -6981,8 +6981,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,
@@ -9381,7 +9381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: I was able to make a request to the Magic Academy.\nAre you sure you're Mage Lapis?"
+                                "Clea: I was able to make a request to the Magic Academy. Are\nyou sure you're Mage Lapis?"
                             ]
                         },
                         {
@@ -9641,7 +9641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thief Nora: Th-This person... is scary, it feels...\ncreepy."
+                                "Thief Nora: Th-This person... is scary, it feels... creepy."
                             ]
                         },
                         {
@@ -10174,7 +10174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: That's enough. Since you are Mage Lapis, I will\ndefeat you."
+                                "Clea: That's enough. Since you are Mage Lapis, I will defeat\nyou."
                             ]
                         },
                         {
@@ -10212,7 +10212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: Yes, I think it's a waste of time to continue\nany further."
+                                "Mage Relm: Yes, I think it's a waste of time to continue any\nfurther."
                             ]
                         },
                         {
@@ -11323,7 +11323,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mage Lapis: This is just the beginning, don't rush! The\nreal greatness starts from here, are you ready?"
+                                "Mage Lapis: This is just the beginning, don't rush! The real\ngreatness starts from here, are you ready?"
                             ]
                         },
                         {
@@ -11464,8 +11464,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11573,7 +11573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do you want to retry the battle? If you choose No, it\nwill result in a game over."
+                                "Do you want to retry the battle? If you choose No, it will\nresult in a game over."
                             ]
                         },
                         {
@@ -11588,8 +11588,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12373,7 +12373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Lapis: H-How cruel...! My body hurts, even my bones\nare broken, why would you do such a thing!"
+                                "Mage Lapis: H-How cruel...! My body hurts, even my bones are\nbroken, why would you do such a thing!"
                             ]
                         },
                         {
@@ -12442,7 +12442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: It's because you don't try to understand that\nyou wish to be understood, even though you don't understand\nothers."
+                                "Mage Relm: It's because you don't try to understand that you\nwish to be understood, even though you don't understand\nothers."
                             ]
                         },
                         {
@@ -14155,7 +14155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thief Nora: T-That was a close call! Thank you, Sophia-\nsan!"
+                                "Thief Nora: T-That was a close call! Thank you, Sophia- san!"
                             ]
                         },
                         {
@@ -14466,7 +14466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: Th-There's no need to say such things! Now,\nlet's go back and report to Mr. Doxa!"
+                                "Mage Relm: Th-There's no need to say such things! Now, let's\ngo back and report to Mr. Doxa!"
                             ]
                         },
                         {
@@ -16631,8 +16631,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 -1,
                                 -1,
@@ -17232,7 +17232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mage Albus's illusion: It seems like a miracle created by\nan ancient civilization! And it's also a miracle to have met\na genius who can unravel this!"
+                                "Mage Albus's illusion: It seems like a miracle created by an\nancient civilization! And it's also a miracle to have met a\ngenius who can unravel this!"
                             ]
                         },
                         {
@@ -17308,7 +17308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mage Albus's illusion: No, no! Why are you being so\npessimistic! Come on, we have to face Euan's big mouth\nnext."
+                                "Mage Albus's illusion: No, no! Why are you being so\npessimistic! Come on, we have to face Euan's big mouth next."
                             ]
                         },
                         {

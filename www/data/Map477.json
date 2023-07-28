@@ -4237,7 +4237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Surviving Soldier: I heard that no one would interfere\nhere. If I misunderstood, then leave."
+                                "Surviving Soldier: I heard that no one would interfere here.\nIf I misunderstood, then leave."
                             ]
                         },
                         {
@@ -4862,7 +4862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The surviving soldier: At first, I conducted\ninterrogations with anger and hatred, believing that it was\nthe justice of the empire."
+                                "The surviving soldier: At first, I conducted interrogations\nwith anger and hatred, believing that it was the justice of\nthe empire."
                             ]
                         },
                         {
@@ -5004,7 +5004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Surviving Soldier: Sorry for talking to myself... Now,\nlet's drink again. We have enough wine to bathe in."
+                                "Surviving Soldier: Sorry for talking to myself... Now, let's\ndrink again. We have enough wine to bathe in."
                             ]
                         },
                         {
@@ -5104,8 +5104,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5913,8 +5913,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

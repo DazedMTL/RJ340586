@@ -4260,8 +4260,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ぶん殴る",
-                                    "身体で払う if(v[36] < 2)"
+                                    "Punch",
+                                    "Pay with your body if(v[36] < 2)"
                                 ],
                                 -1,
                                 0,
@@ -5104,8 +5104,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5327,7 +5327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Information Broker: When you want some pocket money, come\nto me and serve me with that cute mouth of yours!"
+                                "Information Broker: When you want some pocket money, come to\nme and serve me with that cute mouth of yours!"
                             ]
                         },
                         {
@@ -5796,8 +5796,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6914,7 +6914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Assistant Informant: I won't let you interfere with my\nwork!"
+                                "Assistant Informant: I won't let you interfere with my work!"
                             ]
                         },
                         {

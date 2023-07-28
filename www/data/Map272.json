@@ -4184,7 +4184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hunter Mons: I'm sorry, but I can't risk my life for\nothers, even if it's about man-eating bears."
+                                "Hunter Mons: I'm sorry, but I can't risk my life for others,\neven if it's about man-eating bears."
                             ]
                         },
                         {
@@ -4371,7 +4371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hunter Mons: Conditions... I see... Please lend me your\nears for a moment..."
+                                "Hunter Mons: Conditions... I see... Please lend me your ears\nfor a moment..."
                             ]
                         },
                         {
@@ -4612,8 +4612,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "説得する",
-                                    "条件を飲む if(v[40] < 2)"
+                                    "Persuade",
+                                    "Accept the conditions if(v[40] < 2)"
                                 ],
                                 -1,
                                 0,
@@ -4804,7 +4804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mage Relm: Thank you for your cooperation. Well then, I\nwill go."
+                                "Mage Relm: Thank you for your cooperation. Well then, I will\ngo."
                             ]
                         },
                         {
@@ -5022,8 +5022,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5819,8 +5819,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

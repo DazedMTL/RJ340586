@@ -4435,7 +4435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farmer Apros: It's no problem. Just defeating that beast\nwas more than enough."
+                                "Farmer Apros: It's no problem. Just defeating that beast was\nmore than enough."
                             ]
                         },
                         {
@@ -4473,7 +4473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farmer Apros: I need to let my friend, the hunter, know\nthat he can hunt without worry now that the beast has been\ndefeated."
+                                "Farmer Apros: I need to let my friend, the hunter, know that\nhe can hunt without worry now that the beast has been\ndefeated."
                             ]
                         },
                         {
@@ -5011,8 +5011,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "断る",
-                                    "依頼を受ける"
+                                    "I refuse",
+                                    "Accept the request"
                                 ],
                                 -1,
                                 -1,
@@ -5530,8 +5530,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6527,8 +6527,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

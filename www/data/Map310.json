@@ -4778,8 +4778,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "3000G払う",
-                                    "条件を飲む if(v[40] < 2)"
+                                    "Paying 3000G",
+                                    "Accepting the condition if(v[40] < 2)"
                                 ],
                                 -1,
                                 0,
@@ -4849,7 +4849,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Merchant Oro: Well, I'll wait, so think carefully before\nyou approach me."
+                                "Merchant Oro: Well, I'll wait, so think carefully before you\napproach me."
                             ]
                         },
                         {
@@ -5180,8 +5180,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "3000G払う",
-                                    "条件を飲む if(v[40] < 2)"
+                                    "Paying 3000G",
+                                    "Accept the conditions if(v[40] < 2)"
                                 ],
                                 -1,
                                 0,
@@ -5227,7 +5227,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Merchant Oro: Hey, if you can't pay, negotiations will\nbreak down, you know?"
+                                "Merchant Oro: Hey, if you can't pay, negotiations will break\ndown, you know?"
                             ]
                         },
                         {
@@ -5251,7 +5251,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Merchant Oro: Well, I'll wait, so think carefully before\nyou approach me."
+                                "Merchant Oro: Well, I'll wait, so think carefully before you\napproach me."
                             ]
                         },
                         {
@@ -6123,8 +6123,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6963,8 +6963,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

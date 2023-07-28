@@ -21376,7 +21376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bathhouse Manager Caron: Yes, could you please come during\na time when there are no customers?"
+                                "Bathhouse Manager Caron: Yes, could you please come during a\ntime when there are no customers?"
                             ]
                         },
                         {
@@ -23138,7 +23138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: Let's turn this into a meal once it's resolved.\nFirst, let's investigate the men's bath."
+                                "Clea: Let's turn this into a meal once it's resolved. First,\nlet's investigate the men's bath."
                             ]
                         },
                         {
@@ -24964,7 +24964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: Ugh...the sound of bugs' wings...it's\ndisgusting."
+                                "Mage Relm: Ugh...the sound of bugs' wings...it's disgusting."
                             ]
                         },
                         {
@@ -25057,7 +25057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Priestess Sophia: Let's finish quickly. The taste of\nalcohol after finishing work is exceptional, you know."
+                                "Priestess Sophia: Let's finish quickly. The taste of alcohol\nafter finishing work is exceptional, you know."
                             ]
                         },
                         {
@@ -25126,7 +25126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: You've been drinking all this time, haven't\nyou?"
+                                "Mage Relm: You've been drinking all this time, haven't you?"
                             ]
                         },
                         {
@@ -26165,7 +26165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bathhouse Manager: Oh no, it's all thanks to the\nadventurers from the Adventurer's Guild."
+                                "Bathhouse Manager: Oh no, it's all thanks to the adventurers\nfrom the Adventurer's Guild."
                             ]
                         },
                         {
@@ -26672,7 +26672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Priestess Sophia: Storge-san, did you notice the\nmastermind? Hehe, this wine is really delicious, isn't it~"
+                                "Priestess Sophia: Storge-san, did you notice the mastermind?\nHehe, this wine is really delicious, isn't it~"
                             ]
                         },
                         {
@@ -26886,7 +26886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Storge of Love: In the end, you yourself will have to\nsearch for the method to resolve the request."
+                                "Storge of Love: In the end, you yourself will have to search\nfor the method to resolve the request."
                             ]
                         },
                         {
@@ -27031,7 +27031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Storge of Love: Kasaro, who constructed this place,\nintended to install a statue of sisters. However, it seems\nthat one of them was stolen by the phantom thief Perno, so\nonly one is displayed in the end."
+                                "Storge of Love: Kasaro, who constructed this place, intended\nto install a statue of sisters. However, it seems that one\nof them was stolen by the phantom thief Perno, so only one\nis displayed in the end."
                             ]
                         },
                         {
@@ -27803,7 +27803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: Hehe, that was quite a meal! It was a\nhospitality befitting a genius like me."
+                                "Mage Relm: Hehe, that was quite a meal! It was a hospitality\nbefitting a genius like me."
                             ]
                         },
                         {
@@ -30464,8 +30464,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,
@@ -31562,7 +31562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bathhouse Manager Caron: Well, well, everyone! What can I\ndo for you today?"
+                                "Bathhouse Manager Caron: Well, well, everyone! What can I do\nfor you today?"
                             ]
                         },
                         {
@@ -31877,7 +31877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bathhouse Manager Caron: There was a time when mixed\nbathing was allowed, but the discipline was disrupted, even\nby the wishes of everyone."
+                                "Bathhouse Manager Caron: There was a time when mixed bathing\nwas allowed, but the discipline was disrupted, even by the\nwishes of everyone."
                             ]
                         },
                         {
@@ -31998,7 +31998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bathhouse Manager Caron: ...I have a favor to ask. Could\nyou please carry this firewood to the boiler room?"
+                                "Bathhouse Manager Caron: ...I have a favor to ask. Could you\nplease carry this firewood to the boiler room?"
                             ]
                         },
                         {
@@ -32325,8 +32325,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 -1,
                                 -1,
@@ -33613,8 +33613,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,
@@ -38023,12 +38023,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入浴する",
-                                    "クレアがマッサージを受ける",
-                                    "ノラがマッサージを受ける",
-                                    "リルムがマッサージを受ける",
-                                    "ソフィアがマッサージを受ける",
-                                    "やめる"
+                                    "To take a bath",
+                                    "Clea is getting a massage",
+                                    "Nora is getting a massage",
+                                    "Relm is getting a massage",
+                                    "Sophia is getting a massage",
+                                    "Stop"
                                 ],
                                 5,
                                 0,
@@ -38700,12 +38700,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入浴する",
-                                    "クレアがマッサージを受ける",
-                                    "ノラがマッサージを受ける",
-                                    "リルムがマッサージを受ける",
-                                    "ソフィアがマッサージを受ける",
-                                    "やめる"
+                                    "To take a bath",
+                                    "Clea is getting a massage",
+                                    "Nora is getting a massage",
+                                    "Relm is getting a massage",
+                                    "Sophia is getting a massage",
+                                    "Stop"
                                 ],
                                 5,
                                 0,
@@ -38780,7 +38780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kasaro Bathhouse Receptionist: Please enjoy our proud\nbaths."
+                                "Kasaro Bathhouse Receptionist: Please enjoy our proud baths."
                             ]
                         },
                         {
@@ -39349,12 +39349,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "入浴する",
-                                    "クレアがマッサージを受ける",
-                                    "ノラがマッサージを受ける",
-                                    "リルムがマッサージを受ける",
-                                    "ソフィアがマッサージを受ける",
-                                    "やめる"
+                                    "To take a bath",
+                                    "Clea receives a massage",
+                                    "Nora is getting a massage",
+                                    "Relm is getting a massage",
+                                    "Sophia is getting a massage",
+                                    "Stop"
                                 ],
                                 5,
                                 0,
@@ -39765,12 +39765,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "入浴する",
-                                    "クレアがマッサージを受ける",
-                                    "ノラがマッサージを受ける",
-                                    "リルムがマッサージを受ける",
-                                    "ソフィアがマッサージを受ける",
-                                    "やめる"
+                                    "To take a bath",
+                                    "Clea receives a massage",
+                                    "Nora receives a massage",
+                                    "Relm receives a massage",
+                                    "Sophia receives a massage",
+                                    "I quit"
                                 ],
                                 5,
                                 0,
@@ -39814,7 +39814,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kasaro Bathhouse Receptionist: I have heard from the\nmanager that there is no need to charge you for the bathing\nfee, as you have helped us at Kasaro Bathhouse."
+                                "Kasaro Bathhouse Receptionist: I have heard from the manager\nthat there is no need to charge you for the bathing fee, as\nyou have helped us at Kasaro Bathhouse."
                             ]
                         },
                         {
@@ -40982,7 +40982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Priestess Sophia: There's nothing quite like a drink after\na bath... Armada-san, of course you'll join us, right?"
+                                "Priestess Sophia: There's nothing quite like a drink after a\nbath... Armada-san, of course you'll join us, right?"
                             ]
                         },
                         {
@@ -41325,7 +41325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: What I want to say is, it's about that, the\nstory over there!"
+                                "Mage Relm: What I want to say is, it's about that, the story\nover there!"
                             ]
                         },
                         {
@@ -41609,7 +41609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: Since I defeated the dragon, that might be the\ncause."
+                                "Clea: Since I defeated the dragon, that might be the cause."
                             ]
                         },
                         {
@@ -42915,7 +42915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Voice Priestess Phoni: Yes! Please let us thank you from\nour hearts!"
+                                "Voice Priestess Phoni: Yes! Please let us thank you from our\nhearts!"
                             ]
                         },
                         {
@@ -43285,8 +43285,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -43418,8 +43418,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -44582,8 +44582,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -44715,8 +44715,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -44985,7 +44985,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Male Masseur: Please change into the designated swimsuit\nand lie face down on the massage table."
+                                "Male Masseur: Please change into the designated swimsuit and\nlie face down on the massage table."
                             ]
                         },
                         {
@@ -45057,7 +45057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Male Masseur: Please change into the designated swimsuit\nand lie face down on the massage table."
+                                "Male Masseur: Please change into the designated swimsuit and\nlie face down on the massage table."
                             ]
                         },
                         {
@@ -45591,8 +45591,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -45724,8 +45724,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -45994,7 +45994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Male Masseur: Please change into the designated swimsuit\nand lie face down on the massage table."
+                                "Male Masseur: Please change into the designated swimsuit and\nlie face down on the massage table."
                             ]
                         },
                         {
@@ -46066,7 +46066,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Male Masseur: Please change into the designated swimsuit\nand lie face down on the massage table."
+                                "Male Masseur: Please change into the designated swimsuit and\nlie face down on the massage table."
                             ]
                         },
                         {
@@ -46600,8 +46600,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -46733,8 +46733,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -47539,7 +47539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bath-loving man: H-Hey! This one is for men, hurry up and\ngo to the other side!"
+                                "Bath-loving man: H-Hey! This one is for men, hurry up and go\nto the other side!"
                             ]
                         },
                         {
@@ -47672,7 +47672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bath-loving man: H-Hey! This one is for men, hurry up and\ngo to the other side!"
+                                "Bath-loving man: H-Hey! This one is for men, hurry up and go\nto the other side!"
                             ]
                         },
                         {
@@ -48101,7 +48101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I envy the people who live in Fotizona, coming here just\nfor the pleasure of visiting the traveling goods merchant."
+                                "I envy the people who live in Fotizona, coming here just for\nthe pleasure of visiting the traveling goods merchant."
                             ]
                         },
                         {
@@ -48285,7 +48285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I envy the people who live in Fotizona, coming here just\nfor the pleasure of visiting the traveling goods merchant."
+                                "I envy the people who live in Fotizona, coming here just for\nthe pleasure of visiting the traveling goods merchant."
                             ]
                         },
                         {
@@ -51532,7 +51532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: But I was scared. I felt like my resentment and\nhatred towards the dragon were fading away."
+                                "Clea: But I was scared. I felt like my resentment and hatred\ntowards the dragon were fading away."
                             ]
                         },
                         {
@@ -51563,7 +51563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: I don't have any dreams. I only have goals to\nfulfill, nothing else."
+                                "Clea: I don't have any dreams. I only have goals to fulfill,\nnothing else."
                             ]
                         },
                         {
@@ -52084,7 +52084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Celis, the Swift Wind: Sometimes I come here alone. It's a\nplace where I can relax and it's suitable for deep\nthoughts."
+                                "Celis, the Swift Wind: Sometimes I come here alone. It's a\nplace where I can relax and it's suitable for deep thoughts."
                             ]
                         },
                         {
@@ -52255,7 +52255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Celis, the Swift Wind: I wonder if you're scared that if\nyou cry once, everything will come pouring out."
+                                "Celis, the Swift Wind: I wonder if you're scared that if you\ncry once, everything will come pouring out."
                             ]
                         },
                         {
@@ -52348,7 +52348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Celis, the Swift Wind: You're not that weak. Even if you\ncry or break down in tears, you will definitely be able to\nwalk forward from there."
+                                "Celis, the Swift Wind: You're not that weak. Even if you cry\nor break down in tears, you will definitely be able to walk\nforward from there."
                             ]
                         },
                         {
@@ -52582,7 +52582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Celis, the Swift Wind: Yeah, you're not crying. Let's take\na little more time here to relax."
+                                "Celis, the Swift Wind: Yeah, you're not crying. Let's take a\nlittle more time here to relax."
                             ]
                         },
                         {
@@ -63885,7 +63885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: How about returning the sister statue to Perno-san?\nWe have a direct line of communication, so it's the most\nreliable option."
+                                "Clea: How about returning the sister statue to Perno-san? We\nhave a direct line of communication, so it's the most\nreliable option."
                             ]
                         },
                         {
@@ -64132,7 +64132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Master Thief Perno: I can hear it, the [voice] whispering\nin my ear..."
+                                "Master Thief Perno: I can hear it, the [voice] whispering in\nmy ear..."
                             ]
                         },
                         {
@@ -64215,7 +64215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: I understand. In that case, we'll need to find\nanother method..."
+                                "Clea: I understand. In that case, we'll need to find another\nmethod..."
                             ]
                         },
                         {
@@ -65406,8 +65406,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 -1,
                                 -1,
@@ -69649,7 +69649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Secretary Saligari: You're doing a great job. I wonder why\nI didn't look around more at that time."
+                                "Secretary Saligari: You're doing a great job. I wonder why I\ndidn't look around more at that time."
                             ]
                         },
                         {
@@ -70357,7 +70357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: I have seen the request form. What exactly should I\ndo today?"
+                                "Clea: I have seen the request form. What exactly should I do\ntoday?"
                             ]
                         },
                         {
@@ -73439,8 +73439,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

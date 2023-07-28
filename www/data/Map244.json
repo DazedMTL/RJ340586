@@ -5669,9 +5669,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "単体戦で挑む",
-                                    "団体戦で挑む",
-                                    "出場するのをやめる"
+                                    "Engage in a solo battle",
+                                    "Challenging in a team battle",
+                                    "I want to quit participating"
                                 ],
                                 2,
                                 0,
@@ -5734,11 +5734,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "クレア",
-                                    "盗賊ノラ",
-                                    "魔法使いリルム",
-                                    "僧侶ソフィア",
-                                    "単体戦/団体戦を選び直す"
+                                    "Clea",
+                                    "Thief Nora",
+                                    "Mage Relm",
+                                    "Cleric Sophia",
+                                    "Choose again between individual battle or team battle"
                                 ],
                                 4,
                                 0,
@@ -5962,11 +5962,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "初級",
-                                    "中級",
-                                    "上級",
-                                    "達人級 en(s[89])",
-                                    "戻る"
+                                    "Beginner level",
+                                    "Intermediate",
+                                    "Advanced",
+                                    "Expert level en(s[89])",
+                                    "Back"
                                 ],
                                 4,
                                 0,
@@ -6235,8 +6235,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11457,7 +11457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: I want to participate in the martial arts\ntournament."
+                                "Clea: I want to participate in the martial arts tournament."
                             ]
                         },
                         {
@@ -11488,7 +11488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pizuma Arena Manager: You're the fourth group, right?\nUm... Is this girl your attendant?"
+                                "Pizuma Arena Manager: You're the fourth group, right? Um...\nIs this girl your attendant?"
                             ]
                         },
                         {
@@ -11542,7 +11542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: How rude! I am a mage from the academy, you\nknow!"
+                                "Mage Relm: How rude! I am a mage from the academy, you know!"
                             ]
                         },
                         {
@@ -11631,7 +11631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pizuma Arena Manager: Since the martial arts tournament is\na battle against beasts, there is only one group that is\neligible in the first place."
+                                "Pizuma Arena Manager: Since the martial arts tournament is a\nbattle against beasts, there is only one group that is\neligible in the first place."
                             ]
                         },
                         {
@@ -12185,8 +12185,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,
@@ -14372,7 +14372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pizuma Arena Manager: Clea-sama, please accept the Crown\nof the Stalwart King as a symbol of your victory."
+                                "Pizuma Arena Manager: Clea-sama, please accept the Crown of\nthe Stalwart King as a symbol of your victory."
                             ]
                         },
                         {
@@ -15512,7 +15512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nobleman: As expected, the arena is the best! The only\nplace where blood boils and excitement fills the air outside\nof the battlefield!"
+                                "Nobleman: As expected, the arena is the best! The only place\nwhere blood boils and excitement fills the air outside of\nthe battlefield!"
                             ]
                         },
                         {
@@ -15603,7 +15603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wealthy Woman: I'm troubled by my husband being a fan of\nthe arena... I just want to relax in the villa area of\nVald."
+                                "Wealthy Woman: I'm troubled by my husband being a fan of the\narena... I just want to relax in the villa area of Vald."
                             ]
                         },
                         {
@@ -16091,7 +16091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Excited Man: The excitement of a thrilling battle! Before\nme stands a beautiful woman like a goddess! This is the\nbest!"
+                                "Excited Man: The excitement of a thrilling battle! Before me\nstands a beautiful woman like a goddess! This is the best!"
                             ]
                         },
                         {
@@ -17419,7 +17419,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Novice swordsman Auto: I can't put it into words, but I\nfelt something different from just being confident. I like\nbattles."
+                                "Novice swordsman Auto: I can't put it into words, but I felt\nsomething different from just being confident. I like\nbattles."
                             ]
                         },
                         {
@@ -19054,7 +19054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Novice Swordsman Auto: Hahaha, Gale-san, you're too\neager..."
+                                "Novice Swordsman Auto: Hahaha, Gale-san, you're too eager..."
                             ]
                         },
                         {

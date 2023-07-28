@@ -5957,7 +5957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Merchant Book: Hahaha, I thought you would notice,\n[Sophia]!"
+                                "Merchant Book: Hahaha, I thought you would notice, [Sophia]!"
                             ]
                         },
                         {
@@ -6092,7 +6092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: Understood. We'll be outside, so please take your\ntime to talk."
+                                "Clea: Understood. We'll be outside, so please take your time\nto talk."
                             ]
                         },
                         {
@@ -6761,7 +6761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Merchant Book: No, it's been investigated and confirmed\nthat our actions had nothing to do with not knowing\nanything."
+                                "Merchant Book: No, it's been investigated and confirmed that\nour actions had nothing to do with not knowing anything."
                             ]
                         },
                         {
@@ -6922,7 +6922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Merchant Book: If you listen to a small request, we can\nmake that young man an enemy... What will you do?"
+                                "Merchant Book: If you listen to a small request, we can make\nthat young man an enemy... What will you do?"
                             ]
                         },
                         {
@@ -6973,8 +6973,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "商人ブックのお願いを断る",
-                                    "商人ブックのお願いを聞く"
+                                    "Refuse the merchant's request",
+                                    "Listen to the merchant's request"
                                 ],
                                 -1,
                                 -1,
@@ -7031,7 +7031,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Priestess Sophia: If I obey, it will truly become\n[something that never happened], right?"
+                                "Priestess Sophia: If I obey, it will truly become [something\nthat never happened], right?"
                             ]
                         },
                         {
@@ -7396,8 +7396,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8474,7 +8474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Priestess Sophia: I tried to capture them and hand them\nover to the guards, but they resisted fiercely and there was\nno choice but to kill them."
+                                "Priestess Sophia: I tried to capture them and hand them over\nto the guards, but they resisted fiercely and there was no\nchoice but to kill them."
                             ]
                         },
                         {

@@ -7069,7 +7069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Former miner Gesus: Hehehe, I can't take my eyes off of\nher. You see, my legs are bad, so I rely on adventurers like\nyou."
+                                "Former miner Gesus: Hehehe, I can't take my eyes off of her.\nYou see, my legs are bad, so I rely on adventurers like you."
                             ]
                         },
                         {
@@ -7495,7 +7495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Former miner Gesus: How about it? Can you lend me your\nchest for a little while? Don't worry, I can't do anything\nmore than that as an old man."
+                                "Former miner Gesus: How about it? Can you lend me your chest\nfor a little while? Don't worry, I can't do anything more\nthan that as an old man."
                             ]
                         },
                         {
@@ -7524,8 +7524,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ぶん殴る",
-                                    "依頼を受ける if(v[36] == 1)"
+                                    "Punch",
+                                    "Accept the request if(v[36] == 1)"
                                 ],
                                 -1,
                                 0,
@@ -7984,7 +7984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Former miner Gesus: Ehehe, that's how it goes... Now,\nplease take off your armor."
+                                "Former miner Gesus: Ehehe, that's how it goes... Now, please\ntake off your armor."
                             ]
                         },
                         {
@@ -8044,8 +8044,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

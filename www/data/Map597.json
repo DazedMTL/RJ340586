@@ -5326,8 +5326,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5702,7 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bartender: In this town, strong alcohol is preferred.\nThat's why I'd like you to enjoy a gentle drink."
+                                "Bartender: In this town, strong alcohol is preferred. That's\nwhy I'd like you to enjoy a gentle drink."
                             ]
                         },
                         {
@@ -5884,7 +5884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "High-class prostitute: Hehe, is it rare to see a\nprostitute? It's obvious that there's demand in a town like\nthis."
+                                "High-class prostitute: Hehe, is it rare to see a prostitute?\nIt's obvious that there's demand in a town like this."
                             ]
                         },
                         {

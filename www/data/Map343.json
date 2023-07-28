@@ -6792,7 +6792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Chef Meri: This is good honey...! But... *sniff sniff*...\nis it a different kind...?"
+                                "Chef Meri: This is good honey...! But... *sniff sniff*... is\nit a different kind...?"
                             ]
                         },
                         {
@@ -7079,7 +7079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Chef Meri: I received the recipe notes, but I can't catch\nup unless I reproduce it with my own senses and taste."
+                                "Chef Meri: I received the recipe notes, but I can't catch up\nunless I reproduce it with my own senses and taste."
                             ]
                         },
                         {
@@ -9514,8 +9514,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 -1,
                                 -1,
@@ -10675,8 +10675,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 -1,
                                 -1,

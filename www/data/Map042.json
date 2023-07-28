@@ -8468,8 +8468,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8568,7 +8568,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do you want to retry the battle?※ If you choose No, it\nwill result in a game over."
+                                "Do you want to retry the battle?※ If you choose No, it will\nresult in a game over."
                             ]
                         },
                         {
@@ -8583,8 +8583,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10819,7 +10819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Adventurer Celis: No... it's okay. I'm sorry for turning\nyou away even though you came to the Adventurer's Guild."
+                                "Adventurer Celis: No... it's okay. I'm sorry for turning you\naway even though you came to the Adventurer's Guild."
                             ]
                         },
                         {

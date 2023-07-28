@@ -3679,7 +3679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Male Informant: If you want special information, coming\nhere is the right choice."
+                                "Male Informant: If you want special information, coming here\nis the right choice."
                             ]
                         },
                         {
@@ -4140,7 +4140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: Do you have any information about the fugitive\nZagal?"
+                                "Clea: Do you have any information about the fugitive Zagal?"
                             ]
                         },
                         {
@@ -4178,7 +4178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Male Informant: I wonder if you were begged by the guards\nof the Valier to know about that?"
+                                "Male Informant: I wonder if you were begged by the guards of\nthe Valier to know about that?"
                             ]
                         },
                         {
@@ -4527,7 +4527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Male Informant: The fugitive Zagal is a fellow\nprofessional. If you let him escape, it will become\ntroublesome for all of you."
+                                "Male Informant: The fugitive Zagal is a fellow professional.\nIf you let him escape, it will become troublesome for all of\nyou."
                             ]
                         },
                         {
@@ -4641,7 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Male Informant: Information brokers rely on trust, and\ntrust comes with the readiness to endure pain."
+                                "Male Informant: Information brokers rely on trust, and trust\ncomes with the readiness to endure pain."
                             ]
                         },
                         {
@@ -4801,8 +4801,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ぶん殴る",
-                                    "身体で証明する"
+                                    "Punch",
+                                    "Prove it with your body"
                                 ],
                                 -1,
                                 -1,
@@ -5063,8 +5063,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5292,7 +5292,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Clea: So you were planning to tell me from the\nbeginning...!"
+                                "Clea: So you were planning to tell me from the beginning...!"
                             ]
                         },
                         {
@@ -5896,7 +5896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Male Informant: I-I understand. I intend to acknowledge\nthat you are skilled."
+                                "Male Informant: I-I understand. I intend to acknowledge that\nyou are skilled."
                             ]
                         },
                         {
@@ -6100,7 +6100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Male Informant: I like strong-willed women, so I'm\nexpecting great things from you when I give you this\nrequest."
+                                "Male Informant: I like strong-willed women, so I'm expecting\ngreat things from you when I give you this request."
                             ]
                         },
                         {
@@ -6946,8 +6946,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

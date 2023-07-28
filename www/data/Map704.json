@@ -3844,8 +3844,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 -1,
                                 -1,
@@ -6182,7 +6182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Demon Bride Ancos: Haa... haa... What happened... My\nmagical power was instantly wiped out..."
+                                "Demon Bride Ancos: Haa... haa... What happened... My magical\npower was instantly wiped out..."
                             ]
                         },
                         {
@@ -6480,7 +6480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Demon Bride Ancos: Huh...? My arm... why, it's gone, my\narm, my arm!"
+                                "Demon Bride Ancos: Huh...? My arm... why, it's gone, my arm,\nmy arm!"
                             ]
                         },
                         {
@@ -6998,7 +6998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bard: As I thought, you were someone who couldn't give up.\nI can't forgive those who go against reason."
+                                "Bard: As I thought, you were someone who couldn't give up. I\ncan't forgive those who go against reason."
                             ]
                         },
                         {
@@ -7062,7 +7062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you want to restart from the battle? If you choose No,\nit will result in a game over."
+                                "Do you want to restart from the battle? If you choose No, it\nwill result in a game over."
                             ]
                         },
                         {
@@ -7077,8 +7077,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

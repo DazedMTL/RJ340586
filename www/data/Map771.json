@@ -2442,7 +2442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: It feels strange... I have a sensation as if\nthis clothing is resonating with me."
+                                "Mage Relm: It feels strange... I have a sensation as if this\nclothing is resonating with me."
                             ]
                         },
                         {
@@ -2836,7 +2836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: I wasn't joking! It's really dangerous, so\nplease stay away, do you hear me!?"
+                                "Mage Relm: I wasn't joking! It's really dangerous, so please\nstay away, do you hear me!?"
                             ]
                         },
                         {
@@ -3450,8 +3450,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

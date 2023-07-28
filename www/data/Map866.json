@@ -3988,7 +3988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: I don't know what to talk about, even though we're\nnot parting ways in death or anything."
+                                "Clea: I don't know what to talk about, even though we're not\nparting ways in death or anything."
                             ]
                         },
                         {
@@ -4064,7 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thief Nora: I've been so worried...! Whenever I take my\neyes off you for a moment, Clea-san, it feels like you might\ndisappear."
+                                "Thief Nora: I've been so worried...! Whenever I take my eyes\noff you for a moment, Clea-san, it feels like you might\ndisappear."
                             ]
                         },
                         {
@@ -4118,7 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thief Nora: Let's continue from that time! It's a charm\nthat worked well before we fought the dragon!"
+                                "Thief Nora: Let's continue from that time! It's a charm that\nworked well before we fought the dragon!"
                             ]
                         },
                         {
@@ -4315,7 +4315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Priestess Sophia: Please don't go back to being alone,\nokay? Just like the world of books, this world is also\nvast."
+                                "Priestess Sophia: Please don't go back to being alone, okay?\nJust like the world of books, this world is also vast."
                             ]
                         },
                         {
@@ -4505,7 +4505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: I am truly grateful to all of you. I have been able\nto stay safe until today thanks to all of you."
+                                "Clea: I am truly grateful to all of you. I have been able to\nstay safe until today thanks to all of you."
                             ]
                         },
                         {
@@ -4581,7 +4581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: Everyone is moving towards new dreams... that's\nwhy... I tried to send you off with a smile..."
+                                "Clea: Everyone is moving towards new dreams... that's why...\nI tried to send you off with a smile..."
                             ]
                         },
                         {
@@ -4760,7 +4760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mage Relm: I won't be able to become an Archmage by the\nnext time we meet, but I will become an Advanced Sorceress,\nso please celebrate for me!"
+                                "Mage Relm: I won't be able to become an Archmage by the next\ntime we meet, but I will become an Advanced Sorceress, so\nplease celebrate for me!"
                             ]
                         },
                         {
@@ -6142,12 +6142,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "　探検家アルマダに会いにいく if(!s[411])",
-                                    "　声の巫女フォニに会いにいく if(!s[412])",
-                                    "　隻腕のオプロに会いにいく if(!s[413])",
-                                    "　怪盗ペルノに会いにいく if(!s[414])",
-                                    "　渡世人コルスに会いにいく if(!s[415])",
-                                    "　バルク団のゴートに会いにいく if(!s[416])"
+                                    "I'm going to meet the explorer Armada if(!s[411])",
+                                    "I'm going to meet with the Voice Priestess Phoni if(!s[412])",
+                                    "I'm going to meet with the one-armed Opro if(!s[413])",
+                                    "I'm going to meet with the Phantom Thief Perno if(!s[414])",
+                                    "I'm going to meet Cors, the wanderer if(!s[415])",
+                                    "I'm going to meet with Goat from the Bulk Brigade if(!s[416])"
                                 ],
                                 -1,
                                 -1,
@@ -6495,7 +6495,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "　元帝国暗部ルイドに会いにいく if(!s[417])"
+                                    "I'm going to meet with the former Imperial Dark Division member, Luid if(!s[417])"
                                 ],
                                 -1,
                                 -1,
@@ -7447,7 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: I will now send everyone off. I'm grateful for you\nall putting up with my selfishness."
+                                "Clea: I will now send everyone off. I'm grateful for you all\nputting up with my selfishness."
                             ]
                         },
                         {

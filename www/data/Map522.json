@@ -5504,7 +5504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dining Hall Chef: There's an ingredient that I can't\nhandle. Can you help me?"
+                                "Dining Hall Chef: There's an ingredient that I can't handle.\nCan you help me?"
                             ]
                         },
                         {
@@ -5519,8 +5519,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "断る",
-                                    "手伝う"
+                                    "I refuse",
+                                    "I'll help"
                                 ],
                                 0,
                                 0,
@@ -5691,7 +5691,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Dining Hall Chef: A-Are you okay...? You're not dead,\nright?"
+                                "Dining Hall Chef: A-Are you okay...? You're not dead, right?"
                             ]
                         },
                         {
@@ -6808,7 +6808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gourmet Coriba: Do you have any business with me? Is there\na need to interrupt me while I'm savoring wine?"
+                                "Gourmet Coriba: Do you have any business with me? Is there a\nneed to interrupt me while I'm savoring wine?"
                             ]
                         },
                         {
@@ -6853,7 +6853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: I'll get straight to the point. Could you step down\nas a judge for the cooking competition?"
+                                "Clea: I'll get straight to the point. Could you step down as\na judge for the cooking competition?"
                             ]
                         },
                         {
@@ -7012,7 +7012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gourmet Coriba: It's only natural that the strongest one\nwins, and being a court chef is part of the political\nworld."
+                                "Gourmet Coriba: It's only natural that the strongest one\nwins, and being a court chef is part of the political world."
                             ]
                         },
                         {
@@ -7050,7 +7050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gourmet Coriba: It's impossible for someone who has only\ngained popularity to come this far in Tokyo. Above all,\nbecause of my chronic illness, I can't cook properly,\nright?"
+                                "Gourmet Coriba: It's impossible for someone who has only\ngained popularity to come this far in Tokyo. Above all,\nbecause of my chronic illness, I can't cook properly, right?"
                             ]
                         },
                         {

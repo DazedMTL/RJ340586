@@ -6615,8 +6615,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 -1,
                                 -1,
@@ -6843,12 +6843,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "　探検家アルマダに会いにいく if(!s[411])",
-                                    "　声の巫女フォニに会いにいく if(!s[412])",
-                                    "　隻腕のオプロに会いにいく if(!s[413])",
-                                    "　怪盗ペルノに会いにいく if(!s[414])",
-                                    "　渡世人コルスに会いにいく if(!s[415])",
-                                    "　バルク団のゴートに会いにいく if(!s[416])"
+                                    "I'm going to meet the explorer Armada if(!s[411])",
+                                    "I'm going to meet the Voice Priestess Phoni if(!s[412])",
+                                    "I'm going to meet the one-armed Opro if(!s[413])",
+                                    "I'm going to meet the Phantom Thief Perno if(!s[414])",
+                                    "I'm going to meet Cors, the wanderer if(!s[415])",
+                                    "I'm going to meet Goat from the Bulk Gang if(!s[416])"
                                 ],
                                 -1,
                                 -1,
@@ -7196,7 +7196,7 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "　元帝国暗部ルイドに会いにいく if(!s[417])"
+                                    "I'm going to meet with the former Imperial Dark Division, Luid if(!s[417])"
                                 ],
                                 -1,
                                 -1,
@@ -8066,7 +8066,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "One-armed Opro: The shadows will always chase after you,\nbut don't forget that there is a warm sunny spot around\nyou."
+                                "One-armed Opro: The shadows will always chase after you, but\ndon't forget that there is a warm sunny spot around you."
                             ]
                         },
                         {

@@ -6109,7 +6109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pharmacist Piton: Ah, ah... I want you to search\nseparately, please stay here."
+                                "Pharmacist Piton: Ah, ah... I want you to search separately,\nplease stay here."
                             ]
                         },
                         {
@@ -6339,7 +6339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: If you could tell me the color, shape, size, and\nother characteristics, it would make the investigation\neasier."
+                                "Clea: If you could tell me the color, shape, size, and other\ncharacteristics, it would make the investigation easier."
                             ]
                         },
                         {
@@ -6492,7 +6492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: Hey, what are you taking out...!? P-Please put it\naway immediately, hurry!"
+                                "Clea: Hey, what are you taking out...!? P-Please put it away\nimmediately, hurry!"
                             ]
                         },
                         {
@@ -6599,7 +6599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pharmacist Piton: You really are an ignorant young lady.\nThe condition is a woman, and the content is a giant\nsnake..."
+                                "Pharmacist Piton: You really are an ignorant young lady. The\ncondition is a woman, and the content is a giant snake..."
                             ]
                         },
                         {
@@ -6646,7 +6646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pharmacist Piton: It's a code word for calling a\nprostitute. This town is strict, so I intended to ask Valie\nfor help."
+                                "Pharmacist Piton: It's a code word for calling a prostitute.\nThis town is strict, so I intended to ask Valie for help."
                             ]
                         },
                         {
@@ -6699,8 +6699,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ぶん殴る",
-                                    "依頼を受ける  if(v[36] == 2)"
+                                    "Punch",
+                                    "Accept the request if(v[36] == 2)"
                                 ],
                                 1,
                                 0,
@@ -7022,7 +7022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pharmacist Piton: Ugh, ugh... F-Fine, the request is\nover... damn it...!"
+                                "Pharmacist Piton: Ugh, ugh... F-Fine, the request is over...\ndamn it...!"
                             ]
                         },
                         {
@@ -7053,7 +7053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pharmacist Piton: Here's some pocket change, take it! I\nlike strong-willed women, looking forward to seeing you\nagain."
+                                "Pharmacist Piton: Here's some pocket change, take it! I like\nstrong-willed women, looking forward to seeing you again."
                             ]
                         },
                         {
@@ -7348,8 +7348,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7685,7 +7685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pharmacist Piton: If you feel like earning money again,\ncome back. This town doesn't have much entertainment to\nspend money on, so I'll pay you generously, okay?"
+                                "Pharmacist Piton: If you feel like earning money again, come\nback. This town doesn't have much entertainment to spend\nmoney on, so I'll pay you generously, okay?"
                             ]
                         },
                         {
@@ -8423,8 +8423,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

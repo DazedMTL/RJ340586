@@ -10397,7 +10397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Maid Amina: Thanks to all of you, both Luid and I are\nalive. I am especially grateful for having been released\nfrom Caron's curse."
+                                "Maid Amina: Thanks to all of you, both Luid and I are alive.\nI am especially grateful for having been released from\nCaron's curse."
                             ]
                         },
                         {
@@ -10911,8 +10911,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 -1,
                                 -1,
@@ -11139,12 +11139,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "　探検家アルマダに会いにいく if(!s[411])",
-                                    "　声の巫女フォニに会いにいく if(!s[412])",
-                                    "　隻腕のオプロに会いにいく if(!s[413])",
-                                    "　怪盗ペルノに会いにいく if(!s[414])",
-                                    "　渡世人コルスに会いにいく if(!s[415])",
-                                    "　バルク団のゴートに会いにいく if(!s[416])"
+                                    "I'm going to meet the explorer Armada if(!s[411])",
+                                    "I'm going to meet the Voice Priestess Phoni if(!s[412])",
+                                    "I'm going to meet the one-armed Opro if(!s[413])",
+                                    "I'm going to meet the Phantom Thief Perno if(!s[414])",
+                                    "I'm going to meet Cors, the wanderer if(!s[415])",
+                                    "I'm going to meet Goat from the Bulk Gang if(!s[416])"
                                 ],
                                 -1,
                                 -1,
@@ -11492,7 +11492,7 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "　元帝国暗部ルイドに会いにいく if(!s[417])"
+                                    "I'm going to meet with the former Imperial Dark Division, Luid if(!s[417])"
                                 ],
                                 -1,
                                 -1,
@@ -11894,7 +11894,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Former Imperial Dark Operative, Luid: I really have to\nthank you, not just for me... but for risking your life for\nall of us."
+                                "Former Imperial Dark Operative, Luid: I really have to thank\nyou, not just for me... but for risking your life for all of\nus."
                             ]
                         },
                         {
@@ -12043,7 +12043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Former Imperial Dark Operative, Luid: It's just an excuse\nto say it was just a job... From now on, I should be facing\ndays of atonement and retribution."
+                                "Former Imperial Dark Operative, Luid: It's just an excuse to\nsay it was just a job... From now on, I should be facing\ndays of atonement and retribution."
                             ]
                         },
                         {
@@ -12540,7 +12540,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Clea: There was talk about breaking Luid's curse, but it\nwas not us who did it, but Amina's dedication."
+                                "Clea: There was talk about breaking Luid's curse, but it was\nnot us who did it, but Amina's dedication."
                             ]
                         },
                         {
@@ -12585,7 +12585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Maid Amina: If you say so... Well, the fact remains that\nshe fought with her life on the line."
+                                "Maid Amina: If you say so... Well, the fact remains that she\nfought with her life on the line."
                             ]
                         },
                         {
@@ -12883,7 +12883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Maid Amina: Of course, there has never been a master who\ncan rival a maid since ancient times."
+                                "Maid Amina: Of course, there has never been a master who can\nrival a maid since ancient times."
                             ]
                         },
                         {
@@ -14559,7 +14559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Former General Atu: Hahaha, it's all about meat, cheese,\nand training! Think about it carefully, do you really think\nI would die from just a little injury?"
+                                "Former General Atu: Hahaha, it's all about meat, cheese, and\ntraining! Think about it carefully, do you really think I\nwould die from just a little injury?"
                             ]
                         },
                         {
@@ -14775,7 +14775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Former General Atu: Sibling killing over the throne may be\na tradition in the empire, but I cannot allow it without a\nfair and honorable fight."
+                                "Former General Atu: Sibling killing over the throne may be a\ntradition in the empire, but I cannot allow it without a\nfair and honorable fight."
                             ]
                         },
                         {
@@ -14926,7 +14926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Priestess Sophia: That is something decided by King Rex,\nand I have decided to live as a priestess."
+                                "Priestess Sophia: That is something decided by King Rex, and\nI have decided to live as a priestess."
                             ]
                         },
                         {
@@ -15061,7 +15061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\CL 【Former General Atu's Whereabouts】After being temporarily\nsheltered by Luid, he disappears out of concern for Luid's\nsafety. While evading King Rex's pursuers repeatedly, he\nwanders throughout the empire."
+                                "\\CL 【Former General Atu's Whereabouts】After being\ntemporarily sheltered by Luid, he disappears out of concern\nfor Luid's safety. While evading King Rex's pursuers\nrepeatedly, he wanders throughout the empire."
                             ]
                         },
                         {
@@ -15547,7 +15547,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "General Atu: It's deeply moving to see you now, looking\nlike a completely different person from when you were just a\nrookie."
+                                "General Atu: It's deeply moving to see you now, looking like\na completely different person from when you were just a\nrookie."
                             ]
                         },
                         {
@@ -15696,7 +15696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Former General Atu: Hahaha, you're too kind to be a\nwarrior. You suit being a mage! Keep working hard, little\none!"
+                                "Former General Atu: Hahaha, you're too kind to be a warrior.\nYou suit being a mage! Keep working hard, little one!"
                             ]
                         },
                         {
@@ -15845,7 +15845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Former General Atu: Hahaha, don't worry about it! The\nbattle against the leader of the Emma Bandit Gang was\nmagnificent!"
+                                "Former General Atu: Hahaha, don't worry about it! The battle\nagainst the leader of the Emma Bandit Gang was magnificent!"
                             ]
                         },
                         {

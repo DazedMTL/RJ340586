@@ -16863,8 +16863,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "中に出す",
-                                    "外に出す"
+                                    "Inside (cum)shot",
+                                    "Take it outside"
                                 ],
                                 1,
                                 0,
@@ -16955,8 +16955,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "中に出す",
-                                    "外に出す"
+                                    "Cum inside",
+                                    "Take it outside"
                                 ],
                                 1,
                                 0,
@@ -21634,11 +21634,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ゴブリン討伐の話を聞かせる en(v[510] >= 999 && !s[40])",
-                                    "巨大怪鳥討伐の話を聞かせる en(v[510] >= 999)",
-                                    "オーガ討伐の話を聞かせる en(v[510] >= 999)",
-                                    "ドラゴン討伐の話を聞かせる en(v[510] >= 999)",
-                                    "特に話はない"
+                                    "Tell me about the goblin subjugation en(v[510] >= 999 && !s[40])",
+                                    "Tell me about the story of defeating the giant monster bird en(v[510] >= 999)",
+                                    "Tell me about the Ogre subjugation en(v[510] >= 999)",
+                                    "Tell me about the story of slaying dragons en(v[510] >= 999)",
+                                    "There's nothing in particular to talk about"
                                 ],
                                 4,
                                 0,
@@ -21859,7 +21859,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Bard: I see, so it's more like a draw where you can't\ndefeat it accurately, huh?"
+                                "Bard: I see, so it's more like a draw where you can't defeat\nit accurately, huh?"
                             ]
                         },
                         {
@@ -21966,7 +21966,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Mage Relm: Hmph, if it happens again, I'll easily defeat\nit!"
+                                "Mage Relm: Hmph, if it happens again, I'll easily defeat it!"
                             ]
                         },
                         {
@@ -22035,7 +22035,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Bard: If you have any new adventure stories, come by\nagain."
+                                "Bard: If you have any new adventure stories, come by again."
                             ]
                         },
                         {
@@ -23013,8 +23013,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -23258,11 +23258,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "クレア en(s[166])",
-                                    "ノラ en(s[167])",
-                                    "リルム en(s[168])",
-                                    "ソフィア en(s[169])",
-                                    "やっぱやめる"
+                                    "Clea en(s[166])",
+                                    "Nora en(s[167])",
+                                    "Relm en(s[168])",
+                                    "Sophia en(s[169])",
+                                    "I changed my mind"
                                 ],
                                 4,
                                 0,
@@ -24365,8 +24365,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "断る",
-                                    "提案に乗る if(v[38] == 2)"
+                                    "I refuse",
+                                    "I'll go along with the suggestion if(v[38] == 2)"
                                 ],
                                 -1,
                                 0,
@@ -27205,8 +27205,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,
@@ -27591,7 +27591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\CL Area Liberation\\c[18]\\CL Valley Region/Marako Village\\c[0]"
+                                "\\CL Area Liberation\\c[18]\\CL Valley Region/Marako\nVillage\\c[0]"
                             ]
                         },
                         {
@@ -32396,8 +32396,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ぶん殴る",
-                                    "身体で払う if(v[])"
+                                    "Punch",
+                                    "Pay with your body if(v[])"
                                 ],
                                 -1,
                                 0,
@@ -32549,9 +32549,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "左",
-                                    "中",
-                                    "右"
+                                    "Left",
+                                    "Middle",
+                                    "Right"
                                 ],
                                 -2,
                                 0,
@@ -40308,7 +40308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kasaro Bathhouse/Wolf Pack, immediately after Clea's\nclear."
+                                "Kasaro Bathhouse/Wolf Pack, immediately after Clea's clear."
                             ]
                         },
                         {
@@ -52470,7 +52470,7 @@
                                 [
                                     "\\V[1] en(v[1] <= v[2])",
                                     "\\V[2] en(v[1] <= v[2])",
-                                    "諦める"
+                                    "Give up"
                                 ],
                                 2,
                                 0,
@@ -53300,8 +53300,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "wahuku_girl_anato ABM.webm",
-                                    "fight_girl-main_2.webm"
+                                    "wahuku_girl_anato ABMwebm",
+                                    "fight_girl-main_2webm"
                                 ],
                                 -2,
                                 0,
@@ -53916,8 +53916,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "エクスポート",
-                                    "インポ"
+                                    "Export",
+                                    "Impotence"
                                 ],
                                 1,
                                 0,
@@ -57591,7 +57591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you save and store it, you can confirm the change in\nanimation. (The progress of other save data takes\npriority.)"
+                                "If you save and store it, you can confirm the change in\nanimation. (The progress of other save data takes priority.)"
                             ]
                         },
                         {
@@ -59181,10 +59181,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "クレア",
-                                    "ノラ",
-                                    "リルム",
-                                    "ソフィア"
+                                    "Clea",
+                                    "Nora",
+                                    "Relm",
+                                    "Sophia"
                                 ],
                                 1,
                                 0,
@@ -59891,8 +59891,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -60738,12 +60738,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常",
-                                    "村娘",
-                                    "冒険者",
-                                    "踊り子",
-                                    "水着",
-                                    "暗部"
+                                    "Normal",
+                                    "Village girl",
+                                    "Adventurer",
+                                    "Dancer",
+                                    "Swimsuit",
+                                    "Dark Division"
                                 ],
                                 -1,
                                 0,
@@ -60935,8 +60935,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "女神",
-                                    "メイド"
+                                    "Goddess",
+                                    "Maid"
                                 ],
                                 -2,
                                 0,
@@ -62540,12 +62540,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい if(s[3801])",
-                                    "いいえ if(s[3802])",
-                                    "いいえ if(s[3803])",
-                                    "いいえ if(s[3804])",
-                                    "いいえ if(s[3805])",
-                                    "いいえ if(s[3806])"
+                                    "Yes if(s[3801])",
+                                    "No if(s[3802])",
+                                    "No if(s[3803])",
+                                    "No if(s[3804])",
+                                    "No if(s[3805])",
+                                    "No if(s[3806])"
                                 ],
                                 -1,
                                 0,
@@ -62641,9 +62641,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい if(s[1000])",
-                                    "いいえ if(s[1000])",
-                                    "戻る"
+                                    "Yes if(s[1000])",
+                                    "No if(s[1000])",
+                                    "Return"
                                 ],
                                 2,
                                 0,
@@ -62795,8 +62795,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ if((s[2000] || s[2000]) || s[2000])"
+                                    "Yes",
+                                    "No if((s[2000] || s[2000]) || s[2000])"
                                 ],
                                 1,
                                 0,
@@ -63737,8 +63737,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "体験版スイッチON",
-                                    "体験版スイッチOFF"
+                                    "Trial version switch ON",
+                                    "Trial version switch OFF"
                                 ],
                                 1,
                                 0,
@@ -64833,8 +64833,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ボス演出",
-                                    "雑魚演出"
+                                    "Boss scene",
+                                    "Minor Performance"
                                 ],
                                 1,
                                 0,
@@ -65116,8 +65116,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "開発者ルーム",
-                                    "引き継ぎ部屋"
+                                    "Developer Room",
+                                    "Transfer Room"
                                 ],
                                 1,
                                 0,
@@ -66610,12 +66610,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "仮会員初級者",
-                                    "仮会員中級者",
-                                    "仮会員上級者",
-                                    "駆け出し冒険者",
-                                    "手練れの冒険者",
-                                    "いっぱしの冒険者"
+                                    "Temporary Member Beginner",
+                                    "Temporary Intermediate Member",
+                                    "Temporary Advanced Member",
+                                    "Rookie adventurer",
+                                    "Skilled Adventurer",
+                                    "A seasoned adventurer"
                                 ],
                                 1,
                                 0,
@@ -66753,10 +66753,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "精鋭冒険者",
-                                    "熟練の冒険者",
-                                    "達人冒険者",
-                                    "三傑に並ぶもの"
+                                    "Elite Adventurers",
+                                    "Skilled adventurer",
+                                    "Master Adventurer",
+                                    "Something on par with the Three Greats"
                                 ],
                                 1,
                                 0,
@@ -66921,10 +66921,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "淫乱レベル1",
-                                    "淫乱レベル2",
-                                    "淫乱レベル3",
-                                    "淫乱レベル4"
+                                    "Lewdness Level 1",
+                                    "Lewdness Level 2",
+                                    "Lewdness Level 3",
+                                    "Lewdness Level 4"
                                 ],
                                 1,
                                 0,
@@ -68929,11 +68929,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "手に入れる",
-                                    "手に入れない",
-                                    "なくす",
-                                    "外す",
-                                    "装備する"
+                                    "Obtain/acquire",
+                                    "Unable to obtain",
+                                    "To lose",
+                                    "Remove",
+                                    "Equip"
                                 ],
                                 1,
                                 0,
@@ -69934,10 +69934,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常",
-                                    "加算",
-                                    "乗算",
-                                    "スクリーン"
+                                    "Normal",
+                                    "Addition",
+                                    "Multiplication",
+                                    "Screen"
                                 ],
                                 1,
                                 0,
@@ -70218,7 +70218,7 @@
                                     "2X2",
                                     "3X3",
                                     "4X4",
-                                    "やめる"
+                                    "Stop"
                                 ],
                                 1,
                                 0,

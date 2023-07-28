@@ -4195,7 +4195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thief Nora: Being alone like this... it reminds me of when\nI ran away from the Emma Thief Guild..."
+                                "Thief Nora: Being alone like this... it reminds me of when I\nran away from the Emma Thief Guild..."
                             ]
                         },
                         {
@@ -4403,7 +4403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hunter Jaeger: I'm not a suspicious person. I'm a hunter\nwho has claimed this area as my territory."
+                                "Hunter Jaeger: I'm not a suspicious person. I'm a hunter who\nhas claimed this area as my territory."
                             ]
                         },
                         {
@@ -4659,7 +4659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hunter Jaeger: Of course, I'll show my gratitude. But if\nyou don't like it, you can refuse."
+                                "Hunter Jaeger: Of course, I'll show my gratitude. But if you\ndon't like it, you can refuse."
                             ]
                         },
                         {
@@ -4688,8 +4688,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "断る",
-                                    "提案に乗る if(v[38] < 4)"
+                                    "Refuse",
+                                    "I'll accept the proposal if(v[38] < 4)"
                                 ],
                                 -1,
                                 0,
@@ -5377,8 +5377,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5565,7 +5565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hunter Jaeger: I often hunt here, so if you're willing to\nbe my prey, come here."
+                                "Hunter Jaeger: I often hunt here, so if you're willing to be\nmy prey, come here."
                             ]
                         },
                         {
@@ -5991,8 +5991,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

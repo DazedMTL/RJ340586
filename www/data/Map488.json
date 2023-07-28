@@ -3610,7 +3610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clea: No, that's not it... I came here strictly on a\nrequest to earn some money for my travels."
+                                "Clea: No, that's not it... I came here strictly on a request\nto earn some money for my travels."
                             ]
                         },
                         {
@@ -3814,7 +3814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "General Store Owner Libra: As a merchant, I don't lie.\nLet's stop the chit-chat here."
+                                "General Store Owner Libra: As a merchant, I don't lie. Let's\nstop the chit-chat here."
                             ]
                         },
                         {
@@ -3967,8 +3967,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4719,8 +4719,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

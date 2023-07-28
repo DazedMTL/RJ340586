@@ -7150,8 +7150,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 -1,
                                 -1,
@@ -7336,12 +7336,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "　探検家アルマダに会いにいく if(!s[411])",
-                                    "　声の巫女フォニに会いにいく if(!s[412])",
-                                    "　隻腕のオプロに会いにいく if(!s[413])",
-                                    "　怪盗ペルノに会いにいく if(!s[414])",
-                                    "　渡世人コルスに会いにいく if(!s[415])",
-                                    "　バルク団のゴートに会いにいく if(!s[416])"
+                                    "I'm going to meet the explorer Armada if(!s[411])",
+                                    "I'm going to meet the Voice Priestess Phoni if(!s[412])",
+                                    "I'm going to meet the one-armed Opro if(!s[413])",
+                                    "I'm going to meet the Phantom Thief Perno if(!s[414])",
+                                    "I'm going to meet Cors, the wanderer if(!s[415])",
+                                    "I'm going to meet Goat from the Bulk Gang if(!s[416])"
                                 ],
                                 -1,
                                 -1,
@@ -7689,7 +7689,7 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "　元帝国暗部ルイドに会いにいく if(!s[417])"
+                                    "I'm going to meet with the former Imperial Dark Division, Luid if(!s[417])"
                                 ],
                                 -1,
                                 -1,
@@ -8157,7 +8157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cors the Wanderer: If you have any troublesome matters,\nfeel free to request my assistance. Well, if there's\nanything troublesome on my end as well, let's try to\ncooperate as much as possible."
+                                "Cors the Wanderer: If you have any troublesome matters, feel\nfree to request my assistance. Well, if there's anything\ntroublesome on my end as well, let's try to cooperate as\nmuch as possible."
                             ]
                         },
                         {
@@ -8306,7 +8306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mage Relm: Of course! I never imagined that the empire\nwould be this vast."
+                                "Mage Relm: Of course! I never imagined that the empire would\nbe this vast."
                             ]
                         },
                         {
@@ -8559,7 +8559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cors the Wanderer: That's a big loss... With that beauty\nand intelligence of yours, you can get anything, you know?"
+                                "Cors the Wanderer: That's a big loss... With that beauty and\nintelligence of yours, you can get anything, you know?"
                             ]
                         },
                         {
