@@ -36,12 +36,12 @@
  */
 //=============================================================================
 
-const SD_ADDSPECIALMENU_GALERY = "ギャラリー";
-const SD_ADDSPECIALMENU_TROPHY = "トロフィー";
-const SD_ADDSPECIALMENU_MONSTER = "モンスター図鑑";
-const SD_ADDSPECIALMENU_HINT = "ヒント";
-const SD_ADDSPECIALMENU_GLOS = "用語辞典";
-const SD_ADDSPECIALMENU_HIKITSUGI = "引き継ぎ方法";
+const SD_ADDSPECIALMENU_GALERY = "Gallery";
+const SD_ADDSPECIALMENU_TROPHY = "Trophy";
+const SD_ADDSPECIALMENU_MONSTER = "Monster";
+const SD_ADDSPECIALMENU_HINT = "Hint";
+const SD_ADDSPECIALMENU_GLOS = "Glossary";
+const SD_ADDSPECIALMENU_HIKITSUGI = "Transfer Data";
 
 const GLOBAL_SpecialMenuScene = (window.scene = window.scene || {});
 (function () {
