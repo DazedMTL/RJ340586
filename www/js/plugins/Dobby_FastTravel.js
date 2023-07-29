@@ -3797,7 +3797,7 @@ let $isOrderedQuest;
                     var order = orderList[cnt];
                     order = order.split(",");
                     var orderInfo = order[QUESTREPORT_ORDER_CSV_ITEMORDERINFO];
-                    var text = startFlag ? '\\I[509] 指令開始：' : '\\I[510] 指令完了：';
+                    var text = startFlag ? '\\I[509] Order: ' : '\\I[510] Order Complete: ';
                     openKmsMessageWindow(text + orderInfo);
                     tmpCnt++;
                     if (tmpCnt === num) {
@@ -3855,7 +3855,7 @@ let $isOrderedQuest;
                 var tmpQuest = tmp[i].split(",");
                 if (tmpQuest[0] != "") {
                     if (Number(tmpQuest[QUESTREPORT_CSV_ITEMQUESTID]) === Number(questId)) {
-                        var text = startFlag ? '\\I[511] クエスト開始：' : '\\I[512] クエスト完了：';
+                        var text = startFlag ? '\\I[511] Quest Start: ' : '\\I[512] Quest Complete: ';
                         openKmsMessageWindow(text + tmpQuest[QUESTREPORT_CSV_ITEMQUESTNAME]);
                         break;
                     }

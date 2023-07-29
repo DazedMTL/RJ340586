@@ -1792,7 +1792,7 @@
                     this._alertWindow.setTxt("Skill already acquired.");
                     this._alertWindow.startAnimation();
                 } else {
-                    this._alertWindow.setTxt("You have not acquired the skill from which it is derived.");
+                    this._alertWindow.setTxt("Origin Skill Not Acquired");
                     this._alertWindow.startAnimation();
                 }
                 SoundManager.playBuzzer();
