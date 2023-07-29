@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 7,
-        "description": "伐採に使う小型の斧。",
+        "description": "A small axe used for logging.",
         "etypeId": 1,
         "traits": [
             {
@@ -23,7 +23,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "-これより下から61は未使用-",
+        "name": "- Unused from here on down to 61 -",
         "note": "",
         "params": [
             0,
@@ -41,7 +41,7 @@
     {
         "id": 2,
         "animationId": 7,
-        "description": "戦闘用に作られた両刃の斧。",
+        "description": "A double-edged axe made for combat.",
         "etypeId": 1,
         "traits": [
             {
@@ -61,7 +61,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "バトルアクス",
+        "name": "Battle Axe",
         "note": "",
         "params": [
             0,
@@ -79,7 +79,7 @@
     {
         "id": 3,
         "animationId": 7,
-        "description": "三日月型の刃をもつ戦斧。",
+        "description": "A battle axe with a crescent-shaped blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -99,7 +99,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "バルディッシュ",
+        "name": "Bardiche",
         "note": "",
         "params": [
             0,
@@ -117,7 +117,7 @@
     {
         "id": 4,
         "animationId": 7,
-        "description": "魔法の金属ミスリルで作られた斧。",
+        "description": "An axe made of magical metal called Mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -132,7 +132,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ミスリルアクス",
+        "name": "Mithril Axe",
         "note": "",
         "params": [
             0,
@@ -150,7 +150,7 @@
     {
         "id": 5,
         "animationId": 7,
-        "description": "真紅に染め上げられた戦斧。",
+        "description": "A battle axe dyed in deep crimson.",
         "etypeId": 1,
         "traits": [
             {
@@ -170,7 +170,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "クリムゾンアクス",
+        "name": "Crimson Axe",
         "note": "",
         "params": [
             0,
@@ -188,7 +188,7 @@
     {
         "id": 6,
         "animationId": 7,
-        "description": "巨人族の英雄が使ったとされる重斧。",
+        "description": "A heavy axe said to have been used by a giant hero.",
         "etypeId": 1,
         "traits": [
             {
@@ -213,7 +213,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "魔斧ギガンテス",
+        "name": "Magic Axe Gigantes",
         "note": "",
         "params": [
             0,
@@ -231,7 +231,7 @@
     {
         "id": 7,
         "animationId": 1,
-        "description": "拳頭にトゲがついたグローブ。",
+        "description": "Gloves with spikes on the knuckles.",
         "etypeId": 1,
         "traits": [
             {
@@ -256,7 +256,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "セスタス",
+        "name": "Sestas",
         "note": "",
         "params": [
             0,
@@ -274,7 +274,7 @@
     {
         "id": 8,
         "animationId": 1,
-        "description": "短い４本の爪が取りつけられた格闘武器。",
+        "description": "A close combat weapon with four short claws attached.",
         "etypeId": 1,
         "traits": [
             {
@@ -299,7 +299,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "バグナウ",
+        "name": "Bagnau",
         "note": "",
         "params": [
             0,
@@ -317,7 +317,7 @@
     {
         "id": 9,
         "animationId": 1,
-        "description": "鋼鉄のかぎ爪が仕込まれた手甲。",
+        "description": "Gauntlets with steel claws embedded in them.",
         "etypeId": 1,
         "traits": [
             {
@@ -342,7 +342,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "アイアンクロウ",
+        "name": "Iron Claw",
         "note": "",
         "params": [
             0,
@@ -360,7 +360,7 @@
     {
         "id": 10,
         "animationId": 1,
-        "description": "ミスリルのかぎ爪が仕込まれた手甲。",
+        "description": "Gauntlets with Mithril Claw Blades embedded in them.",
         "etypeId": 1,
         "traits": [
             {
@@ -385,7 +385,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ミスリルクロウ",
+        "name": "Mithril Claw",
         "note": "",
         "params": [
             0,
@@ -403,7 +403,7 @@
     {
         "id": 11,
         "animationId": 1,
-        "description": "竜牙の拳頭をもつ手甲。",
+        "description": "Gauntlet with Dragon Fangs.",
         "etypeId": 1,
         "traits": [
             {
@@ -428,7 +428,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ドラゴンファング",
+        "name": "Dragon Fang",
         "note": "",
         "params": [
             0,
@@ -446,7 +446,7 @@
     {
         "id": 12,
         "animationId": 1,
-        "description": "西風の名を冠する魔法の爪。",
+        "description": "The magical claws that bear the name of the West Wind.",
         "etypeId": 1,
         "traits": [
             {
@@ -471,7 +471,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "魔爪ゼファー",
+        "name": "Magic Claw Zephyr",
         "note": "",
         "params": [
             0,
@@ -489,7 +489,7 @@
     {
         "id": 13,
         "animationId": 13,
-        "description": "突きに特化させた短めの槍。",
+        "description": "A short spear specialized for thrusting.",
         "etypeId": 1,
         "traits": [
             {
@@ -504,7 +504,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "スピア",
+        "name": "Spear",
         "note": "",
         "params": [
             0,
@@ -522,7 +522,7 @@
     {
         "id": 14,
         "animationId": 13,
-        "description": "幅広の刃をもった鋼鉄製の長槍。",
+        "description": "A steel spear with a wide blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -542,7 +542,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "パルチザン",
+        "name": "Partisan",
         "note": "",
         "params": [
             0,
@@ -560,7 +560,7 @@
     {
         "id": 15,
         "animationId": 13,
-        "description": "穂先に斧頭の取りつけられた槍。",
+        "description": "A spear with an axe head attached to the tip.",
         "etypeId": 1,
         "traits": [
             {
@@ -580,7 +580,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "ハルバード",
+        "name": "Halberd",
         "note": "",
         "params": [
             0,
@@ -598,7 +598,7 @@
     {
         "id": 16,
         "animationId": 13,
-        "description": "魔法の金属ミスリルで作られた長槍。",
+        "description": "A long spear made of magical metal called Mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -613,7 +613,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "ミスリルスピア",
+        "name": "Mithril Spear",
         "note": "",
         "params": [
             0,
@@ -631,7 +631,7 @@
     {
         "id": 17,
         "animationId": 13,
-        "description": "白き神の祝福を受けた聖なる槍。",
+        "description": "A sacred spear blessed by the white god.",
         "etypeId": 1,
         "traits": [
             {
@@ -651,7 +651,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "ホーリーランス",
+        "name": "Holy Lance",
         "note": "",
         "params": [
             0,
@@ -669,7 +669,7 @@
     {
         "id": 18,
         "animationId": 13,
-        "description": "影の国に伝わる魔力を帯びた槍。",
+        "description": "A spear imbued with magical power passed down in the Shadow Kingdom.",
         "etypeId": 1,
         "traits": [
             {
@@ -689,7 +689,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "魔槍ゲイボルグ",
+        "name": "Magic Spear Gáe Bolg",
         "note": "",
         "params": [
             0,
@@ -707,7 +707,7 @@
     {
         "id": 19,
         "animationId": 7,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A lightweight and easy-to-handle short sword with a sharp blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -722,7 +722,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "",
         "params": [
             0,
@@ -740,7 +740,7 @@
     {
         "id": 20,
         "animationId": 7,
-        "description": "鋭い切れ味を誇る戦闘用の長剣。",
+        "description": "A longsword designed for combat, boasting a sharp cutting edge.",
         "etypeId": 1,
         "traits": [
             {
@@ -755,7 +755,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ロングソード",
+        "name": "Longsword",
         "note": "",
         "params": [
             0,
@@ -773,7 +773,7 @@
     {
         "id": 21,
         "animationId": 7,
-        "description": "反りのある刀身をもつ幅広の剣。",
+        "description": "A wide sword with a curved blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -788,7 +788,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ファルシオン",
+        "name": "Falchion",
         "note": "",
         "params": [
             0,
@@ -806,7 +806,7 @@
     {
         "id": 22,
         "animationId": 7,
-        "description": "魔法の金属ミスリルで作られた長剣。",
+        "description": "A longsword made of magical metal called Mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -821,7 +821,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "",
         "params": [
             0,
@@ -839,7 +839,7 @@
     {
         "id": 23,
         "animationId": 7,
-        "description": "刀身にルーン文字の刻まれた剣。",
+        "description": "A sword with runic characters engraved on the blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -854,7 +854,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ルーンブレード",
+        "name": "Rune Blade",
         "note": "",
         "params": [
             0,
@@ -872,7 +872,7 @@
     {
         "id": 24,
         "animationId": 7,
-        "description": "勝利と災厄をもたらす魔剣。",
+        "description": "A cursed sword that brings both victory and calamity.",
         "etypeId": 1,
         "traits": [
             {
@@ -887,7 +887,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "魔剣ティルヴィング",
+        "name": "Magic Sword Tyrfing",
         "note": "",
         "params": [
             0,
@@ -905,7 +905,7 @@
     {
         "id": 25,
         "animationId": 7,
-        "description": "銘をもたない細身の刀。",
+        "description": "A slender sword without a name.",
         "etypeId": 1,
         "traits": [
             {
@@ -925,7 +925,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "無銘の刀",
+        "name": "Nameless Sword",
         "note": "",
         "params": [
             0,
@@ -943,7 +943,7 @@
     {
         "id": 26,
         "animationId": 7,
-        "description": "破壊力に優れた太刀。",
+        "description": "A greatsword with excellent destructive power.",
         "etypeId": 1,
         "traits": [
             {
@@ -963,7 +963,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "斬馬刀",
+        "name": "Zanbatou",
         "note": "",
         "params": [
             0,
@@ -981,7 +981,7 @@
     {
         "id": 27,
         "animationId": 7,
-        "description": "名のある刀匠に鍛えられた業物の刀。",
+        "description": "A sword forged by a renowned swordsmith.",
         "etypeId": 1,
         "traits": [
             {
@@ -1001,7 +1001,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "虎徹",
+        "name": "Kotei",
         "note": "",
         "params": [
             0,
@@ -1019,7 +1019,7 @@
     {
         "id": 28,
         "animationId": 7,
-        "description": "魔法の金属で作られた太刀。",
+        "description": "A katana made of magical metal.",
         "etypeId": 1,
         "traits": [
             {
@@ -1039,7 +1039,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "霊銀の太刀",
+        "name": "Spirit Silver Katana",
         "note": "",
         "params": [
             0,
@@ -1057,7 +1057,7 @@
     {
         "id": 29,
         "animationId": 7,
-        "description": "破邪の力を秘めた古代刀。",
+        "description": "An ancient sword imbued with the power to vanquish evil.",
         "etypeId": 1,
         "traits": [
             {
@@ -1077,7 +1077,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "七支刀",
+        "name": "Seven-Branch Sword",
         "note": "",
         "params": [
             0,
@@ -1095,7 +1095,7 @@
     {
         "id": 30,
         "animationId": 7,
-        "description": "剣士たちの生き血を吸ってきた魔性の刀。",
+        "description": "A demonic sword that has been feeding on the lifeblood of swordsmen.",
         "etypeId": 1,
         "traits": [
             {
@@ -1115,7 +1115,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "妖刀ムラマサ",
+        "name": "Muramasa, the Demonic Blade",
         "note": "",
         "params": [
             0,
@@ -1133,7 +1133,7 @@
     {
         "id": 31,
         "animationId": 13,
-        "description": "狩猟用に作られた短めの弓。",
+        "description": "A short bow made for hunting.",
         "etypeId": 1,
         "traits": [
             {
@@ -1163,7 +1163,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "ショートボウ",
+        "name": "Short Bow",
         "note": "",
         "params": [
             0,
@@ -1181,7 +1181,7 @@
     {
         "id": 32,
         "animationId": 13,
-        "description": "威力を高めた戦闘用の長弓。",
+        "description": "A longbow enhanced for combat purposes.",
         "etypeId": 1,
         "traits": [
             {
@@ -1211,7 +1211,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "ロングボウ",
+        "name": "Longbow",
         "note": "",
         "params": [
             0,
@@ -1229,7 +1229,7 @@
     {
         "id": 33,
         "animationId": 13,
-        "description": "強力なバネで矢を射出する石弓。",
+        "description": "A stone bow that shoots arrows with a powerful spring.",
         "etypeId": 1,
         "traits": [
             {
@@ -1259,7 +1259,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "クロスボウ",
+        "name": "Crossbow",
         "note": "",
         "params": [
             0,
@@ -1277,7 +1277,7 @@
     {
         "id": 34,
         "animationId": 13,
-        "description": "魔法の金属ミスリルで作られた弓。",
+        "description": "A bow made of magical metal called Mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -1307,7 +1307,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "ミスリルボウ",
+        "name": "Mithril Bow",
         "note": "",
         "params": [
             0,
@@ -1325,7 +1325,7 @@
     {
         "id": 35,
         "animationId": 13,
-        "description": "妖精の森に生える霊木から作られた弓。",
+        "description": "A bow made from a sacred tree that grows in the Fairy Forest.",
         "etypeId": 1,
         "traits": [
             {
@@ -1355,7 +1355,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "エルブンボウ",
+        "name": "Elven Bow",
         "note": "",
         "params": [
             0,
@@ -1373,7 +1373,7 @@
     {
         "id": 36,
         "animationId": 13,
-        "description": "月の女神の名を冠する白銀の弓。",
+        "description": "A silver bow that bears the name of the Moon Goddess.",
         "etypeId": 1,
         "traits": [
             {
@@ -1403,7 +1403,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "魔弓アルテミス",
+        "name": "Magic Bow Artemis",
         "note": "",
         "params": [
             0,
@@ -1421,7 +1421,7 @@
     {
         "id": 37,
         "animationId": 7,
-        "description": "日常生活にも使えるナイフ。",
+        "description": "A knife that can be used in everyday life.",
         "etypeId": 1,
         "traits": [
             {
@@ -1446,7 +1446,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "ナイフ",
+        "name": "Knife",
         "note": "",
         "params": [
             0,
@@ -1464,7 +1464,7 @@
     {
         "id": 38,
         "animationId": 7,
-        "description": "幅広の刀身をもつ戦闘用の短刀。",
+        "description": "A short sword designed for combat with a wide blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1489,7 +1489,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "ダガー",
+        "name": "Dagger",
         "note": "",
         "params": [
             0,
@@ -1507,7 +1507,7 @@
     {
         "id": 39,
         "animationId": 7,
-        "description": "攻撃を受け流すこともできる短剣。",
+        "description": "A short sword that can deflect attacks.",
         "etypeId": 1,
         "traits": [
             {
@@ -1532,7 +1532,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "マインゴーシュ",
+        "name": "Mine Goshu",
         "note": "",
         "params": [
             0,
@@ -1550,7 +1550,7 @@
     {
         "id": 40,
         "animationId": 7,
-        "description": "魔法の金属ミスリルで作られたナイフ。",
+        "description": "A knife made of magical metal called Mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -1575,7 +1575,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "ミスリルナイフ",
+        "name": "Mithril Knife",
         "note": "",
         "params": [
             0,
@@ -1593,7 +1593,7 @@
     {
         "id": 41,
         "animationId": 7,
-        "description": "暗殺者が好んで使う漆黒の短刀。",
+        "description": "A jet-black dagger favored by assassins.",
         "etypeId": 1,
         "traits": [
             {
@@ -1618,7 +1618,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "アサシンダガー",
+        "name": "Assassin Dagger",
         "note": "",
         "params": [
             0,
@@ -1636,7 +1636,7 @@
     {
         "id": 42,
         "animationId": 7,
-        "description": "竜巻の名を冠する魔法の短剣。",
+        "description": "A magical dagger named after a tornado.",
         "etypeId": 1,
         "traits": [
             {
@@ -1661,7 +1661,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "魔刃ヴォーテクス",
+        "name": "Magic Blade Vortex",
         "note": "",
         "params": [
             0,
@@ -1679,7 +1679,7 @@
     {
         "id": 43,
         "animationId": 19,
-        "description": "打撃力を高めた金属製の棍棒。",
+        "description": "A metal bat that enhances striking power.",
         "etypeId": 1,
         "traits": [
             {
@@ -1694,7 +1694,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "メイス",
+        "name": "Mace",
         "note": "",
         "params": [
             0,
@@ -1712,7 +1712,7 @@
     {
         "id": 44,
         "animationId": 19,
-        "description": "柄の先に鎖で鉄球をつないだ打撃武器。",
+        "description": "A striking weapon with a chain attached to the end of the handle, with\nan iron ball.",
         "etypeId": 1,
         "traits": [
             {
@@ -1727,7 +1727,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "フレイル",
+        "name": "Flail",
         "note": "",
         "params": [
             0,
@@ -1745,7 +1745,7 @@
     {
         "id": 45,
         "animationId": 19,
-        "description": "戦闘用に作られた鋼鉄のハンマー。",
+        "description": "A steel hammer created for combat purposes.",
         "etypeId": 1,
         "traits": [
             {
@@ -1760,7 +1760,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "ウォーハンマー",
+        "name": "Warhammer",
         "note": "",
         "params": [
             0,
@@ -1778,7 +1778,7 @@
     {
         "id": 46,
         "animationId": 19,
-        "description": "魔法の金属ミスリルで作られた戦槌。",
+        "description": "A war hammer made of magical metal called Mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -1793,7 +1793,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "ミスリルメイス",
+        "name": "Mithril Mace",
         "note": "",
         "params": [
             0,
@@ -1811,7 +1811,7 @@
     {
         "id": 47,
         "animationId": 19,
-        "description": "大地の力を秘めた魔法のハンマー。",
+        "description": "A magical hammer imbued with the power of the earth.",
         "etypeId": 1,
         "traits": [
             {
@@ -1826,7 +1826,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "アースブレイカー",
+        "name": "Earthbreaker",
         "note": "",
         "params": [
             0,
@@ -1844,7 +1844,7 @@
     {
         "id": 48,
         "animationId": 19,
-        "description": "“打ち砕くもの”の異名をもつ戦神の槌。",
+        "description": "The hammer of the war god, known as the \"Crusher\".",
         "etypeId": 1,
         "traits": [
             {
@@ -1859,7 +1859,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "魔槌ミョルニル",
+        "name": "Magic Hammer Mjolnir",
         "note": "",
         "params": [
             0,
@@ -1877,7 +1877,7 @@
     {
         "id": 49,
         "animationId": 19,
-        "description": "樫の木で作られた堅い杖。",
+        "description": "A sturdy staff made from oak wood.",
         "etypeId": 1,
         "traits": [
             {
@@ -1897,7 +1897,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "ウッドスタッフ",
+        "name": "Wood Staff",
         "note": "",
         "params": [
             0,
@@ -1915,7 +1915,7 @@
     {
         "id": 50,
         "animationId": 19,
-        "description": "精神集中を助ける宝珠のついた杖。",
+        "description": "A staff adorned with a jewel that aids in mental concentration.",
         "etypeId": 1,
         "traits": [
             {
@@ -1935,7 +1935,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "魔道士の杖",
+        "name": "Mage's Staff",
         "note": "",
         "params": [
             0,
@@ -1953,7 +1953,7 @@
     {
         "id": 51,
         "animationId": 19,
-        "description": "術者の魔力を増幅させる銀製の杖。",
+        "description": "A silver staff that amplifies the magical power of the spellcaster.",
         "etypeId": 1,
         "traits": [
             {
@@ -1973,7 +1973,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "フォースワンド",
+        "name": "Force Wand",
         "note": "",
         "params": [
             0,
@@ -1991,7 +1991,7 @@
     {
         "id": 52,
         "animationId": 19,
-        "description": "魔法の金属ミスリルで作られた杖。",
+        "description": "A staff made of magical metal called Mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -2011,7 +2011,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "ミスリルロッド",
+        "name": "Mithril Rod",
         "note": "",
         "params": [
             0,
@@ -2029,7 +2029,7 @@
     {
         "id": 53,
         "animationId": 19,
-        "description": "ヤドリギの老木から作られた杖。",
+        "description": "A staff made from an old yadorigi tree.",
         "etypeId": 1,
         "traits": [
             {
@@ -2049,7 +2049,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "霊木の杖",
+        "name": "Spirit Wood Staff",
         "note": "",
         "params": [
             0,
@@ -2067,7 +2067,7 @@
     {
         "id": 54,
         "animationId": 19,
-        "description": "賢者の石が埋め込まれた魔杖。",
+        "description": "A magic wand embedded with the Philosopher's Stone.",
         "etypeId": 1,
         "traits": [
             {
@@ -2087,7 +2087,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "魔杖アゾット",
+        "name": "Magic Wand Azoth",
         "note": "",
         "params": [
             0,
@@ -2105,7 +2105,7 @@
     {
         "id": 55,
         "animationId": 91,
-        "description": "火打ち式の旧式拳銃。",
+        "description": "An old-fashioned flintlock pistol.",
         "etypeId": 1,
         "traits": [
             {
@@ -2130,7 +2130,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "フリントロック",
+        "name": "Flintlock",
         "note": "",
         "params": [
             0,
@@ -2148,7 +2148,7 @@
     {
         "id": 56,
         "animationId": 91,
-        "description": "銃士に支給される歩兵銃。",
+        "description": "Infantry rifle supplied to the musketeers.",
         "etypeId": 1,
         "traits": [
             {
@@ -2173,7 +2173,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "マスケット",
+        "name": "Musket",
         "note": "",
         "params": [
             0,
@@ -2191,7 +2191,7 @@
     {
         "id": 57,
         "animationId": 91,
-        "description": "騎兵が使用するカービン銃。",
+        "description": "Carbine rifle used by cavalry.",
         "etypeId": 1,
         "traits": [
             {
@@ -2216,7 +2216,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "ドラグーン",
+        "name": "Dragoon",
         "note": "",
         "params": [
             0,
@@ -2234,7 +2234,7 @@
     {
         "id": 58,
         "animationId": 91,
-        "description": "魔法の金属ミスリルの銃身をもつ銃。",
+        "description": "A gun with a barrel made of magical metal called Mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -2259,7 +2259,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "霊銀銃",
+        "name": "Spirit Silver Gun",
         "note": "",
         "params": [
             0,
@@ -2277,7 +2277,7 @@
     {
         "id": 59,
         "animationId": 91,
-        "description": "黒色火薬を用いたリボルバー式拳銃。",
+        "description": "Revolver-style handgun that uses black gunpowder.",
         "etypeId": 1,
         "traits": [
             {
@@ -2302,7 +2302,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "ピースメイカー",
+        "name": "Peacemaker",
         "note": "",
         "params": [
             0,
@@ -2320,7 +2320,7 @@
     {
         "id": 60,
         "animationId": 91,
-        "description": "霊子を弾丸に換えて撃ち出す魔銃。",
+        "description": "A magic gun that shoots bullets by converting spiritual energy.",
         "etypeId": 1,
         "traits": [
             {
@@ -2345,7 +2345,7 @@
             }
         ],
         "iconIndex": 153,
-        "name": "魔銃エーテルブラスト",
+        "name": "Magic Gun Ether Blast",
         "note": "",
         "params": [
             0,
@@ -2378,7 +2378,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "-これより上記の武器は未使用-",
+        "name": "- The above weapons are unused from this point on -",
         "note": "",
         "params": [
             0,
@@ -2416,7 +2416,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "竜殺しの大剣",
+        "name": "Great Sword of Dragon Slayer",
         "note": "ドラゴンの討伐専用の特別装備",
         "params": [
             0,
@@ -3604,7 +3604,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "===クレア",
+        "name": "Clea",
         "note": "",
         "params": [
             0,
@@ -3622,7 +3622,7 @@
     {
         "id": 99,
         "animationId": 1,
-        "description": "変哲のない木の棒",
+        "description": "An ordinary wooden stick.",
         "etypeId": 1,
         "traits": [
             {
@@ -3637,7 +3637,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "木の棒",
+        "name": "Wooden Stick",
         "note": "",
         "params": [
             0,
@@ -3655,7 +3655,7 @@
     {
         "id": 100,
         "animationId": 180,
-        "description": "錆びついた訓練用の大剣",
+        "description": "Rusty training greatsword",
         "etypeId": 1,
         "traits": [
             {
@@ -3670,7 +3670,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "錆鉄の大剣",
+        "name": "Rusty Iron Greatsword",
         "note": "<NextGrade:101>\n<UpgradeCost>\nitem 5\ngold: 0\n</UpgradeCost>",
         "params": [
             0,
@@ -3688,7 +3688,7 @@
     {
         "id": 101,
         "animationId": 180,
-        "description": "職人によって手入れをされた大剣",
+        "description": "A great sword that has been maintained by a craftsman.",
         "etypeId": 1,
         "traits": [
             {
@@ -3703,7 +3703,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "研がれた大剣",
+        "name": "Honed Greatsword",
         "note": "<NextGrade:102>\n<UpgradeCost>\nitem 328\ngold: 500\n</UpgradeCost>",
         "params": [
             0,
@@ -3721,7 +3721,7 @@
     {
         "id": 102,
         "animationId": 180,
-        "description": "鉄によって鍛えられたクレアの大剣+1",
+        "description": "Clea's greatsword +1, tempered by iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -3736,7 +3736,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "鉄の大剣",
+        "name": "Iron Greatsword",
         "note": "<NextGrade:103>\n<UpgradeCost>\nitem 329\ngold: 1000\n</UpgradeCost>",
         "params": [
             0,
@@ -3754,7 +3754,7 @@
     {
         "id": 103,
         "animationId": 180,
-        "description": "鉄によって鍛えられたクレアの大剣+2",
+        "description": "Clea's greatsword +2, tempered by iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -3769,7 +3769,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "匠の鉄の大剣",
+        "name": "Master's Iron Greatsword",
         "note": "<NextGrade:104>\n<UpgradeCost>\nitem 330\ngold: 2500\n</UpgradeCost>",
         "params": [
             0,
@@ -3787,7 +3787,7 @@
     {
         "id": 104,
         "animationId": 180,
-        "description": "鋼玉によって鍛えられたクレアの大剣+3",
+        "description": "Clea's greatsword +3, tempered by steel balls.",
         "etypeId": 1,
         "traits": [
             {
@@ -3802,7 +3802,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "戦士の大剣",
+        "name": "Warrior's Greatsword",
         "note": "<NextGrade:105>\n<UpgradeCost>\nitem 331\ngold: 3500\n</UpgradeCost>",
         "params": [
             0,
@@ -3820,7 +3820,7 @@
     {
         "id": 105,
         "animationId": 180,
-        "description": "鋼玉によって鍛えられたクレアの大剣+4",
+        "description": "Clea's greatsword +4, tempered by steel balls.",
         "etypeId": 1,
         "traits": [
             {
@@ -3835,7 +3835,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "匠の戦士の大剣",
+        "name": "Master Craftsman's Greatsword",
         "note": "<NextGrade:106>\n<UpgradeCost>\nitem 332\ngold: 6500\n</UpgradeCost>",
         "params": [
             0,
@@ -3853,7 +3853,7 @@
     {
         "id": 106,
         "animationId": 180,
-        "description": "鋼鉄によって鍛えられたクレアの大剣+5",
+        "description": "Clea's greatsword +5, tempered by steel.",
         "etypeId": 1,
         "traits": [
             {
@@ -3868,7 +3868,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "鋼鉄の大剣",
+        "name": "Steel Greatsword",
         "note": "<NextGrade:107>\n<UpgradeCost>\nitem 333\ngold: 10000\n</UpgradeCost>",
         "params": [
             0,
@@ -3886,7 +3886,7 @@
     {
         "id": 107,
         "animationId": 180,
-        "description": "鋼鉄によって鍛えられたクレアの大剣+6",
+        "description": "Clea's greatsword +6, tempered by steel.",
         "etypeId": 1,
         "traits": [
             {
@@ -3901,7 +3901,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "匠の鋼鉄の大剣",
+        "name": "Master's Steel Greatsword",
         "note": "<NextGrade:108>\n<UpgradeCost>\nitem 334\ngold: 12000\n</UpgradeCost>",
         "params": [
             0,
@@ -3919,7 +3919,7 @@
     {
         "id": 108,
         "animationId": 180,
-        "description": "赤曜鉄によって鍛えられたクレアの大剣+7",
+        "description": "Clea's greatsword +7, tempered with Red Sun Steel.",
         "etypeId": 1,
         "traits": [
             {
@@ -3934,7 +3934,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "騎士の大剣",
+        "name": "Knight's Greatsword",
         "note": "<NextGrade:109>\n<UpgradeCost>\nitem 335\ngold: 25000\n</UpgradeCost>",
         "params": [
             0,
@@ -3952,7 +3952,7 @@
     {
         "id": 109,
         "animationId": 180,
-        "description": "赤曜鉄によって鍛えられたクレアの大剣+8",
+        "description": "Clea's greatsword +8, tempered with Red Sun Steel.",
         "etypeId": 1,
         "traits": [
             {
@@ -3967,7 +3967,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "匠の騎士の大剣",
+        "name": "Sword of the Master Knight",
         "note": "<NextGrade:110>\n<UpgradeCost>\nitem 336\ngold: 30000\n</UpgradeCost>",
         "params": [
             0,
@@ -3985,7 +3985,7 @@
     {
         "id": 110,
         "animationId": 180,
-        "description": "黒曜鉄によって鍛えられたクレアの大剣+9",
+        "description": "Clea's greatsword +9, tempered with obsidian iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -4000,7 +4000,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "黒曜の大剣",
+        "name": "Great Sword of Obsidian",
         "note": "<NextGrade:111>\n<UpgradeCost>\nitem 337\ngold: 35000\n</UpgradeCost>",
         "params": [
             0,
@@ -4018,7 +4018,7 @@
     {
         "id": 111,
         "animationId": 180,
-        "description": "黒曜鉄によって鍛えられたクレアの大剣+10",
+        "description": "Clea's greatsword +10, tempered with obsidian iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -4033,7 +4033,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "匠の黒曜の大剣",
+        "name": "Master's Obsidian Greatsword",
         "note": "<NextGrade:112>\n<UpgradeCost>\nitem 338\ngold: 0\n</UpgradeCost>",
         "params": [
             0,
@@ -4051,7 +4051,7 @@
     {
         "id": 112,
         "animationId": 180,
-        "description": "クレアと共に成長してきた頼れる相棒",
+        "description": "A reliable partner who has grown up with Clea.",
         "etypeId": 1,
         "traits": [
             {
@@ -4071,7 +4071,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "クレアの大剣",
+        "name": "Clea's Greatsword",
         "note": "",
         "params": [
             0,
@@ -6975,7 +6975,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "===ノラ",
+        "name": "===Nora",
         "note": "",
         "params": [
             0,
@@ -6993,7 +6993,7 @@
     {
         "id": 201,
         "animationId": 11,
-        "description": "シンプルで無骨な大型の槍",
+        "description": "A simple and rugged large spear.",
         "etypeId": 1,
         "traits": [
             {
@@ -7008,7 +7008,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "盗賊の槍",
+        "name": "Thief's Spear",
         "note": "<NextGrade:202>\n<UpgradeCost>\nitem 342\ngold: 500\n</UpgradeCost>",
         "params": [
             0,
@@ -7026,7 +7026,7 @@
     {
         "id": 202,
         "animationId": 11,
-        "description": "鉄によって鍛えられたノラの大槍+1",
+        "description": "Nora's Great Spear +1, tempered by iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -7041,7 +7041,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "鉄の大槍",
+        "name": "Iron Great Spear",
         "note": "<NextGrade:203>\n<UpgradeCost>\nitem 343\ngold: 1000\n</UpgradeCost>",
         "params": [
             0,
@@ -7059,7 +7059,7 @@
     {
         "id": 203,
         "animationId": 11,
-        "description": "鉄によって鍛えられたノラの大槍+2",
+        "description": "Nora's Great Spear +2, tempered by iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -7074,7 +7074,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "匠の鉄の大槍",
+        "name": "Master Craftsman's Iron Spear",
         "note": "<NextGrade:204>\n<UpgradeCost>\nitem 344\ngold: 2500\n</UpgradeCost>",
         "params": [
             0,
@@ -7092,7 +7092,7 @@
     {
         "id": 204,
         "animationId": 11,
-        "description": "鋼玉によって鍛えられたノラの大槍+3",
+        "description": "Nora's Great Spear +3, tempered by Steel Gems.",
         "etypeId": 1,
         "traits": [
             {
@@ -7107,7 +7107,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "戦士の大槍",
+        "name": "Warrior's Great Spear",
         "note": "<NextGrade:205>\n<UpgradeCost>\nitem 345\ngold: 3500\n</UpgradeCost>",
         "params": [
             0,
@@ -7125,7 +7125,7 @@
     {
         "id": 205,
         "animationId": 11,
-        "description": "鋼玉によって鍛えられたノラの大槍+4",
+        "description": "Nora's Great Spear +4, tempered by Steel Gems.",
         "etypeId": 1,
         "traits": [
             {
@@ -7140,7 +7140,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "匠の戦士の大槍",
+        "name": "Artisan Warrior's Great Spear",
         "note": "<NextGrade:206>\n<UpgradeCost>\nitem 346\ngold: 6500\n</UpgradeCost>",
         "params": [
             0,
@@ -7158,7 +7158,7 @@
     {
         "id": 206,
         "animationId": 11,
-        "description": "鋼鉄によって鍛えられたノラの大槍+5",
+        "description": "Nora's Great Spear +5, tempered by steel.",
         "etypeId": 1,
         "traits": [
             {
@@ -7173,7 +7173,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "鋼鉄の大槍",
+        "name": "Steel Great Spear",
         "note": "<NextGrade:207>\n<UpgradeCost>\nitem 347\ngold: 10000\n</UpgradeCost>",
         "params": [
             0,
@@ -7191,7 +7191,7 @@
     {
         "id": 207,
         "animationId": 11,
-        "description": "鋼鉄によって鍛えられたノラの大槍+6",
+        "description": "Nora's Great Spear +6, tempered by steel.",
         "etypeId": 1,
         "traits": [
             {
@@ -7206,7 +7206,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "匠の鋼鉄の大槍",
+        "name": "Master Craftsman's Steel Great Spear",
         "note": "<NextGrade:208>\n<UpgradeCost>\nitem 348\ngold: 12000\n</UpgradeCost>",
         "params": [
             0,
@@ -7224,7 +7224,7 @@
     {
         "id": 208,
         "animationId": 11,
-        "description": "赤曜鉄によって鍛えられたノラの大槍+7",
+        "description": "Nora's Great Spear +7, tempered with Red Sun Iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -7239,7 +7239,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "騎士の大槍",
+        "name": "Knight's Great Spear",
         "note": "<NextGrade:209>\n<UpgradeCost>\nitem 349\ngold: 25000\n</UpgradeCost>",
         "params": [
             0,
@@ -7257,7 +7257,7 @@
     {
         "id": 209,
         "animationId": 11,
-        "description": "赤曜鉄によって鍛えられたノラの大槍+8",
+        "description": "Nora's Great Spear +8, tempered with Red Sun Iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -7272,7 +7272,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "匠の騎士の大槍",
+        "name": "Master Knight's Great Spear",
         "note": "<NextGrade:210>\n<UpgradeCost>\nitem 350\ngold: 30000\n</UpgradeCost>",
         "params": [
             0,
@@ -7290,7 +7290,7 @@
     {
         "id": 210,
         "animationId": 11,
-        "description": "黒曜鉄によって鍛えられたノラの大槍+9",
+        "description": "Nora's Great Spear +9, tempered with obsidian iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -7305,7 +7305,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "黒曜の大槍",
+        "name": "Obsidian Lance",
         "note": "<NextGrade:211>\n<UpgradeCost>\nitem 351\ngold: 35000\n</UpgradeCost>",
         "params": [
             0,
@@ -7323,7 +7323,7 @@
     {
         "id": 211,
         "animationId": 11,
-        "description": "黒曜鉄によって鍛えられたノラの大槍+10",
+        "description": "Nora's Great Spear +10, tempered with obsidian iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -7338,7 +7338,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "匠の黒曜の大槍",
+        "name": "Artisan's Obsidian Great Spear",
         "note": "<NextGrade:212>\n<UpgradeCost>\nitem 352\ngold: 0\n</UpgradeCost>",
         "params": [
             0,
@@ -7356,7 +7356,7 @@
     {
         "id": 212,
         "animationId": 11,
-        "description": "盗賊ノラと共に成長してきた頼れる相棒",
+        "description": "Reliable partner who has grown up together with the thief Nora.",
         "etypeId": 1,
         "traits": [
             {
@@ -7376,7 +7376,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ノラの大槍",
+        "name": "Nora's Great Spear",
         "note": "",
         "params": [
             0,
@@ -10280,7 +10280,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "===リルム",
+        "name": "Relm",
         "note": "",
         "params": [
             0,
@@ -10298,7 +10298,7 @@
     {
         "id": 301,
         "animationId": 1,
-        "description": "飾り気のない愛用の魔導書",
+        "description": "A plain, beloved grimoire.",
         "etypeId": 1,
         "traits": [
             {
@@ -10313,7 +10313,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "装飾のない魔導書",
+        "name": "Plain Grimoire",
         "note": "<NextGrade:302>\n<UpgradeCost>\nitem 356\ngold: 500\n</UpgradeCost>",
         "params": [
             0,
@@ -10331,7 +10331,7 @@
     {
         "id": 302,
         "animationId": 1,
-        "description": "木によって装幀されたリルムの魔導書+1",
+        "description": "Relm's grimoire +1, adorned with wood.",
         "etypeId": 1,
         "traits": [
             {
@@ -10346,7 +10346,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "木の魔導書",
+        "name": "Wooden Grimoire",
         "note": "<NextGrade:303>\n<UpgradeCost>\nitem 357\ngold: 1000\n</UpgradeCost>",
         "params": [
             0,
@@ -10364,7 +10364,7 @@
     {
         "id": 303,
         "animationId": 1,
-        "description": "銅によって装幀されたリルムの魔導書+2",
+        "description": "Relm's grimoire, adorned with copper, +2 in magical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -10379,7 +10379,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "銅の魔導書",
+        "name": "Copper Grimoire",
         "note": "<NextGrade:304>\n<UpgradeCost>\nitem 358\ngold: 2500\n</UpgradeCost>",
         "params": [
             0,
@@ -10397,7 +10397,7 @@
     {
         "id": 304,
         "animationId": 1,
-        "description": "青銅によって装幀されたリルムの魔導書+3",
+        "description": "Relm's grimoire, adorned with bronze, +3 in magical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -10412,7 +10412,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "青銅の魔導書",
+        "name": "Bronze Grimoire",
         "note": "<NextGrade:305>\n<UpgradeCost>\nitem 359\ngold: 3500\n</UpgradeCost>",
         "params": [
             0,
@@ -10430,7 +10430,7 @@
     {
         "id": 305,
         "animationId": 1,
-        "description": "鉄によって装幀されたリルムの魔導書+4",
+        "description": "Relm's grimoire, adorned with iron, +4 in magical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -10445,7 +10445,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "鉄の魔導書",
+        "name": "Iron Grimoire",
         "note": "<NextGrade:306>\n<UpgradeCost>\nitem 360\ngold: 6500\n</UpgradeCost>",
         "params": [
             0,
@@ -10463,7 +10463,7 @@
     {
         "id": 306,
         "animationId": 1,
-        "description": "鋼鉄によって装幀されたリルムの魔導書+5",
+        "description": "Relm's grimoire, adorned with steel, +5 in magical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -10478,7 +10478,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "鋼鉄の魔導書",
+        "name": "Steel Magic Book",
         "note": "<NextGrade:307>\n<UpgradeCost>\nitem 361\ngold: 10000\n</UpgradeCost>",
         "params": [
             0,
@@ -10496,7 +10496,7 @@
     {
         "id": 307,
         "animationId": 1,
-        "description": "銀によって装幀されたリルムの魔導書+6",
+        "description": "Relm's grimoire, adorned with silver, +6 in magical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -10511,7 +10511,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "銀の魔導書",
+        "name": "Silver Grimoire",
         "note": "<NextGrade:308>\n<UpgradeCost>\nitem 362\ngold: 12000\n</UpgradeCost>",
         "params": [
             0,
@@ -10529,7 +10529,7 @@
     {
         "id": 308,
         "animationId": 1,
-        "description": "金によって装幀されたリルムの魔導書+7",
+        "description": "Relm's magic book +7, adorned with gold.",
         "etypeId": 1,
         "traits": [
             {
@@ -10544,7 +10544,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "金の魔導書",
+        "name": "Golden Grimoire",
         "note": "<NextGrade:309>\n<UpgradeCost>\nitem 363\ngold: 25000\n</UpgradeCost>",
         "params": [
             0,
@@ -10562,7 +10562,7 @@
     {
         "id": 309,
         "animationId": 1,
-        "description": "白金によって装幀されたリルムの魔導書+8",
+        "description": "Relm's grimoire, adorned with platinum, +8.",
         "etypeId": 1,
         "traits": [
             {
@@ -10577,7 +10577,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "白金の魔導書",
+        "name": "Platinum Grimoire",
         "note": "<NextGrade:310>\n<UpgradeCost>\nitem 364\ngold: 30000\n</UpgradeCost>",
         "params": [
             0,
@@ -10595,7 +10595,7 @@
     {
         "id": 310,
         "animationId": 1,
-        "description": "黒曜鉄によって装幀されたリルムの魔導書+9",
+        "description": "Relm's grimoire, adorned with obsidian iron, +9.",
         "etypeId": 1,
         "traits": [
             {
@@ -10610,7 +10610,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "黒曜の魔導書",
+        "name": "Obsidian Grimoire",
         "note": "<NextGrade:311>\n<UpgradeCost>\nitem 365\ngold: 35000\n</UpgradeCost>",
         "params": [
             0,
@@ -10628,7 +10628,7 @@
     {
         "id": 311,
         "animationId": 1,
-        "description": "魔法石によって装幀されたリルムの魔導書+10",
+        "description": "Relm's grimoire, adorned with magic stones, +10.",
         "etypeId": 1,
         "traits": [
             {
@@ -10643,7 +10643,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "魔法石の魔導書",
+        "name": "Magic Stone Grimoire",
         "note": "<NextGrade:312>\n<UpgradeCost>\nitem 366\ngold: 0\n</UpgradeCost>",
         "params": [
             0,
@@ -10661,7 +10661,7 @@
     {
         "id": 312,
         "animationId": 1,
-        "description": "魔法使いリルムと共に成長してきた頼れる相棒",
+        "description": "Reliable partner who has grown up alongside the magician Relm.",
         "etypeId": 1,
         "traits": [
             {
@@ -10681,7 +10681,7 @@
             }
         ],
         "iconIndex": 121,
-        "name": "リルムの魔導書",
+        "name": "Relm's Grimoire",
         "note": "",
         "params": [
             0,
@@ -13585,7 +13585,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "===ソフィア",
+        "name": "===Sophia",
         "note": "",
         "params": [
             0,
@@ -13603,7 +13603,7 @@
     {
         "id": 401,
         "animationId": 1,
-        "description": "僧侶が護身用のために持つ長杖",
+        "description": "A staff that a priest carries for self-defense.",
         "etypeId": 1,
         "traits": [
             {
@@ -13618,7 +13618,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "僧侶の長杖",
+        "name": "Priest's Staff",
         "note": "<NextGrade:402>\n<UpgradeCost>\nitem 370\ngold: 500\n</UpgradeCost>",
         "params": [
             0,
@@ -13636,7 +13636,7 @@
     {
         "id": 402,
         "animationId": 1,
-        "description": "木によって装飾されたソフィアの長杖+1",
+        "description": "Sophia's staff +1, decorated with wood.",
         "etypeId": 1,
         "traits": [
             {
@@ -13651,7 +13651,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "木の長杖",
+        "name": "Wooden Staff",
         "note": "<NextGrade:403>\n<UpgradeCost>\nitem 371\ngold: 1000\n</UpgradeCost>",
         "params": [
             0,
@@ -13669,7 +13669,7 @@
     {
         "id": 403,
         "animationId": 1,
-        "description": "銅によって装飾されたソフィアの長杖+2",
+        "description": "Sophia's staff +2, decorated with copper.",
         "etypeId": 1,
         "traits": [
             {
@@ -13684,7 +13684,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "銅の長杖",
+        "name": "Copper Staff",
         "note": "<NextGrade:404>\n<UpgradeCost>\nitem 372\ngold: 2500\n</UpgradeCost>",
         "params": [
             0,
@@ -13702,7 +13702,7 @@
     {
         "id": 404,
         "animationId": 1,
-        "description": "青銅によって装飾されたソフィアの長杖+3",
+        "description": "Sophia's staff +3, decorated with bronze.",
         "etypeId": 1,
         "traits": [
             {
@@ -13717,7 +13717,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "青銅の長杖",
+        "name": "Bronze Staff",
         "note": "<NextGrade:405>\n<UpgradeCost>\nitem 373\ngold: 3500\n</UpgradeCost>",
         "params": [
             0,
@@ -13735,7 +13735,7 @@
     {
         "id": 405,
         "animationId": 1,
-        "description": "鉄によって装飾されたソフィアの長杖+4",
+        "description": "Sophia's staff +4, decorated with iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -13750,7 +13750,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "鉄の長杖",
+        "name": "Iron Staff",
         "note": "<NextGrade:406>\n<UpgradeCost>\nitem 374\ngold: 6500\n</UpgradeCost>",
         "params": [
             0,
@@ -13768,7 +13768,7 @@
     {
         "id": 406,
         "animationId": 1,
-        "description": "鋼鉄によって装飾されたソフィアの長杖+5",
+        "description": "Sophia's staff +5, adorned with steel decorations.",
         "etypeId": 1,
         "traits": [
             {
@@ -13783,7 +13783,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "鋼鉄の長杖",
+        "name": "Steel Staff",
         "note": "<NextGrade:407>\n<UpgradeCost>\nitem 375\ngold: 10000\n</UpgradeCost>",
         "params": [
             0,
@@ -13801,7 +13801,7 @@
     {
         "id": 407,
         "animationId": 1,
-        "description": "銀によって装飾されたソフィアの長杖+6",
+        "description": "Sophia's staff decorated with silver, +6.",
         "etypeId": 1,
         "traits": [
             {
@@ -13816,7 +13816,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "銀の長杖",
+        "name": "Silver Staff",
         "note": "<NextGrade:408>\n<UpgradeCost>\nitem 376\ngold: 12000\n</UpgradeCost>",
         "params": [
             0,
@@ -13834,7 +13834,7 @@
     {
         "id": 408,
         "animationId": 1,
-        "description": "金によって装飾されたソフィアの長杖+7",
+        "description": "Sophia's staff adorned with gold, +7.",
         "etypeId": 1,
         "traits": [
             {
@@ -13849,7 +13849,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "金の長杖",
+        "name": "Golden Staff",
         "note": "<NextGrade:409>\n<UpgradeCost>\nitem 377\ngold: 25000\n</UpgradeCost>",
         "params": [
             0,
@@ -13867,7 +13867,7 @@
     {
         "id": 409,
         "animationId": 1,
-        "description": "白金によって装飾されたソフィアの長杖+8",
+        "description": "Sophia's staff adorned with platinum, +8.",
         "etypeId": 1,
         "traits": [
             {
@@ -13882,7 +13882,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "白金の長杖",
+        "name": "Platinum Staff",
         "note": "<NextGrade:410>\n<UpgradeCost>\nitem 378\ngold: 30000\n</UpgradeCost>",
         "params": [
             0,
@@ -13900,7 +13900,7 @@
     {
         "id": 410,
         "animationId": 1,
-        "description": "黒曜によって装飾されたソフィアの長杖+9",
+        "description": "Sophia's staff adorned with obsidian, +9.",
         "etypeId": 1,
         "traits": [
             {
@@ -13915,7 +13915,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "黒曜の長杖",
+        "name": "Obsidian Staff",
         "note": "<NextGrade:411>\n<UpgradeCost>\nitem 379\ngold: 35000\n</UpgradeCost>",
         "params": [
             0,
@@ -13933,7 +13933,7 @@
     {
         "id": 411,
         "animationId": 1,
-        "description": "魔法石によって装飾されたソフィアの長杖+10",
+        "description": "Sophia's staff adorned with magic stones +10",
         "etypeId": 1,
         "traits": [
             {
@@ -13948,7 +13948,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "魔法石の長杖",
+        "name": "Magic Stone Staff",
         "note": "<NextGrade:412>\n<UpgradeCost>\nitem 380\ngold: 0\n</UpgradeCost>",
         "params": [
             0,
@@ -13966,7 +13966,7 @@
     {
         "id": 412,
         "animationId": 1,
-        "description": "僧侶ソフィアと共に成長してきた頼れる相棒",
+        "description": "Reliable partner who has grown up together with the priestess Sophia.",
         "etypeId": 1,
         "traits": [
             {
@@ -13986,7 +13986,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ソフィアの長杖",
+        "name": "Sophia's staff",
         "note": "",
         "params": [
             0,

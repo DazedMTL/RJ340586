@@ -374,7 +374,7 @@ const dobbyTest = (window.Testtest = window.Testtest || {});
                     var value = this.operateValue(this._params[1], this._params[2], this._params[3]);
                     num = "X" + (value * (this._params[1] == "1" ? -1 : 1));
                 }
-                var txt = num + (this._params[1] == "1" ? "を失った" : "を手に入れた");
+                var txt = num + (this._params[1] == "1" ? " Lost" : " Acquired");
                 let icon = this.getDobbyIconId(this._params[1]);
                 var notification =
                 {
@@ -398,7 +398,7 @@ const dobbyTest = (window.Testtest = window.Testtest || {});
             if (!$gameMessage.isBusy() &&
                 $gameTemp.isQuickNotificationRegistrationMode()) {
                 $gameTemp.setQuickNotificationRegistrationMode(false);
-                var txt = (this._params[1] == "1" ? "を失った" : "を手に入れた");
+                var txt = (this._params[1] == "1" ? " Lost" : " Acquired");
                 let icon = this.getDobbyIconId(this._params[1]);
                 var notification =
                 {
@@ -422,7 +422,7 @@ const dobbyTest = (window.Testtest = window.Testtest || {});
             if (!$gameMessage.isBusy() &&
                 $gameTemp.isQuickNotificationRegistrationMode()) {
                 $gameTemp.setQuickNotificationRegistrationMode(false);
-                var txt = (this._params[1] == "1" ? "を失った" : "を手に入れた");
+                var txt = (this._params[1] == "1" ? " Lost" : " Acquired");
                 let icon = this.getDobbyIconId(this._params[1]);
                 var notification =
                 {
@@ -448,7 +448,7 @@ const dobbyTest = (window.Testtest = window.Testtest || {});
                 $gameTemp.isQuickNotificationRegistrationMode()) {
                 $gameTemp.setQuickNotificationRegistrationMode(false);
                 var value = this.operateValue(this._params[0], this._params[1], this._params[2]);
-                var txt = (this._params[0] == "1" ? "Ｇを失った" : "Ｇを手に入れた");
+                var txt = (this._params[0] == "1" ? "G Lost" : "G Acquired");
                 let icon = this.getDobbyIconId(this._params[0]);
 
                 var notification =
