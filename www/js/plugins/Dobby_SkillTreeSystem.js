@@ -3135,7 +3135,7 @@
             this.contents.clear();
         }
 
-        let text = "このスキルを取得しますか？";
+        let text = "Do you want to acquire this skill?";
         let textWidth = Math.floor(this.textWidth(text) / 2);
         let windowWidthHalf = Math.floor(this.width / 2) - 22;
         let centerXPos = windowWidthHalf - textWidth;
@@ -3163,7 +3163,7 @@
         this.drawTextEx('\\c[2]' + text, centerXPos + 5, 10 + addY);
         this.drawTextEx(this._skillData._skillName, windowWidthHalf - skillNameWidthHalf + 5, 45 + addY);
         if (this._backSkillData) {
-            let backSKillTexttext = "性技解放";
+            let backSKillTexttext = "Sex Technique";
             let backTextWidth = Math.floor(this.textWidth(backSKillTexttext) / 2);
             let backCenterXPos = windowWidthHalf - backTextWidth;
             let backSkillNameWidthHalf = Math.floor(this.textWidth(this._backSkillData._skillName) / 2);
