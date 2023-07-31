@@ -1,52 +1,52 @@
-ダンジョンID,ダンジョン名,地方ID,地方名,表示順,アイコンファイル名,マップID,マップx座標,マップy座標,入口x座標,入口y座標,入口向き,<br>
-1,冒険者の洞窟,1,フォティゾナ地方,1,icon_map_cave,39,2310,1041,12,72,上,<br>
-2,アルクダの森,1,フォティゾナ地方,2,icon_map_forest,68,2229,1161,98,46,左,<br>
-3,アッロス洞窟,1,フォティゾナ地方,3,icon_map_cave,86,2193,921,10,14,上,<br>
-4,クリスタル廃鉱山,4,バリエ地方,4,icon_map_cave,94,761,1185,8,17,上,<br>
-5,咲きこぼれの洞窟,6,オロス地方,5,icon_map_cave,121,2963,809,18,21,上,<br>
-6,レフガリアの森,6,オロス地方,6,icon_map_forest,135,3075,728,14,14,上,<br>
-7,スクリロ山,6,オロス地方,7,icon_map_mountain,176,3162,897,11,15,上,<br>
-8,サザニ草原,6,オロス地方,9,icon_map_meadow,21,3252,770,43,85,上,<br>
-9,ユアンの大口,6,オロス地方,10,icon_map_cave,74,3302,809,13,24,上,<br>
-10,古代の遺跡,1,フォティゾナ地方,4,icon_map_cave,105,2193,921,24,73,上,<br>
-11,ロクソス砦,2,カンプス地方,1,icon_map_fort,41,1437,756,7,17,上,<br>
-12,朽ちた城,2,カンプス地方,2,icon_map_fort,233,1830,588,14,21,上,<br>
-13,エマ盗賊団アジト,2,カンプス地方,3,icon_map_cave,395,1026,986,10,21,上,<br>
-14,裁きの跡,3,カノナス地方,1,icon_map_burning,256,1491,1094,14,23,上,<br>
-15,欠番だみー(コストがかかりすぎるため欠番にする),4,バリエ地方,1,icon-dungeon,13,1012,1174,7,10,上,<br>
-16,モニモス山,4,バリエ地方,2,icon_map_mountain,298,1083,1067,13,48,上,<br>
-17,狼の洞窟,5,ヴァルト地方,22,icon_map_cave,160,1827,571,10,16,上,<br>
-18,ドラゴンの涙製造所,4,バリエ地方,3,icon_map_cave,186,581,1104,13,28,上,<br>
-19,バルク団の狩場,5,ヴァルト地方,22,icon_map_forest,199,1989,476,8,13,上,<br>
-20,黄金街道,6,オロス地方,23,icon_map_highway,209,2898,651,7,10,上,<br>
-21,放蕩貴族の所有地,5,ヴァルト地方,23,icon_map_forest,212,1935,251,8,18,上,<br>
-22,野盗の草原,2,カンプス地方,4,icon_map_meadow,269,1283,639,11,18,上,<br>
-23,穴だらけの丘,4,バリエ地方,4,icon_map_cave,273,817,1330,9,21,上,<br>
-24,深い森,5,ヴァルト地方,24,icon_map_forest,316,1964,588,14,55,上,<br>
-25,ミュコス街道,7,ミュコス地方,1,icon_map_highway,345,2063,1520,14,78,上,<br>
-26,入り江の洞窟,3,カノナス地方,2,icon_map_cave,330,1,1,22,2,左,<br>
-27,ラキオ遺跡,1,フォティゾナ地方,5,icon_map_remains,409,2244,1378,24,73,上,<br>
-28,ソールの腰掛け,3,カノナス地方,3,icon_map_cave,118,13,1,13,20,上,<br>
-29,薬師の大穴,6,オロス地方,29,sand-castle,617,1,1,11,19,上,<br>
-30,鎮魂の森,5,ヴァルト地方,25,icon_map_forest,619,2000,413,13,25,上,<br>
-31,ロパロ略奪団のアジト,2,カンプス地方,5,icon_map_cave,706,1470,600,12,19,上,<br>
-32,魔獣の住処,5,ヴァルト地方,26,icon_map_forest,724,1873,534,11,20,上,<br>
-33,イシェケルの檻,1,フォティゾナ地方,6,icon-dungeon,636,2366,1386,11,20,上,<br>
-34,トモス略奪団の隠れ家,1,フォティゾナ地方,7,icon_map_mountain,684,2294,950,11,21,上,<br>
-35,古えの墳墓,2,カンプス地方,6,icon_map_remains,688,974,598,12,12,上,<br>
-36,古えの港,2,カンプス地方,7,icon_map_sailboat,678,1160,626,10,23,上,<br>
-37,大転びの湿原,2,カンプス地方,8,icon_map_meadow,630,1256,856,11,20,上,<br>
-38,裁きの跡,3,カノナス地方,4,icon_map_burning,256,1494,1112,14,23,上,<br>
-39,フォルマ遺跡,3,カノナス地方,5,icon_map_remains,130,1580,1160,12,27,上,<br>
-40,裏切りの塔,3,カノナス地方,6,icon_map_remains,652,1656,1010,11,22,上,<br>
-41,メロスの遺跡,3,カノナス地方,7,icon_map_remains,659,1298,1223,11,22,上,<br>
-42,キルクルス遺跡,4,バリエ地方,5,icon_map_remains,389,1088,1092,10,18,上,<br>
-43,クリスタルの中,4,バリエ地方,6,icon_map_crystal,300,1122,1126,25,37,上,<br>
-44,再生の悪魔ジエンの祭壇,4,バリエ地方,7,icon_map_cave,328,808,1100,14,34,上,<br>
-45,クァドラングルム遺跡,4,バリエ地方,8,icon_map_remains,36,822,1340,14,28,上,<br>
-46,ベドン廟入口,4,バリエ地方,9,icon_map_cave,281,790,1300,5,9,上,<br>
-47,アスピダ同盟の廃城,4,バリエ地方,10,icon_map_fort,712,2106,341,12,23,上,<br>
-48,ナムドの洞窟,7,ミュコス地方,2,icon_map_cave,680,1968,1564,11,22,上,<br>
-49,見捨てられた墓所,7,ミュコス地方,3,icon_map_remains,668,2134,1810,10,23,上,<br>
-50,虹水洞,7,ミュコス地方,4,icon_map_cave,644,2006,1760,11,22,上,<br>
-51,漁場,7,ミュコス地方,5,icon_map_buoy,667,2234,1636,18,1,下,<br>
+ダンジョンID,Dungeon Name,地方ID,Regional Name,表示順,アイコンファイル名,マップID,マップx座標,マップy座標,入口x座標,入口y座標,入口向き,<br>
+1,Adventurers Cave,1,Fotizona Region,1,icon_map_cave,39,2310,1041,12,72,上,<br>
+2,Arcadia Forest,1,Fotizona Region,2,icon_map_forest,68,2229,1161,98,46,左,<br>
+3,Arros Cave,1,Fotizona Region,3,icon_map_cave,86,2193,921,10,14,上,<br>
+4,Crystal Abandoned Mine,4,Valie Region,4,icon_map_cave,94,761,1185,8,17,上,<br>
+5,Cave of Blooming Overflow,6,Oros Region,5,icon_map_cave,121,2963,809,18,21,上,<br>
+6,Lefgaria Forest,6,Oros Region,6,icon_map_forest,135,3075,728,14,14,上,<br>
+7,Mount Scrilo,6,Oros Region,7,icon_map_mountain,176,3162,897,11,15,上,<br>
+8,Sazani Grasslands,6,Oros Region,9,icon_map_meadow,21,3252,770,43,85,上,<br>
+9,Yuans Big Mouth,6,Oros Region,10,icon_map_cave,74,3302,809,13,24,上,<br>
+10,Ancient Ruins,1,Fotizona Region,4,icon_map_cave,105,2193,921,24,73,上,<br>
+11,Roxos Fortress,2,Campos Region,1,icon_map_fort,41,1437,756,7,17,上,<br>
+12,Decayed Castle,2,Campos Region,2,icon_map_fort,233,1830,588,14,21,上,<br>
+13,Emma Thief Gang Hideout,2,Campos Region,3,icon_map_cave,395,1026,986,10,21,上,<br>
+14,Judgments Trace,3,Kanonas Region,1,icon_map_burning,256,1491,1094,14,23,上,<br>
+15,Missing Number (Due to excessive cost it is being skipped),4,Valie Region,1,icon-dungeon,13,1012,1174,7,10,上,<br>
+16,Monimosu Mountain,4,Valie Region,2,icon_map_mountain,298,1083,1067,13,48,上,<br>
+17,Wolfs Cave,5,Wald Region,22,icon_map_cave,160,1827,571,10,16,上,<br>
+18,Dragons Tear Manufacturing Facility,4,Valie Region,3,icon_map_cave,186,581,1104,13,28,上,<br>
+19,Bulk Gangs Hunting Grounds,5,Wald Region,22,icon_map_forest,199,1989,476,8,13,上,<br>
+20,Golden Street,6,Oros Region,23,icon_map_highway,209,2898,651,7,10,上,<br>
+21,Property of the Profligate Noble,5,Wald Region,23,icon_map_forest,212,1935,251,8,18,上,<br>
+22,Bandits Grassland,2,Campos Region,4,icon_map_meadow,269,1283,639,11,18,上,<br>
+23,Hill full of holes,4,Valie Region,4,icon_map_cave,273,817,1330,9,21,上,<br>
+24,Deep Forest,5,Wald Region,24,icon_map_forest,316,1964,588,14,55,上,<br>
+25,Myukos Street,7,Myukos Region,1,icon_map_highway,345,2063,1520,14,78,上,<br>
+26,Inlet Cave,3,Kanonas Region,2,icon_map_cave,330,1,1,22,2,左,<br>
+27,Rakio Ruins,1,Fotizona Region,5,icon_map_remains,409,2244,1378,24,73,上,<br>
+28,Souls Resting Place,3,Kanonas Region,3,icon_map_cave,118,13,1,13,20,上,<br>
+29,Great Hole of the Pharmacist,6,Oros Region,29,sand-castle,617,1,1,11,19,上,<br>
+30,Forest of Requiem,5,Wald Region,25,icon_map_forest,619,2000,413,13,25,上,<br>
+31,Loparo Raiders Hideout,2,Campos Region,5,icon_map_cave,706,1470,600,12,19,上,<br>
+32,Lair of the Demon Beasts,5,Wald Region,26,icon_map_forest,724,1873,534,11,20,上,<br>
+33,Ishekels Cage,1,Fotizona Region,6,icon-dungeon,636,2366,1386,11,20,上,<br>
+34,Hideout of the Tomosu Raiders,1,Fotizona Region,7,icon_map_mountain,684,2294,950,11,21,上,<br>
+35,Ancient Tomb,2,Campos Region,6,icon_map_remains,688,974,598,12,12,上,<br>
+36,Ancient Port,2,Campos Region,7,icon_map_sailboat,678,1160,626,10,23,上,<br>
+37,Great Tumble Marsh,2,Campos Region,8,icon_map_meadow,630,1256,856,11,20,上,<br>
+38,Judgments Trace,3,Kanonas Region,4,icon_map_burning,256,1494,1112,14,23,上,<br>
+39,Forma Ruins,3,Kanonas Region,5,icon_map_remains,130,1580,1160,12,27,上,<br>
+40,Tower of Betrayal,3,Kanonas Region,6,icon_map_remains,652,1656,1010,11,22,上,<br>
+41,Ruins of Melos,3,Kanonas Region,7,icon_map_remains,659,1298,1223,11,22,上,<br>
+42,Kilcrus Ruins,4,Valie Region,5,icon_map_remains,389,1088,1092,10,18,上,<br>
+43,Inside the Crystal,4,Valie Region,6,icon_map_crystal,300,1122,1126,25,37,上,<br>
+44,Altar of the Demon of Regeneration Jien,4,Valie Region,7,icon_map_cave,328,808,1100,14,34,上,<br>
+45,Quadrangrum Ruins,4,Valie Region,8,icon_map_remains,36,822,1340,14,28,上,<br>
+46,Bedon Temple Entrance,4,Valie Region,9,icon_map_cave,281,790,1300,5,9,上,<br>
+47,Abandoned Castle of the Aspida Alliance,4,Valie Region,10,icon_map_fort,712,2106,341,12,23,上,<br>
+48,Namudo Cave,7,Myukos Region,2,icon_map_cave,680,1968,1564,11,22,上,<br>
+49,Abandoned Graveyard,7,Myukos Region,3,icon_map_remains,668,2134,1810,10,23,上,<br>
+50,Rainbow Water Cave,7,Myukos Region,4,icon_map_cave,644,2006,1760,11,22,上,<br>
+51,Fishing spot,7,Myukos Region,5,icon_map_buoy,667,2234,1636,18,1,下,<br>
