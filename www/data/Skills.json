@@ -183,7 +183,7 @@
     {
         "id": 6,
         "animationId": 0,
-        "description": "Used for enemy character actions. The user withdraws from battle.",
+        "description": "Used for enemy character actions. The user withdraws from\nbattle.",
         "effects": [
             {
                 "code": 41,
@@ -3407,7 +3407,7 @@
     {
         "id": 107,
         "animationId": 213,
-        "description": "Cures poison, darkness, paralysis, and sleep status of a single ally.",
+        "description": "Cures poison, darkness, paralysis, and sleep status of a\nsingle ally.",
         "effects": [
             {
                 "code": 22,
@@ -3675,7 +3675,7 @@
     {
         "id": 113,
         "animationId": 220,
-        "description": "Deals a large amount of light attribute damage to a single enemy.",
+        "description": "Deals a large amount of light attribute damage to a single\nenemy.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 70,
@@ -3776,7 +3776,7 @@
     {
         "id": 116,
         "animationId": 230,
-        "description": "Grants a small defense boost to the entire party for 2 turns.",
+        "description": "Grants a small defense boost to the entire party for 2\nturns.",
         "effects": [
             {
                 "code": 31,
@@ -3812,7 +3812,7 @@
     {
         "id": 117,
         "animationId": 231,
-        "description": "Grants a medium increase in defense to all allies for 4 turns.",
+        "description": "Grants a medium increase in defense to all allies for 4\nturns.",
         "effects": [
             {
                 "code": 31,
@@ -3890,7 +3890,7 @@
     {
         "id": 119,
         "animationId": 0,
-        "description": "It puts the user in an uncontrollable state of rage and grants a huge boost to attack power and agility for 4 turns.",
+        "description": "It puts the user in an uncontrollable state of rage and\ngrants a huge boost to attack power and agility for 4 turns.",
         "effects": [
             {
                 "code": 21,
@@ -3932,7 +3932,7 @@
     {
         "id": 120,
         "animationId": 0,
-        "description": "Grants a massive increase in attack power and agility to the user for 4 turns.",
+        "description": "Grants a massive increase in attack power and agility to the\nuser for 4 turns.",
         "effects": [
             {
                 "code": 21,
@@ -3974,7 +3974,7 @@
     {
         "id": 121,
         "animationId": 0,
-        "description": "Grant the entire party with consecutive attacks and physical attacks with light attribute, and provide a 4-turn bonus of attack speed adjustment and automatic recovery of HP and MP.",
+        "description": "Grant the entire party with consecutive attacks and physical\nattacks with light attribute, and provide a 4-turn bonus of\nattack speed adjustment and automatic recovery of HP and MP.",
         "effects": [
             {
                 "code": 21,
@@ -4051,7 +4051,7 @@
     {
         "id": 123,
         "animationId": 204,
-        "description": "Deals a large amount of light attribute damage to all enemies.",
+        "description": "Deals a large amount of light attribute damage to all\nenemies.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -4377,7 +4377,7 @@
     {
         "id": 134,
         "animationId": 205,
-        "description": "Inflicts small light damage to all enemies and has a high chance to inflict stun status.",
+        "description": "Inflicts small light damage to all enemies and has a high\nchance to inflict stun status.",
         "effects": [
             {
                 "code": 21,
@@ -4413,7 +4413,7 @@
     {
         "id": 135,
         "animationId": 223,
-        "description": "Grants a significant defense boost to all allies for 5 turns.",
+        "description": "Grants a significant defense boost to all allies for 5\nturns.",
         "effects": [
             {
                 "code": 21,
@@ -4449,7 +4449,7 @@
     {
         "id": 136,
         "animationId": 233,
-        "description": "Inflicts a major decrease in elemental resistance on all enemies for 3 turns.",
+        "description": "Inflicts a major decrease in elemental resistance on all\nenemies for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -4515,7 +4515,7 @@
     {
         "id": 137,
         "animationId": 234,
-        "description": "Inflicts preemptive magic reflection on the user for 1 turn against enemies.",
+        "description": "Inflicts preemptive magic reflection on the user for 1 turn\nagainst enemies.",
         "effects": [
             {
                 "code": 21,
@@ -4551,7 +4551,7 @@
     {
         "id": 138,
         "animationId": 234,
-        "description": "Grants a small increase in magic defense to a single ally for 3 turns.",
+        "description": "Grants a small increase in magic defense to a single ally\nfor 3 turns.",
         "effects": [
             {
                 "code": 31,
@@ -4587,7 +4587,7 @@
     {
         "id": 139,
         "animationId": 235,
-        "description": "Grants a medium increase in magic defense to a single ally for 3 turns.",
+        "description": "Grants a medium increase in magic defense to a single ally\nfor 3 turns.",
         "effects": [
             {
                 "code": 31,
@@ -4665,7 +4665,7 @@
     {
         "id": 141,
         "animationId": 208,
-        "description": "Inflict preemptive magic reflection on the user and grant automatic HP recovery for 4 turns.",
+        "description": "Inflict preemptive magic reflection on the user and grant\nautomatic HP recovery for 4 turns.",
         "effects": [
             {
                 "code": 21,
@@ -4707,7 +4707,7 @@
     {
         "id": 142,
         "animationId": 173,
-        "description": "Grants a significant decrease in susceptibility to being targeted by users for 5 turns.",
+        "description": "Grants a significant decrease in susceptibility to being\ntargeted by users for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -4743,7 +4743,7 @@
     {
         "id": 143,
         "animationId": 240,
-        "description": "\nDeals physical damage to a single enemy with a preemptive attack.\nGrants a small agility boost to the user for 5 turns.",
+        "description": " Deals physical damage to a single enemy with a preemptive\nattack. Grants a small agility boost to the user for 5\nturns.",
         "effects": [
             {
                 "code": 21,
@@ -4808,7 +4808,7 @@
     {
         "id": 145,
         "animationId": 241,
-        "description": "Inflicts a high chance of inflicting darkness status on all enemies and applies a 2-turn decrease in defense.",
+        "description": "Inflicts a high chance of inflicting darkness status on all\nenemies and applies a 2-turn decrease in defense.",
         "effects": [
             {
                 "code": 21,
@@ -4856,7 +4856,7 @@
     {
         "id": 146,
         "animationId": 237,
-        "description": "Performs a dark attribute double attack on a single enemy, based on attack power and magic power.",
+        "description": "Performs a dark attribute double attack on a single enemy,\nbased on attack power and magic power.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 369,
@@ -4885,7 +4885,7 @@
     {
         "id": 147,
         "animationId": 224,
-        "description": "Performs a powerful dark attribute physical attack against four random enemies. The power depends on the user's attack and magic power.",
+        "description": "Performs a powerful dark attribute physical attack against\nfour random enemies. The power depends on the user's attack\nand magic power.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 369,
@@ -5030,7 +5030,7 @@
     {
         "id": 152,
         "animationId": 0,
-        "description": "When HP falls below 25%, HP and MP will automatically start recovering.\nThe recovery amount is 2%.",
+        "description": "When HP falls below 25%, HP and MP will automatically start\nrecovering. The recovery amount is 2%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -5539,7 +5539,7 @@
     {
         "id": 170,
         "animationId": 0,
-        "description": "When Sophia encounters and defeats an enemy while in the lead position, all allies' HP and MP will receive a small recovery after the battle.",
+        "description": "When Sophia encounters and defeats an enemy while in the\nlead position, all allies' HP and MP will receive a small\nrecovery after the battle.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 505,
@@ -5568,7 +5568,7 @@
     {
         "id": 171,
         "animationId": 0,
-        "description": "When Sophia wins against an enemy at the front, the amount of gold obtained increases slightly.\nYou can challenge the Blue Gambler\\c[0] with cards.",
+        "description": "When Sophia wins against an enemy at the front, the amount\nof gold obtained increases slightly. You can challenge the\nBlue Gambler\\c[0] with cards.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 504,
@@ -5596,7 +5596,7 @@
     {
         "id": 172,
         "animationId": 0,
-        "description": "When Sophia touches the\\c[1]blue gem\\c[0] statue inside the dungeon, it recovers her HP and MP status abnormalities.",
+        "description": "When Sophia touches the\\c[1]blue gem\\c[0] statue inside the\ndungeon, it recovers her HP and MP status abnormalities.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 503,
@@ -5624,7 +5624,7 @@
     {
         "id": 173,
         "animationId": 0,
-        "description": "\\c[1]You can obtain items by tempting the target NPC\\c[0] with a blue heart.",
+        "description": "\\c[1]You can obtain items by tempting the target NPC\\c[0]\nwith a blue heart.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 506,
@@ -5653,7 +5653,7 @@
     {
         "id": 174,
         "animationId": 0,
-        "description": "When Sophia encounters and defeats an enemy while in the lead position, all allies' HP and MP are moderately restored after the battle.",
+        "description": "When Sophia encounters and defeats an enemy while in the\nlead position, all allies' HP and MP are moderately restored\nafter the battle.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 505,
@@ -5681,7 +5681,7 @@
     {
         "id": 175,
         "animationId": 0,
-        "description": "When Sophia encounters and defeats an enemy while in the lead position, all allies' HP and MP are greatly restored after the battle.",
+        "description": "When Sophia encounters and defeats an enemy while in the\nlead position, all allies' HP and MP are greatly restored\nafter the battle.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 505,
@@ -5709,7 +5709,7 @@
     {
         "id": 176,
         "animationId": 0,
-        "description": "When Sophia encounters and defeats an enemy while in the lead position, all allies' HP and MP are greatly restored after the battle.",
+        "description": "When Sophia encounters and defeats an enemy while in the\nlead position, all allies' HP and MP are greatly restored\nafter the battle.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 505,
@@ -5737,7 +5737,7 @@
     {
         "id": 177,
         "animationId": 0,
-        "description": "When Sophia wins against enemies at the front, the amount of gold obtained increases moderately.\\c[3]You can challenge the green gambler\\c[0] with cards.",
+        "description": "When Sophia wins against enemies at the front, the amount of\ngold obtained increases moderately.\\c[3]You can challenge\nthe green gambler\\c[0] with cards.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 504,
@@ -5765,7 +5765,7 @@
     {
         "id": 178,
         "animationId": 0,
-        "description": "When Sophia wins against enemies at the front, the amount of gold obtained increases significantly. You can challenge the Red Gambler with cards.",
+        "description": "When Sophia wins against enemies at the front, the amount of\ngold obtained increases significantly. You can challenge the\nRed Gambler with cards.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 504,
@@ -5793,7 +5793,7 @@
     {
         "id": 179,
         "animationId": 0,
-        "description": "When Sophia wins against enemies at the front, the amount of gold obtained increases significantly.\\c[7]You can challenge the Black Gambler\\c[0] with cards.",
+        "description": "When Sophia wins against enemies at the front, the amount of\ngold obtained increases significantly.\\c[7]You can challenge\nthe Black Gambler\\c[0] with cards.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 504,
@@ -5821,7 +5821,7 @@
     {
         "id": 180,
         "animationId": 0,
-        "description": "When Sophia touches a goddess statue of a green gem outside of the dungeon, she recovers from abnormal HP and MP conditions.",
+        "description": "When Sophia touches a goddess statue of a green gem outside\nof the dungeon, she recovers from abnormal HP and MP\nconditions.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 503,
@@ -5850,7 +5850,7 @@
     {
         "id": 181,
         "animationId": 0,
-        "description": "\\c[10]You can obtain an item by listening to the confession of the NPC targeted by the Red HELP\\c[0].",
+        "description": "\\c[10]You can obtain an item by listening to the confession\nof the NPC targeted by the Red HELP\\c[0].",
         "effects": [],
         "hitType": 0,
         "iconIndex": 503,
@@ -5878,7 +5878,7 @@
     {
         "id": 182,
         "animationId": 0,
-        "description": "\\c[7]You can obtain an item by listening to the confession of the NPC targeted by the black HELP\\c[0].",
+        "description": "\\c[7]You can obtain an item by listening to the confession\nof the NPC targeted by the black HELP\\c[0].",
         "effects": [],
         "hitType": 0,
         "iconIndex": 503,
@@ -5906,7 +5906,7 @@
     {
         "id": 183,
         "animationId": 0,
-        "description": "It is possible to purchase items from the character with the speech bubble of a gold coin.",
+        "description": "It is possible to purchase items from the character with the\nspeech bubble of a gold coin.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 506,
@@ -5934,7 +5934,7 @@
     {
         "id": 184,
         "animationId": 0,
-        "description": "Text \\c[10]You can obtain items by seducing the target NPC\\c[0] with a red heart.",
+        "description": "Text \\c[10]You can obtain items by seducing the target\nNPC\\c[0] with a red heart.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 506,
@@ -5962,7 +5962,7 @@
     {
         "id": 185,
         "animationId": 0,
-        "description": "It is possible to purchase items from the speech bubble partner of the gold nugget.",
+        "description": "It is possible to purchase items from the speech bubble\npartner of the gold nugget.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 506,
@@ -6660,7 +6660,7 @@
     {
         "id": 210,
         "animationId": 169,
-        "description": "Inflicts heavy dark damage to all enemies and has a high chance of inflicting darkness status.",
+        "description": "Inflicts heavy dark damage to all enemies and has a high\nchance of inflicting darkness status.",
         "effects": [
             {
                 "code": 21,
@@ -6696,7 +6696,7 @@
     {
         "id": 211,
         "animationId": 170,
-        "description": "Deals a large amount of non-elemental damage to a single enemy, ignoring their magic defense.",
+        "description": "Deals a large amount of non-elemental damage to a single\nenemy, ignoring their magic defense.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 126,
@@ -6725,7 +6725,7 @@
     {
         "id": 212,
         "animationId": 171,
-        "description": "Inflicts a low chance of sleep on all enemies and applies a small decrease in magic defense for 5 turns.",
+        "description": "Inflicts a low chance of sleep on all enemies and applies a\nsmall decrease in magic defense for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -6833,7 +6833,7 @@
     {
         "id": 214,
         "animationId": 51,
-        "description": "Grants a significant increase in magical power to the user for 5 turns.",
+        "description": "Grants a significant increase in magical power to the user\nfor 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -6869,7 +6869,7 @@
     {
         "id": 215,
         "animationId": 51,
-        "description": "Grants all allies a 5-turn resistance to all status ailments.",
+        "description": "Grants all allies a 5-turn resistance to all status\nailments.",
         "effects": [
             {
                 "code": 21,
@@ -6905,7 +6905,7 @@
     {
         "id": 216,
         "animationId": 0,
-        "description": "Deals a large amount of non-elemental damage to all enemies, ignoring their magic defense.",
+        "description": "Deals a large amount of non-elemental damage to all enemies,\nignoring their magic defense.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 127,
@@ -6934,7 +6934,7 @@
     {
         "id": 217,
         "animationId": 120,
-        "description": "It grants the user a massive increase in magical power, but reduces defense and magical defense by half, and doubles the MP consumption for 3 turns.",
+        "description": "It grants the user a massive increase in magical power, but\nreduces defense and magical defense by half, and doubles the\nMP consumption for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -7214,7 +7214,7 @@
     {
         "id": 226,
         "animationId": 167,
-        "description": "Inflicts small dark damage to all enemies and has a high chance of inflicting darkness status.",
+        "description": "Inflicts small dark damage to all enemies and has a high\nchance of inflicting darkness status.",
         "effects": [
             {
                 "code": 21,
@@ -7250,7 +7250,7 @@
     {
         "id": 227,
         "animationId": 168,
-        "description": "Inflicts moderate dark-elemental damage to all enemies and has a high chance to inflict darkness status.",
+        "description": "Inflicts moderate dark-elemental damage to all enemies and\nhas a high chance to inflict darkness status.",
         "effects": [
             {
                 "code": 21,
@@ -7286,7 +7286,7 @@
     {
         "id": 228,
         "animationId": 178,
-        "description": "Deals small damage to all enemies regardless of their magic defense, with no attribute.",
+        "description": "Deals small damage to all enemies regardless of their magic\ndefense, with no attribute.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 127,
@@ -7315,7 +7315,7 @@
     {
         "id": 229,
         "animationId": 80,
-        "description": "Deals medium damage to all enemies regardless of their magic defense, with no elemental attribute.",
+        "description": "Deals medium damage to all enemies regardless of their magic\ndefense, with no elemental attribute.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 127,
@@ -7344,7 +7344,7 @@
     {
         "id": 230,
         "animationId": 80,
-        "description": "Deals a large amount of non-elemental damage to all enemies, ignoring their magic defense.",
+        "description": "Deals a large amount of non-elemental damage to all enemies,\nignoring their magic defense.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 127,
@@ -7373,7 +7373,7 @@
     {
         "id": 231,
         "animationId": 189,
-        "description": "Grants a minor increase in physical attack and fire attribute to a single ally for 5 turns.",
+        "description": "Grants a minor increase in physical attack and fire\nattribute to a single ally for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -7409,7 +7409,7 @@
     {
         "id": 232,
         "animationId": 190,
-        "description": "Grants a minor increase in physical attack and ice attribute to a single ally for 5 turns.",
+        "description": "Grants a minor increase in physical attack and ice attribute\nto a single ally for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -7444,7 +7444,7 @@
     {
         "id": 233,
         "animationId": 191,
-        "description": "Grants a minor increase in physical attack power and thunder attribute to a single ally for 5 turns.",
+        "description": "Grants a minor increase in physical attack power and thunder\nattribute to a single ally for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -7479,7 +7479,7 @@
     {
         "id": 234,
         "animationId": 192,
-        "description": "Grants a minor increase in physical attack and water attribute to a single ally for 5 turns.",
+        "description": "Grants a minor increase in physical attack and water\nattribute to a single ally for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -7514,7 +7514,7 @@
     {
         "id": 235,
         "animationId": 193,
-        "description": "Grants a minor increase in physical attack and light attribute to a single ally for 5 turns.",
+        "description": "Grants a minor increase in physical attack and light\nattribute to a single ally for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -7549,7 +7549,7 @@
     {
         "id": 236,
         "animationId": 194,
-        "description": "Grants a slight increase in physical attack and dark attribute to a single ally for 5 turns.",
+        "description": "Grants a slight increase in physical attack and dark\nattribute to a single ally for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -7643,7 +7643,7 @@
     {
         "id": 239,
         "animationId": 51,
-        "description": "It grants the user automatic MP recovery of 10% and inflicts 20% damage to HP for 3 turns.",
+        "description": "It grants the user automatic MP recovery of 10% and inflicts\n20% damage to HP for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -7679,7 +7679,7 @@
     {
         "id": 240,
         "animationId": 303,
-        "description": "Inflicts a high chance of causing the enemy to be in a stunned state.",
+        "description": "Inflicts a high chance of causing the enemy to be in a\nstunned state.",
         "effects": [
             {
                 "code": 21,
@@ -7780,7 +7780,7 @@
     {
         "id": 243,
         "animationId": 306,
-        "description": "Inflicts a significant decrease in attack power on a single enemy for 3 turns.",
+        "description": "Inflicts a significant decrease in attack power on a single\nenemy for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -7858,7 +7858,7 @@
     {
         "id": 245,
         "animationId": 308,
-        "description": "Inflicts a significant defense debuff on a single enemy for 3 turns.",
+        "description": "Inflicts a significant defense debuff on a single enemy for\n3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -7894,7 +7894,7 @@
     {
         "id": 246,
         "animationId": 309,
-        "description": "Inflicts a significant decrease in attack power and defense power, as well as a moderate decrease in agility, on a single enemy for 3 turns.",
+        "description": "Inflicts a significant decrease in attack power and defense\npower, as well as a moderate decrease in agility, on a\nsingle enemy for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -7948,7 +7948,7 @@
     {
         "id": 247,
         "animationId": 310,
-        "description": "Inflicts a large decrease in elemental resistance on a single enemy for 3 turns.",
+        "description": "Inflicts a large decrease in elemental resistance on a\nsingle enemy for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -8128,7 +8128,7 @@
     {
         "id": 249,
         "animationId": 312,
-        "description": "Grants the user automatic treatment for the state of fainting.",
+        "description": "Grants the user automatic treatment for the state of\nfainting.",
         "effects": [
             {
                 "code": 21,
@@ -8813,7 +8813,7 @@
     {
         "id": 273,
         "animationId": 0,
-        "description": "\\c[1]Can open a blue magic barrel/door\\c[0]\nThe corresponding barrel/door will display \\I[507].",
+        "description": "\\c[1]Can open a blue magic barrel/door\\c[0] The\ncorresponding barrel/door will display \\I[507].",
         "effects": [],
         "hitType": 0,
         "iconIndex": 497,
@@ -8842,7 +8842,7 @@
     {
         "id": 274,
         "animationId": 0,
-        "description": "\\c[1]You can discover a blue light\\c[0] and obtain an ancient coin.",
+        "description": "\\c[1]You can discover a blue light\\c[0] and obtain an\nancient coin.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 501,
@@ -8871,7 +8871,7 @@
     {
         "id": 275,
         "animationId": 0,
-        "description": "\\c[1]Able to decipher ancient characters of the blue emblem\\c[0].",
+        "description": "\\c[1]Able to decipher ancient characters of the blue\nemblem\\c[0].",
         "effects": [],
         "hitType": 0,
         "iconIndex": 499,
@@ -8927,7 +8927,7 @@
     {
         "id": 277,
         "animationId": 0,
-        "description": "\\c[3]Can open the green magic barrel/door\\c[0]\nThe corresponding barrel/door will display \\I[507]",
+        "description": "\\c[3]Can open the green magic barrel/door\\c[0] The\ncorresponding barrel/door will display \\I[507]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 497,
@@ -8955,7 +8955,7 @@
     {
         "id": 278,
         "animationId": 0,
-        "description": "\\c[10] Can open red magic barrels and doors\\c[0].\n\\I[507] is displayed on compatible barrels and doors.",
+        "description": "\\c[10] Can open red magic barrels and doors\\c[0]. \\I[507] is\ndisplayed on compatible barrels and doors.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 497,
@@ -8983,7 +8983,7 @@
     {
         "id": 279,
         "animationId": 0,
-        "description": "\\c[7]Can open a black magic barrel/door\\c[0]\nThe corresponding barrel/door will display \\I[507]",
+        "description": "\\c[7]Can open a black magic barrel/door\\c[0] The\ncorresponding barrel/door will display \\I[507]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 497,
@@ -9012,7 +9012,7 @@
     {
         "id": 280,
         "animationId": 0,
-        "description": "\\c[3]I discovered a green light\\c[0] and was able to obtain an ancient coin.",
+        "description": "\\c[3]I discovered a green light\\c[0] and was able to obtain\nan ancient coin.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 501,
@@ -9041,7 +9041,7 @@
     {
         "id": 281,
         "animationId": 0,
-        "description": "\\c[10]I discovered a red light\\c[0] and was able to obtain an ancient coin.",
+        "description": "\\c[10]I discovered a red light\\c[0] and was able to obtain\nan ancient coin.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 501,
@@ -9069,7 +9069,7 @@
     {
         "id": 282,
         "animationId": 0,
-        "description": "\\c[7]I discovered a black light\\c[0] and was able to obtain an ancient coin.",
+        "description": "\\c[7]I discovered a black light\\c[0] and was able to obtain\nan ancient coin.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 501,
@@ -9098,7 +9098,7 @@
     {
         "id": 283,
         "animationId": 0,
-        "description": "\\c[3]Able to decipher ancient characters of the green emblem\\c[0]\nBecomes able to accept specific quests.",
+        "description": "\\c[3]Able to decipher ancient characters of the green\nemblem\\c[0] Becomes able to accept specific quests.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 499,
@@ -9127,7 +9127,7 @@
     {
         "id": 284,
         "animationId": 0,
-        "description": "\\c[10] Able to decipher ancient characters of the red emblem\\c[0]\nBecome able to accept specific quests.",
+        "description": "\\c[10] Able to decipher ancient characters of the red\nemblem\\c[0] Become able to accept specific quests.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 499,
@@ -9155,7 +9155,7 @@
     {
         "id": 285,
         "animationId": 0,
-        "description": "\\c[7]Able to decipher ancient characters of the black emblem\\c[0]\nBecome able to accept specific quests.",
+        "description": "\\c[7]Able to decipher ancient characters of the black\nemblem\\c[0] Become able to accept specific quests.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 499,
@@ -9594,7 +9594,7 @@
     {
         "id": 301,
         "animationId": 281,
-        "description": "\nPerform an attack that inflicts a 5-turn decrease in agility on all enemies. The power of the attack depends on the user's attack and luck.",
+        "description": " Perform an attack that inflicts a 5-turn decrease in\nagility on all enemies. The power of the attack depends on\nthe user's attack and luck.",
         "effects": [
             {
                 "code": 32,
@@ -9678,7 +9678,7 @@
     {
         "id": 303,
         "animationId": 11,
-        "description": "\nPerforms an attack that has a high chance of inflicting Stun on a single enemy. The power of the attack depends on the user's attack stat and luck.",
+        "description": " Performs an attack that has a high chance of inflicting\nStun on a single enemy. The power of the attack depends on\nthe user's attack stat and luck.",
         "effects": [
             {
                 "code": 21,
@@ -9720,7 +9720,7 @@
     {
         "id": 304,
         "animationId": 92,
-        "description": "Performs an attack that has a low chance of inflicting Stun on all enemies.",
+        "description": "Performs an attack that has a low chance of inflicting Stun\non all enemies.",
         "effects": [
             {
                 "code": 21,
@@ -9762,7 +9762,7 @@
     {
         "id": 305,
         "animationId": 247,
-        "description": "\nPerform an attack that inflicts a moderate decrease in agility on a single enemy for 5 turns.\nInflict paralysis with a low probability.",
+        "description": " Perform an attack that inflicts a moderate decrease in\nagility on a single enemy for 5 turns. Inflict paralysis\nwith a low probability.",
         "effects": [
             {
                 "code": 32,
@@ -9852,7 +9852,7 @@
     {
         "id": 307,
         "animationId": 250,
-        "description": "\nDeals a high amount of damage to a single enemy, ignoring their defense.\nHas a low chance to inflict stun.",
+        "description": " Deals a high amount of damage to a single enemy, ignoring\ntheir defense. Has a low chance to inflict stun.",
         "effects": [
             {
                 "code": 21,
@@ -9894,7 +9894,7 @@
     {
         "id": 308,
         "animationId": 249,
-        "description": "Deals two powerful damage to all enemies, ignoring their defense.",
+        "description": "Deals two powerful damage to all enemies, ignoring their\ndefense.",
         "effects": [
             {
                 "code": 21,
@@ -9959,7 +9959,7 @@
     {
         "id": 310,
         "animationId": 127,
-        "description": "Grants a 5-turn increase in susceptibility to being targeted by users.",
+        "description": "Grants a 5-turn increase in susceptibility to being targeted\nby users.",
         "effects": [
             {
                 "code": 21,
@@ -9995,7 +9995,7 @@
     {
         "id": 311,
         "animationId": 52,
-        "description": "\nGrants a medium increase in attack power to the user for 2 turns.\nAdditionally, increases TP by 15.",
+        "description": " Grants a medium increase in attack power to the user for 2\nturns. Additionally, increases TP by 15.",
         "effects": [
             {
                 "code": 31,
@@ -10079,7 +10079,7 @@
     {
         "id": 313,
         "animationId": 173,
-        "description": "\nGrants a significant decrease in being targeted by the user for 5 turns.\nWhile hidden, has a low chance of instantly killing enemies.",
+        "description": " Grants a significant decrease in being targeted by the user\nfor 5 turns. While hidden, has a low chance of instantly\nkilling enemies.",
         "effects": [
             {
                 "code": 21,
@@ -10115,7 +10115,7 @@
     {
         "id": 314,
         "animationId": 52,
-        "description": "Text Grants a moderate agility boost for 2 turns to all allies and increases TP by 15.",
+        "description": "Text Grants a moderate agility boost for 2 turns to all\nallies and increases TP by 15.",
         "effects": [
             {
                 "code": 31,
@@ -10163,7 +10163,7 @@
     {
         "id": 315,
         "animationId": 0,
-        "description": "Inflicts one turn of incapacitation on all enemies. However, during incapacitation, physical damage resistance is doubled.",
+        "description": "Inflicts one turn of incapacitation on all enemies. However,\nduring incapacitation, physical damage resistance is\ndoubled.",
         "effects": [
             {
                 "code": 21,
@@ -10199,7 +10199,7 @@
     {
         "id": 316,
         "animationId": 0,
-        "description": "Grants the user a significant increase in attack power, agility, luck, and a counterattack for 3 turns.",
+        "description": "Grants the user a significant increase in attack power,\nagility, luck, and a counterattack for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -10289,7 +10289,7 @@
     {
         "id": 318,
         "animationId": 286,
-        "description": "Deals thunder attribute damage to a single enemy, ignoring their defense.",
+        "description": "Deals thunder attribute damage to a single enemy, ignoring\ntheir defense.",
         "effects": [
             {
                 "code": 21,
@@ -10325,7 +10325,7 @@
     {
         "id": 319,
         "animationId": 285,
-        "description": "Inflicts thunder attribute damage to a single enemy with a moderate chance of paralysis, ignoring their defense.",
+        "description": "Inflicts thunder attribute damage to a single enemy with a\nmoderate chance of paralysis, ignoring their defense.",
         "effects": [
             {
                 "code": 21,
@@ -10366,7 +10366,7 @@
     {
         "id": 320,
         "animationId": 287,
-        "description": "\nDeals damage to all enemies.\nThe power depends on the user's attack and luck.",
+        "description": " Deals damage to all enemies. The power depends on the\nuser's attack and luck.",
         "effects": [
             {
                 "code": 21,
@@ -10438,7 +10438,7 @@
     {
         "id": 322,
         "animationId": 289,
-        "description": "Deals a massive amount of damage to a single enemy, ignoring their defense.",
+        "description": "Deals a massive amount of damage to a single enemy, ignoring\ntheir defense.",
         "effects": [
             {
                 "code": 21,
@@ -10516,7 +10516,7 @@
     {
         "id": 324,
         "animationId": 290,
-        "description": "Gain the following additional effects for 1 turn when attacking the enemy first and counterattacking:\n- Inflict poison status.",
+        "description": "Gain the following additional effects for 1 turn when\nattacking the enemy first and counterattacking: - Inflict\npoison status.",
         "effects": [
             {
                 "code": 21,
@@ -10552,7 +10552,7 @@
     {
         "id": 325,
         "animationId": 292,
-        "description": "Gain the following additional effects for 1 turn when attacking the enemy first and counterattacking: inflict darkness status.",
+        "description": "Gain the following additional effects for 1 turn when\nattacking the enemy first and counterattacking: inflict\ndarkness status.",
         "effects": [
             {
                 "code": 21,
@@ -10588,7 +10588,7 @@
     {
         "id": 326,
         "animationId": 296,
-        "description": "Gain the following additional effects for 1 turn when attacking the enemy first:\n- Inflict Sleep status.",
+        "description": "Gain the following additional effects for 1 turn when\nattacking the enemy first: - Inflict Sleep status.",
         "effects": [
             {
                 "code": 21,
@@ -10624,7 +10624,7 @@
     {
         "id": 327,
         "animationId": 294,
-        "description": "Gain the following additional effects for 1 turn when attacking the enemy first and counterattacking:\n- Inflict paralysis status.",
+        "description": "Gain the following additional effects for 1 turn when\nattacking the enemy first and counterattacking: - Inflict\nparalysis status.",
         "effects": [
             {
                 "code": 21,
@@ -10660,7 +10660,7 @@
     {
         "id": 328,
         "animationId": 293,
-        "description": "Gain the following additional effects for 1 turn when attacking the enemy first:\n- Inflict silence status.",
+        "description": "Gain the following additional effects for 1 turn when\nattacking the enemy first: - Inflict silence status.",
         "effects": [
             {
                 "code": 21,
@@ -10696,7 +10696,7 @@
     {
         "id": 329,
         "animationId": 295,
-        "description": "Gain the following additional effects for 1 turn when attacking the enemy first:\n- Inflict confusion status.",
+        "description": "Gain the following additional effects for 1 turn when\nattacking the enemy first: - Inflict confusion status.",
         "effects": [
             {
                 "code": 21,
@@ -10732,7 +10732,7 @@
     {
         "id": 330,
         "animationId": 297,
-        "description": "Gain the following additional effects for 1 turn when initiating an attack against an enemy: Inflict enraged state.",
+        "description": "Gain the following additional effects for 1 turn when\ninitiating an attack against an enemy: Inflict enraged\nstate.",
         "effects": [
             {
                 "code": 21,
@@ -10768,7 +10768,7 @@
     {
         "id": 331,
         "animationId": 298,
-        "description": "Gain the following additional effects for 1 turn when attacking the enemy first and counterattacking:\n- Inflict Charm status.",
+        "description": "Gain the following additional effects for 1 turn when\nattacking the enemy first and counterattacking: - Inflict\nCharm status.",
         "effects": [
             {
                 "code": 21,
@@ -10804,7 +10804,7 @@
     {
         "id": 332,
         "animationId": 299,
-        "description": "Gain the following additional effects for 1 turn when attacking the enemy first and counterattacking: inflict poison and charm status ailments, and perform attacks with dark attribute.",
+        "description": "Gain the following additional effects for 1 turn when\nattacking the enemy first and counterattacking: inflict\npoison and charm status ailments, and perform attacks with\ndark attribute.",
         "effects": [
             {
                 "code": 21,
@@ -10840,7 +10840,7 @@
     {
         "id": 333,
         "animationId": 300,
-        "description": "Gain the following additional effects for 1 turn when attacking the enemy first and counterattacking:\nHigh chance of instant death.",
+        "description": "Gain the following additional effects for 1 turn when\nattacking the enemy first and counterattacking: High chance\nof instant death.",
         "effects": [
             {
                 "code": 21,
@@ -10876,7 +10876,7 @@
     {
         "id": 334,
         "animationId": 301,
-        "description": "Gain the following additional effects for 1 turn when attacking the enemy first and counterattacking: greatly increased attack power and critical hits based on the light attribute.",
+        "description": "Gain the following additional effects for 1 turn when\nattacking the enemy first and counterattacking: greatly\nincreased attack power and critical hits based on the light\nattribute.",
         "effects": [
             {
                 "code": 21,
@@ -10912,7 +10912,7 @@
     {
         "id": 335,
         "animationId": 313,
-        "description": "Inflicts a high chance of causing the enemy to be in a stunned state.",
+        "description": "Inflicts a high chance of causing the enemy to be in a\nstunned state.",
         "effects": [
             {
                 "code": 21,
@@ -10948,7 +10948,7 @@
     {
         "id": 336,
         "animationId": 314,
-        "description": "Inflicts a moderate decrease in attack power and has a moderate chance to inflict the stun status on all enemies. The attack power decrease lasts for 5 turns but gradually diminishes over time.",
+        "description": "Inflicts a moderate decrease in attack power and has a\nmoderate chance to inflict the stun status on all enemies.\nThe attack power decrease lasts for 5 turns but gradually\ndiminishes over time.",
         "effects": [
             {
                 "code": 21,
@@ -10995,7 +10995,7 @@
     {
         "id": 337,
         "animationId": 315,
-        "description": "Inflicts a significant defense debuff on a single enemy for 3 turns.",
+        "description": "Inflicts a significant defense debuff on a single enemy for\n3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -11031,7 +11031,7 @@
     {
         "id": 338,
         "animationId": 316,
-        "description": "Inflicts a 3-turn decrease in agility and luck on a single enemy.",
+        "description": "Inflicts a 3-turn decrease in agility and luck on a single\nenemy.",
         "effects": [
             {
                 "code": 32,
@@ -11085,7 +11085,7 @@
     {
         "id": 339,
         "animationId": 317,
-        "description": "Inflicts a medium decrease in attack and defense power on all enemies for 5 turns.",
+        "description": "Inflicts a medium decrease in attack and defense power on\nall enemies for 5 turns.",
         "effects": [
             {
                 "code": 32,
@@ -11139,7 +11139,7 @@
     {
         "id": 340,
         "animationId": 318,
-        "description": "Inflicts a significant defense debuff on all enemies for 3 turns and has a high chance of inflicting stun.",
+        "description": "Inflicts a significant defense debuff on all enemies for 3\nturns and has a high chance of inflicting stun.",
         "effects": [
             {
                 "code": 21,
@@ -11381,7 +11381,7 @@
     {
         "id": 348,
         "animationId": 0,
-        "description": "Maximum HP increases by 3 points and agility increases by 1 point.",
+        "description": "Maximum HP increases by 3 points and agility increases by 1\npoint.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -11746,7 +11746,7 @@
     {
         "id": 361,
         "animationId": 0,
-        "description": "\\c[1]Can open a blue physical treasure chest/door\\c[0]\nThe corresponding treasure chest/door will display \\I[507]",
+        "description": "\\c[1]Can open a blue physical treasure chest/door\\c[0] The\ncorresponding treasure chest/door will display \\I[507]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 497,
@@ -11803,7 +11803,7 @@
     {
         "id": 363,
         "animationId": 0,
-        "description": "\\c[1]You can obtain ancient coins by sniffing the blue light\\c[0].",
+        "description": "\\c[1]You can obtain ancient coins by sniffing the blue\nlight\\c[0].",
         "effects": [],
         "hitType": 0,
         "iconIndex": 496,
@@ -11860,7 +11860,7 @@
     {
         "id": 365,
         "animationId": 0,
-        "description": "\\c[3]Can open green physical treasure chests and doors\\c[0].\nThe corresponding treasure chests and doors will display \\I[507].",
+        "description": "\\c[3]Can open green physical treasure chests and doors\\c[0].\nThe corresponding treasure chests and doors will display\n\\I[507].",
         "effects": [],
         "hitType": 0,
         "iconIndex": 497,
@@ -11889,7 +11889,7 @@
     {
         "id": 366,
         "animationId": 0,
-        "description": "\n\\c[10] Can open a red physical treasure chest/door\\c[0]\nThe corresponding treasure chest/door will display \\I[507]",
+        "description": " \\c[10] Can open a red physical treasure chest/door\\c[0] The\ncorresponding treasure chest/door will display \\I[507]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 497,
@@ -11917,7 +11917,7 @@
     {
         "id": 367,
         "animationId": 0,
-        "description": "\\c[7]Can open a black physical treasure chest/door\\c[0]\nThe corresponding treasure chest/door will display \\I[507]",
+        "description": "\\c[7]Can open a black physical treasure chest/door\\c[0] The\ncorresponding treasure chest/door will display \\I[507]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 497,
@@ -12031,7 +12031,7 @@
     {
         "id": 371,
         "animationId": 0,
-        "description": "\\c[3]You can obtain ancient coins by sniffing the green light\\c[0].",
+        "description": "\\c[3]You can obtain ancient coins by sniffing the green\nlight\\c[0].",
         "effects": [],
         "hitType": 0,
         "iconIndex": 496,
@@ -12059,7 +12059,7 @@
     {
         "id": 372,
         "animationId": 0,
-        "description": "\\c[10]You can obtain ancient coins by sniffing the red light\\c[0].",
+        "description": "\\c[10]You can obtain ancient coins by sniffing the red\nlight\\c[0].",
         "effects": [],
         "hitType": 0,
         "iconIndex": 496,
@@ -12087,7 +12087,7 @@
     {
         "id": 373,
         "animationId": 0,
-        "description": "\\c[7]You can obtain ancient coins by sniffing the black light\\c[0].",
+        "description": "\\c[7]You can obtain ancient coins by sniffing the black\nlight\\c[0].",
         "effects": [],
         "hitType": 0,
         "iconIndex": 496,
@@ -12256,7 +12256,7 @@
     {
         "id": 379,
         "animationId": 326,
-        "description": "Inflicts 3 consecutive attacks with preemptive strike on a single enemy and grants the user a significant increase in agility and counterattack for 3 turns.",
+        "description": "Inflicts 3 consecutive attacks with preemptive strike on a\nsingle enemy and grants the user a significant increase in\nagility and counterattack for 3 turns.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -12285,7 +12285,7 @@
     {
         "id": 380,
         "animationId": 458,
-        "description": "Preemptively increase the evasion rate and magic evasion rate of all allies to the maximum limit for one turn.",
+        "description": "Preemptively increase the evasion rate and magic evasion\nrate of all allies to the maximum limit for one turn.",
         "effects": [
             {
                 "code": 21,
@@ -12345,7 +12345,7 @@
         "name": "Black Meteor",
         "note": "<ステート追加: 135>\n<BeforeCommon:704>",
         "message1": "",
-        "description": "Inflicts a preemptive attack on a single enemy, dealing guaranteed damage that ignores defense. Also grants the user a 15% increase in accuracy for 3 turns."
+        "description": "Inflicts a preemptive attack on a single enemy, dealing\nguaranteed damage that ignores defense. Also grants the user\na 15% increase in accuracy for 3 turns."
     },
     {
         "id": 382,
@@ -12373,7 +12373,7 @@
         },
         "name": "Thank you, I'll take it!",
         "note": "玉座に座る者1-16\nフォティゾナ王宮3F_H\n必須で入手可能\n<ステート追加: 35>\n<BeforeCommon:709>\n",
-        "description": "Absorbs MP from a single enemy and grants a significant defense boost to the user for 3 turns.",
+        "description": "Absorbs MP from a single enemy and grants a significant\ndefense boost to the user for 3 turns.",
         "message1": ""
     },
     {
@@ -12403,7 +12403,7 @@
         "name": "True Goat Strike",
         "note": "玉座に座る者1-14（任意）\nフォティゾナ王宮1F_B\n【087】消えるもの残るものクリアしていると入手\n<BeforeCommon:711>",
         "message1": "",
-        "description": "\nDeals dragon-effective damage to a single enemy, ignoring their defense. The power depends on the user's attack and magic power."
+        "description": " Deals dragon-effective damage to a single enemy, ignoring\ntheir defense. The power depends on the user's attack and\nmagic power."
     },
     {
         "id": 384,
@@ -12432,7 +12432,7 @@
         "name": "Proud Dual Swords",
         "note": "玉座に座る者1-14（任意）\nフォティゾナ王宮1F_B\n【087】消えるもの残るものクリアしていると入手\n<BeforeCommon:716>",
         "message1": "",
-        "description": "\nDeals two consecutive attacks with ignore defense damage to a single enemy with a preemptive strike. The power depends on the user's attack and agility."
+        "description": " Deals two consecutive attacks with ignore defense damage to\na single enemy with a preemptive strike. The power depends\non the user's attack and agility."
     },
     {
         "id": 385,
@@ -12461,7 +12461,7 @@
         "name": "Evil Slash",
         "note": "玉座に座る者\n隻腕のオプロの援護スキル\n<BeforeCommon:702>",
         "message1": "",
-        "description": "\nDeals dragon-effective damage to a single enemy, ignoring their defense.\nThe power depends on the user's magic power."
+        "description": " Deals dragon-effective damage to a single enemy, ignoring\ntheir defense. The power depends on the user's magic power."
     },
     {
         "id": 386,
@@ -12509,7 +12509,7 @@
         "name": "Devil's Dual Wings",
         "note": "玉座に座る者\n探検家アルマダの援護スキル\n<BeforeCommon:706>",
         "message1": "",
-        "description": "Grant automatic recovery of 13% HP and 6% MP to all allies for 3 turns."
+        "description": "Grant automatic recovery of 13% HP and 6% MP to all allies\nfor 3 turns."
     },
     {
         "id": 387,
@@ -12551,7 +12551,7 @@
         "name": "Suspicious Medicine",
         "note": "玉座に座る者\n渡世人コルスの援護スキル\n<BeforeCommon:707>",
         "message1": "",
-        "description": "Grants a 10% increase in non-removable percentage damage and TP boost to all allies for 5 turns."
+        "description": "Grants a 10% increase in non-removable percentage damage and\nTP boost to all allies for 5 turns."
     },
     {
         "id": 388,
@@ -12593,7 +12593,7 @@
         "name": "Excavation Technique: Hole Digging",
         "note": "玉座に座る者\n少女探検家イクトの援護スキル\n<BeforeCommon:712>",
         "message1": "",
-        "description": "\nDeals guaranteed damage that ignores the enemy's defense to a single target.\nInflicts a significant decrease in defense and magic defense for 3 turns."
+        "description": " Deals guaranteed damage that ignores the enemy's defense to\na single target. Inflicts a significant decrease in defense\nand magic defense for 3 turns."
     },
     {
         "id": 389,
@@ -12635,7 +12635,7 @@
         "name": "Voice of the Pure",
         "note": "玉座に座る者\n声の巫女フォニの援護スキル\n<BeforeCommon:710>",
         "message1": "",
-        "description": "Granting preemptive magic reflection and a significant increase in magic defense to all allies for 3 turns."
+        "description": "Granting preemptive magic reflection and a significant\nincrease in magic defense to all allies for 3 turns."
     },
     {
         "id": 390,
@@ -12647,7 +12647,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Completely heals the entire party's stun status, restores HP and MP to full, and grants the user automatic recovery from stun status.",
+        "description": "Completely heals the entire party's stun status, restores HP\nand MP to full, and grants the user automatic recovery from\nstun status.",
         "effects": [
             {
                 "code": 44,
@@ -12720,12 +12720,12 @@
         "name": "Encouragement",
         "note": "玉座に座る者\n慈愛のストルゲの援護スキル\n<BeforeCommon:715>",
         "message1": "",
-        "description": "Grants a 5% increase in critical hit rate to all allies for 3 turns."
+        "description": "Grants a 5% increase in critical hit rate to all allies for\n3 turns."
     },
     {
         "id": 392,
         "animationId": 0,
-        "description": "When HP is below 15%, attack power increases by 3 times and critical hit rate increases by 5%.",
+        "description": "When HP is below 15%, attack power increases by 3 times and\ncritical hit rate increases by 5%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -13018,7 +13018,7 @@
     {
         "id": 402,
         "animationId": 51,
-        "description": "Protects the entire party from physical and magical attacks for one turn.",
+        "description": "Protects the entire party from physical and magical attacks\nfor one turn.",
         "effects": [
             {
                 "code": 21,
@@ -13153,7 +13153,7 @@
     {
         "id": 406,
         "animationId": 51,
-        "description": "Reduces physical attack damage received by the user for 3 turns.",
+        "description": "Reduces physical attack damage received by the user for 3\nturns.",
         "effects": [
             {
                 "code": 21,
@@ -13189,7 +13189,7 @@
     {
         "id": 407,
         "animationId": 7,
-        "description": "\nDeals damage to two random enemies.\nIncreases the user's TP by 3.",
+        "description": " Deals damage to two random enemies. Increases the user's TP\nby 3.",
         "effects": [
             {
                 "code": 21,
@@ -13225,7 +13225,7 @@
     {
         "id": 408,
         "animationId": 2,
-        "description": "\nDeals damage to a single enemy\nHas a low chance to inflict stun status",
+        "description": " Deals damage to a single enemy Has a low chance to inflict\nstun status",
         "effects": [
             {
                 "code": 21,
@@ -13267,7 +13267,7 @@
     {
         "id": 409,
         "animationId": 65,
-        "description": "Inflicts damage on a single enemy and has a low chance of causing instant death.",
+        "description": "Inflicts damage on a single enemy and has a low chance of\ncausing instant death.",
         "effects": [
             {
                 "code": 21,
@@ -13309,7 +13309,7 @@
     {
         "id": 410,
         "animationId": 55,
-        "description": "\nDeals guaranteed damage that ignores the enemy's defense to a single target.\nInflicts a significant decrease in defense for 3 turns.",
+        "description": " Deals guaranteed damage that ignores the enemy's defense to\na single target. Inflicts a significant decrease in defense\nfor 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -13351,7 +13351,7 @@
     {
         "id": 411,
         "animationId": 2,
-        "description": "\nDeals damage to a single enemy\nHas a low chance to inflict stun status",
+        "description": " Deals damage to a single enemy Has a low chance to inflict\nstun status",
         "effects": [
             {
                 "code": 21,
@@ -13393,7 +13393,7 @@
     {
         "id": 412,
         "animationId": 65,
-        "description": "\nDeals damage to a single enemy\nHas a moderate chance to inflict instant death",
+        "description": " Deals damage to a single enemy Has a moderate chance to\ninflict instant death",
         "effects": [
             {
                 "code": 21,
@@ -13435,7 +13435,7 @@
     {
         "id": 413,
         "animationId": 55,
-        "description": "\nDeals guaranteed damage that ignores the enemy's defense to a single target.\nInflicts a significant decrease in attack power for 3 turns.",
+        "description": " Deals guaranteed damage that ignores the enemy's defense to\na single target. Inflicts a significant decrease in attack\npower for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -13477,7 +13477,7 @@
     {
         "id": 414,
         "animationId": 91,
-        "description": "\nDeals preemptive damage to a single enemy, ignoring their defense.\nGrants a significant boost to the user's agility for 5 turns.",
+        "description": " Deals preemptive damage to a single enemy, ignoring their\ndefense. Grants a significant boost to the user's agility\nfor 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -13513,7 +13513,7 @@
     {
         "id": 415,
         "animationId": 23,
-        "description": "\nDeals damage to a single enemy 4 times.\nIncreases the user's TP by 3.",
+        "description": " Deals damage to a single enemy 4 times. Increases the\nuser's TP by 3.",
         "effects": [
             {
                 "code": 21,
@@ -13549,7 +13549,7 @@
     {
         "id": 416,
         "animationId": 319,
-        "description": "Grants a small increase in attack power, defense power, and magic defense power to all allies for 5 turns.",
+        "description": "Grants a small increase in attack power, defense power, and\nmagic defense power to all allies for 5 turns.",
         "effects": [
             {
                 "code": 31,
@@ -13597,7 +13597,7 @@
     {
         "id": 417,
         "animationId": 0,
-        "description": "Deals a large amount of damage to a single enemy, ignoring their defense.",
+        "description": "Deals a large amount of damage to a single enemy, ignoring\ntheir defense.",
         "effects": [
             {
                 "code": 21,
@@ -13633,7 +13633,7 @@
     {
         "id": 418,
         "animationId": 0,
-        "description": "\nDeals damage to all enemies ignoring their defense.\nProtects all allies from physical and magical attacks for 3 turns.",
+        "description": " Deals damage to all enemies ignoring their defense.\nProtects all allies from physical and magical attacks for 3\nturns.",
         "effects": [
             {
                 "code": 21,
@@ -13669,7 +13669,7 @@
     {
         "id": 419,
         "animationId": 181,
-        "description": "Inflicts a significant decrease in fire resistance for 3 turns on a single enemy and deals fire attribute damage based on attack power and magic power.",
+        "description": "Inflicts a significant decrease in fire resistance for 3\nturns on a single enemy and deals fire attribute damage\nbased on attack power and magic power.",
         "effects": [
             {
                 "code": 21,
@@ -13711,7 +13711,7 @@
     {
         "id": 420,
         "animationId": 183,
-        "description": "Inflicts a significant decrease in ice resistance on a single enemy for 3 turns and deals ice attribute damage based on attack and magic power.",
+        "description": "Inflicts a significant decrease in ice resistance on a\nsingle enemy for 3 turns and deals ice attribute damage\nbased on attack and magic power.",
         "effects": [
             {
                 "code": 21,
@@ -13753,7 +13753,7 @@
     {
         "id": 421,
         "animationId": 185,
-        "description": "Inflicts a significant decrease in lightning resistance for 3 turns on a single enemy, and deals lightning attribute damage dependent on attack power and magic power.",
+        "description": "Inflicts a significant decrease in lightning resistance for\n3 turns on a single enemy, and deals lightning attribute\ndamage dependent on attack power and magic power.",
         "effects": [
             {
                 "code": 21,
@@ -13795,7 +13795,7 @@
     {
         "id": 422,
         "animationId": 8,
-        "description": "Inflicts a significant decrease in fire resistance for 3 turns on a single enemy and deals fire attribute damage based on attack power and magic power.",
+        "description": "Inflicts a significant decrease in fire resistance for 3\nturns on a single enemy and deals fire attribute damage\nbased on attack power and magic power.",
         "effects": [
             {
                 "code": 21,
@@ -13837,7 +13837,7 @@
     {
         "id": 423,
         "animationId": 9,
-        "description": "Inflicts a significant decrease in ice resistance on a single enemy for 3 turns and deals ice attribute damage dependent on attack power and magic power.",
+        "description": "Inflicts a significant decrease in ice resistance on a\nsingle enemy for 3 turns and deals ice attribute damage\ndependent on attack power and magic power.",
         "effects": [
             {
                 "code": 21,
@@ -13879,7 +13879,7 @@
     {
         "id": 424,
         "animationId": 10,
-        "description": "Inflicts a significant decrease in lightning resistance for 3 turns on a single enemy, and deals lightning attribute damage dependent on attack power and magic power.",
+        "description": "Inflicts a significant decrease in lightning resistance for\n3 turns on a single enemy, and deals lightning attribute\ndamage dependent on attack power and magic power.",
         "effects": [
             {
                 "code": 21,
@@ -13921,7 +13921,7 @@
     {
         "id": 425,
         "animationId": 8,
-        "description": "\nDeals fire attribute damage to a single enemy.\nThe power depends on the user's attack and magic power.",
+        "description": " Deals fire attribute damage to a single enemy. The power\ndepends on the user's attack and magic power.",
         "effects": [
             {
                 "code": 21,
@@ -13957,7 +13957,7 @@
     {
         "id": 426,
         "animationId": 9,
-        "description": "\nDeals ice attribute damage to a single enemy.\nThe power depends on the user's attack and magic power.",
+        "description": " Deals ice attribute damage to a single enemy. The power\ndepends on the user's attack and magic power.",
         "effects": [
             {
                 "code": 21,
@@ -13993,7 +13993,7 @@
     {
         "id": 427,
         "animationId": 10,
-        "description": "\nDeals thunder attribute damage to a single enemy.\nThe power depends on the user's attack and magic power.",
+        "description": " Deals thunder attribute damage to a single enemy. The power\ndepends on the user's attack and magic power.",
         "effects": [
             {
                 "code": 21,
@@ -14029,7 +14029,7 @@
     {
         "id": 428,
         "animationId": 97,
-        "description": "\nDeals light attribute damage to a single enemy.\nThe power depends on the user's attack and magic power.",
+        "description": " Deals light attribute damage to a single enemy. The power\ndepends on the user's attack and magic power.",
         "effects": [
             {
                 "code": 21,
@@ -14065,7 +14065,7 @@
     {
         "id": 429,
         "animationId": 8,
-        "description": "\nDeals fire attribute damage to a single enemy, ignoring their defense.\nThe power depends on the user's attack and magic power.",
+        "description": " Deals fire attribute damage to a single enemy, ignoring\ntheir defense. The power depends on the user's attack and\nmagic power.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 362,
@@ -14094,7 +14094,7 @@
     {
         "id": 430,
         "animationId": 9,
-        "description": "\nDeals ice attribute damage to a single enemy, ignoring their defense.\nThe power depends on the user's attack and magic power.",
+        "description": " Deals ice attribute damage to a single enemy, ignoring\ntheir defense. The power depends on the user's attack and\nmagic power.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 363,
@@ -14123,7 +14123,7 @@
     {
         "id": 431,
         "animationId": 10,
-        "description": "\nDeals thunder attribute damage to a single enemy, ignoring their defense.\nThe power depends on the user's attack and magic power.",
+        "description": " Deals thunder attribute damage to a single enemy, ignoring\ntheir defense. The power depends on the user's attack and\nmagic power.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 364,
@@ -14152,7 +14152,7 @@
     {
         "id": 432,
         "animationId": 97,
-        "description": "\nDeals light attribute damage to a single enemy, ignoring their defense.\nThe power depends on the user's attack and magic power.",
+        "description": " Deals light attribute damage to a single enemy, ignoring\ntheir defense. The power depends on the user's attack and\nmagic power.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 368,
@@ -14181,7 +14181,7 @@
     {
         "id": 433,
         "animationId": 2,
-        "description": "\nDeals damage to a single enemy\nHas a low chance to inflict stun status",
+        "description": " Deals damage to a single enemy Has a low chance to inflict\nstun status",
         "effects": [
             {
                 "code": 21,
@@ -14223,7 +14223,7 @@
     {
         "id": 434,
         "animationId": 7,
-        "description": "\nDeal damage to two random enemies.\nIncrease the user's TP by 5.",
+        "description": " Deal damage to two random enemies. Increase the user's TP\nby 5.",
         "effects": [
             {
                 "code": 21,
@@ -14259,7 +14259,7 @@
     {
         "id": 435,
         "animationId": 2,
-        "description": "\nDeals damage to a single enemy\nHas a low chance to inflict stun status",
+        "description": " Deals damage to a single enemy Has a low chance to inflict\nstun status",
         "effects": [
             {
                 "code": 21,
@@ -14301,7 +14301,7 @@
     {
         "id": 436,
         "animationId": 91,
-        "description": "\nDeals preemptive damage to a single enemy, ignoring their defense.\nGrants a significant boost to the user's agility for 5 turns.",
+        "description": " Deals preemptive damage to a single enemy, ignoring their\ndefense. Grants a significant boost to the user's agility\nfor 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -14620,7 +14620,7 @@
     {
         "id": 447,
         "animationId": 0,
-        "description": "When HP drops below 20%, attack power increases by 1.5 times.",
+        "description": "When HP drops below 20%, attack power increases by 1.5\ntimes.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -14734,7 +14734,7 @@
     {
         "id": 451,
         "animationId": 0,
-        "description": "Physical evasion rate increases by 2% and defense power increases by 10 points.",
+        "description": "Physical evasion rate increases by 2% and defense power\nincreases by 10 points.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -15269,7 +15269,7 @@
     {
         "id": 470,
         "animationId": 0,
-        "description": "\\c[1]You can duel with the target NPC\\c[0] wearing a blue cloak.",
+        "description": "\\c[1]You can duel with the target NPC\\c[0] wearing a blue\ncloak.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 493,
@@ -15353,7 +15353,7 @@
     {
         "id": 473,
         "animationId": 0,
-        "description": "You can defeat enemy symbols from the back, right side, and left side.",
+        "description": "You can defeat enemy symbols from the back, right side, and\nleft side.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 492,
@@ -15381,7 +15381,7 @@
     {
         "id": 474,
         "animationId": 0,
-        "description": "You can defeat enemy symbols from the back, right side, and left side. There is a 50% chance of being able to defeat them from the front as well.",
+        "description": "You can defeat enemy symbols from the back, right side, and\nleft side. There is a 50% chance of being able to defeat\nthem from the front as well.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 492,
@@ -15521,7 +15521,7 @@
     {
         "id": 479,
         "animationId": 0,
-        "description": "\\c[10] You can duel with the target NPC\\c[0] wearing a red cloak.",
+        "description": "\\c[10] You can duel with the target NPC\\c[0] wearing a red\ncloak.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 493,
@@ -15881,7 +15881,7 @@
         },
         "name": "Indomitable Shield",
         "note": "玉座に座る者\nメイドのアミナ援護スキル\n<BeforeCommon:705>",
-        "description": "Grants the effect of leaving 1 HP remaining even after receiving damage that exceeds the HP of all allies.",
+        "description": "Grants the effect of leaving 1 HP remaining even after\nreceiving damage that exceeds the HP of all allies.",
         "message1": ""
     },
     {
@@ -15917,7 +15917,7 @@
         },
         "name": "Royal Command",
         "note": "玉座に座る者\nレクス王子の援護スキル\n<BeforeCommon:703>",
-        "description": "Grants a massive increase to all stats to the entire party for 3 turns.",
+        "description": "Grants a massive increase to all stats to the entire party\nfor 3 turns.",
         "message1": ""
     },
     {
@@ -15965,7 +15965,7 @@
         },
         "name": "Bloodstained Sword",
         "note": "玉座に座る者\n暗部ルイドの援護スキル\n<BeforeCommon:714>",
-        "description": "Provides a significant increase in damage and attack power that cannot be undone by the user. Grants a 10% increase in critical hit rate for 3 turns.",
+        "description": "Provides a significant increase in damage and attack power\nthat cannot be undone by the user. Grants a 10% increase in\ncritical hit rate for 3 turns.",
         "message1": ""
     },
     {
@@ -17339,7 +17339,7 @@
     {
         "id": 543,
         "animationId": 0,
-        "description": "Physical evasion rate increases by 3% and defense power increases by 10 points.",
+        "description": "Physical evasion rate increases by 3% and defense power\nincreases by 10 points.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -17367,7 +17367,7 @@
     {
         "id": 544,
         "animationId": 0,
-        "description": "Physical evasion rate increases by 4% and defense power increases by 10 points.",
+        "description": "Physical evasion rate increases by 4% and defense power\nincreases by 10 points.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -17395,7 +17395,7 @@
     {
         "id": 545,
         "animationId": 0,
-        "description": "Physical evasion rate increases by 5% and defense power increases by 10 points.",
+        "description": "Physical evasion rate increases by 5% and defense power\nincreases by 10 points.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -17423,7 +17423,7 @@
     {
         "id": 546,
         "animationId": 0,
-        "description": "Defense increases by 3 points\nAgility increases by 5 points",
+        "description": "Defense increases by 3 points Agility increases by 5 points",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -17451,7 +17451,7 @@
     {
         "id": 547,
         "animationId": 0,
-        "description": "Defense increases by 5 points\nAgility increases by 7 points",
+        "description": "Defense increases by 5 points Agility increases by 7 points",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -17479,7 +17479,7 @@
     {
         "id": 548,
         "animationId": 0,
-        "description": "Defense increases by 7 points\nAgility increases by 10 points",
+        "description": "Defense increases by 7 points Agility increases by 10 points",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -17619,7 +17619,7 @@
     {
         "id": 553,
         "animationId": 0,
-        "description": "When HP falls below 20%, attack power increases by 2.5 times.",
+        "description": "When HP falls below 20%, attack power increases by 2.5\ntimes.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -18241,7 +18241,7 @@
     {
         "id": 575,
         "animationId": 0,
-        "description": "Maximum HP increases by 5 points and agility increases by 3 points.",
+        "description": "Maximum HP increases by 5 points and agility increases by 3\npoints.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -18270,7 +18270,7 @@
     {
         "id": 576,
         "animationId": 0,
-        "description": "Maximum HP increases by 10 points and agility increases by 5 points.",
+        "description": "Maximum HP increases by 10 points and agility increases by 5\npoints.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -18298,7 +18298,7 @@
     {
         "id": 577,
         "animationId": 0,
-        "description": "Maximum HP increases by 15 points and agility increases by 7 points.",
+        "description": "Maximum HP increases by 15 points and agility increases by 7\npoints.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -18495,7 +18495,7 @@
     {
         "id": 584,
         "animationId": 0,
-        "description": "Inflicts a high chance of causing the enemy to be in a stunned state.",
+        "description": "Inflicts a high chance of causing the enemy to be in a\nstunned state.",
         "effects": [
             {
                 "code": 21,
@@ -18530,7 +18530,7 @@
     {
         "id": 585,
         "animationId": 0,
-        "description": "Inflicts a high chance of causing the enemy to be in a stunned state.",
+        "description": "Inflicts a high chance of causing the enemy to be in a\nstunned state.",
         "effects": [
             {
                 "code": 21,
@@ -18565,7 +18565,7 @@
     {
         "id": 586,
         "animationId": 0,
-        "description": "Inflicts a high chance of causing the enemy to be in a stunned state.",
+        "description": "Inflicts a high chance of causing the enemy to be in a\nstunned state.",
         "effects": [
             {
                 "code": 21,
@@ -18600,7 +18600,7 @@
     {
         "id": 587,
         "animationId": 0,
-        "description": "Inflicts a moderate decrease in attack power and has a moderate chance to inflict the stun status on all enemies. The attack power decrease lasts for 5 turns but gradually weakens over time.",
+        "description": "Inflicts a moderate decrease in attack power and has a\nmoderate chance to inflict the stun status on all enemies.\nThe attack power decrease lasts for 5 turns but gradually\nweakens over time.",
         "effects": [
             {
                 "code": 21,
@@ -18647,7 +18647,7 @@
     {
         "id": 588,
         "animationId": 0,
-        "description": "Inflicts a moderate decrease in attack power and has a moderate chance to inflict the stun status on all enemies. The attack power decrease lasts for 5 turns but gradually weakens over time.",
+        "description": "Inflicts a moderate decrease in attack power and has a\nmoderate chance to inflict the stun status on all enemies.\nThe attack power decrease lasts for 5 turns but gradually\nweakens over time.",
         "effects": [
             {
                 "code": 21,
@@ -18694,7 +18694,7 @@
     {
         "id": 589,
         "animationId": 0,
-        "description": "Inflicts a moderate decrease in attack power and has a moderate chance to inflict the stun status on all enemies. The attack power decrease lasts for 5 turns.",
+        "description": "Inflicts a moderate decrease in attack power and has a\nmoderate chance to inflict the stun status on all enemies.\nThe attack power decrease lasts for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -18741,7 +18741,7 @@
     {
         "id": 590,
         "animationId": 284,
-        "description": "Inflicts damage to one random enemy, ignoring their defense. Slightly increases the speed modifier for skill activation.",
+        "description": "Inflicts damage to one random enemy, ignoring their defense.\nSlightly increases the speed modifier for skill activation.",
         "effects": [
             {
                 "code": 21,
@@ -18776,7 +18776,7 @@
     {
         "id": 591,
         "animationId": 284,
-        "description": "Inflicts damage to one random enemy, ignoring their defense. Moderate increase in skill activation speed correction.",
+        "description": "Inflicts damage to one random enemy, ignoring their defense.\nModerate increase in skill activation speed correction.",
         "effects": [
             {
                 "code": 21,
@@ -18811,7 +18811,7 @@
     {
         "id": 592,
         "animationId": 284,
-        "description": "Inflicts damage to one random enemy, ignoring their defense. Greatly increases the speed modifier for skill activation.",
+        "description": "Inflicts damage to one random enemy, ignoring their defense.\nGreatly increases the speed modifier for skill activation.",
         "effects": [
             {
                 "code": 21,
@@ -18847,7 +18847,7 @@
     {
         "id": 593,
         "animationId": 285,
-        "description": "\nInflicts thunder attribute damage with a moderate chance of paralysis to a single enemy, ignoring their defense. Small increase in skill activation speed.",
+        "description": " Inflicts thunder attribute damage with a moderate chance of\nparalysis to a single enemy, ignoring their defense. Small\nincrease in skill activation speed.",
         "effects": [
             {
                 "code": 21,
@@ -18888,7 +18888,7 @@
     {
         "id": 594,
         "animationId": 285,
-        "description": "\nInflicts thunder attribute damage with a medium chance of paralysis to a single enemy, ignoring their defense. Medium increase in skill activation speed.",
+        "description": " Inflicts thunder attribute damage with a medium chance of\nparalysis to a single enemy, ignoring their defense. Medium\nincrease in skill activation speed.",
         "effects": [
             {
                 "code": 21,
@@ -18929,7 +18929,7 @@
     {
         "id": 595,
         "animationId": 285,
-        "description": "\nInflicts thunder attribute damage with a medium chance of paralysis to a single enemy, ignoring their defense. Greatly increases the speed of skill activation.",
+        "description": " Inflicts thunder attribute damage with a medium chance of\nparalysis to a single enemy, ignoring their defense. Greatly\nincreases the speed of skill activation.",
         "effects": [
             {
                 "code": 21,
@@ -18970,7 +18970,7 @@
     {
         "id": 596,
         "animationId": 287,
-        "description": "\nDeals damage to all enemies.\nThe power depends on the user's attack and luck.",
+        "description": " Deals damage to all enemies. The power depends on the\nuser's attack and luck.",
         "effects": [
             {
                 "code": 21,
@@ -19005,7 +19005,7 @@
     {
         "id": 597,
         "animationId": 287,
-        "description": "\nDeals damage to all enemies.\nThe power depends on the user's attack and luck.",
+        "description": " Deals damage to all enemies. The power depends on the\nuser's attack and luck.",
         "effects": [
             {
                 "code": 21,
@@ -19040,7 +19040,7 @@
     {
         "id": 598,
         "animationId": 287,
-        "description": "\nDeals damage to all enemies.\nThe power depends on the user's attack and luck.",
+        "description": " Deals damage to all enemies. The power depends on the\nuser's attack and luck.",
         "effects": [
             {
                 "code": 21,
@@ -19180,7 +19180,7 @@
     {
         "id": 602,
         "animationId": 289,
-        "description": "Inflicts a massive damage that ignores the enemy's defense on a single target and has a low chance to inflict paralysis.",
+        "description": "Inflicts a massive damage that ignores the enemy's defense\non a single target and has a low chance to inflict\nparalysis.",
         "effects": [
             {
                 "code": 21,
@@ -19221,7 +19221,7 @@
     {
         "id": 603,
         "animationId": 289,
-        "description": "Inflicts a massive damage that ignores the enemy's defense to a single target and has a low chance to inflict paralysis.",
+        "description": "Inflicts a massive damage that ignores the enemy's defense\nto a single target and has a low chance to inflict\nparalysis.",
         "effects": [
             {
                 "code": 21,
@@ -19262,7 +19262,7 @@
     {
         "id": 604,
         "animationId": 289,
-        "description": "Inflicts a massive damage that ignores the enemy's defense on a single target and has a low chance to inflict paralysis.",
+        "description": "Inflicts a massive damage that ignores the enemy's defense\non a single target and has a low chance to inflict\nparalysis.",
         "effects": [
             {
                 "code": 21,
@@ -19430,7 +19430,7 @@
     {
         "id": 608,
         "animationId": 299,
-        "description": "Gain the following additional effects for 1 turn when preemptively attacking the enemy: inflict poison, charm, silence, and attack with dark attribute.",
+        "description": "Gain the following additional effects for 1 turn when\npreemptively attacking the enemy: inflict poison, charm,\nsilence, and attack with dark attribute.",
         "effects": [
             {
                 "code": 21,
@@ -19466,7 +19466,7 @@
     {
         "id": 609,
         "animationId": 299,
-        "description": "It preempts the enemy and inflicts charm, poison, and silence when counterattacking for one turn. It greatly reduces defense and attacks with dark attribute.",
+        "description": "It preempts the enemy and inflicts charm, poison, and\nsilence when counterattacking for one turn. It greatly\nreduces defense and attacks with dark attribute.",
         "effects": [
             {
                 "code": 21,
@@ -19501,7 +19501,7 @@
     {
         "id": 610,
         "animationId": 299,
-        "description": "It preempts the enemy and inflicts charm, poison, and silence when counterattacking for one turn. It greatly decreases defense and magic defense and attacks with the dark attribute.",
+        "description": "It preempts the enemy and inflicts charm, poison, and\nsilence when counterattacking for one turn. It greatly\ndecreases defense and magic defense and attacks with the\ndark attribute.",
         "effects": [
             {
                 "code": 21,
@@ -20766,7 +20766,7 @@
     {
         "id": 655,
         "animationId": 51,
-        "description": "It grants the user automatic MP recovery of 10% and inflicts 15% damage to HP for 3 turns.",
+        "description": "It grants the user automatic MP recovery of 10% and inflicts\n15% damage to HP for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -20802,7 +20802,7 @@
     {
         "id": 656,
         "animationId": 51,
-        "description": "It grants the user automatic MP recovery of 10% and inflicts 10% damage to HP for 3 turns.",
+        "description": "It grants the user automatic MP recovery of 10% and inflicts\n10% damage to HP for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -20837,7 +20837,7 @@
     {
         "id": 657,
         "animationId": 51,
-        "description": "It grants the user automatic MP recovery of 10% and inflicts 5% damage to HP for 3 turns.",
+        "description": "It grants the user automatic MP recovery of 10% and inflicts\n5% damage to HP for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -20872,7 +20872,7 @@
     {
         "id": 658,
         "animationId": 303,
-        "description": "Inflicts a high chance of causing the enemy to be in a stunned state.",
+        "description": "Inflicts a high chance of causing the enemy to be in a\nstunned state.",
         "effects": [
             {
                 "code": 21,
@@ -20907,7 +20907,7 @@
     {
         "id": 659,
         "animationId": 303,
-        "description": "Inflicts a high chance of causing the enemy to be in a stunned state.",
+        "description": "Inflicts a high chance of causing the enemy to be in a\nstunned state.",
         "effects": [
             {
                 "code": 21,
@@ -20942,7 +20942,7 @@
     {
         "id": 660,
         "animationId": 303,
-        "description": "Inflicts a high chance of causing the enemy to be in a stunned state.",
+        "description": "Inflicts a high chance of causing the enemy to be in a\nstunned state.",
         "effects": [
             {
                 "code": 21,
@@ -21559,7 +21559,7 @@
     {
         "id": 681,
         "animationId": 0,
-        "description": "When HP falls below 25%, HP and MP will automatically start recovering.\nThe recovery amount is 3%.",
+        "description": "When HP falls below 25%, HP and MP will automatically start\nrecovering. The recovery amount is 3%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -21587,7 +21587,7 @@
     {
         "id": 682,
         "animationId": 0,
-        "description": "When HP drops below 25%, HP and MP will automatically start recovering.\nThe recovery amount is 4%.",
+        "description": "When HP drops below 25%, HP and MP will automatically start\nrecovering. The recovery amount is 4%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -21615,7 +21615,7 @@
     {
         "id": 683,
         "animationId": 0,
-        "description": "When HP falls below 25%, HP and MP will automatically start recovering.\nThe recovery amount is 5%.",
+        "description": "When HP falls below 25%, HP and MP will automatically start\nrecovering. The recovery amount is 5%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 124,
@@ -22322,7 +22322,7 @@
     {
         "id": 708,
         "animationId": 244,
-        "description": "Inflicts small light damage to all enemies and has a high chance to inflict stun status.",
+        "description": "Inflicts small light damage to all enemies and has a high\nchance to inflict stun status.",
         "effects": [
             {
                 "code": 21,
@@ -22358,7 +22358,7 @@
     {
         "id": 709,
         "animationId": 245,
-        "description": "Inflicts small light damage to all enemies and has a high chance to inflict stun status.",
+        "description": "Inflicts small light damage to all enemies and has a high\nchance to inflict stun status.",
         "effects": [
             {
                 "code": 21,
@@ -22394,7 +22394,7 @@
     {
         "id": 710,
         "animationId": 246,
-        "description": "Inflicts moderate light-elemental damage to all enemies and has a high chance to inflict the stun status.",
+        "description": "Inflicts moderate light-elemental damage to all enemies and\nhas a high chance to inflict the stun status.",
         "effects": [
             {
                 "code": 21,
@@ -22517,7 +22517,7 @@
     {
         "id": 714,
         "animationId": 242,
-        "description": "Inflicts a high chance of inflicting darkness status on all enemies and applies a medium defense debuff for 3 turns.",
+        "description": "Inflicts a high chance of inflicting darkness status on all\nenemies and applies a medium defense debuff for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -22565,7 +22565,7 @@
     {
         "id": 715,
         "animationId": 243,
-        "description": "Inflicts a high chance of inflicting darkness status on all enemies and applies a 4-turn decrease in defense.",
+        "description": "Inflicts a high chance of inflicting darkness status on all\nenemies and applies a 4-turn decrease in defense.",
         "effects": [
             {
                 "code": 21,
@@ -22613,7 +22613,7 @@
     {
         "id": 716,
         "animationId": 243,
-        "description": "Inflicts a high chance of inflicting darkness status on all enemies and applies a medium defense debuff for 5 turns.",
+        "description": "Inflicts a high chance of inflicting darkness status on all\nenemies and applies a medium defense debuff for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -22661,7 +22661,7 @@
     {
         "id": 717,
         "animationId": 237,
-        "description": "Performs a dark attribute double attack on a single enemy, based on attack power and magic power. The speed correction for skill activation is slightly increased.",
+        "description": "Performs a dark attribute double attack on a single enemy,\nbased on attack power and magic power. The speed correction\nfor skill activation is slightly increased.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 369,
@@ -22690,7 +22690,7 @@
     {
         "id": 718,
         "animationId": 237,
-        "description": "Performs a dark attribute double attack on a single enemy, based on attack power and magic power. Skill activation speed is moderately increased.",
+        "description": "Performs a dark attribute double attack on a single enemy,\nbased on attack power and magic power. Skill activation\nspeed is moderately increased.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 369,
@@ -22719,7 +22719,7 @@
     {
         "id": 719,
         "animationId": 237,
-        "description": "Performs a dark attribute double attack that depends on the attack power and magic power on a single enemy. The speed correction for skill activation is greatly increased.",
+        "description": "Performs a dark attribute double attack that depends on the\nattack power and magic power on a single enemy. The speed\ncorrection for skill activation is greatly increased.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 369,
@@ -22748,7 +22748,7 @@
     {
         "id": 720,
         "animationId": 227,
-        "description": "Performs a powerful dark attribute physical attack against four random enemies. The power depends on the user's attack and magic power.",
+        "description": "Performs a powerful dark attribute physical attack against\nfour random enemies. The power depends on the user's attack\nand magic power.",
         "effects": [
             {
                 "code": 21,
@@ -22784,7 +22784,7 @@
     {
         "id": 721,
         "animationId": 225,
-        "description": "Performs a powerful dark attribute physical attack against four random enemies. The power depends on the user's attack and magic power.",
+        "description": "Performs a powerful dark attribute physical attack against\nfour random enemies. The power depends on the user's attack\nand magic power.",
         "effects": [
             {
                 "code": 21,
@@ -22820,7 +22820,7 @@
     {
         "id": 722,
         "animationId": 226,
-        "description": "Performs a powerful dark attribute physical attack against four random enemies. The power depends on the user's attack and magic power.",
+        "description": "Performs a powerful dark attribute physical attack against\nfour random enemies. The power depends on the user's attack\nand magic power.",
         "effects": [
             {
                 "code": 21,
@@ -23137,7 +23137,7 @@
     {
         "id": 731,
         "animationId": 192,
-        "description": "Grants the user a minor increase in water attribute and attack power for 5 turns.",
+        "description": "Grants the user a minor increase in water attribute and\nattack power for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -23173,7 +23173,7 @@
     {
         "id": 732,
         "animationId": 56,
-        "description": "Inflicts a large decrease in water resistance on a single enemy for 3 turns.",
+        "description": "Inflicts a large decrease in water resistance on a single\nenemy for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -23208,7 +23208,7 @@
     {
         "id": 733,
         "animationId": 174,
-        "description": "Inflicts charm and poison status on a single enemy with moderate probability.",
+        "description": "Inflicts charm and poison status on a single enemy with\nmoderate probability.",
         "effects": [
             {
                 "code": 21,
@@ -23249,7 +23249,7 @@
     {
         "id": 734,
         "animationId": 176,
-        "description": "Inflicts a moderate chance of Charm and Paralysis status on a single enemy.",
+        "description": "Inflicts a moderate chance of Charm and Paralysis status on\na single enemy.",
         "effects": [
             {
                 "code": 21,
@@ -23290,7 +23290,7 @@
     {
         "id": 735,
         "animationId": 175,
-        "description": "Inflicts the Charm and Enrage status on a single enemy with moderate probability.",
+        "description": "Inflicts the Charm and Enrage status on a single enemy with\nmoderate probability.",
         "effects": [
             {
                 "code": 21,
@@ -23331,7 +23331,7 @@
     {
         "id": 736,
         "animationId": 177,
-        "description": "Inflicts Charm and Stun status on a single enemy with moderate probability.",
+        "description": "Inflicts Charm and Stun status on a single enemy with\nmoderate probability.",
         "effects": [
             {
                 "code": 21,
@@ -23372,7 +23372,7 @@
     {
         "id": 737,
         "animationId": 301,
-        "description": "It grants the user a significant increase in attack power, agility, and luck, as well as a significant decrease in defense and magic defense for 3 turns.",
+        "description": "It grants the user a significant increase in attack power,\nagility, and luck, as well as a significant decrease in\ndefense and magic defense for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -23432,7 +23432,7 @@
     {
         "id": 738,
         "animationId": 0,
-        "description": "Grants a large increase in magic power to all allies and has a moderate chance to inflict confusion. The user absorbs MP from allies.",
+        "description": "Grants a large increase in magic power to all allies and has\na moderate chance to inflict confusion. The user absorbs MP\nfrom allies.",
         "effects": [
             {
                 "code": 21,
@@ -23523,7 +23523,7 @@
         "name": "Devil Dillark's Transaction",
         "note": "",
         "message1": "",
-        "description": "Grants the user a significant increase in attack power, magic power, and vulnerability, as well as a significant decrease in defense power for 3 turns."
+        "description": "Grants the user a significant increase in attack power,\nmagic power, and vulnerability, as well as a significant\ndecrease in defense power for 3 turns."
     },
     {
         "id": 740,
@@ -23565,7 +23565,7 @@
         "name": "Deal with the Devil Namudo",
         "note": "<ステート追加: 106>",
         "message1": "",
-        "description": "It grants a high chance of charm to all allies and grants the user a 6% critical rate increase and a 15% TP increase for 3 turns."
+        "description": "It grants a high chance of charm to all allies and grants\nthe user a 6% critical rate increase and a 15% TP increase\nfor 3 turns."
     },
     {
         "id": 741,
@@ -23607,7 +23607,7 @@
         "name": "Execution Preparation",
         "note": "",
         "message1": "",
-        "description": "Inflicts irremovable percentage damage on the user for 3 turns and increases TP by 25."
+        "description": "Inflicts irremovable percentage damage on the user for 3\nturns and increases TP by 25."
     },
     {
         "id": 742,
@@ -23643,12 +23643,12 @@
         "name": "Execution Preparation",
         "note": "",
         "message1": "",
-        "description": "Inflicts an irremovable percentage damage for 5 turns to the user and enables the skill \"Devil Ishekel's Claw\" to be used."
+        "description": "Inflicts an irremovable percentage damage for 5 turns to the\nuser and enables the skill \"Devil Ishekel's Claw\" to be\nused."
     },
     {
         "id": 743,
         "animationId": 226,
-        "description": "Deals powerful dark attribute damage to a single enemy four times.",
+        "description": "Deals powerful dark attribute damage to a single enemy four\ntimes.",
         "effects": [
             {
                 "code": 21,
@@ -23715,12 +23715,12 @@
         "name": "Delay Poison",
         "note": "",
         "message1": "",
-        "description": "\nGrant the user an undispellable percentage damage for 5 turns and enable the skill \"Dagger of Delay\" to be used."
+        "description": " Grant the user an undispellable percentage damage for 5\nturns and enable the skill \"Dagger of Delay\" to be used."
     },
     {
         "id": 745,
         "animationId": 23,
-        "description": "\nDeals powerful damage to a single enemy four times.\nThe power depends on the user's attack and agility.",
+        "description": " Deals powerful damage to a single enemy four times. The\npower depends on the user's attack and agility.",
         "effects": [
             {
                 "code": 21,
@@ -23799,7 +23799,7 @@
         "name": "Skill Name Development Technique: Rain Moon",
         "note": "<ステート追加: 1>",
         "message1": "",
-        "description": "Using TP50 and MP120, it recovers 70% of the HP and MP of all allies and cures the state of unconsciousness in exchange for becoming unconscious."
+        "description": "Using TP50 and MP120, it recovers 70% of the HP and MP of\nall allies and cures the state of unconsciousness in\nexchange for becoming unconscious."
     },
     {
         "id": 747,
@@ -23811,7 +23811,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\nGrant the user's physical attacks the light attribute and dragon effectiveness, and enable the skill \"Goddess Actina's Flash\" to be used for 3 turns.",
+        "description": " Grant the user's physical attacks the light attribute and\ndragon effectiveness, and enable the skill \"Goddess Actina's\nFlash\" to be used for 3 turns.",
         "effects": [
             {
                 "code": 21,
@@ -23848,7 +23848,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts a 3-turn light resistance down on a single enemy and deals two powerful damage attacks based on attack power and magic power.",
+        "description": "Inflicts a 3-turn light resistance down on a single enemy\nand deals two powerful damage attacks based on attack power\nand magic power.",
         "effects": [
             {
                 "code": 21,
@@ -31088,7 +31088,7 @@
     {
         "id": 981,
         "animationId": 8,
-        "description": "Perform an attack that inflicts a significant decrease in dark resistance on a single enemy for 3 turns, and grant the user the dark attribute for 5 turns.",
+        "description": "Perform an attack that inflicts a significant decrease in\ndark resistance on a single enemy for 3 turns, and grant the\nuser the dark attribute for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -31130,7 +31130,7 @@
     {
         "id": 982,
         "animationId": 8,
-        "description": "\nGrants a large decrease in dark resistance to a single enemy for 3 turns.\nPerforms a magic-based attack and grants the user the dark attribute.",
+        "description": " Grants a large decrease in dark resistance to a single\nenemy for 3 turns. Performs a magic-based attack and grants\nthe user the dark attribute.",
         "effects": [
             {
                 "code": 21,
@@ -31230,7 +31230,7 @@
     {
         "id": 985,
         "animationId": 127,
-        "description": "Grants a 5-turn increase in susceptibility to being targeted by users.",
+        "description": "Grants a 5-turn increase in susceptibility to being targeted\nby users.",
         "effects": [
             {
                 "code": 21,
@@ -31266,7 +31266,7 @@
     {
         "id": 986,
         "animationId": 127,
-        "description": "Grants a 5-turn increase in susceptibility to being targeted by users.",
+        "description": "Grants a 5-turn increase in susceptibility to being targeted\nby users.",
         "effects": [
             {
                 "code": 21,
@@ -31302,7 +31302,7 @@
     {
         "id": 987,
         "animationId": 28,
-        "description": "Performs a powerful physical attack against three random enemies. The power depends on the user's attack and magic power.",
+        "description": "Performs a powerful physical attack against three random\nenemies. The power depends on the user's attack and magic\npower.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 105,
@@ -31331,7 +31331,7 @@
     {
         "id": 988,
         "animationId": 28,
-        "description": "Performs a powerful physical attack against three random enemies. The power depends on the user's attack and magic power.",
+        "description": "Performs a powerful physical attack against three random\nenemies. The power depends on the user's attack and magic\npower.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 105,
@@ -31360,7 +31360,7 @@
     {
         "id": 989,
         "animationId": 31,
-        "description": "\nPerforms a physical attack on a single enemy.\nThe power depends on the user's agility and defense.",
+        "description": " Performs a physical attack on a single enemy. The power\ndepends on the user's agility and defense.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 123,
@@ -31389,7 +31389,7 @@
     {
         "id": 990,
         "animationId": 31,
-        "description": "\nPerforms a physical attack on a single enemy.\nThe power depends on the user's agility and defense.",
+        "description": " Performs a physical attack on a single enemy. The power\ndepends on the user's agility and defense.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 123,
@@ -31418,7 +31418,7 @@
     {
         "id": 991,
         "animationId": 31,
-        "description": "\nPerforms a physical attack on a single enemy.\nThe power depends on the user's luck and magic defense.",
+        "description": " Performs a physical attack on a single enemy. The power\ndepends on the user's luck and magic defense.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 123,
@@ -31447,7 +31447,7 @@
     {
         "id": 992,
         "animationId": 31,
-        "description": "\nPerforms a physical attack on a single enemy.\nThe power depends on the user's luck and magic defense.",
+        "description": " Performs a physical attack on a single enemy. The power\ndepends on the user's luck and magic defense.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 123,
@@ -31940,7 +31940,7 @@
     {
         "id": 1008,
         "animationId": 43,
-        "description": "Grants the ally single-target the Thunder attribute for 5 turns.",
+        "description": "Grants the ally single-target the Thunder attribute for 5\nturns.",
         "effects": [
             {
                 "code": 21,
@@ -32084,7 +32084,7 @@
     {
         "id": 1012,
         "animationId": 44,
-        "description": "Increases the magic defense of a single ally significantly for 3 turns.",
+        "description": "Increases the magic defense of a single ally significantly\nfor 3 turns.",
         "effects": [
             {
                 "code": 31,
@@ -32252,7 +32252,7 @@
     {
         "id": 1017,
         "animationId": 7,
-        "description": "Performs a powerful double attack against a single enemy. The damage depends on the user's attack power and luck.",
+        "description": "Performs a powerful double attack against a single enemy.\nThe damage depends on the user's attack power and luck.",
         "effects": [
             {
                 "code": 21,
@@ -32289,7 +32289,7 @@
     {
         "id": 1018,
         "animationId": 89,
-        "description": "Performs a powerful attack against four enemies. The damage depends on the user's attack power and luck.",
+        "description": "Performs a powerful attack against four enemies. The damage\ndepends on the user's attack power and luck.",
         "effects": [
             {
                 "code": 21,
@@ -32354,7 +32354,7 @@
     {
         "id": 1020,
         "animationId": 31,
-        "description": "Decreases the user's likelihood of being targeted for 5 turns.",
+        "description": "Decreases the user's likelihood of being targeted for 5\nturns.",
         "effects": [
             {
                 "code": 21,
@@ -32774,7 +32774,7 @@
     {
         "id": 1032,
         "animationId": 5,
-        "description": "\nAttack a single enemy and decrease their agility for 5 turns. The damage depends on the user's attack power and defense.",
+        "description": " Attack a single enemy and decrease their agility for 5\nturns. The damage depends on the user's attack power and\ndefense.",
         "effects": [
             {
                 "code": 32,
@@ -32822,7 +32822,7 @@
     {
         "id": 1033,
         "animationId": 23,
-        "description": "\n\"Attack a single enemy and stun them.\nThe damage depends on the user's attack power and defense power.",
+        "description": " \"Attack a single enemy and stun them. The damage depends on\nthe user's attack power and defense power.",
         "effects": [
             {
                 "code": 21,
@@ -32858,7 +32858,7 @@
     {
         "id": 1034,
         "animationId": 23,
-        "description": "\n\"Attacks a single enemy and inflicts paralysis.\nThe damage depends on the user's attack power and defense power.",
+        "description": " \"Attacks a single enemy and inflicts paralysis. The damage\ndepends on the user's attack power and defense power.",
         "effects": [
             {
                 "code": 21,
@@ -32894,7 +32894,7 @@
     {
         "id": 1035,
         "animationId": 5,
-        "description": "\nPerforms an attack on a single enemy.\nReduces the target's agility and has a certain chance to inflict paralysis.",
+        "description": " Performs an attack on a single enemy. Reduces the target's\nagility and has a certain chance to inflict paralysis.",
         "effects": [
             {
                 "code": 32,
@@ -33000,7 +33000,7 @@
     {
         "id": 1038,
         "animationId": 5,
-        "description": "Quickly perform a powerful attack that ignores the enemy's defense. Has a certain chance to stun.",
+        "description": "Quickly perform a powerful attack that ignores the enemy's\ndefense. Has a certain chance to stun.",
         "effects": [
             {
                 "code": 21,
@@ -33036,7 +33036,7 @@
     {
         "id": 1039,
         "animationId": 6,
-        "description": "Performs a powerful two-hit attack that ignores the target's defense.",
+        "description": "Performs a powerful two-hit attack that ignores the target's\ndefense.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 116,
@@ -33094,7 +33094,7 @@
     {
         "id": 1041,
         "animationId": 34,
-        "description": "Increases the user's likelihood of being targeted for 5 turns.",
+        "description": "Increases the user's likelihood of being targeted for 5\nturns.",
         "effects": [
             {
                 "code": 21,
@@ -33587,7 +33587,7 @@
     {
         "id": 1052,
         "animationId": 92,
-        "description": "Performs an attack against all enemies and has a low chance to stun them.",
+        "description": "Performs an attack against all enemies and has a low chance\nto stun them.",
         "effects": [
             {
                 "code": 21,
@@ -33629,7 +33629,7 @@
     {
         "id": 1053,
         "animationId": 92,
-        "description": "Performs an attack that ignores the enemy's defense, targeting all enemies.",
+        "description": "Performs an attack that ignores the enemy's defense,\ntargeting all enemies.",
         "effects": [
             {
                 "code": 21,
@@ -33665,7 +33665,7 @@
     {
         "id": 1054,
         "animationId": 92,
-        "description": "Performs an attack that ignores the enemy's defense, targeting all enemies.",
+        "description": "Performs an attack that ignores the enemy's defense,\ntargeting all enemies.",
         "effects": [
             {
                 "code": 21,
@@ -33779,7 +33779,7 @@
     {
         "id": 1057,
         "animationId": 91,
-        "description": "\nInflicts guaranteed damage to a single enemy.\nAdditionally, lowers defense for 5 turns.",
+        "description": " Inflicts guaranteed damage to a single enemy. Additionally,\nlowers defense for 5 turns.",
         "effects": [
             {
                 "code": 32,
@@ -33821,7 +33821,7 @@
     {
         "id": 1058,
         "animationId": 91,
-        "description": "\nInflicts guaranteed damage to a single enemy.\nAdditionally, lowers attack power for 5 turns.",
+        "description": " Inflicts guaranteed damage to a single enemy. Additionally,\nlowers attack power for 5 turns.",
         "effects": [
             {
                 "code": 32,
@@ -33857,7 +33857,7 @@
     {
         "id": 1059,
         "animationId": 93,
-        "description": "Performs a powerful attack against a single enemy. The damage depends on the user's attack power and agility.",
+        "description": "Performs a powerful attack against a single enemy. The\ndamage depends on the user's attack power and agility.",
         "effects": [
             {
                 "code": 21,
@@ -33929,7 +33929,7 @@
     {
         "id": 1061,
         "animationId": 91,
-        "description": "Inflicts damage that ignores defense on a single enemy and has a chance to instantly kill them.",
+        "description": "Inflicts damage that ignores defense on a single enemy and\nhas a chance to instantly kill them.",
         "effects": [
             {
                 "code": 21,
@@ -34271,7 +34271,7 @@
     {
         "id": 1071,
         "animationId": 93,
-        "description": "Performs an attack that ignores the enemy's defense, targeting all enemies.",
+        "description": "Performs an attack that ignores the enemy's defense,\ntargeting all enemies.",
         "effects": [
             {
                 "code": 21,
@@ -38955,7 +38955,7 @@
     {
         "id": 1206,
         "animationId": 6,
-        "description": "Quickly perform a powerful attack that ignores the enemy's defense. Has a certain chance to stun.",
+        "description": "Quickly perform a powerful attack that ignores the enemy's\ndefense. Has a certain chance to stun.",
         "effects": [
             {
                 "code": 21,
@@ -38991,7 +38991,7 @@
     {
         "id": 1207,
         "animationId": 6,
-        "description": "Performs a powerful two-hit attack that ignores the enemy's defense.",
+        "description": "Performs a powerful two-hit attack that ignores the enemy's\ndefense.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 116,
