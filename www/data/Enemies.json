@@ -89,7 +89,7 @@
             }
         ],
         "gold": 9999,
-        "name": "テンプレート",
+        "name": "Template",
         "note": "Boss HP\nHide HP\nbreath motion: 0",
         "params": [
             99999,
@@ -153,7 +153,7 @@
             }
         ],
         "gold": 0,
-        "name": "スライム",
+        "name": "Slime",
         "params": [
             500,
             0,
@@ -225,7 +225,7 @@
             }
         ],
         "gold": 0,
-        "name": "オーク",
+        "name": "Orc",
         "params": [
             30000,
             0,
@@ -282,7 +282,7 @@
             }
         ],
         "gold": 1000,
-        "name": "ミノタウロス",
+        "name": "Minotaurus",
         "params": [
             500,
             0,
@@ -349,7 +349,7 @@
             }
         ],
         "gold": 0,
-        "name": "偽冒険者プセマ",
+        "name": "Fake Adventurer Psema",
         "note": "モンスターレベル：特殊\n冒険者の洞窟\n冒険者ギルドへ1-4\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             3000,
@@ -437,7 +437,7 @@
             }
         ],
         "gold": 66,
-        "name": "兵隊クマ",
+        "name": "Soldier Bear",
         "note": "モンスターレベル：1\nアルクダの森\n再びの冒険者ギルドへ1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             500,
@@ -508,7 +508,7 @@
             }
         ],
         "gold": 38,
-        "name": "大ネズミ",
+        "name": "Big Rat",
         "note": "モンスターレベル：1\nフォティゾナ住宅街\n大ネズミの駆除1-2\n\n2022-06-18 下記に変更\nHP150→100\n攻撃力25→20",
         "params": [
             100,
@@ -562,7 +562,7 @@
             }
         ],
         "gold": 10,
-        "name": "女盗賊",
+        "name": "Female Thief",
         "note": "モンスターレベル：特殊\nフォティゾナ住宅街\n大ネズミの駆除1-2\nアーマーブレイク後、アーマーブレイク前はID123番のモンスターデータ\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             500,
@@ -650,7 +650,7 @@
             }
         ],
         "gold": 89,
-        "name": "アッロス洞窟の主",
+        "name": "Boss of Arros Cave",
         "note": "モンスターレベル：1\nアッロス洞窟\nアッロス洞窟調査1-3\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             1000,
@@ -748,7 +748,7 @@
             }
         ],
         "gold": 98,
-        "name": "兵隊ゴブリン",
+        "name": "Soldier Goblin",
         "note": "モンスターレベル：2\n咲きこぼれの洞窟\n迷惑な依頼者1-10\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             2471,
@@ -960,7 +960,7 @@
             }
         ],
         "gold": 60,
-        "name": "クロノス盗賊団員",
+        "name": "Chronos Thief Member",
         "note": "モンスターレベル：1\nクリスタル廃鉱山\n開拓者の子どもたち1-5\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             1816,
@@ -1031,7 +1031,7 @@
             }
         ],
         "gold": 42,
-        "name": "クロノス盗賊団下っ端",
+        "name": "Chronos Thief Gang Underling",
         "note": "モンスターレベル：1\nクリスタル廃鉱山\n開拓者の子どもたち1-5",
         "params": [
             533,
@@ -1377,7 +1377,7 @@
             }
         ],
         "gold": 98,
-        "name": "兵隊ゴブリン",
+        "name": "Soldier Goblin",
         "note": "モンスターレベル：2\n咲きこぼれの洞窟\n迷惑な依頼者1-10\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             2471,
@@ -1513,7 +1513,7 @@
             }
         ],
         "gold": 62,
-        "name": "女神像Ⅰ",
+        "name": "Goddess Statue I",
         "note": "モンスターレベル：2\n古代の遺跡\nアッロス洞窟再調査1-6\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4200,
@@ -1654,7 +1654,7 @@
             }
         ],
         "gold": 74,
-        "name": "悪魔の石像Ⅰ",
+        "name": "Demon Statue I",
         "note": "モンスターレベル：2\n古代の遺跡\nアッロス洞窟再調査1-7\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4800,
@@ -1802,7 +1802,7 @@
             }
         ],
         "gold": 100,
-        "name": "獣娘デルマ",
+        "name": "Beast Girl Delma",
         "note": "レフガリアの森\nリルムの忘れ物1-7\n※F9対策で変化前、変化後にドロップ追加\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             5200,
@@ -1938,7 +1938,7 @@
             }
         ],
         "gold": 102,
-        "name": "ロパロ略奪団員",
+        "name": "Loparo Raiders Member",
         "note": "モンスターレベル：2\nロクソス砦\nトロゴ孤児院からの依頼1-12",
         "params": [
             1815,
@@ -2039,7 +2039,7 @@
             }
         ],
         "gold": 128,
-        "name": "ロパロ略奪団班長",
+        "name": "Roparo Plunder Squad Leader",
         "note": "モンスターレベル：2\nロクソス砦\nトロゴ孤児院からの依頼1-12\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             5800,
@@ -2130,7 +2130,7 @@
             }
         ],
         "gold": 421,
-        "name": "蟲使いサリガリ",
+        "name": "Insect User Saligari",
         "note": "モンスターレベル：3\nカサロ浴場\nカサロ浴場の大掃除1-7\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             5600,
@@ -2194,7 +2194,7 @@
             }
         ],
         "gold": 34,
-        "name": "巨大クモ",
+        "name": "Giant Spider",
         "note": "モンスターレベル：3\nカサロ浴場\nカサロ浴場の大掃除1-7\n徘徊雑魚としても登場",
         "params": [
             1000,
@@ -2258,7 +2258,7 @@
             }
         ],
         "gold": 34,
-        "name": "殺人バチ",
+        "name": "Murder Hornet",
         "note": "モンスターレベル：3\nカサロ浴場\nカサロ浴場の大掃除1-7\n徘徊雑魚としても登場",
         "params": [
             1000,
@@ -2399,7 +2399,7 @@
             }
         ],
         "gold": 0,
-        "name": "不知夜のシモス",
+        "name": "Shimose of the Unknown Night",
         "note": "モンスターレベル：3\n狼の洞窟\n狼の群れ1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             10800,
@@ -2507,7 +2507,7 @@
             }
         ],
         "gold": 333,
-        "name": "リガス山賊団員",
+        "name": "Riga Bandit Member",
         "note": "モンスターレベル：3\n狼の洞窟\n狼の群れ1-5\nbreath motion: 0",
         "params": [
             2200,
@@ -2643,7 +2643,7 @@
             }
         ],
         "gold": 327,
-        "name": "組織のチンピラ",
+        "name": "Organization Thug",
         "note": "モンスターレベル：3\nミュコスの事務所\n港のある街1-3",
         "params": [
             2300,
@@ -2751,7 +2751,7 @@
             }
         ],
         "gold": 333,
-        "name": "リガス山賊団員リーダー",
+        "name": "Rigas Bandit Group Leader",
         "note": "モンスターレベル：3\n狼の洞窟\n狼の群れ1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             2500,
@@ -2945,7 +2945,7 @@
             }
         ],
         "gold": 1484,
-        "name": "アクレオの海賊（船長）",
+        "name": "Acreo the Pirate (Captain)",
         "note": "モンスターレベル：3\n船の上のダンジョン\n港のある街1-9\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             6400,
@@ -3021,7 +3021,7 @@
             }
         ],
         "gold": 86,
-        "name": "アクレオの海賊（船員）",
+        "name": "Acreo Pirates (Crew)",
         "note": "モンスターレベル：3\n船の上のダンジョン\n港のある街1-9\n徘徊雑魚としても登場\nbreath motion: 0",
         "params": [
             980,
@@ -3092,7 +3092,7 @@
             }
         ],
         "gold": 48,
-        "name": "大クズリⅠ",
+        "name": "Big Scumbag I",
         "note": "モンスターレベル：3\nイレモ村\n静かな集落1-3\nスクリロ山の徘徊モンスターとしても登場",
         "params": [
             900,
@@ -3163,7 +3163,7 @@
             }
         ],
         "gold": 42,
-        "name": "ピューマⅠ",
+        "name": "Puma I",
         "note": "モンスターレベル：3\nイレモ村\n静かな集落1-3\nスクリロ山の徘徊モンスターとしても登場",
         "params": [
             1100,
@@ -3316,7 +3316,7 @@
             }
         ],
         "gold": 1356,
-        "name": "山頂の怪物",
+        "name": "Mountain Peak Monster",
         "note": "モンスターレベル：3\nスクリロ山\nドラゴンの声1-4\nBoss HP\nHide HP",
         "params": [
             10218,
@@ -3469,7 +3469,7 @@
             }
         ],
         "gold": 1356,
-        "name": "山頂の怪物",
+        "name": "Mountain Peak Monster",
         "note": "モンスターレベル：3\nスクリロ山\nドラゴンの声1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             10218,
@@ -3560,7 +3560,7 @@
             }
         ],
         "gold": 1411,
-        "name": "ロパロ略奪団構成員",
+        "name": "Loparo Raiders Member",
         "note": "モンスターレベル：4\nマラコ村\n黒い粉1-8",
         "params": [
             3211,
@@ -3698,7 +3698,7 @@
             }
         ],
         "gold": 7777,
-        "name": "孤高のギャンブラー",
+        "name": "Lone Gambler",
         "note": "マラコ村\n守るべき約束1-2\n闘技場個人戦初級1回戦目に登場\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             7821,
@@ -3838,7 +3838,7 @@
             }
         ],
         "gold": 100,
-        "name": "喧嘩師ポソン",
+        "name": "Brawler Poson",
         "note": "ポーズ鉱山\n守るべき約束1-3\n闘技場個人戦初級3回戦目に登場\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             9031,
@@ -3961,7 +3961,7 @@
             }
         ],
         "gold": 1726,
-        "name": "バルク団の団員",
+        "name": "Bulk Gang Member",
         "note": "モンスターレベル：4\nバルク団の狩場\n輸送ルートを確保せよ1-3\nbreath motion: 0",
         "params": [
             3241,
@@ -4074,7 +4074,7 @@
             }
         ],
         "gold": 100,
-        "name": "メイドのアミナ",
+        "name": "Amina the Maid",
         "note": "モンスターレベル：4\n放蕩貴族の屋敷前\n輸送ルートを確保せよ1-6\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             13421,
@@ -4200,7 +4200,7 @@
             }
         ],
         "gold": 6825,
-        "name": "アスピダ同盟戦士長",
+        "name": "Aspida Alliance Warrior Captain",
         "note": "モンスターレベル：4\n放蕩貴族の屋敷前\n輸送ルートを確保せよ1-8\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             5000,
@@ -4276,7 +4276,7 @@
             }
         ],
         "gold": 215,
-        "name": "アスピダ同盟戦士",
+        "name": "Aspida Alliance Warrior",
         "note": "モンスターレベル：4\n放蕩貴族の屋敷前\n輸送ルートを確保せよ1-8\nbreath motion: 0",
         "params": [
             2948,
@@ -4400,7 +4400,7 @@
             }
         ],
         "gold": 3400,
-        "name": "ペガル山賊団切り込み隊長",
+        "name": "Pergal Bandit Corps Assault Squad Leader",
         "note": "モンスターレベル：5\n黄金街道\n巨大クリスタルの輸送1-7\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             5218,
@@ -4506,7 +4506,7 @@
             }
         ],
         "gold": 1512,
-        "name": "ペガル山賊団構成員",
+        "name": "Pergal Bandit Gang Member",
         "note": "モンスターレベル：5\n黄金街道\n巨大クリスタルの輸送1-7\nbreath motion: 0",
         "params": [
             2812,
@@ -4639,7 +4639,7 @@
             }
         ],
         "gold": 8261,
-        "name": "帰ってきたアスピダ同盟戦士長",
+        "name": "Returned Aspida Alliance Warrior Captain",
         "note": "モンスターレベル：5\n放蕩貴族の所有地\n巨大クリスタルの輸送1-9\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             6421,
@@ -4715,7 +4715,7 @@
             }
         ],
         "gold": 315,
-        "name": "帰ってきたアスピダ同盟戦士",
+        "name": "Returned Aspida Alliance Warrior",
         "note": "モンスターレベル：5\n放蕩貴族の所有地\n巨大クリスタルの輸送1-9\nbreath motion: 0",
         "params": [
             3200,
@@ -4853,7 +4853,7 @@
             }
         ],
         "gold": 0,
-        "name": "大岩の城の魔女アナト",
+        "name": "Witch Anat of the Great Rock Castle",
         "note": "モンスターレベル：5\n大岩の城\n大岩の城の魔女1-3\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             18400,
@@ -4981,7 +4981,7 @@
             }
         ],
         "gold": 2028,
-        "name": "暴走したクリスタル（炎）",
+        "name": "Rampaging Crystal (Flame)",
         "note": "モンスターレベル：5\n大岩の城地下施設\n大岩の城の魔女1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             5128,
@@ -5109,7 +5109,7 @@
             }
         ],
         "gold": 2028,
-        "name": "暴走したクリスタル（氷）",
+        "name": "Rampaging Crystal (Ice)",
         "note": "モンスターレベル：5\n大岩の城地下施設\n大岩の城の魔女1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4280,
@@ -5237,7 +5237,7 @@
             }
         ],
         "gold": 2028,
-        "name": "暴走したクリスタル（雷）",
+        "name": "Rampaging Crystal (Thunder)",
         "note": "モンスターレベル：5\n大岩の城地下施設\n大岩の城の魔女1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             5128,
@@ -5370,7 +5370,7 @@
             }
         ],
         "gold": 2028,
-        "name": "暴走したクリスタル（水）",
+        "name": "Rampaging Crystal (Water)",
         "note": "モンスターレベル：5\n大岩の城地下施設\n大岩の城の魔女1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4271,
@@ -5498,7 +5498,7 @@
             }
         ],
         "gold": 2028,
-        "name": "暴走したクリスタル（光）",
+        "name": "Rampaging Crystal (Light)",
         "note": "モンスターレベル：5\n大岩の城地下施設\n大岩の城の魔女1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             5128,
@@ -5626,7 +5626,7 @@
             }
         ],
         "gold": 2028,
-        "name": "暴走したクリスタル（闇）",
+        "name": "Rampaging Crystal (Dark)",
         "note": "モンスターレベル：5\n大岩の城地下施設\n大岩の城の魔女1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             5128,
@@ -5744,7 +5744,7 @@
             }
         ],
         "gold": 10079,
-        "name": "破滅に向かう魔法使いアナト",
+        "name": "Mage Anat, heading towards destruction",
         "note": "モンスターレベル：5\n大岩の城地下施設\n大岩の城の魔女1-6\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             18400,
@@ -5881,7 +5881,7 @@
             }
         ],
         "gold": 10080,
-        "name": "破滅に向かう魔法使いアナト",
+        "name": "Mage Anat, heading towards destruction",
         "note": "モンスターレベル：5\n大岩の城地下施設\n大岩の城の魔女1-6\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             18400,
@@ -6017,7 +6017,7 @@
             }
         ],
         "gold": 500,
-        "name": "ナイフの入れ墨の男",
+        "name": "Man with knife tattoos",
         "note": "モンスターレベル：特殊\n違法酒場\nナイフの入れ墨を持つ男1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3141,
@@ -6170,7 +6170,7 @@
             }
         ],
         "gold": 42,
-        "name": "兵士ゴブリン",
+        "name": "Soldier Goblin",
         "note": "モンスターレベル：2\nゴブリンの巣1-4\nゴブリンの巣\nbreath motion: 0",
         "params": [
             899,
@@ -6273,7 +6273,7 @@
             }
         ],
         "gold": 168,
-        "name": "兵隊長ゴブリン",
+        "name": "Goblin Captain",
         "note": "モンスターレベル：2\nゴブリンの巣1-4\nゴブリンの巣\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             6712,
@@ -6344,7 +6344,7 @@
             }
         ],
         "gold": 1000,
-        "name": "情報屋の男",
+        "name": "Male Informant",
         "note": "カノナス情報屋内\n強情な情報屋1-3\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3000,
@@ -6482,7 +6482,7 @@
             }
         ],
         "gold": 312,
-        "name": "雄牛のロポス",
+        "name": "Ropos the Bull",
         "note": "カノナス情報屋内\n強情な情報屋1-3\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             8800,
@@ -6558,7 +6558,7 @@
             }
         ],
         "gold": 48,
-        "name": "人食い熊",
+        "name": "Man-eating bear",
         "note": "穴だらけの丘洞窟内\n人食い熊の駆除1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4000,
@@ -6713,7 +6713,7 @@
             }
         ],
         "gold": 1862,
-        "name": "扉を守るもの（炎）",
+        "name": "Guardian of the Door (Flame)",
         "note": "扉の部屋\n不滅の真円1-13\nBoss HP\nHide HP\nbreath motion: 0\n\n詳細ステータス未設定\nドロップアイテム未設定",
         "params": [
             9987,
@@ -6863,7 +6863,7 @@
             }
         ],
         "gold": 1862,
-        "name": "扉を守るもの（水）",
+        "name": "Guardian of the Door (Water)",
         "note": "扉の部屋\n声の部屋の秘密1-8\nBoss HP\nHide HP\nbreath motion: 0\n\nコンセプトに従い炎弱点削除\nドロップを古代のコインに変更",
         "params": [
             9987,
@@ -7013,7 +7013,7 @@
             }
         ],
         "gold": 3620,
-        "name": "扉を守るもの（雷）",
+        "name": "Guardian of the Door (Thunder)",
         "note": "扉の部屋\n永遠の星1-10\nBoss HP\nHide HP\nbreath motion: 0\n\n詳細ステータス未設定\nドロップアイテム未設定",
         "params": [
             37600,
@@ -7163,7 +7163,7 @@
             }
         ],
         "gold": 3620,
-        "name": "扉を守るもの（氷）",
+        "name": "Guardian of the Door (Ice)",
         "note": "扉の部屋\n永久の正方1-9\nBoss HP\nHide HP\nbreath motion: 0\n\n詳細ステータス未設定\nドロップアイテム未設定",
         "params": [
             37000,
@@ -7227,7 +7227,7 @@
             }
         ],
         "gold": 31,
-        "name": "はちみつの守り手（弱）",
+        "name": "Honey Guardian (Weak)",
         "note": "アルクダの森\n幸せのレシピ1-2",
         "params": [
             510,
@@ -7358,7 +7358,7 @@
             }
         ],
         "gold": 87,
-        "name": "はちみつの守り手（強）",
+        "name": "Honey Guardian (Strong)",
         "note": "アルクダの森\n幸せのレシピ1-2\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             1800,
@@ -7506,7 +7506,7 @@
             }
         ],
         "gold": 155,
-        "name": "野獣と化したアクロ",
+        "name": "Acro, transformed into a wild beast",
         "note": "深い森＿奥のダンジョン\n涙のしずく1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             9800,
@@ -7639,7 +7639,7 @@
             }
         ],
         "gold": 442,
-        "name": "フォティゾナ偽衛兵",
+        "name": "Photizona Fake Guard",
         "note": "ミュコス街道最奥\n愚者の天秤1-5",
         "params": [
             4348,
@@ -7775,7 +7775,7 @@
             }
         ],
         "gold": 64,
-        "name": "ロパロ略奪団見回り隊",
+        "name": "Loparo Plunder Gang Patrol",
         "note": "野盗の草原イベントエリアA\n偏在する蜘蛛1-5",
         "params": [
             2301,
@@ -7922,7 +7922,7 @@
             }
         ],
         "gold": 8254,
-        "name": "僧侶リバル",
+        "name": "Monk Rival",
         "note": "下心のある善意1-4\n狼の洞窟 最奥\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             18624,
@@ -8063,7 +8063,7 @@
             }
         ],
         "gold": 777,
-        "name": "悪魔の石像Ⅰ（レア）",
+        "name": "Demon Statue I (Rare)",
         "note": "モンスターレベル：2\n古代の遺跡\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             5500,
@@ -8215,7 +8215,7 @@
             }
         ],
         "gold": 13040,
-        "name": "巨大怪鳥",
+        "name": "Giant Monster Bird",
         "note": "モンスターレベル：5\nドラゴンの翼1-2\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             23400,
@@ -8346,7 +8346,7 @@
             }
         ],
         "gold": 200,
-        "name": "ロパロ中級構成員",
+        "name": "Roparo Intermediate Member",
         "note": "モンスターレベル：5\n朽ちた城最上階\n黒い依頼書1-6",
         "params": [
             2471,
@@ -8491,7 +8491,7 @@
             }
         ],
         "gold": 6543,
-        "name": "ローブの男",
+        "name": "Robed Man",
         "note": "モンスターレベル：5\n朽ちた城最上階\n黒い依頼書1-6\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             18700,
@@ -8587,7 +8587,7 @@
             }
         ],
         "gold": 1083,
-        "name": "海の悪魔（頭）",
+        "name": "Demon of the Sea (Head)",
         "note": "船の上\nドクロの海1-3\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             7725,
@@ -8666,7 +8666,7 @@
             }
         ],
         "gold": 0,
-        "name": "海の悪魔（触手）",
+        "name": "Sea Devil (Tentacles)",
         "note": "船の上\nドクロの海1-3\nbreath motion: 0",
         "params": [
             1421,
@@ -8814,7 +8814,7 @@
             }
         ],
         "gold": 0,
-        "name": "戦士のオーガ",
+        "name": "Warrior Ogre",
         "note": "モンスターレベル：6\nユアンの大口\nオーガ討伐1-7\nイベント戦闘の敵\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             20597,
@@ -8926,7 +8926,7 @@
             }
         ],
         "gold": 512,
-        "name": "怪盗ペルノ",
+        "name": "Mysterious Thief Perno",
         "note": "モンスターレベル：6\n元老院議員ピリアの屋敷\n放蕩貴族からの依頼1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             29000,
@@ -9074,7 +9074,7 @@
             }
         ],
         "gold": 7213,
-        "name": "魔法使いラピス",
+        "name": "Magician Lapis",
         "note": "モンスターレベル：6\n入り江の洞窟ボスエリア\n悪石の魔法使い1-4\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             15721,
@@ -9200,7 +9200,7 @@
             }
         ],
         "gold": 542,
-        "name": "悪魔グアイペソの蝶",
+        "name": "Demon Guaipezo's Butterfly",
         "note": "モンスターレベル：6\n入り江の洞窟ボスエリア\n悪石の魔法使い1-4\nbreath motion: 0",
         "params": [
             2513,
@@ -9341,7 +9341,7 @@
             }
         ],
         "gold": 1512,
-        "name": "女神像Ⅱ",
+        "name": "Goddess Statue II",
         "note": "モンスターレベル：6\nラキオ遺跡\nわんぱく少女の冒険1-3\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             19878,
@@ -9482,7 +9482,7 @@
             }
         ],
         "gold": 1512,
-        "name": "悪魔の石像Ⅱ",
+        "name": "Demon Statue II",
         "note": "モンスターレベル：6\nラキオ遺跡\nわんぱく少女の冒険1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             21534,
@@ -9623,7 +9623,7 @@
             }
         ],
         "gold": 1512,
-        "name": "悪魔の石像Ⅱ（レア）",
+        "name": "Demon Statue II (Rare)",
         "note": "モンスターレベル：6\nラキオ遺跡\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             21534,
@@ -9781,7 +9781,7 @@
             }
         ],
         "gold": 1356,
-        "name": "傭兵隊長ゲイル",
+        "name": "Mercenary Captain Gale",
         "note": "武闘の街ジナミ 街内\n栄光の王冠1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             12518,
@@ -9917,7 +9917,7 @@
             }
         ],
         "gold": 120,
-        "name": "屈強な傭兵",
+        "name": "Strong Mercenary",
         "note": "武闘の街ジナミ 街内\n栄光の王冠1-4",
         "params": [
             2721,
@@ -10053,7 +10053,7 @@
             }
         ],
         "gold": 1478,
-        "name": "高飛車な魔法使い",
+        "name": "Arrogant Mage",
         "note": "武闘の街ジナミ 街内\n栄光の王冠1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             9821,
@@ -10182,7 +10182,7 @@
             }
         ],
         "gold": 120,
-        "name": "高飛車な魔法使いの弟子",
+        "name": "Arrogant Magician's Disciple",
         "note": "武闘の街ジナミ 街内\n栄光の王冠1-5",
         "params": [
             2261,
@@ -10318,7 +10318,7 @@
             }
         ],
         "gold": 1327,
-        "name": "卑屈な人形使い",
+        "name": "Submissive Puppeteer",
         "note": "武闘の街ジナミ 街内\n栄光の王冠1-6\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             13218,
@@ -10454,7 +10454,7 @@
             }
         ],
         "gold": 120,
-        "name": "不気味な人形",
+        "name": "Creepy Doll",
         "note": "武闘の街ジナミ 街内\n栄光の王冠1-6",
         "params": [
             1841,
@@ -10590,7 +10590,7 @@
             }
         ],
         "gold": 10,
-        "name": "酒場の用心棒",
+        "name": "Tavern Bouncer",
         "note": "黄金の街ドロモス酒場\n鉄仮面の下1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4826,
@@ -10984,7 +10984,7 @@
             }
         ],
         "gold": 0,
-        "name": "鉄仮面",
+        "name": "Iron Mask",
         "note": "黄金の街ドロモス地下闘技場\n鉄仮面の下1-6\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             28357,
@@ -11132,7 +11132,7 @@
             }
         ],
         "gold": 8130,
-        "name": "鉄仮面",
+        "name": "Iron Mask",
         "note": "黄金の街ドロモス地下闘技場\n鉄仮面の下1-10\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             28357,
@@ -11266,7 +11266,7 @@
             }
         ],
         "gold": 0,
-        "name": "三ツ首オオカミ",
+        "name": "Three-Headed Wolf",
         "note": "ピズマ闘技場\n栄光の王冠1-8\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4041,
@@ -11400,7 +11400,7 @@
             }
         ],
         "gold": 0,
-        "name": "白い悪魔",
+        "name": "White Devil",
         "note": "ピズマ闘技場\n栄光の王冠1-8\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4141,
@@ -11529,7 +11529,7 @@
             }
         ],
         "gold": 0,
-        "name": "裁きの跡の火喰い鳥",
+        "name": "Fire-eating bird of the Judgment's Trail",
         "note": "ピズマ闘技場\n栄光の王冠1-8\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4514,
@@ -11663,7 +11663,7 @@
             }
         ],
         "gold": 0,
-        "name": "山喰い",
+        "name": "Yamakui",
         "note": "ピズマ闘技場\n栄光の王冠1-8\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             5812,
@@ -11782,7 +11782,7 @@
             }
         ],
         "gold": 0,
-        "name": "傷だらけのオーク",
+        "name": "Wounded Orc",
         "note": "ピズマ闘技場\n栄光の王冠1-8\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             1630,
@@ -11913,7 +11913,7 @@
             }
         ],
         "gold": 0,
-        "name": "帝国の守護者アトゥ",
+        "name": "Guardian of the Empire, Atu",
         "note": "ピズマ闘技場\n栄光の王冠1-8\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             22541,
@@ -12044,7 +12044,7 @@
             }
         ],
         "gold": 13,
-        "name": "不死の悪魔アメドールの女信者",
+        "name": "Female Follower of the Undead Demon Amedol",
         "note": "モンスターレベル：6\nリピ村\nドラゴンの爪1-3\nリピ村の徘徊モンスターとしても登場",
         "params": [
             1821,
@@ -12175,7 +12175,7 @@
             }
         ],
         "gold": 13,
-        "name": "不死の悪魔アメドールの男信者",
+        "name": "Male Follower of the Undead Demon Amedol",
         "note": "モンスターレベル：6\nリピ村\nドラゴンの爪1-3\nリピ村の徘徊モンスターとしても登場",
         "params": [
             1932,
@@ -12306,7 +12306,7 @@
             }
         ],
         "gold": 0,
-        "name": "操られた骸",
+        "name": "Translated Text: Manipulated Corpse",
         "note": "モンスターレベル：6\nリピ村\nドラゴンの爪1-4\nbreath motion: 0",
         "params": [
             2011,
@@ -12454,7 +12454,7 @@
             }
         ],
         "gold": 3993,
-        "name": "悪魔アメドールの信奉者トント",
+        "name": "Follower Tonto of the demon Amedol",
         "note": "モンスターレベル：6\nリピ村\nドラゴンの爪1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             24113,
@@ -12590,7 +12590,7 @@
             }
         ],
         "gold": 456,
-        "name": "ドラゴンに服従するオーク",
+        "name": "Orcs who submit to dragons",
         "note": "モンスターレベル：6\nモニモス高原駐屯地\nドラゴンの討伐1-5\nbreath motion: 0",
         "params": [
             2031,
@@ -12724,7 +12724,7 @@
             }
         ],
         "gold": 456,
-        "name": "ドラゴンに服従する戦士ゴブリン",
+        "name": "Goblin warrior who submits to the dragon",
         "note": "モンスターレベル：6\nモニモス高原駐屯地\nドラゴンの討伐1-5\nbreath motion: 0",
         "params": [
             1636,
@@ -12858,7 +12858,7 @@
             }
         ],
         "gold": 456,
-        "name": "ドラゴンに服従する兵隊ゴブリン",
+        "name": "Goblin soldier who submits to the dragon",
         "note": "モンスターレベル：6\nモニモス高原駐屯地\nドラゴンの討伐1-5\nbreath motion: 0",
         "params": [
             1871,
@@ -13011,7 +13011,7 @@
             }
         ],
         "gold": 2584,
-        "name": "ドラゴンに服従するオーガ",
+        "name": "Ogre who submits to the dragon",
         "note": "モンスターレベル：6\nモニモス高原駐屯地（特殊戦闘）\nドラゴンの討伐1-12\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             10218,
@@ -13137,7 +13137,7 @@
             }
         ],
         "gold": 456,
-        "name": "ドラゴンに服従する魔術士ゴブリン",
+        "name": "Goblin, the sorcerer who submits to the dragon",
         "note": "モンスターレベル：6\nモニモス高原駐屯地（特殊戦闘）\nドラゴンの討伐1-12\nbreath motion: 0",
         "params": [
             1761,
@@ -13311,7 +13311,7 @@
             }
         ],
         "gold": 15038,
-        "name": "ドラゴン",
+        "name": "Dragon",
         "note": "モンスターレベル：6\nモニモス山\nドラゴンの討伐1-14\n属性有効度竜は消さないでください\nSpineモンスター\nBoss HP\nHide HP",
         "params": [
             37672,
@@ -13440,7 +13440,7 @@
             }
         ],
         "gold": 400,
-        "name": "食料庫の暴れん坊",
+        "name": "Rampaging in the Food Storage",
         "params": [
             1982,
             40,
@@ -13569,7 +13569,7 @@
             }
         ],
         "gold": 610,
-        "name": "井戸の中の怪物",
+        "name": "Monster in the Well",
         "params": [
             1500,
             36,
@@ -13640,7 +13640,7 @@
             }
         ],
         "gold": 1241,
-        "name": "倉庫荒らしのこそ泥",
+        "name": "Warehouse Raider",
         "params": [
             2700,
             200,
@@ -13704,7 +13704,7 @@
             }
         ],
         "gold": 300,
-        "name": "小さな殺し屋",
+        "name": "Little Assassin",
         "params": [
             4000,
             250,
@@ -13782,7 +13782,7 @@
             }
         ],
         "gold": 281,
-        "name": "眼球えぐり",
+        "name": "Eyeball Gouger",
         "params": [
             3412,
             512,
@@ -13918,7 +13918,7 @@
             }
         ],
         "gold": 754,
-        "name": "手負いの熊",
+        "name": "Injured Bear",
         "params": [
             11150,
             300,
@@ -14044,7 +14044,7 @@
             }
         ],
         "gold": 2897,
-        "name": "元トモス略奪団の隊長",
+        "name": "Former Tomosu Plunder Squad Captain",
         "params": [
             9600,
             332,
@@ -14163,7 +14163,7 @@
             }
         ],
         "gold": 1122,
-        "name": "元トモス略奪団の隊員",
+        "name": "Former Tomosu Plunder Squad Member",
         "params": [
             1240,
             367,
@@ -14311,7 +14311,7 @@
             }
         ],
         "gold": 8234,
-        "name": "怒り狂う戦士のオーガ",
+        "name": "Furious Warrior Ogre",
         "note": "モンスターレベル：6\nユアンの大口\nオーガ討伐1-12\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             20597,
@@ -14365,7 +14365,7 @@
             }
         ],
         "gold": 10,
-        "name": "女盗賊",
+        "name": "Female Thief",
         "note": "モンスターレベル：特殊\nフォティゾナ住宅街\n大ネズミの駆除1-2\nアーマーブレイク後、アーマーブレイク前はID8番のモンスターデータ\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             500,
@@ -14518,7 +14518,7 @@
             }
         ],
         "gold": 100,
-        "name": "獣娘デルマ",
+        "name": "Beast Girl Delma",
         "note": "レフガリアの森\nリルムの忘れ物1-7\nアーマーブレイク後、アーマーブレイク前はID22番のモンスターデータ\n※F9対策で変化前、変化後にドロップ追加\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             5200,
@@ -14631,7 +14631,7 @@
             }
         ],
         "gold": 100,
-        "name": "メイドのアミナ",
+        "name": "Amina the Maid",
         "note": "モンスターレベル：4\n放蕩貴族の屋敷前\n輸送ルートを確保せよ1-6\nアーマーブレイク後、アーマーブレイク前はID43番のモンスターデータ\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             13421,
@@ -14767,7 +14767,7 @@
             }
         ],
         "gold": 5081,
-        "name": "骸骨の船の船長カルプス",
+        "name": "Captain Calpus of the Skeleton Ship",
         "note": "モンスターレベル：4\n放蕩貴族の屋敷前\n骸骨の船1-6\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             11218,
@@ -14858,7 +14858,7 @@
             }
         ],
         "gold": 74,
-        "name": "骸骨の船員（青）",
+        "name": "Skeleton Crew (Blue)",
         "note": "モンスターレベル：4\n骸骨の船\n骸骨の船1-6（ボスのお供）\nbreath motion: 0",
         "params": [
             1143,
@@ -14949,7 +14949,7 @@
             }
         ],
         "gold": 74,
-        "name": "骸骨の船員（赤）",
+        "name": "Skeleton Crew (Red)",
         "note": "モンスターレベル：4\n放蕩貴族の屋敷前\n骸骨の船1-6\nbreath motion: 0",
         "params": [
             1451,
@@ -15096,7 +15096,7 @@
             52,
             47
         ],
-        "name": "変異熊",
+        "name": "Mutant Bear",
         "note": "モンスターレベル：6\n再会1-3\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "SF_Brownbear"
     },
@@ -15234,7 +15234,7 @@
             49,
             47
         ],
-        "name": "貴族ピドの傭兵",
+        "name": "Noble Pido's mercenary",
         "note": "モンスターレベル：7\n憩いの場所を取り戻せ1-2\nbreath motion: 0\n",
         "battlerName": "ETNR_Enemy081_4"
     },
@@ -15382,7 +15382,7 @@
             105,
             95
         ],
-        "name": "巨大樹",
+        "name": "Giant Tree",
         "note": "モンスターレベル：7\n憩いの場所を取り戻せ1-4\nBoss HP\nHide HP\nbreath motion: 0\n",
         "battlerName": "Treant"
     },
@@ -15473,7 +15473,7 @@
             45,
             45
         ],
-        "name": "草原の主",
+        "name": "Lord of the Grasslands",
         "note": "モンスターレベル：3\n家畜の行方1-4\nBoss HP\nHide HP\nbreath motion: 0\n",
         "battlerName": "ETNR_Enemy030"
     },
@@ -15623,7 +15623,7 @@
             101,
             98
         ],
-        "name": "サンドワーム",
+        "name": "Sandworm",
         "note": "モンスターレベル：7\nアークメイジへの嘆願1-4・1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "025b"
     },
@@ -15790,7 +15790,7 @@
             104,
             102
         ],
-        "name": "星の守護者",
+        "name": "Guardian of the Stars",
         "note": "モンスターレベル：7\n永遠の星1-6\nBoss HP\nHide HP\nbreath motion: 0\n特殊なボスモンスターのため\n消滅エフェクトはなしでお願いします",
         "battlerName": "Irongiant"
     },
@@ -15938,7 +15938,7 @@
             103,
             98
         ],
-        "name": "ロパロ略奪団襲撃隊長",
+        "name": "Roparo Raiders Assault Squad Leader",
         "note": "モンスターレベル：7\nエマ盗賊団の行方1-7\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "Actor_rp01"
     },
@@ -16069,7 +16069,7 @@
             48,
             48
         ],
-        "name": "ロパロ略奪団襲撃隊",
+        "name": "Loparo Raiders Assault Team",
         "note": "モンスターレベル：7\nエマ盗賊団の行方1-7\nbreath motion: 0",
         "battlerName": "Actor_rp02"
     },
@@ -16212,7 +16212,7 @@
             108,
             100
         ],
-        "name": "正方の戦士",
+        "name": "Warrior of Justice",
         "note": "モンスターレベル：7\n永久の正方1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "ETNR_Enemy088_3"
     },
@@ -16350,7 +16350,7 @@
             191,
             91
         ],
-        "name": "完全で完璧な失敗作",
+        "name": "Complete and perfect failure",
         "note": "モンスターレベル：8\n不滅の真円1-9\nBoss HP\nHide HP\nbreath motion: 0\n※ダミー画像",
         "battlerName": "138"
     },
@@ -16493,7 +16493,7 @@
             131,
             105
         ],
-        "name": "悪魔ジエンの狂信者ガリナ",
+        "name": "Fanatic Galina, follower of the demon Jien",
         "note": "モンスターレベル：8\n不滅の真円1-9\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "gallina"
     },
@@ -16643,7 +16643,7 @@
             67,
             51
         ],
-        "name": "古参のエマ盗賊団団員",
+        "name": "Veteran Emma Thief Gang Member",
         "note": "モンスターレベル：7\n閉じた瞳1-3\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "emaTouzoku_enemy"
     },
@@ -16774,7 +16774,7 @@
             64,
             55
         ],
-        "name": "エマ盗賊団団員",
+        "name": "Emma Thief Gang Member",
         "note": "モンスターレベル：7\n閉じた瞳1-3\nbreath motion: 0",
         "battlerName": "emaTouzoku_enemy"
     },
@@ -16910,7 +16910,7 @@
             112,
             114
         ],
-        "name": "黒頭巾の男（リーダー）",
+        "name": "Man with Black Hood (Leader)",
         "note": "モンスターレベル：7\n三本足の鷹1-4\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "battlerName": "hawk_soldier"
     },
@@ -17039,7 +17039,7 @@
             95,
             78
         ],
-        "name": "黒頭巾の男（部下）",
+        "name": "Man with Black Hood (Subordinate)",
         "note": "モンスターレベル：7\n三本足の鷹1-4\nbreath motion: 0",
         "battlerName": "hawk_soldier"
     },
@@ -17177,7 +17177,7 @@
             73,
             77
         ],
-        "name": "巨大洞窟ネズミ",
+        "name": "Giant Cave Rat",
         "note": "モンスターレベル：8\n試験官クレア1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "Rat_ao_big"
     },
@@ -17303,7 +17303,7 @@
             201,
             195
         ],
-        "name": "少女イクト",
+        "name": "Girl Ect",
         "note": "モンスターレベル：8\n試験官クレア1-7\nBoss HP\nHide HP\nbreath motion: 0\n",
         "battlerName": "named enemy_00037"
     },
@@ -17448,7 +17448,7 @@
             101,
             98
         ],
-        "name": "湿地帯の主",
+        "name": "Master of the Wetlands",
         "note": "モンスターレベル：8\n悪魔の囁き1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "RKD_SV_BossSnake_M"
     },
@@ -17602,7 +17602,7 @@
             130,
             180
         ],
-        "name": "宮廷魔術師エラトマ",
+        "name": "Court Magician Eratoma",
         "note": "モンスターレベル：8\n漆黒の正体1-4\nBoss HP\nHide HP\nbreath motion: 0\n帝国とは違う術式を使うことに注意\n魔法の名称がリルムたちとは違う\n帝国：◯◯術式：漢字（開発術式：烈火）\nエラトマ：魔術英語（魔術ファイヤー）",
         "battlerName": "named enemy_00050"
     },
@@ -17747,7 +17747,7 @@
             130,
             180
         ],
-        "name": "帝国暗部アミナ",
+        "name": "Imperial Dark Agent Amina",
         "note": "モンスターレベル：8\n漆黒の正体1-6\nアーマーブレイク【後】はID：149\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "battlerName": "named_enemy_00026"
     },
@@ -17887,7 +17887,7 @@
             130,
             180
         ],
-        "name": "帝国暗部アミナ",
+        "name": "Imperial Dark Agent Amina",
         "note": "モンスターレベル：8\n漆黒の正体1-6\nアーマーブレイク【前】はID：148\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "battlerName": "named_enemy_00027"
     },
@@ -18025,7 +18025,7 @@
             180,
             180
         ],
-        "name": "帝国暗部ルイド",
+        "name": "Imperial Dark Division Luid",
         "note": "モンスターレベル：8\n漆黒の正体1-6\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "battlerName": "named enemy_00053"
     },
@@ -18151,7 +18151,7 @@
             70,
             70
         ],
-        "name": "精鋭帝国軍人",
+        "name": "Elite Imperial Army Soldier",
         "note": "モンスターレベル：8\nエマ盗賊団包囲網1-2\nbreath motion: 0",
         "battlerName": "Soldier"
     },
@@ -18289,7 +18289,7 @@
             300,
             180
         ],
-        "name": "団長クレヴォ",
+        "name": "Captain Cleva",
         "note": "モンスターレベル：8\nエマ盗賊団包囲網1-5\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "battlerName": "named enemy_00065"
     },
@@ -18420,7 +18420,7 @@
             140,
             180
         ],
-        "name": "帝国の将軍アトゥ",
+        "name": "General Atu of the Empire",
         "note": "モンスターレベル：8\nエマ盗賊団包囲網1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "named enemy_00068"
     },
@@ -18558,7 +18558,7 @@
             140,
             180
         ],
-        "name": "禁則術式：暗月",
+        "name": "Forbidden Technique: Dark Moon",
         "note": "モンスターレベル：8\n夢の終わり1-5\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "Death"
     },
@@ -18698,7 +18698,7 @@
             150,
             205
         ],
-        "name": "魔法使いリルム",
+        "name": "Mage Relm",
         "note": "モンスターレベル：8\n夢の終わり1-6\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "battlerName": "named enemy_00017"
     },
@@ -18833,7 +18833,7 @@
             150,
             205
         ],
-        "name": "魔法使いリルム",
+        "name": "Mage Relm",
         "note": "モンスターレベル：8\n夢の終わり1-6\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "battlerName": "named enemy_00018"
     },
@@ -19045,7 +19045,7 @@
             120,
             180
         ],
-        "name": "勇者",
+        "name": "Hero",
         "note": "モンスターレベル：∞\n夢の終わり1-7\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "named enemy_00076"
     },
@@ -19201,7 +19201,7 @@
             120,
             180
         ],
-        "name": "勇者",
+        "name": "Hero",
         "note": "モンスターレベル：∞\n夢の終わり1-7\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "named enemy_00076"
     },
@@ -19327,7 +19327,7 @@
             120,
             180
         ],
-        "name": "商人ストラ",
+        "name": "Merchant Stora",
         "note": "モンスターレベル：4\n訳ありのオークション1-3\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "ETNR_Enemy093"
     },
@@ -19453,7 +19453,7 @@
             80,
             180
         ],
-        "name": "元帝国暗部アリシア",
+        "name": "Former Imperial Dark Operative Alicia",
         "note": "モンスターレベル：8\nドラゴンを宿す者1-4\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "battlerName": "named_enemy_00020"
     },
@@ -19591,7 +19591,7 @@
             140,
             180
         ],
-        "name": "元帝国暗部アリシア",
+        "name": "Former Imperial Dark Operative Alicia",
         "note": "モンスターレベル：8\nドラゴンを宿す者1-4\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "battlerName": "named_enemy_00021"
     },
@@ -19715,7 +19715,7 @@
             130,
             180
         ],
-        "name": "元老院貴族ピドの親衛隊",
+        "name": "Elite Guard of Senator Pido",
         "note": "モンスターレベル：8\nドラゴンを宿す者1-6\nbreath motion: 0\nダミー",
         "battlerName": "Actor2_11"
     },
@@ -19843,7 +19843,7 @@
             130,
             180
         ],
-        "name": "元老院貴族ピドの親衛隊隊長",
+        "name": "Chief of the Senate Aristocrat Pido's Bodyguard Unit",
         "note": "モンスターレベル：8\nドラゴンを宿す者1-4\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "battlerName": "Actor1_71"
     },
@@ -19979,7 +19979,7 @@
             130,
             180
         ],
-        "name": "悪魔レフガリアの幻影",
+        "name": "Illusion of the demon Lefgaria",
         "note": "モンスターレベル：8\nクリスタルの中の助手1-2\nBoss HP\nHide HP\nbreath motion: 0\naura effect: 0:0:devil_001:255:0:0",
         "battlerName": "devil_001"
     },
@@ -20115,7 +20115,7 @@
             130,
             180
         ],
-        "name": "悪魔グアイペソの幻影",
+        "name": "Illusion of the demon Guaipezo",
         "note": "モンスターレベル：8\nクリスタルの中の助手1-3\nBoss HP\nHide HP\nbreath motion: 0\naura effect: 0:0:016rb:255:0:0",
         "battlerName": "016rb"
     },
@@ -20258,7 +20258,7 @@
             110,
             100
         ],
-        "name": "悪魔ユアンの幻影",
+        "name": "Illusion of Demon Yuan",
         "note": "モンスターレベル：8\nクリスタルの中の助手1-4\nBoss HP\nHide HP\nbreath motion: 0\naura effect: 0:0:devil_003:255:0:0",
         "battlerName": "devil_003"
     },
@@ -20389,7 +20389,7 @@
             130,
             180
         ],
-        "name": "研究者アルブスの魂",
+        "name": "Researcher Albus's Soul",
         "note": "モンスターレベル：8\nクリスタルの中の助手1-8\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "Willowisp_big"
     },
@@ -20534,7 +20534,7 @@
             10,
             10
         ],
-        "name": "悪石の怨念",
+        "name": "Resentment of Evil Stone",
         "note": "モンスターレベル：8\n黄金の針1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "hane_spect2"
     },
@@ -20670,7 +20670,7 @@
             130,
             180
         ],
-        "name": "ピリアの護衛兵隊長",
+        "name": "Captain of the Pilia Guard",
         "note": "モンスターレベル：8\n壊された天秤1-3\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "Captain_1"
     },
@@ -20799,7 +20799,7 @@
             120,
             160
         ],
-        "name": "ピリアの護衛兵",
+        "name": "Guards of Pilia",
         "note": "モンスターレベル：8\n壊された天秤1-3\nbreath motion: 0",
         "battlerName": "Captain_2"
     },
@@ -20871,7 +20871,7 @@
             }
         ],
         "gold": 0,
-        "name": "怪盗ペルノ",
+        "name": "Mysterious Thief Perno",
         "note": "モンスターレベル：6\n元老院議員ピリアの屋敷\n放蕩貴族からの依頼1-4\nbreath motion: 0",
         "params": [
             100,
@@ -21006,7 +21006,7 @@
             130,
             180
         ],
-        "name": "王宮文官エモニ",
+        "name": "Royal Court Official Emoni",
         "note": "モンスターレベル：9\n裏切りの塔\n奇妙な友情1-8\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "battlerName": "named enemy_00029"
     },
@@ -21132,7 +21132,7 @@
             130,
             180
         ],
-        "name": "王宮文官エモニ",
+        "name": "Royal Court Official Emoni",
         "note": "モンスターレベル：9\n裏切りの塔\n奇妙な友情1-8\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "battlerName": "named enemy_00030"
     },
@@ -21270,7 +21270,7 @@
             150,
             180
         ],
-        "name": "束縛されし者ルイド",
+        "name": "Bound One Luid",
         "note": "モンスターレベル：9\nホワイトブリムを外して\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "battlerName": "named enemy_00053"
     },
@@ -21418,7 +21418,7 @@
             180,
             180
         ],
-        "name": "束縛されし者ルイド",
+        "name": "Bound One Luid",
         "note": "モンスターレベル：9\nホワイトブリムを外して\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "battlerName": "named enemy_00054"
     },
@@ -21546,7 +21546,7 @@
             150,
             180
         ],
-        "name": "疾風のセリス",
+        "name": "Celis of the Swift Wind",
         "note": "モンスターレベル：9\n牙をむく疾風1-8\nbreath motion: 0\nBoss HP\nHide HP\nparticle effect: 0:20:Particles:0:3:3\n使うスキル名がすべて「風に関連した名称」",
         "battlerName": "named_enemy_00023"
     },
@@ -21674,7 +21674,7 @@
             999,
             180
         ],
-        "name": "疾風のセリス",
+        "name": "Celis of the Swift Wind",
         "note": "モンスターレベル：9\n牙をむく疾風1-8\nbreath motion: 0\nBoss HP\nHide HP\nparticle effect: 0:20:Particles:0:3:3\n使うスキル名がすべて「風に関連した名称」",
         "battlerName": "named_enemy_00024"
     },
@@ -21795,7 +21795,7 @@
             150,
             200
         ],
-        "name": "邪悪なる偽冒険者プセマ",
+        "name": "Evil False Adventurer Psema",
         "note": "モンスターレベル：9\n牙をむく疾風\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "battlerName": "named enemy_00059"
     },
@@ -21919,7 +21919,7 @@
             }
         ],
         "gold": 17786,
-        "name": "王家の守護者アトゥ",
+        "name": "Royal Guardian Atu",
         "note": "モンスターレベル：10\n玉座に座る者\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             55000,
@@ -21990,7 +21990,7 @@
             }
         ],
         "gold": 2870,
-        "name": "アトゥ部隊達人軍人",
+        "name": "Atu Unit Master Soldier",
         "note": "モンスターレベル：10\n玉座に座る者\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4000,
@@ -22172,7 +22172,7 @@
             }
         ],
         "gold": 0,
-        "name": "傷だらけのドラゴン",
+        "name": "Wounded Dragon",
         "note": "モンスターレベル：10\n【073】（共通）玉座に座る者1-9\n属性有効度【竜】は消さないでください\nステート有効度【スタン：10％】は消さないでください\nSpineモンスター\nBoss HP\nHide HP",
         "params": [
             48800,
@@ -22314,7 +22314,7 @@
             180,
             250
         ],
-        "name": "帝国暗部エモニ",
+        "name": "Imperial Dark Agent Emoni",
         "note": "モンスターレベル：10\n玉座に座る者\nBoss HP\nHide HP\nbreath motion: 0",
         "battlerName": "named enemy_00029"
     },
@@ -22436,7 +22436,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔導書のオーガ",
+        "name": "Ogre of the Grimoire",
         "note": "モンスターレベル：10\n玉座に座る者\nbreath motion: 0",
         "params": [
             10218,
@@ -22578,7 +22578,7 @@
             160,
             180
         ],
-        "name": "魔術師エラトマ",
+        "name": "Magician Eratoma",
         "note": "モンスターレベル：10\n玉座に座る者\nBoss HP\nHide HP\nbreath motion: 0\n帝国とは違う術式を使うことに注意\n魔法の名称がリルムたちとは違う\n帝国：◯◯術式：漢字（開発術式：烈火）\nエラトマ：魔術英語（魔術ファイヤー）",
         "battlerName": "named enemy_00051"
     },
@@ -22716,7 +22716,7 @@
             }
         ],
         "gold": 0,
-        "name": "アトゥ",
+        "name": "Atu",
         "note": "モンスターレベル：10\n玉座に座る者\nBoss HP\nHide HP\nbreath motion: 0\n裏ボス的な存在",
         "params": [
             60000,
@@ -22863,7 +22863,7 @@
             }
         ],
         "gold": 17786,
-        "name": "アトゥ",
+        "name": "Atu",
         "note": "モンスターレベル：10\n玉座に座る者\nBoss HP\nHide HP\nbreath motion: 0\n裏ボス的な存在",
         "params": [
             60000,
@@ -22998,7 +22998,7 @@
             130,
             180
         ],
-        "name": "xxx託す者セリス",
+        "name": "Text Celis, the one entrusted with xxx",
         "note": "モンスターレベル：10\nたどり着いた答え\nBoss HP\nHide HP\nbreath motion: 0\n使うスキル名がすべて「風に関連した名称」\nクレアと1対1の特殊戦闘",
         "battlerName": "named_enemy_00079"
     },
@@ -23053,7 +23053,7 @@
             }
         ],
         "gold": 0,
-        "name": "アトゥ部隊精鋭軍人",
+        "name": "Elite soldiers of the Atu unit",
         "note": "モンスターレベル：9\n盤上から戦場へ1-6\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3200,
@@ -23176,7 +23176,7 @@
             95,
             78
         ],
-        "name": "精鋭帝国暗部",
+        "name": "Elite Imperial Dark Division",
         "note": "モンスターレベル：9\nホワイトブリムを外して1-3\nbreath motion: 0",
         "battlerName": "hawk_soldier"
     },
@@ -23356,7 +23356,7 @@
             }
         ],
         "gold": 0,
-        "name": "傷だらけのドラゴン",
+        "name": "Wounded Dragon",
         "note": "モンスターレベル：10\n【073】（通常END）玉座に座る者1-6\n属性有効度【竜】は消さないでください\nSpineモンスター\nBoss HP\nHide HP",
         "params": [
             48800,
@@ -23545,7 +23545,7 @@
             }
         ],
         "gold": 0,
-        "name": "傷だらけのドラゴン",
+        "name": "Wounded Dragon",
         "note": "モンスターレベル：10\n【073】（通常END）玉座に座る者1-17\n属性有効度【竜】は消さないでください\nSpineモンスター\nBoss HP\nHide HP",
         "params": [
             55000,
@@ -23734,7 +23734,7 @@
             }
         ],
         "gold": 0,
-        "name": "傷だらけのドラゴン",
+        "name": "Wounded Dragon",
         "note": "モンスターレベル：10\n【073】真エンド\nSpineモンスター\nBoss HP\nHide HP",
         "params": [
             60000,
@@ -23798,7 +23798,7 @@
             }
         ],
         "gold": 2296,
-        "name": "アトゥ部隊精鋭軍人",
+        "name": "Elite soldiers of the Atu unit",
         "note": "モンスターレベル：9\n玉座に座る者\nbreath motion: 0",
         "params": [
             3200,
@@ -23875,7 +23875,7 @@
             }
         ],
         "gold": 0,
-        "name": "backup:ID変わってもOK　傷だらけのドラゴン",
+        "name": "backup: It's okay even if the ID changes - Dragon Covered in Wounds",
         "note": "backupデータ\n邪魔ならどこかに移動してID変えてもOKです。\n\nモンスターレベル：10\n【073】（共通）玉座に座る者1-9\n属性有効度【竜】は消さないでください\nステート有効度【スタン：10％】は消さないでください\nSpineモンスター\nBoss HP\nHide HP",
         "params": [
             100,
@@ -24071,7 +24071,7 @@
             130,
             180
         ],
-        "name": "託す者セリス",
+        "name": "Character Context: セリス == Celis | Female\n\nCelis, the entrusted one",
         "note": "モンスターレベル：10\nたどり着いた答え\nBoss HP\nHide HP\nbreath motion: 0\n使うスキル名がすべて「風に関連した名称」\nクレアと1対1の特殊戦闘",
         "battlerName": "named_enemy_00079"
     },
@@ -24306,7 +24306,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝冒険者の洞窟＝＝＝",
+        "name": "=== Adventurer's Cave ===",
         "params": [
             100,
             0,
@@ -24363,7 +24363,7 @@
             }
         ],
         "gold": 5,
-        "name": "洞窟ネズミⅠ",
+        "name": "Cave Rat I",
         "note": "モンスターレベル：0\n団体戦初級に登場",
         "params": [
             45,
@@ -24427,7 +24427,7 @@
             }
         ],
         "gold": 5,
-        "name": "洞窟こうもりⅠ",
+        "name": "Cave Bat I",
         "note": "モンスターレベル：0\n団体戦初級に登場",
         "params": [
             45,
@@ -24671,7 +24671,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝アルクダの森＝＝＝",
+        "name": "===Arucuda Forest===",
         "params": [
             100,
             0,
@@ -24735,7 +24735,7 @@
             }
         ],
         "gold": 10,
-        "name": "噛みつき蜘蛛",
+        "name": "Biting Spider",
         "note": "モンスターレベル：1\n序盤の敵なので毒なし",
         "params": [
             70,
@@ -24799,7 +24799,7 @@
             }
         ],
         "gold": 10,
-        "name": "兵隊蜂",
+        "name": "Soldier Bee",
         "note": "モンスターレベル：1\n序盤の敵なので毒なし",
         "params": [
             70,
@@ -24863,7 +24863,7 @@
             }
         ],
         "gold": 10,
-        "name": "小ネズミ",
+        "name": "Little Mouse",
         "note": "モンスターレベル：1",
         "params": [
             80,
@@ -25107,7 +25107,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝アッロス洞窟＝＝＝",
+        "name": "===Arros Cave===",
         "params": [
             100,
             0,
@@ -25171,7 +25171,7 @@
             }
         ],
         "gold": 20,
-        "name": "洞窟ネズミⅡ",
+        "name": "Cave Rat II",
         "note": "モンスターレベル：1",
         "params": [
             200,
@@ -25415,7 +25415,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝クリスタル廃鉱山＝＝＝",
+        "name": "Crystal Abandoned Mine",
         "params": [
             100,
             0,
@@ -25479,7 +25479,7 @@
             }
         ],
         "gold": 25,
-        "name": "洞窟こうもりⅡ",
+        "name": "Cave Bat II",
         "note": "モンスターレベル：1",
         "params": [
             250,
@@ -25548,7 +25548,7 @@
             }
         ],
         "gold": 22,
-        "name": "洞窟蛇",
+        "name": "Cave Snake",
         "note": "モンスターレベル：1\n序盤の敵なので毒なし",
         "params": [
             180,
@@ -25612,7 +25612,7 @@
             }
         ],
         "gold": 25,
-        "name": "山狗",
+        "name": "Yamainu",
         "params": [
             280,
             0,
@@ -25978,7 +25978,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝咲きこぼれの洞窟＝＝＝",
+        "name": "===Overflowing Blossom Cave===",
         "params": [
             100,
             0,
@@ -26042,7 +26042,7 @@
             }
         ],
         "gold": 26,
-        "name": "ゴブリン・ラットⅠ",
+        "name": "Goblin Rat I",
         "note": "モンスターレベル：2",
         "params": [
             330,
@@ -26106,7 +26106,7 @@
             }
         ],
         "gold": 29,
-        "name": "スフーランの毒花",
+        "name": "Suhuran's Poisonous Flower",
         "note": "モンスターレベル：2",
         "params": [
             280,
@@ -26170,7 +26170,7 @@
             }
         ],
         "gold": 29,
-        "name": "ラットイーター",
+        "name": "Rat Eater",
         "note": "モンスターレベル：2",
         "params": [
             400,
@@ -26475,7 +26475,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝古代の遺跡＝＝＝",
+        "name": "Ancient Ruins",
         "params": [
             100,
             0,
@@ -26544,7 +26544,7 @@
             }
         ],
         "gold": 66,
-        "name": "ガーゴイルⅠ",
+        "name": "Gargoyle I",
         "note": "モンスターレベル：2",
         "params": [
             454,
@@ -26613,7 +26613,7 @@
             }
         ],
         "gold": 56,
-        "name": "動く石像Ⅰ",
+        "name": "Moving Statue I",
         "note": "モンスターレベル：2",
         "params": [
             425,
@@ -26857,7 +26857,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝レフガリアの森＝＝＝",
+        "name": "=== Lefgaria Forest ===",
         "params": [
             100,
             0,
@@ -26921,7 +26921,7 @@
             }
         ],
         "gold": 34,
-        "name": "黒い鳥Ⅰ",
+        "name": "Black Bird I",
         "note": "モンスターレベル：2",
         "params": [
             380,
@@ -26985,7 +26985,7 @@
             }
         ],
         "gold": 39,
-        "name": "ドクロキノコ",
+        "name": "Skull Mushroom",
         "note": "モンスターレベル：2",
         "params": [
             430,
@@ -27049,7 +27049,7 @@
             }
         ],
         "gold": 41,
-        "name": "レフガリアの木",
+        "name": "Lefgaria Tree",
         "note": "モンスターレベル：2",
         "params": [
             460,
@@ -27415,7 +27415,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝ロクソス砦＝＝＝",
+        "name": "===Roxos Fortress===",
         "params": [
             100,
             0,
@@ -27479,7 +27479,7 @@
             }
         ],
         "gold": 33,
-        "name": "ヘビクイトリⅠ",
+        "name": "Snake Cutter I",
         "note": "モンスターレベル：2",
         "params": [
             451,
@@ -27543,7 +27543,7 @@
             }
         ],
         "gold": 32,
-        "name": "トリクイヘビⅠ",
+        "name": "Trick Snake I",
         "note": "モンスターレベル：2",
         "params": [
             461,
@@ -27607,7 +27607,7 @@
             }
         ],
         "gold": 37,
-        "name": "ワイントカゲ",
+        "name": "Waintokage",
         "note": "モンスターレベル：2",
         "params": [
             412,
@@ -27912,7 +27912,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝ゴブリンの巣＝＝＝",
+        "name": "===Goblin's Nest===",
         "params": [
             100,
             0,
@@ -27976,7 +27976,7 @@
             }
         ],
         "gold": 42,
-        "name": "雑兵ゴブリン",
+        "name": "Goblin Footsoldier",
         "note": "モンスターレベル：2",
         "params": [
             454,
@@ -28220,7 +28220,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝狼の洞窟＝＝＝",
+        "name": "===Wolf's Cave===",
         "params": [
             100,
             0,
@@ -28284,7 +28284,7 @@
             }
         ],
         "gold": 48,
-        "name": "洞窟の殺し屋",
+        "name": "Cave Assassin",
         "note": "モンスターレベル：3",
         "params": [
             621,
@@ -28589,7 +28589,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝スクリロ山＝＝＝",
+        "name": "=== Sukurilo Mountain ===",
         "params": [
             100,
             0,
@@ -28653,7 +28653,7 @@
             }
         ],
         "gold": 68,
-        "name": "キャタピラー",
+        "name": "Caterpillar",
         "note": "モンスターレベル：3",
         "params": [
             640,
@@ -28958,7 +28958,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝ドラゴンの涙製造所＝＝＝",
+        "name": "=== Dragon's Tear Manufacturing Facility ===",
         "params": [
             100,
             0,
@@ -29022,7 +29022,7 @@
             }
         ],
         "gold": 128,
-        "name": "中毒者",
+        "name": "Poisoned person",
         "note": "モンスターレベル：4\n攻撃力極振りのイメージ",
         "params": [
             750,
@@ -29086,7 +29086,7 @@
             }
         ],
         "gold": 63,
-        "name": "汚染されたこうもり",
+        "name": "Contaminated Bat",
         "note": "モンスターレベル：4\n麻薬を食べているため毒持ち",
         "params": [
             711,
@@ -29150,7 +29150,7 @@
             }
         ],
         "gold": 58,
-        "name": "汚染されたヘビ",
+        "name": "Contaminated Snake",
         "note": "モンスターレベル：4\n麻薬を食べているため毒持ち",
         "params": [
             725,
@@ -29455,7 +29455,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝バルク団の狩場＝＝＝",
+        "name": "=== Bulk Gang's Hunting Ground ===",
         "params": [
             100,
             0,
@@ -29519,7 +29519,7 @@
             }
         ],
         "gold": 76,
-        "name": "兵隊長クマ",
+        "name": "Captain Kuma",
         "note": "モンスターレベル：4",
         "params": [
             1250,
@@ -29583,7 +29583,7 @@
             }
         ],
         "gold": 73,
-        "name": "大クズリⅡ",
+        "name": "Big Scumbag II",
         "note": "モンスターレベル：4",
         "params": [
             1121,
@@ -29647,7 +29647,7 @@
             }
         ],
         "gold": 79,
-        "name": "黒い鳥Ⅱ",
+        "name": "Black Bird II",
         "note": "モンスターレベル：4",
         "params": [
             1100,
@@ -29952,7 +29952,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝黄金街道＝＝＝",
+        "name": "===Golden Highway===",
         "params": [
             100,
             0,
@@ -30023,7 +30023,7 @@
             }
         ],
         "gold": 108,
-        "name": "獰猛な野犬",
+        "name": "Fierce Wild Dog",
         "note": "モンスターレベル：5\n色変更を実施予定",
         "params": [
             1421,
@@ -30094,7 +30094,7 @@
             }
         ],
         "gold": 106,
-        "name": "クサリヘビ",
+        "name": "Kusarihebi",
         "note": "モンスターレベル：5\n色変更を実施予定",
         "params": [
             1330,
@@ -30170,7 +30170,7 @@
             }
         ],
         "gold": 215,
-        "name": "偽帝国兵",
+        "name": "False Imperial Soldier",
         "params": [
             1500,
             420,
@@ -30536,7 +30536,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝放蕩貴族の所有地＝＝＝",
+        "name": "===Dissolute Noble's Estate===",
         "params": [
             100,
             0,
@@ -30600,7 +30600,7 @@
             }
         ],
         "gold": 131,
-        "name": "スフーランの指",
+        "name": "Suhuran's Finger",
         "note": "モンスターレベル：5",
         "params": [
             1340,
@@ -30671,7 +30671,7 @@
             }
         ],
         "gold": 140,
-        "name": "スフーランの尻尾",
+        "name": "Sfuran's tail",
         "note": "モンスターレベル：5",
         "params": [
             1580,
@@ -30742,7 +30742,7 @@
             }
         ],
         "gold": 256,
-        "name": "アスピダ同盟警備兵",
+        "name": "Aspida Alliance Security Guard",
         "note": "モンスターレベル：5",
         "params": [
             1636,
@@ -31047,7 +31047,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝大岩の城の魔女地下施設＝＝＝",
+        "name": "=== Witch Underground Facility in the Great Rock Castle ===",
         "params": [
             100,
             0,
@@ -31133,7 +31133,7 @@
             }
         ],
         "gold": 33,
-        "name": "魔女アナトの使い魔",
+        "name": "Witch Anat's Familiar",
         "note": "モンスターレベル：5",
         "params": [
             1650,
@@ -31255,7 +31255,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝朽ちた城＝＝＝",
+        "name": "==Decayed Castle==",
         "params": [
             100,
             0,
@@ -31326,7 +31326,7 @@
             }
         ],
         "gold": 256,
-        "name": "ロパロ略奪団員Ⅱ",
+        "name": "Loparo Raider II",
         "note": "モンスターレベル：5",
         "params": [
             1587,
@@ -31397,7 +31397,7 @@
             }
         ],
         "gold": 133,
-        "name": "臆病な暗殺者",
+        "name": "Cowardly Assassin",
         "note": "モンスターレベル：5",
         "params": [
             1674,
@@ -31468,7 +31468,7 @@
             }
         ],
         "gold": 97,
-        "name": "草原サソリ",
+        "name": "Grassland Scorpion",
         "note": "モンスターレベル：5",
         "params": [
             1736,
@@ -31834,7 +31834,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝サザニ草原＝＝＝",
+        "name": "===Sazani Grassland===",
         "params": [
             100,
             0,
@@ -31912,7 +31912,7 @@
             }
         ],
         "gold": 135,
-        "name": "統率のとれた兵隊ゴブリン",
+        "name": "Disciplined Soldier Goblin",
         "note": "モンスターレベル：6\n帝国軍からの依頼1-4\n同じモンスターがユアンの大口で徘徊",
         "params": [
             2030,
@@ -31976,7 +31976,7 @@
             }
         ],
         "gold": 124,
-        "name": "ピューマ Ⅱ",
+        "name": "Puma II",
         "note": "モンスターレベル：6",
         "params": [
             1810,
@@ -32047,7 +32047,7 @@
             }
         ],
         "gold": 134,
-        "name": "ヘビクイトリⅡ",
+        "name": "Snake Cutter II",
         "note": "モンスターレベル：6",
         "params": [
             1721,
@@ -32118,7 +32118,7 @@
             }
         ],
         "gold": 126,
-        "name": "トリクイヘビⅡ",
+        "name": "Trick Snake II",
         "note": "モンスターレベル：6",
         "params": [
             1784,
@@ -32423,7 +32423,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝ユアンの大口＝＝＝",
+        "name": "=== Yuan's Big Mouth ===",
         "params": [
             100,
             0,
@@ -32501,7 +32501,7 @@
             }
         ],
         "gold": 137,
-        "name": "統率のとれた雑兵ゴブリン",
+        "name": "Well-organized Foot Soldier Goblin",
         "note": "モンスターレベル：6",
         "params": [
             2030,
@@ -32565,7 +32565,7 @@
             }
         ],
         "gold": 102,
-        "name": "ゴブリン・ラットⅡ",
+        "name": "Goblin Rat II",
         "note": "モンスターレベル：6",
         "params": [
             1561,
@@ -32870,7 +32870,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝ラキオ遺跡＝＝＝",
+        "name": "===Rakio Ruins===",
         "params": [
             100,
             0,
@@ -32939,7 +32939,7 @@
             }
         ],
         "gold": 422,
-        "name": "ガーゴイルⅡ",
+        "name": "Gargoyle II",
         "note": "モンスターレベル：6",
         "params": [
             2030,
@@ -33008,7 +33008,7 @@
             }
         ],
         "gold": 132,
-        "name": "動く石像Ⅱ",
+        "name": "Moving Statue II",
         "note": "モンスターレベル：6",
         "params": [
             1950,
@@ -33313,7 +33313,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝個人戦【初級】＝＝＝",
+        "name": "===Individual Battle [Beginner]===",
         "params": [
             100,
             0,
@@ -33427,7 +33427,7 @@
             }
         ],
         "gold": 0,
-        "name": "異国の暗殺者（見習い）",
+        "name": "Foreign Assassin (Apprentice)",
         "params": [
             2480,
             360,
@@ -33732,7 +33732,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝個人戦【中級】＝＝＝",
+        "name": "===Individual Battle [Intermediate]===",
         "params": [
             100,
             0,
@@ -33851,7 +33851,7 @@
             }
         ],
         "gold": 0,
-        "name": "騎士見習いペロネー",
+        "name": "Knight Apprentice Perno",
         "params": [
             4030,
             600,
@@ -33970,7 +33970,7 @@
             }
         ],
         "gold": 0,
-        "name": "美剣士シーカ",
+        "name": "Beautiful Swordsman Seeka",
         "params": [
             3800,
             550,
@@ -34084,7 +34084,7 @@
             }
         ],
         "gold": 0,
-        "name": "女冒険者カルフィ",
+        "name": "Female Adventurer Karufi",
         "params": [
             5200,
             605,
@@ -34389,7 +34389,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝個人戦【上級】＝＝＝",
+        "name": "===Individual Battle [Advanced]===",
         "params": [
             100,
             0,
@@ -34510,7 +34510,7 @@
             }
         ],
         "gold": 0,
-        "name": "狂犬のエスパ",
+        "name": "Mad Dog Esper",
         "params": [
             5850,
             850,
@@ -34631,7 +34631,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔剣士リョート",
+        "name": "Magic Swordsman Ryouto",
         "params": [
             5500,
             843,
@@ -34757,7 +34757,7 @@
             }
         ],
         "gold": 0,
-        "name": "怪力のテルモン",
+        "name": "Termon the Mighty",
         "params": [
             5900,
             840,
@@ -34878,7 +34878,7 @@
             }
         ],
         "gold": 0,
-        "name": "若き英雄ケオ",
+        "name": "Young Hero Keo",
         "params": [
             6000,
             840,
@@ -35183,7 +35183,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝個人戦【達人級】＝＝＝",
+        "name": "===Individual Battle [Master Class]===",
         "params": [
             100,
             0,
@@ -35297,7 +35297,7 @@
             }
         ],
         "gold": 0,
-        "name": "正義の人ゼーン",
+        "name": "Zeen, the person of justice",
         "params": [
             8000,
             1200,
@@ -35423,7 +35423,7 @@
             }
         ],
         "gold": 0,
-        "name": "異国の暗殺者（達人）",
+        "name": "Foreign Assassin (Expert)",
         "params": [
             7500,
             1200,
@@ -35544,7 +35544,7 @@
             }
         ],
         "gold": 0,
-        "name": "大鉞のアチャ",
+        "name": "Acha, the Great Axe",
         "params": [
             7800,
             1200,
@@ -35675,7 +35675,7 @@
             }
         ],
         "gold": 0,
-        "name": "異国の暗殺者アヤメ",
+        "name": "Ayame, the foreign assassin",
         "note": "Boss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3\n簡易アーマーブレイクモンスター\n",
         "params": [
             8000,
@@ -35806,7 +35806,7 @@
             }
         ],
         "gold": 0,
-        "name": "異国の暗殺者アヤメ",
+        "name": "Ayame, the foreign assassin",
         "note": "Boss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3\n簡易アーマーブレイクモンスター",
         "params": [
             8000,
@@ -35934,7 +35934,7 @@
             }
         ],
         "gold": 0,
-        "name": "闘技場の覇者オート",
+        "name": "Champion Auto of the Arena",
         "params": [
             9600,
             1000,
@@ -36117,7 +36117,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝団体戦【初級】＝＝＝",
+        "name": "===Team Battle [Beginner]===",
         "params": [
             100,
             0,
@@ -36231,7 +36231,7 @@
             }
         ],
         "gold": 0,
-        "name": "動物使いウラ",
+        "name": "Animal Handler Ura",
         "params": [
             2200,
             360,
@@ -36345,7 +36345,7 @@
             }
         ],
         "gold": 0,
-        "name": "異国の暗殺者（灰）",
+        "name": "Foreign Assassin (Ash)",
         "params": [
             2200,
             360,
@@ -36459,7 +36459,7 @@
             }
         ],
         "gold": 0,
-        "name": "異国の暗殺者（青）",
+        "name": "Foreign Assassin (Blue)",
         "params": [
             2200,
             300,
@@ -36573,7 +36573,7 @@
             }
         ],
         "gold": 0,
-        "name": "異国の暗殺者（緑）",
+        "name": "Foreign Assassin (Green)",
         "params": [
             2200,
             300,
@@ -36687,7 +36687,7 @@
             }
         ],
         "gold": 0,
-        "name": "誘惑の踊り子シルトス",
+        "name": "Temptress Dancer Silthos",
         "params": [
             1800,
             300,
@@ -36801,7 +36801,7 @@
             }
         ],
         "gold": 0,
-        "name": "誘惑された衛兵",
+        "name": "Tempted Guard",
         "params": [
             2400,
             300,
@@ -37106,7 +37106,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝団体戦【中級】＝＝＝",
+        "name": "===Group Battle [Intermediate]===",
         "params": [
             100,
             0,
@@ -37220,7 +37220,7 @@
             }
         ],
         "gold": 0,
-        "name": "ペロネーの執事セッホ",
+        "name": "Secho, the Butler of Perone",
         "params": [
             4060,
             600,
@@ -37334,7 +37334,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔道具使いヤヤ",
+        "name": "Magic Tool User Yaya",
         "params": [
             3800,
             600,
@@ -37448,7 +37448,7 @@
             }
         ],
         "gold": 0,
-        "name": "ヤヤの使い魔",
+        "name": "Yaya's familiar",
         "params": [
             2000,
             600,
@@ -37569,7 +37569,7 @@
             }
         ],
         "gold": 0,
-        "name": "猛獣使いラティゴ",
+        "name": "Beast Tamer Latigo",
         "params": [
             4600,
             500,
@@ -37690,7 +37690,7 @@
             }
         ],
         "gold": 0,
-        "name": "ラティゴの黒豹（長男）",
+        "name": "Latigo's Black Panther (Eldest Son)",
         "params": [
             1200,
             30,
@@ -37811,7 +37811,7 @@
             }
         ],
         "gold": 0,
-        "name": "ラティゴの黒豹（次男）",
+        "name": "Latigo's Black Panther (Second Son)",
         "params": [
             1200,
             30,
@@ -37932,7 +37932,7 @@
             }
         ],
         "gold": 0,
-        "name": "ラティゴの黒豹（三男）",
+        "name": "Latigo's Black Panther (Third Son)",
         "params": [
             1200,
             50,
@@ -38237,7 +38237,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝団体戦【上級】＝＝＝",
+        "name": "===Group Battle [Advanced]===",
         "params": [
             100,
             0,
@@ -38351,7 +38351,7 @@
             }
         ],
         "gold": 0,
-        "name": "賞金稼ぎヘマ",
+        "name": "Bounty Hunter Hema",
         "params": [
             5600,
             800,
@@ -38472,7 +38472,7 @@
             }
         ],
         "gold": 0,
-        "name": "賞金稼ぎゲムマ",
+        "name": "Bounty Hunter Gemma",
         "params": [
             6000,
             800,
@@ -38593,7 +38593,7 @@
             }
         ],
         "gold": 0,
-        "name": "賞金稼ぎスフェラ",
+        "name": "Bounty Hunter Sphera",
         "params": [
             5800,
             770,
@@ -38714,7 +38714,7 @@
             }
         ],
         "gold": 0,
-        "name": "ソロル三姉妹ソーソ",
+        "name": "Solol Three Sisters Soso",
         "params": [
             6200,
             800,
@@ -38835,7 +38835,7 @@
             }
         ],
         "gold": 0,
-        "name": "ソロル三姉妹ロロ",
+        "name": "Solol Three Sisters Lolo",
         "params": [
             6300,
             750,
@@ -38954,7 +38954,7 @@
             }
         ],
         "gold": 0,
-        "name": "ソロル三姉妹ルル",
+        "name": "Solol Three Sisters Lulu",
         "params": [
             5600,
             630,
@@ -39075,7 +39075,7 @@
             }
         ],
         "gold": 0,
-        "name": "念動魔道士リベルタ",
+        "name": "Telekinetic Sorcerer Liberta",
         "params": [
             5800,
             880,
@@ -39189,7 +39189,7 @@
             }
         ],
         "gold": 0,
-        "name": "リベルダの人形・愛",
+        "name": "Libelda's Doll - Ai",
         "params": [
             3000,
             300,
@@ -39303,7 +39303,7 @@
             }
         ],
         "gold": 0,
-        "name": "リベルダの人形・怒",
+        "name": "Libelda Doll - Anger",
         "params": [
             3000,
             300,
@@ -39417,7 +39417,7 @@
             }
         ],
         "gold": 0,
-        "name": "リベルダの人形・嘘",
+        "name": "Libelda's Doll - Lie",
         "params": [
             3000,
             300,
@@ -39531,7 +39531,7 @@
             }
         ],
         "gold": 0,
-        "name": "僧侶イギア",
+        "name": "Priest Igia",
         "params": [
             6200,
             880,
@@ -39652,7 +39652,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔剣士リョート",
+        "name": "Magic Swordsman Ryouto",
         "params": [
             7000,
             800,
@@ -39957,7 +39957,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝団体戦【達人級】＝＝＝",
+        "name": "===Group Battle [Master Class]===",
         "params": [
             100,
             0,
@@ -40071,7 +40071,7 @@
             }
         ],
         "gold": 0,
-        "name": "ピズマ闘技場の衛兵隊長",
+        "name": "Chief of the Pizuma Arena Guards",
         "params": [
             8000,
             1200,
@@ -40197,7 +40197,7 @@
             }
         ],
         "gold": 0,
-        "name": "ピズマ闘技場の衛兵",
+        "name": "Pizuma Arena Guard",
         "params": [
             8000,
             1000,
@@ -40311,7 +40311,7 @@
             }
         ],
         "gold": 0,
-        "name": "ゼーンの忠実なる部下",
+        "name": "Zeen's loyal subordinate",
         "params": [
             4200,
             1000,
@@ -40437,7 +40437,7 @@
             }
         ],
         "gold": 0,
-        "name": "呪われた僧侶アガタ",
+        "name": "Cursed Monk Agata",
         "note": "Boss HP\nHide HP\nbreath motion: 0",
         "params": [
             7600,
@@ -40558,7 +40558,7 @@
             }
         ],
         "gold": 0,
-        "name": "アガタの怨念",
+        "name": "Agatha's Resentment",
         "note": "breath motion: 0",
         "params": [
             5000,
@@ -40679,7 +40679,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔獣クティノス",
+        "name": "Beast Cutenos",
         "note": "breath motion: 0",
         "params": [
             8400,
@@ -40800,7 +40800,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔獣リエーフ",
+        "name": "Beast Rieef",
         "note": "Boss HP\nHide HP\nbreath motion: 0",
         "params": [
             7600,
@@ -40926,7 +40926,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔獣アゲラダ",
+        "name": "Agelada, the magical beast",
         "note": "breath motion: 0",
         "params": [
             8000,
@@ -41231,7 +41231,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝地下闘技場＝＝＝",
+        "name": "=== Underground Arena ===",
         "params": [
             100,
             0,
@@ -41357,7 +41357,7 @@
             }
         ],
         "gold": 0,
-        "name": "暗黒騎士エスパダ",
+        "name": "Dark Knight Espada",
         "note": "Boss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             15200,
@@ -41483,7 +41483,7 @@
             }
         ],
         "gold": 0,
-        "name": "破壊のオヴィス",
+        "name": "Ovis of Destruction",
         "note": "Boss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             20800,
@@ -41609,7 +41609,7 @@
             }
         ],
         "gold": 0,
-        "name": "異形の魔術士ラブゾス",
+        "name": "Lovezos, the Otherworldly Sorcerer",
         "note": "Boss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             26400,
@@ -41747,7 +41747,7 @@
             }
         ],
         "gold": 0,
-        "name": "誉れを失った異国の騎士",
+        "name": "Knight of the Lost Honor",
         "note": "Boss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75\n簡易アーマーブレイクモンスター",
         "params": [
             32000,
@@ -41885,7 +41885,7 @@
             }
         ],
         "gold": 0,
-        "name": "誉れを失った異国の騎士",
+        "name": "Knight of the Lost Honor",
         "note": "Boss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75\n簡易アーマーブレイクモンスター",
         "params": [
             32000,
@@ -42129,7 +42129,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝AAA決闘＝＝＝",
+        "name": "===AAA Duel===",
         "params": [
             100,
             0,
@@ -42277,7 +42277,7 @@
             }
         ],
         "gold": 0,
-        "name": "駆け出しの剣士",
+        "name": "Novice Swordsman",
         "note": "決闘Lv.1-1\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             1212,
@@ -42425,7 +42425,7 @@
             }
         ],
         "gold": 0,
-        "name": "駆け出しの傭兵",
+        "name": "Novice Mercenary",
         "note": "決闘Lv.1-2\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             1058,
@@ -42573,7 +42573,7 @@
             }
         ],
         "gold": 0,
-        "name": "手練れの戦士",
+        "name": "Skilled Warrior",
         "note": "決闘Lv.2-1\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             1852,
@@ -42709,7 +42709,7 @@
             }
         ],
         "gold": 0,
-        "name": "手練れの魔法使い",
+        "name": "Skilled Mage",
         "note": "決闘Lv.2-2\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             2024,
@@ -42857,7 +42857,7 @@
             }
         ],
         "gold": 0,
-        "name": "熟練の用心棒",
+        "name": "Skilled Bodyguard",
         "note": "決闘Lv.3-1\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3781,
@@ -42998,7 +42998,7 @@
             }
         ],
         "gold": 0,
-        "name": "熟練の魔術士",
+        "name": "Skilled Mage",
         "note": "決闘Lv.3-2\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3312,
@@ -43135,7 +43135,7 @@
             }
         ],
         "gold": 0,
-        "name": "黒騎士",
+        "name": "Black Knight",
         "note": "決闘Lv.4-1\n・物理系最候補の強さ\n・モンスターランク9\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             15000,
@@ -43286,7 +43286,7 @@
             }
         ],
         "gold": 0,
-        "name": "黒魔女",
+        "name": "Black Witch",
         "note": "決闘Lv.4-2\n・魔法系最候補の強さ\n・モンスターランク9\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             20800,
@@ -43343,7 +43343,7 @@
             }
         ],
         "gold": 0,
-        "name": "作家ハマヤ",
+        "name": "Translated Text: Writer Hamaya",
         "params": [
             600,
             0,
@@ -43487,7 +43487,7 @@
             }
         ],
         "gold": 0,
-        "name": "黒騎士",
+        "name": "Black Knight",
         "note": "決闘Lv.4-1\n・物理系最候補の強さ\n・モンスターランク9\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             15000,
@@ -43659,7 +43659,7 @@
             }
         ],
         "gold": 0,
-        "name": "黒魔女",
+        "name": "Black Witch",
         "note": "決闘Lv.4-2\n・魔法系最候補の強さ\n・モンスターランク9\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             20800,
@@ -43781,7 +43781,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝お料理バトル＝＝＝",
+        "name": "===Cooking Battle===",
         "params": [
             100,
             0,
@@ -43843,7 +43843,7 @@
             }
         ],
         "gold": 0,
-        "name": "ラゴンダン",
+        "name": "Ragon Dan",
         "note": "お料理バトルLv.1-1\n・モンスターランク1（設定済み）",
         "params": [
             700,
@@ -43905,7 +43905,7 @@
             }
         ],
         "gold": 0,
-        "name": "砂漠蟹の群れ",
+        "name": "Group of Desert Crabs",
         "note": "お料理バトルLv.2-1\n・モンスターランク3",
         "params": [
             2700,
@@ -43967,7 +43967,7 @@
             }
         ],
         "gold": 0,
-        "name": "ヘビクイトリの群れ",
+        "name": "Group of Snake Cutters",
         "note": "お料理バトルLv.2-2\n・モンスターランク3",
         "params": [
             2700,
@@ -44029,7 +44029,7 @@
             }
         ],
         "gold": 0,
-        "name": "森クジラ",
+        "name": "Forest Whale",
         "note": "お料理バトルLv.3-1\n・モンスターランク5",
         "params": [
             4500,
@@ -44091,7 +44091,7 @@
             }
         ],
         "gold": 0,
-        "name": "ヒッポ",
+        "name": "Hippo",
         "note": "お料理バトルLv.3-2\n・モンスターランク6",
         "params": [
             6000,
@@ -44153,7 +44153,7 @@
             }
         ],
         "gold": 0,
-        "name": "黄金蛇",
+        "name": "Golden Snake",
         "note": "お料理バトルLv.4-1\n・モンスターランク8",
         "params": [
             12000,
@@ -44215,7 +44215,7 @@
             }
         ],
         "gold": 0,
-        "name": "大王イカ",
+        "name": "Great King Ika",
         "note": "お料理バトルLv.4-2\n・モンスターランク9",
         "params": [
             15000,
@@ -44398,7 +44398,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝野盗の草原＝＝＝",
+        "name": "===Grassland Bandits===",
         "params": [
             100,
             0,
@@ -44476,7 +44476,7 @@
             20,
             20
         ],
-        "name": "ロパロ略奪団構成員見習い",
+        "name": "Roparo Raiders Trainee",
         "note": "モンスターレベルは「ロパロ略奪団見回り隊」に依存\n",
         "battlerName": "Actor1_31_01"
     },
@@ -44552,7 +44552,7 @@
             42,
             21
         ],
-        "name": "牛転ばせ",
+        "name": "Ushitenbase",
         "note": "モンスターレベルは「ロパロ略奪団見回り隊」に依存\n",
         "battlerName": "a982d33e"
     },
@@ -44621,7 +44621,7 @@
             21,
             19
         ],
-        "name": "飛びサソリ",
+        "name": "Jumping Scorpion",
         "note": "モンスターレベルは「ロパロ略奪団見回り隊」に依存\n",
         "battlerName": "ETNR_Enemy061_2"
     },
@@ -44857,7 +44857,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝ミュコス街道＝＝＝",
+        "name": "===Mukos Highway===",
         "params": [
             100,
             0,
@@ -44942,7 +44942,7 @@
             40,
             25
         ],
-        "name": "追い剥ぎ",
+        "name": "Oihagi",
         "note": "愚者の天秤\nモンスターLv.は「フォティゾナ偽衛兵」に依存\n素早い、攻撃力が高い\n歩行ドットに注意",
         "battlerName": "ETNR_Enemy093"
     },
@@ -45011,7 +45011,7 @@
             45,
             26
         ],
-        "name": "追跡者",
+        "name": "Pursuer",
         "note": "愚者の天秤\nモンスターLv.は「フォティゾナ偽衛兵」に依存\n素早い、攻撃力が高い",
         "battlerName": "SF_Wolf"
     },
@@ -45087,7 +45087,7 @@
             35,
             30
         ],
-        "name": "ニジイロアゲハ",
+        "name": "Nijiiroageha",
         "note": "愚者の天秤\nモンスターLv.は「フォティゾナ偽衛兵」に依存\n状態異常が得意なイメージ（混乱・毒）",
         "battlerName": "ETNR_Enemy091"
     },
@@ -45322,7 +45322,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝ミュコス旧街道＝＝＝",
+        "name": "===Mukosu Old Highway===",
         "params": [
             100,
             0,
@@ -45391,7 +45391,7 @@
             }
         ],
         "gold": 210,
-        "name": "元トモス略奪団構成員",
+        "name": "Former Tomosu Plunder Gang Member",
         "params": [
             2030,
             605,
@@ -45469,7 +45469,7 @@
             60,
             50
         ],
-        "name": "監視者",
+        "name": "Observer",
         "note": "愚者の魔導書\nモンスターLv.は「元トモス略奪団の隊長」に依存\n素早く、目潰ししてくるイメージ",
         "battlerName": "Crow"
     },
@@ -45538,7 +45538,7 @@
             70,
             50
         ],
-        "name": "レッドサーベル",
+        "name": "Red Saber",
         "note": "愚者の魔導書\nモンスターLv.は「元トモス略奪団の隊長」に依存\n",
         "battlerName": "ETNR_Enemy013"
     },
@@ -45773,7 +45773,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝穴だらけの丘＝＝＝",
+        "name": "=== Hill Full of Holes ===",
         "params": [
             100,
             0,
@@ -45856,7 +45856,7 @@
             20,
             20
         ],
-        "name": "三足蛇",
+        "name": "Three-Legged Snake",
         "note": "人食い熊の駆除\nモンスターLv.は「人食い熊」に依存",
         "battlerName": "ETNR_Enemy107"
     },
@@ -45925,7 +45925,7 @@
             30,
             10
         ],
-        "name": "カミソリネズミ",
+        "name": "Kamisorinezumi",
         "note": "人食い熊の駆除\nモンスターLv.は「人食い熊」に依存",
         "battlerName": "SF_Kamaitachi"
     },
@@ -45987,7 +45987,7 @@
             25,
             25
         ],
-        "name": "人食い",
+        "name": "Man-eater",
         "note": "人食い熊の駆除\nモンスターLv.は「人食い熊」に依存\n歩行ドットに注意",
         "battlerName": "Zombie"
     },
@@ -46161,7 +46161,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝深い森＝＝＝",
+        "name": "===Deep Forest===",
         "params": [
             100,
             0,
@@ -46237,7 +46237,7 @@
             }
         ],
         "gold": 29,
-        "name": "セラサニア",
+        "name": "Serasania",
         "params": [
             454,
             130,
@@ -46306,7 +46306,7 @@
             }
         ],
         "gold": 29,
-        "name": "クイーンバブーンスパイダー",
+        "name": "Queen Baboon Spider",
         "params": [
             454,
             130,
@@ -46375,7 +46375,7 @@
             }
         ],
         "gold": 29,
-        "name": "噛みつきネズミ",
+        "name": "Biting Rat",
         "params": [
             454,
             130,
@@ -46558,7 +46558,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝クァドラングルム遺跡＝＝＝",
+        "name": "===Quadrangle Ruins===",
         "params": [
             100,
             0,
@@ -46643,7 +46643,7 @@
             73,
             73
         ],
-        "name": "正方の戦士(量産型)",
+        "name": "Square Warrior (Mass Production Type)",
         "note": "クァドラングルム遺跡\nモンスターレベル：7\n永久の正方1-5",
         "battlerName": "ETNR_Enemy088_3"
     },
@@ -46756,7 +46756,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝キルクルス遺跡＝＝＝",
+        "name": "===Kirkurus Ruins===",
         "params": [
             100,
             0,
@@ -46887,7 +46887,7 @@
             15,
             140
         ],
-        "name": "真円の監視者",
+        "name": "Guardian of the Perfect Circle",
         "note": "キルクルス遺跡\nモンスターレベル：7\n不滅の真円",
         "battlerName": "SF_Mechasphere"
     },
@@ -47000,7 +47000,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝古えの墳墓＝＝＝",
+        "name": "===Ancient Tomb===",
         "params": [
             100,
             0,
@@ -47078,7 +47078,7 @@
             50,
             75
         ],
-        "name": "墳墓の怪物",
+        "name": "Monster of the Tomb",
         "note": "モンスターレベル：9\n【101】見果てぬ夢1-5\nbreath motion: 0\n雑魚モンスターとしても登場",
         "battlerName": "101_enemy_1"
     },
@@ -47192,7 +47192,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝トモス略奪団隠れ家＝＝＝",
+        "name": "=== Tomosu Raiders' Hideout ===",
         "params": [
             100,
             0,
@@ -47342,7 +47342,7 @@
             220,
             60
         ],
-        "name": "元トモス略奪団精鋭",
+        "name": "Former Tomosu Raiders Elite",
         "note": "モンスターレベル：7\n【115】秘密のレシピ\nbreath motion: 0\n雑魚モンスターとしても登場",
         "battlerName": "115_enemy_1"
     },
@@ -47483,7 +47483,7 @@
             191,
             34
         ],
-        "name": "飼い慣らされた猛犬",
+        "name": "Tamed Fierce Dog",
         "note": "モンスターレベル：7\n【115】秘密のレシピ\nbreath motion: 0\n雑魚モンスターとしても登場",
         "battlerName": "115_enemy_2"
     },
@@ -47597,7 +47597,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝メロスの遺跡＝＝＝",
+        "name": "=== Ruins of Melos ===",
         "params": [
             100,
             0,
@@ -47661,7 +47661,7 @@
             }
         ],
         "gold": 385,
-        "name": "命なき衛兵騎士",
+        "name": "Lifeless Guard Knight",
         "note": "モンスターレベル：8\n【104】復讐者たちの黄昏\nbreath motion: 0\n雑魚モンスターとしても登場\nファントムモンスター（消えるやつ）",
         "params": [
             2800,
@@ -47730,7 +47730,7 @@
             }
         ],
         "gold": 320,
-        "name": "命なき衛兵",
+        "name": "Lifeless Guard",
         "note": "モンスターレベル：8\n【104】復讐者たちの黄昏\nbreath motion: 0\nファントムモンスター（消えるやつ）",
         "params": [
             1234,
@@ -47853,7 +47853,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝ロパロ盗賊団アジト＝＝＝",
+        "name": "=== Roparo Thief Gang Hideout ===",
         "params": [
             100,
             0,
@@ -47922,7 +47922,7 @@
             }
         ],
         "gold": 423,
-        "name": "ロパロ略奪団精鋭",
+        "name": "Loparo Raiders Elite",
         "note": "モンスターレベル：8\n【102】決戦！ロパロ略奪団\nbreath motion: 0",
         "params": [
             3200,
@@ -47984,7 +47984,7 @@
             }
         ],
         "gold": 380,
-        "name": "飼いならされた狂犬",
+        "name": "Tamed Mad Dog",
         "note": "モンスターレベル：8\n【102】決戦！ロパロ略奪団\nbreath motion: 0",
         "params": [
             2300,
@@ -48107,7 +48107,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝勇者の遺跡＝＝＝",
+        "name": "=== Hero's Ruins ===",
         "params": [
             100,
             0,
@@ -48181,7 +48181,7 @@
             }
         ],
         "gold": 622,
-        "name": "ガーゴイルⅢ",
+        "name": "Gargoyle III",
         "note": "モンスターレベル：9\n勇者の遺跡\n【099】太陽の剣と満月の鎖\nbreath motion: 0",
         "params": [
             3200,
@@ -48255,7 +48255,7 @@
             }
         ],
         "gold": 382,
-        "name": "動く石像Ⅲ",
+        "name": "Moving Statue III",
         "note": "モンスターレベル：9\n勇者の遺跡\n【099】太陽の剣と満月の鎖\nbreath motion: 0",
         "params": [
             3200,
@@ -48378,7 +48378,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝夜のフォティゾナ大通り＝＝＝",
+        "name": "===Nighttime Fotizona Avenue===",
         "params": [
             100,
             0,
@@ -48447,7 +48447,7 @@
             }
         ],
         "gold": 420,
-        "name": "アトゥ部隊精鋭軍人",
+        "name": "Elite soldiers of the Atu unit",
         "note": "モンスターレベル：9\n盤上から戦場へ1-6\nbreath motion: 0",
         "params": [
             3200,
@@ -48588,7 +48588,7 @@
             }
         ],
         "gold": 444,
-        "name": "ドラゴンに服従する強化オーガ",
+        "name": "Enhanced Ogre Submissive to Dragon",
         "note": "モンスターレベル：10\n玉座に座る者\nbreath motion: 0",
         "params": [
             10218,
@@ -48729,7 +48729,7 @@
             }
         ],
         "gold": 312,
-        "name": "ドラゴンに服従する強化オーク",
+        "name": "Enhanced Orcs who submit to dragons",
         "note": "モンスターレベル：10\n玉座に座る者\nbreath motion: 0",
         "params": [
             10218,
@@ -48870,7 +48870,7 @@
             }
         ],
         "gold": 104,
-        "name": "ドラゴンに服従する強化ゴブリン",
+        "name": "Enhanced Goblin Subjugated by Dragon",
         "note": "モンスターレベル：10\n玉座に座る者\nbreath motion: 0",
         "params": [
             10218,
@@ -48992,7 +48992,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝裁きの跡＝＝＝",
+        "name": "===Judgment's Trace===",
         "params": [
             100,
             0,
@@ -49075,7 +49075,7 @@
             56,
             56
         ],
-        "name": "伍足蛇",
+        "name": "Five-Legged Snake",
         "note": "モンスターLv.7\n",
         "battlerName": "ETNR_Enemy107"
     },
@@ -49151,7 +49151,7 @@
             56,
             56
         ],
-        "name": "砂蟯虫",
+        "name": "Sandworm",
         "note": "モンスターLv7\n",
         "battlerName": "Sandworm"
     },
@@ -49265,7 +49265,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝リピ村宗教施設＝＝＝",
+        "name": "===Ripi Village Religious Facility===",
         "params": [
             100,
             0,
@@ -49351,7 +49351,7 @@
             }
         ],
         "gold": 106,
-        "name": "操られた骸",
+        "name": "Translated Text: Manipulated Corpse",
         "note": "モンスターレベル：6\nリピ村\nドラゴンの爪1-4\nbreath motion: 0",
         "params": [
             2011,
@@ -49432,7 +49432,7 @@
             }
         ],
         "gold": 102,
-        "name": "猛毒噛じり",
+        "name": "Venomous Bite",
         "note": "モンスターレベル：6",
         "params": [
             1561,
@@ -49554,7 +49554,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝薬師の大穴＝＝＝",
+        "name": "===Pharmacist's Big Hole===",
         "params": [
             100,
             0,
@@ -49644,7 +49644,7 @@
             51,
             56
         ],
-        "name": "毒蘑菇",
+        "name": "Poison Mushroom",
         "note": "モンスターLv.7\n",
         "battlerName": "ac6fc0fe"
     },
@@ -49725,7 +49725,7 @@
             81,
             56
         ],
-        "name": "アカダイショウ",
+        "name": "Akadaishou",
         "note": "モンスターLv7\n",
         "battlerName": "SF_Anaconda"
     },
@@ -49838,7 +49838,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝大転びの湿原＝＝＝",
+        "name": "===Great Tumble Marsh===",
         "params": [
             100,
             0,
@@ -49928,7 +49928,7 @@
             65,
             65
         ],
-        "name": "毒鶴茸",
+        "name": "Poison Crane Mushroom",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_03_1"
     },
@@ -50009,7 +50009,7 @@
             60,
             56
         ],
-        "name": "ユアンの舌",
+        "name": "Yuan's Tongue",
         "note": "モンスターLv8\n",
         "battlerName": "Monst_Fantasy1_08_3"
     },
@@ -50122,7 +50122,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝イシュケルの檻＝＝＝",
+        "name": "===Ishuker's Cage===",
         "params": [
             100,
             0,
@@ -50225,7 +50225,7 @@
             51,
             60
         ],
-        "name": "深淵を見た魔法使い",
+        "name": "Magician who saw the Abyss",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_17_4"
     },
@@ -50299,7 +50299,7 @@
             90,
             56
         ],
-        "name": "デスストーカー",
+        "name": "Deathstalker",
         "note": "モンスターLv8\n",
         "battlerName": "Monst_Fantasy1_13_3"
     },
@@ -50412,7 +50412,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝エマ盗賊団ダンジョン＝＝＝",
+        "name": "=== Emma Thief Gang Dungeon ===",
         "params": [
             100,
             0,
@@ -50502,7 +50502,7 @@
             91,
             56
         ],
-        "name": "コイピュ",
+        "name": "Koipyu",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_06_2"
     },
@@ -50583,7 +50583,7 @@
             87,
             56
         ],
-        "name": "インランドタイパン",
+        "name": "Inland Typhoon",
         "note": "モンスターLv8\n",
         "battlerName": "Monst_Fantasy1_10_1"
     },
@@ -50696,7 +50696,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝虹水洞＝＝＝",
+        "name": "=== Rainbow Water Cave ===",
         "params": [
             100,
             0,
@@ -50786,7 +50786,7 @@
             88,
             56
         ],
-        "name": "メガラシネ",
+        "name": "Megarashine",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_11_4"
     },
@@ -50862,7 +50862,7 @@
             89,
             56
         ],
-        "name": "モーザドゥーク",
+        "name": "Moza Duke",
         "note": "モンスターLv8\n",
         "battlerName": "Monst_Fantasy1_36_1"
     },
@@ -50975,7 +50975,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝裏切りの塔＝＝＝",
+        "name": "=== Tower of Betrayal ===",
         "params": [
             100,
             0,
@@ -51065,7 +51065,7 @@
             82,
             82
         ],
-        "name": "ジンジャーブレッドマン",
+        "name": "Gingerbread Man",
         "note": "モンスターLv.9\n",
         "battlerName": "Monst_Fantasy1_52_1"
     },
@@ -51146,7 +51146,7 @@
             99,
             61
         ],
-        "name": "煉瓦蜂",
+        "name": "Brick Bee",
         "note": "モンスターLv9\n",
         "battlerName": "Monst_Fantasy1_07_2"
     },
@@ -51259,7 +51259,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝見捨てられた墓所＝＝＝",
+        "name": "Abandoned Graveyard",
         "params": [
             100,
             0,
@@ -51342,7 +51342,7 @@
             82,
             82
         ],
-        "name": "死人憑",
+        "name": "Dead Possession",
         "note": "モンスターLv.9\n",
         "battlerName": "Monst_Fantasy1_19_2"
     },
@@ -51438,7 +51438,7 @@
             60,
             56
         ],
-        "name": "グリムリーパー",
+        "name": "Grim Reaper",
         "note": "モンスターLv9",
         "battlerName": "Monst_Fantasy1_57_3"
     },
@@ -51551,7 +51551,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝魔獣の住処＝＝＝",
+        "name": "===Den of Demonic Beasts===",
         "params": [
             100,
             0,
@@ -51641,7 +51641,7 @@
             99,
             56
         ],
-        "name": "武装したオーク",
+        "name": "Armed Orc",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_54_3"
     },
@@ -51727,7 +51727,7 @@
             60,
             66
         ],
-        "name": "ビオランテ",
+        "name": "Biolante",
         "note": "モンスターLv8\n",
         "battlerName": "Monst_Fantasy1_43_1"
     },
@@ -51840,7 +51840,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝貴族スキロスの屋敷＝＝＝",
+        "name": "=== Noble Skiros' Mansion ===",
         "params": [
             100,
             0,
@@ -51930,7 +51930,7 @@
             51,
             56
         ],
-        "name": "ファングス",
+        "name": "Fangs",
         "note": "モンスターLv.8\n",
         "battlerName": "ac6fc0fe"
     },
@@ -52044,7 +52044,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝貴族トラゴスの屋敷＝＝＝",
+        "name": "=== Noble Tragos Mansion ===",
         "params": [
             100,
             0,
@@ -52134,7 +52134,7 @@
             51,
             56
         ],
-        "name": "トラゴスの傭兵隊長",
+        "name": "Tragos Mercenary Captain",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_21_2"
     },
@@ -52215,7 +52215,7 @@
             77,
             56
         ],
-        "name": "トラゴスの傭兵",
+        "name": "Tragos Mercenary",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_30_1"
     },
@@ -52267,7 +52267,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝悪魔の嫁アンコスの祭壇＝＝＝",
+        "name": "=== Altar of Ankos, the Devil's Bride ===",
         "params": [
             100,
             0,
@@ -52357,7 +52357,7 @@
             51,
             56
         ],
-        "name": "アバドン",
+        "name": "Abaddon",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_34_3"
     },
@@ -52470,7 +52470,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝入り江の洞窟＝＝＝",
+        "name": "=== Inlet Cave ===",
         "params": [
             100,
             0,
@@ -52560,7 +52560,7 @@
             99,
             56
         ],
-        "name": "釣針蜂",
+        "name": "Fishing Hook Bee",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_07_2"
     },
@@ -52641,7 +52641,7 @@
             78,
             56
         ],
-        "name": "カーペットバイパー",
+        "name": "Carpet Viper",
         "note": "モンスターLv8\n",
         "battlerName": "Monst_Fantasy1_10_1"
     },
@@ -52754,7 +52754,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝クリスタルの中＝＝＝",
+        "name": "===Inside the Crystal===",
         "params": [
             100,
             0,
@@ -52844,7 +52844,7 @@
             51,
             56
         ],
-        "name": "カリナン",
+        "name": "Karinan",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_14_4"
     },
@@ -52958,7 +52958,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝研究者の館＝＝＝",
+        "name": "Researcher's Mansion",
         "params": [
             100,
             0,
@@ -53043,7 +53043,7 @@
             80,
             56
         ],
-        "name": "メガチロプテラ",
+        "name": "Megachiroptera",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_02_2"
     },
@@ -53156,7 +53156,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝ナムドの洞窟＝＝＝",
+        "name": "=== Namdo Cave ===",
         "params": [
             100,
             0,
@@ -53239,7 +53239,7 @@
             80,
             56
         ],
-        "name": "パンディヌス",
+        "name": "Pandinus",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_13_3"
     },
@@ -53327,7 +53327,7 @@
             77,
             71
         ],
-        "name": "ジャイアントセコイア",
+        "name": "Giant Sequoia",
         "note": "モンスターLv8\n",
         "battlerName": "Monst_Fantasy1_31_1"
     },
@@ -53440,7 +53440,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝穴だらけの丘ベドン朝通路＝＝＝",
+        "name": "=== Bedon Morning Passage, a Hill Full of Holes ===",
         "params": [
             100,
             0,
@@ -53530,7 +53530,7 @@
             66,
             56
         ],
-        "name": "壺鐙",
+        "name": "Tsubo Kozane",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_15_1"
     },
@@ -53643,7 +53643,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝アスピダ同盟の廃城＝＝＝",
+        "name": "=== Abandoned Castle of the Aspida Alliance ===",
         "params": [
             100,
             0,
@@ -53733,7 +53733,7 @@
             89,
             56
         ],
-        "name": "千疋狼",
+        "name": "Senpiki Ookami",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_36_1"
     },
@@ -53809,7 +53809,7 @@
             80,
             56
         ],
-        "name": "メガチロプテラ",
+        "name": "Megachiroptera",
         "note": "モンスターLv.8\n",
         "battlerName": "Monst_Fantasy1_02_2"
     },
@@ -53922,7 +53922,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝オークたちの秘宝＝＝＝",
+        "name": "===Orcs' Treasure===",
         "params": [
             100,
             0,
@@ -53993,7 +53993,7 @@
             999,
             72
         ],
-        "name": "発情オーク",
+        "name": "Horny Orc",
         "note": "",
         "battlerName": "Ace-Ogre01_green"
     },
@@ -59869,7 +59869,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝メイン外特殊モンスター＝＝＝",
+        "name": "Main Special Monster",
         "params": [
             100,
             0,
@@ -60017,7 +60017,7 @@
             }
         ],
         "gold": 0,
-        "name": "初代怪盗ペルノ",
+        "name": "First Generation Phantom Thief Perno",
         "note": "モンスターレベル：8\n怪盗夜を往く1-9\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             35000,
@@ -60155,7 +60155,7 @@
             }
         ],
         "gold": 8121,
-        "name": "初代怪盗ペルノ",
+        "name": "First Generation Phantom Thief Perno",
         "note": "モンスターレベル：8\n怪盗夜を往く1-9\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             35000,
@@ -60310,7 +60310,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔石に魅入られた者イクト",
+        "name": "Ect, the one enchanted by the magic stone",
         "note": "モンスターレベル：9\n復讐者たちの黄昏\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             38174,
@@ -60465,7 +60465,7 @@
             }
         ],
         "gold": 1910,
-        "name": "魔石に魅入られた者イクト",
+        "name": "Ect, the one enchanted by the magic stone",
         "note": "モンスターレベル：9\n復讐者たちの黄昏\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             38174,
@@ -60627,7 +60627,7 @@
             333,
             333
         ],
-        "name": "勇者",
+        "name": "Hero",
         "note": "モンスターレベル：12\n【288】勇者への挑戦\nBoss HP\nHide HP\nbreath motion: 0\n裏ボス的な存在",
         "battlerName": "named enemy_00073"
     },
@@ -60843,7 +60843,7 @@
             333,
             666
         ],
-        "name": "勇者",
+        "name": "Hero",
         "note": "モンスターレベル：12\n【288】勇者への挑戦\nBoss HP\nHide HP\nbreath motion: 0\n裏ボス的な存在",
         "battlerName": "named enemy_00076"
     },
@@ -60972,7 +60972,7 @@
             }
         ],
         "gold": 0,
-        "name": "メイドのカマリ",
+        "name": "Kamari the Maid",
         "note": "モンスターレベル：7\n研究者の長い夜\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             20000,
@@ -61114,7 +61114,7 @@
             }
         ],
         "gold": 3592,
-        "name": "メイドのカマリ",
+        "name": "Kamari the Maid",
         "note": "モンスターレベル：7\n研究者の長い夜\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             20000,
@@ -61266,7 +61266,7 @@
             }
         ],
         "gold": 0,
-        "name": "商人エイサ",
+        "name": "Merchant Aisa",
         "note": "モンスターレベル：7\n消えた商人\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3\n物理+必中攻撃をしてくる\n格闘技で目潰しや自己強化などを行う",
         "params": [
             20000,
@@ -61413,7 +61413,7 @@
             }
         ],
         "gold": 3773,
-        "name": "商人エイサ",
+        "name": "Merchant Aisa",
         "note": "モンスターレベル：7\n消えた商人\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             20000,
@@ -61546,7 +61546,7 @@
             }
         ],
         "gold": 10624,
-        "name": "呪いに抗う者ゴート",
+        "name": "Goato, the one who resists the curse",
         "note": "モンスターレベル：9\nイミセリノスの栄光\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             47600,
@@ -61686,7 +61686,7 @@
             }
         ],
         "gold": 10624,
-        "name": "隻腕のオプロ",
+        "name": "One-Armed Opro",
         "note": "モンスターレベル：9\nイミセリノスの栄光\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             48000,
@@ -61819,7 +61819,7 @@
             }
         ],
         "gold": 9124,
-        "name": "鮮血のアゴニア",
+        "name": "Agonia of Fresh Blood",
         "note": "モンスターレベル：9.5\n【116】偉大なる未亡人\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             48000,
@@ -61957,7 +61957,7 @@
             }
         ],
         "gold": 6439,
-        "name": "解体のシモス",
+        "name": "Shimose the Dismantler",
         "note": "モンスターレベル：9.5\n【116】偉大なる未亡人\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             48000,
@@ -62097,7 +62097,7 @@
             }
         ],
         "gold": 4621,
-        "name": "デイレーの短刀",
+        "name": "Dairei's Short Sword",
         "note": "モンスターレベル：7\n【095】デイレーの巫女からの依頼\nBoss HP\nHide HP\nbreath motion: 0\n\nかなりすばしっこい\n爪や噛み付くなど原始的な攻撃が多い\n全体攻撃はないが手数が多い",
         "params": [
             30000,
@@ -62235,7 +62235,7 @@
             }
         ],
         "gold": 3333,
-        "name": "悪魔ユロゾーンの幻影",
+        "name": "Illusion of the demon Yurozone",
         "note": "【287】武器職人の夢\nモンスターレベル：9.5\nBoss HP\nHide HP\nbreath motion: 0\naura effect: 0:0:154_enemy_1:255:0:0",
         "params": [
             50000,
@@ -62373,7 +62373,7 @@
             }
         ],
         "gold": 3333,
-        "name": "悪魔イパウンドの幻影",
+        "name": "Phantom of the Demon Ipaund",
         "note": "【287】武器職人の夢\nモンスターレベル：9.5\nBoss HP\nHide HP\nbreath motion: 0\naura effect: 0:0:154_enemy_2:255:0:0",
         "params": [
             50000,
@@ -62511,7 +62511,7 @@
             }
         ],
         "gold": 3333,
-        "name": "悪魔スフーランの幻影",
+        "name": "Illusion of the demon Suhuran",
         "note": "【287】武器職人の夢\nモンスターレベル：9.5\nBoss HP\nHide HP\nbreath motion: 0\naura effect: 0:0:154_enemy_3:255:0:0",
         "params": [
             50000,
@@ -62649,7 +62649,7 @@
             }
         ],
         "gold": 3333,
-        "name": "悪魔イシェケルの幻影",
+        "name": "Illusion of the demon Isheker",
         "note": "【287】武器職人の夢\nモンスターレベル：9.5\nBoss HP\nHide HP\nbreath motion: 0\naura effect: 0:0:154_enemy_4:255:0:0\nダミー画像",
         "params": [
             50000,
@@ -62795,7 +62795,7 @@
             }
         ],
         "gold": 2618,
-        "name": "女神像Ⅲ",
+        "name": "Goddess Statue III",
         "note": "モンスターレベル：9\n勇者の遺跡\n太陽の剣と満月の鎖1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             19878,
@@ -62938,7 +62938,7 @@
             }
         ],
         "gold": 2933,
-        "name": "女神アクティナの石像",
+        "name": "Statue of the Goddess Actina",
         "note": "モンスターレベル：9\n勇者の遺跡\n太陽の剣と満月の鎖1-5\nBoss HP\nHide HP\nbreath motion: 0\nダミー画像",
         "params": [
             37000,
@@ -63051,7 +63051,7 @@
             }
         ],
         "gold": 0,
-        "name": "大岩の城の魔法使いアナト",
+        "name": "Magician Anat of the Great Rock Castle",
         "note": "モンスターレベル：8\n【100】創設者の行方1-3\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             35400,
@@ -63183,7 +63183,7 @@
             }
         ],
         "gold": 12226,
-        "name": "大岩の城の魔法使いアナト",
+        "name": "Magician Anat of the Great Rock Castle",
         "note": "モンスターレベル：8\n【100】創設者の行方1-3\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:20:Particles:0:3:3",
         "params": [
             35400,
@@ -63284,7 +63284,7 @@
             }
         ],
         "gold": 1083,
-        "name": "海の悪魔Ⅱ（頭）",
+        "name": "Sea Devil II (Head)",
         "note": "モンスターレベル：8\n【101】見果てぬ夢1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             7725,
@@ -63368,7 +63368,7 @@
             }
         ],
         "gold": 0,
-        "name": "海の悪魔Ⅱ（触手）",
+        "name": "Sea Devil II (Tentacles)",
         "note": "モンスターレベル：7\n【101】見果てぬ夢1-4\nbreath motion: 0",
         "params": [
             1421,
@@ -63513,7 +63513,7 @@
             }
         ],
         "gold": 3285,
-        "name": "墳墓の悪魔",
+        "name": "Demon of the Tomb",
         "note": "モンスターレベル：9\n【101】見果てぬ夢1-9\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             48800,
@@ -68720,7 +68720,7 @@
             }
         ],
         "gold": 0,
-        "name": "＝＝＝サブシナリオ敵＝＝＝",
+        "name": "Enemy NPC",
         "params": [
             100,
             0,
@@ -68796,7 +68796,7 @@
             }
         ],
         "gold": 0,
-        "name": "傭兵レオーン",
+        "name": "Mercenary Leon",
         "note": "モンスターレベル：7\n立身出世の夢1-4\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3000,
@@ -68934,7 +68934,7 @@
             }
         ],
         "gold": 3652,
-        "name": "宝石魚",
+        "name": "Gemfish",
         "note": "モンスターレベル：6\n赤い珊瑚礁1-4\nBoss HP\nHide HP\nbreath motion: 0\n雷に弱い\n水はまったく効かない",
         "params": [
             9600,
@@ -69070,7 +69070,7 @@
             }
         ],
         "gold": 3127,
-        "name": "湖の怪物",
+        "name": "Lake Monster",
         "note": "モンスターレベル：5\n巨大な魚影\nBoss HP\nHide HP\nbreath motion: 0\n雷に弱い\n水はまったく効かない",
         "params": [
             26400,
@@ -69206,7 +69206,7 @@
             }
         ],
         "gold": 3312,
-        "name": "巨大な死肉喰らい",
+        "name": "Giant Flesh Eater",
         "note": "モンスターレベル：8\nリピ村の復興\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             30000,
@@ -69282,7 +69282,7 @@
             }
         ],
         "gold": 0,
-        "name": "見習い剣士オート",
+        "name": "Apprentice Swordsman Auto",
         "note": "モンスターレベル：4\n弱き心\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             2000,
@@ -69365,7 +69365,7 @@
             }
         ],
         "gold": 0,
-        "name": "迷える剣士オート",
+        "name": "Lost Swordsman Auto",
         "note": "モンスターレベル：5\n強き心\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3000,
@@ -69446,7 +69446,7 @@
             }
         ],
         "gold": 1224,
-        "name": "潰し屋（リーダー）",
+        "name": "Crusher (Leader)",
         "note": "モンスターレベル：7\n切ない心\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             4800,
@@ -69515,7 +69515,7 @@
             }
         ],
         "gold": 0,
-        "name": "潰し屋",
+        "name": "Crusher",
         "note": "モンスターレベル：7\n切ない心\nbreath motion: ",
         "params": [
             2400,
@@ -69648,7 +69648,7 @@
             }
         ],
         "gold": 6613,
-        "name": "悪魔の花嫁アンコス",
+        "name": "Devil's Bride Ancos",
         "note": "モンスターレベル：8\nアクティナの巫女からの依頼\nBoss HP\nHide HP\nbreath motion: \nparticle effect: 0:25:enemy particle:2:1:0.75\nドレイン系の攻撃\n魔法系の攻撃を使う",
         "params": [
             35000,
@@ -69717,7 +69717,7 @@
             }
         ],
         "gold": 260,
-        "name": "悪魔信奉者",
+        "name": "Devil Worshipper",
         "note": "モンスターレベル：7\nアクティナの巫女からの依頼\nbreath motion: \n※ダンジョン内歩行敵としても登場",
         "params": [
             1980,
@@ -69793,7 +69793,7 @@
             }
         ],
         "gold": 754,
-        "name": "砂漠蟹",
+        "name": "Desert Crab",
         "note": "モンスターレベル：7\n激突！裏料理会\nBoss HP\nHide HP\nbreath motion:",
         "params": [
             7000,
@@ -69886,7 +69886,7 @@
             }
         ],
         "gold": 811,
-        "name": "砂漠掘り",
+        "name": "Desert Digger",
         "note": "モンスターレベル：7\n激突！裏料理会\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             15000,
@@ -69996,7 +69996,7 @@
             }
         ],
         "gold": 934,
-        "name": "砂漠蛇（変異種）",
+        "name": "Desert Snake (Variant)",
         "note": "モンスターレベル：7\n激突！裏料理会\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             10000,
@@ -70144,7 +70144,7 @@
             }
         ],
         "gold": 3975,
-        "name": "ベドン廟の守護者",
+        "name": "Guardian of the Bedon Shrine",
         "note": "モンスターレベル：7\n【210】太陽の王子1-6\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             30000,
@@ -70215,7 +70215,7 @@
             }
         ],
         "gold": 1542,
-        "name": "逃亡犯ザガル",
+        "name": "Fugitive Zagaru",
         "note": "モンスターレベル：4\n【142】バリエ衛兵の体裁\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             8540,
@@ -70293,7 +70293,7 @@
             }
         ],
         "gold": 3142,
-        "name": "黒い獣",
+        "name": "Black Beast",
         "note": "モンスターレベル：7\n【146】出来心と下心\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             19600,
@@ -70379,7 +70379,7 @@
             }
         ],
         "gold": 3127,
-        "name": "巨大魚",
+        "name": "Giant Fish",
         "note": "モンスターレベル：7\n【144】巨大な魚影\nBoss HP\nHide HP\nbreath motion: \n雷に弱い\n水はまったく効かない",
         "params": [
             30000,
@@ -70453,7 +70453,7 @@
             }
         ],
         "gold": 523,
-        "name": "駐屯地荒らしのゴブリン",
+        "name": "Goblin, the Garrison Raider",
         "note": "モンスターレベル：7\n【194】悩める兵士たち\nbreath motion: ",
         "params": [
             2000,
@@ -70591,7 +70591,7 @@
             }
         ],
         "gold": 768,
-        "name": "人狼スタシス",
+        "name": "Werewolf Stasis",
         "note": "モンスターレベル：8\n【218】神聖娼婦\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             12541,
@@ -70734,7 +70734,7 @@
             }
         ],
         "gold": 3141,
-        "name": "悪魔ナムド信奉者の怨念",
+        "name": "Resentment of the Devil Namdo Worshipper",
         "note": "モンスターレベル：9\n【122】異形の宝玉\nBoss HP\nHide HP\nbreath motion: \nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             35000,
@@ -70815,7 +70815,7 @@
             }
         ],
         "gold": 777,
-        "name": "ミュコスの組織を追われた男",
+        "name": "A man who was chased by the organization of Mucos",
         "note": "モンスターレベル：6\n【214】華麗なるギャンブラー\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             5216,
@@ -70884,7 +70884,7 @@
             }
         ],
         "gold": 777,
-        "name": "クロノス盗賊団を追われた男",
+        "name": "A man pursued by the Chronos Thieves Guild",
         "note": "モンスターレベル：6\n【214】華麗なるギャンブラー\nbreath motion: ",
         "params": [
             6415,
@@ -70967,7 +70967,7 @@
             }
         ],
         "gold": 1340,
-        "name": "鋭い目つきの男",
+        "name": "Sharp-eyed man",
         "note": "モンスターレベル：6\n【228】形見の指輪\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             4500,
@@ -71073,7 +71073,7 @@
             }
         ],
         "gold": 300,
-        "name": "精鋭アスピダ同盟戦士",
+        "name": "Elite Aspida Alliance Warrior",
         "note": "モンスターレベル：8\n【229】大地に注がれた血1-4\nbreath motion: 0",
         "params": [
             2818,
@@ -71201,7 +71201,7 @@
             }
         ],
         "gold": 10,
-        "name": "本気を出したアスピダ同盟戦士長",
+        "name": "Serious Aspida Alliance Warrior Captain",
         "note": "モンスターレベル：8\n【229】大地に注がれた血1-4\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             3000,
@@ -71334,7 +71334,7 @@
             }
         ],
         "gold": 5050,
-        "name": "黄金に輝くアスピダ同盟戦士長",
+        "name": "Golden-shining Aspida Alliance Warrior Chief",
         "note": "モンスターレベル：8\n【229】大地に注がれた血1-4\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             25000,
@@ -71410,7 +71410,7 @@
             }
         ],
         "gold": 3512,
-        "name": "組織の見廻組",
+        "name": "Organization Patrol Unit",
         "note": "モンスターレベル：6\n【094】デイレーの短刀\nbreath motion: ",
         "params": [
             2800,
@@ -71484,7 +71484,7 @@
             }
         ],
         "gold": 1723,
-        "name": "ゴロツキ冒険者",
+        "name": "Gorotsuki Adventurer",
         "note": "モンスターレベル：6\n【175】怪盗の背中1-1\nBoss HP\nHide HP\nbreath motion: ",
         "params": [
             2000,
@@ -71558,7 +71558,7 @@
             }
         ],
         "gold": 458,
-        "name": "死肉喰らい",
+        "name": "Shikuniku Kurai",
         "note": "モンスターレベル：7\nリピ村の復興\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4000,
@@ -71634,7 +71634,7 @@
             }
         ],
         "gold": 3011,
-        "name": "屋敷の執事",
+        "name": "Mansion Butler",
         "note": "モンスターレベル：6\n【209】浜辺の誘惑\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             2000,
@@ -71772,7 +71772,7 @@
             }
         ],
         "gold": 933,
-        "name": "甲冑蜂",
+        "name": "Armored Bee",
         "note": "モンスターレベル：8\n【256】優しい魔法\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             4000,
@@ -71883,7 +71883,7 @@
             }
         ],
         "gold": 320,
-        "name": "記憶の残骸",
+        "name": "Remnants of Memory",
         "note": "モンスターレベル：9\n建物①に出現\n【098】勇者のいた場所\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3210,
@@ -71994,7 +71994,7 @@
             }
         ],
         "gold": 320,
-        "name": "記憶の残骸",
+        "name": "Remnants of Memory",
         "note": "モンスターレベル：9\n建物②に出現\n【098】勇者のいた場所\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3210,
@@ -72105,7 +72105,7 @@
             }
         ],
         "gold": 320,
-        "name": "記憶の残骸",
+        "name": "Remnants of Memory",
         "note": "モンスターレベル：9\n建物③に出現\n【098】勇者のいた場所\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3210,
@@ -72216,7 +72216,7 @@
             }
         ],
         "gold": 320,
-        "name": "記憶の残骸",
+        "name": "Remnants of Memory",
         "note": "モンスターレベル：9\n建物④に出現\n【098】勇者のいた場所\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3210,
@@ -72327,7 +72327,7 @@
             }
         ],
         "gold": 320,
-        "name": "記憶の残骸",
+        "name": "Remnants of Memory",
         "note": "モンスターレベル：9\n建物⑤に出現\n【098】勇者のいた場所\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3210,
@@ -72438,7 +72438,7 @@
             }
         ],
         "gold": 320,
-        "name": "記憶の残骸",
+        "name": "Remnants of Memory",
         "note": "モンスターレベル：9\n建物⑥に出現\n【098】勇者のいた場所\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3210,
@@ -72549,7 +72549,7 @@
             }
         ],
         "gold": 320,
-        "name": "記憶の残骸",
+        "name": "Remnants of Memory",
         "note": "モンスターレベル：9\n建物⑦に出現\n【098】勇者のいた場所\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3210,
@@ -72660,7 +72660,7 @@
             }
         ],
         "gold": 320,
-        "name": "記憶の残骸",
+        "name": "Remnants of Memory",
         "note": "モンスターレベル：9\n建物⑧に出現\n【098】勇者のいた場所\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             3210,
@@ -72817,7 +72817,7 @@
             }
         ],
         "gold": 5312,
-        "name": "記憶の群像",
+        "name": "Group of Memories",
         "note": "モンスターレベル：9\n【098】勇者のいた場所\nBoss HP\nHide HP\nbreath motion: 0",
         "params": [
             43200,
@@ -72955,7 +72955,7 @@
             }
         ],
         "gold": 4434,
-        "name": "元トモス略奪団ファンネル",
+        "name": "Former Tomosu Plunder Gang Funnel",
         "note": "モンスターレベル：8\n【115】秘密のレシピ\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             27512,
@@ -73093,7 +73093,7 @@
             }
         ],
         "gold": 5758,
-        "name": "ロパロ略奪団団長",
+        "name": "Leader of the Loparo Plunder Gang",
         "note": "モンスターレベル：8\n【102】決戦！ロパロ略奪団\nBoss HP\nHide HP\nbreath motion: 0\nparticle effect: 0:25:enemy particle:2:1:0.75",
         "params": [
             43000,
@@ -73453,7 +73453,7 @@
             }
         ],
         "gold": 15038,
-        "name": "ドラゴン",
+        "name": "Dragon",
         "note": "モンスターレベル：6\nモニモス山\nドラゴンの討伐1-14\n属性有効度竜は消さないでください\nSpineモンスター\nBoss HP\nHide HP",
         "params": [
             37672,
@@ -81822,7 +81822,7 @@
             }
         ],
         "gold": 20,
-        "name": "基準ザコ敵：１",
+        "name": "Standard Zako Enemy: 1",
         "params": [
             60,
             10,
@@ -81884,7 +81884,7 @@
             }
         ],
         "gold": 498,
-        "name": "基準ザコ敵：２",
+        "name": "Standard Zako Enemy: 2",
         "params": [
             454,
             130,
@@ -81946,7 +81946,7 @@
             }
         ],
         "gold": 976,
-        "name": "基準ザコ敵：３",
+        "name": "Standard Zako Enemy: 3",
         "params": [
             848,
             248,
@@ -82008,7 +82008,7 @@
             }
         ],
         "gold": 1454,
-        "name": "基準ザコ敵：４",
+        "name": "Standard Zako Enemy: 4",
         "params": [
             1240,
             367,
@@ -82070,7 +82070,7 @@
             }
         ],
         "gold": 1932,
-        "name": "基準ザコ敵：５",
+        "name": "Standard Zako Enemy: 5",
         "params": [
             1636,
             486,
@@ -82132,7 +82132,7 @@
             }
         ],
         "gold": 2410,
-        "name": "基準ザコ敵：６",
+        "name": "Standard Zako Enemy: 6",
         "params": [
             2030,
             605,
@@ -82194,7 +82194,7 @@
             }
         ],
         "gold": 2888,
-        "name": "基準ザコ敵：７",
+        "name": "Standard Zako Enemy: 7",
         "params": [
             2424,
             724,
@@ -82256,7 +82256,7 @@
             }
         ],
         "gold": 3366,
-        "name": "基準ザコ敵：８",
+        "name": "Standard Zako Enemy: 8",
         "params": [
             2818,
             843,
@@ -82318,7 +82318,7 @@
             }
         ],
         "gold": 3844,
-        "name": "基準ザコ敵：９",
+        "name": "Standard Zako Enemy: 9",
         "params": [
             3210,
             960,
@@ -82414,7 +82414,7 @@
             }
         ],
         "gold": 4800,
-        "name": "基準ザコ敵：最終",
+        "name": "Standard Weak Enemy: Final",
         "params": [
             4000,
             1200,
@@ -82529,7 +82529,7 @@
             }
         ],
         "gold": 400,
-        "name": "ボス設定：１",
+        "name": "Boss Setting: 1",
         "note": "基準1ボス",
         "params": [
             4000,
@@ -82590,7 +82590,7 @@
             }
         ],
         "gold": 3560,
-        "name": "ボス設定：２",
+        "name": "Boss Setting: 2",
         "params": [
             9600,
             332,
@@ -82651,7 +82651,7 @@
             }
         ],
         "gold": 6720,
-        "name": "ボス設定：３",
+        "name": "Boss Setting: 3",
         "params": [
             15200,
             628,
@@ -82712,7 +82712,7 @@
             }
         ],
         "gold": 9880,
-        "name": "ボス設定：４",
+        "name": "Boss Setting: 4",
         "params": [
             20800,
             925,
@@ -82773,7 +82773,7 @@
             }
         ],
         "gold": 13040,
-        "name": "ボス設定：５",
+        "name": "Boss Setting: 5",
         "params": [
             26400,
             1220,
@@ -82834,7 +82834,7 @@
             }
         ],
         "gold": 8100,
-        "name": "ボス設定：６",
+        "name": "Boss Setting: 6",
         "params": [
             32000,
             1520,
@@ -82895,7 +82895,7 @@
             }
         ],
         "gold": 19360,
-        "name": "ボス設定：７",
+        "name": "Boss Setting: 7",
         "params": [
             37600,
             1814,
@@ -82956,7 +82956,7 @@
             }
         ],
         "gold": 22520,
-        "name": "ボス設定：８",
+        "name": "Boss Setting: 8",
         "params": [
             43200,
             2110,
@@ -83017,7 +83017,7 @@
             }
         ],
         "gold": 25680,
-        "name": "ボス設定：９",
+        "name": "Boss Setting: 9",
         "params": [
             48800,
             2400,
@@ -83225,7 +83225,7 @@
             }
         ],
         "gold": 0,
-        "name": "最終ボス",
+        "name": "Final Boss",
         "note": "<図鑑無効>",
         "params": [
             60000,
