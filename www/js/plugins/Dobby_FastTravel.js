@@ -702,7 +702,7 @@ let $isOrderedQuest;
     // ===追加機能。オープン化する際は削除する。ここまで
 
     var _sd_questSystem_rank_map = {
-        0: "仮会員初級者", 1: "仮会員初級者", 2: "仮会員中級者", 3: "仮会員上級者", 4: "駆け出し冒険者", 5: "手練れの冒険者", 6: "いっぱしの冒険者", 7: "精鋭冒険者", 8: "熟練冒険者", 9: "達人冒険者", 10: "三傑に並ぶもの"
+        0: "Junior Temp", 1: "Novice Temp", 2: "Intermediate Temp", 3: "Senior Temp", 4: "Junior Adventurer", 5: "Intermediate Adventurer", 6: "Elite Adventurer", 7: "Master Adventurer", 8: "Grandmaster Adventurer", 9: "Legendary Adventurer", 10: "Elite 3 Hero"
     }
     const SD_WARN_MSG_QUESTREPORT_NOTORDERQUEST = "受注しているクエストはありません";
 
@@ -6443,19 +6443,19 @@ let $isOrderedQuest;
         this._headWindow.opacity = 0;
 
         if (_questOpenPosition === SD_QUESTSYSTE_OPEN_GUILD) {
-            var rankName = "ランク：";
+            var rankName = "Rank: ";
             var rankNo = getRank();
             if (rankNo != undefined && rankNo != null) {
                 rankName = rankName + _sd_questSystem_rank_map[rankNo];
             }
 
             let position = "ギルド";
-            rankName = rankName + "　総クエスト数：" + this.questLocationAllCnt[position] + "　クリア済み：" + this.questLocationCnt[position];
+            rankName = rankName + "　Total Quests: " + this.questLocationAllCnt[position] + "　Cleared: " + this.questLocationCnt[position];
 
             this._headWindow.drawText(rankName, 300, 10, this._headWindow.width - 350);
         } else {
             let position = Scene_QuestMenuWindow.getQuestPlace();
-            this._headWindow.drawText("総クエスト数：" + this.questLocationAllCnt[position] + "　クリア済み：" + this.questLocationCnt[position], 300, 10, this._headWindow.width - 350);
+            this._headWindow.drawText("Total Quests: " + this.questLocationAllCnt[position] + "　Cleared: " + this.questLocationCnt[position], 300, 10, this._headWindow.width - 350);
         }
     };
 
@@ -6527,7 +6527,7 @@ let $isOrderedQuest;
     };
 
     Scene_QuestMenuWindow.prototype.createQuestDetailWindow = function () {
-        this._detailWindow = new Window_QuestSystemDetailWindow(this._headWindow.height);
+        this._detailWindow = new Window_QuestSystemDetailWindow(this._headWindow.height - 20);
         this.addWindow(this._detailWindow);
         this._detailWindow.deactivate();
         if (this._questList != undefined && this._questList.length > 0) {
@@ -6542,21 +6542,21 @@ let $isOrderedQuest;
                 var detailYpos = 0;
                 switch (i) {
                     case 0:
-                        titleTmp = "◎成功報酬";
+                        titleTmp = "◎Payment";
                         noteTmpe = questData._clearReward;
                         detailYpos = 210;
                         break;
                     case 1:
-                        titleTmp = "◎受注条件";
+                        titleTmp = "◎Conditions";
                         noteTmpe = questData._orderCondition;
                         detailYpos = 235;
                         break;
                     case 2:
                         if (_questOpenPosition != SD_QUESTSYSTE_OPEN_GUILD) {
-                            titleTmp = "◎派生条件";
+                            titleTmp = "◎Extra";
                             noteTmpe = questData._derivedCondition;
                         } else {
-                            titleTmp = "◎ランク条件";
+                            titleTmp = "◎Rank";
                             noteTmpe = questData._rank;
                         }
                         detailYpos = 330;
@@ -6576,7 +6576,7 @@ let $isOrderedQuest;
         this.addChild(this._orderedCOnfirmWindow);
         if (!(this._questList != undefined && this._questList.length > 0)) {
             this._questReportNoOrderedMsgWindow = new Window_Base(250, 300, 500, 100);
-            this._questReportNoOrderedMsgWindow.drawText("受注可能なクエストはありません", 20, 15, 450, 100);
+            this._questReportNoOrderedMsgWindow.drawText("No quests available.", 20, 15, 450, 100);
             this.addWindow(this._questReportNoOrderedMsgWindow);
             this._questReportNoOrderedMsgWindow.deactivate();
         }
@@ -6641,7 +6641,7 @@ let $isOrderedQuest;
                     this._questOrderedAnimationWindow.contents.clear();
                 }
 
-                let questStr = "「" + this._animationQuestData._questName + "」を受注しました";
+                let questStr = "「" + this._animationQuestData._questName + "」Orders Received";
                 let textWidth = this._questOrderedAnimationWindow.textWidth(questStr);
                 let halfX = (this._questOrderedAnimationWindow.width / 2) - (textWidth / 2);
                 this._questOrderedAnimationWindow.drawTextEx(questStr, halfX - 25, 15);
@@ -7418,7 +7418,7 @@ let $isOrderedQuest;
     };
 
     Window_QuestWindow.prototype.standardFontSize = function () {
-        return 19;
+        return 12;
     };
 
     // ================================================================================================
@@ -7473,7 +7473,7 @@ let $isOrderedQuest;
     };
 
     Window_QuestSystemDetailWindow.prototype.standardFontSize = function () {
-        return 20;
+        return 16;
     };
 
     // クエストシステムの受注確認ボタン
