@@ -6096,7 +6096,7 @@ let $isOrderedQuest;
     };
 
     Window_questReport_Detail_Window.prototype.standardFontSize = function () {
-        return 20;
+        return 18;
     };
 
     Window_questReport_Detail_Window.prototype.isOpenAndActive = function () {
