@@ -134,7 +134,7 @@ var $plugins =
         { "name": "〓〓〓〓〓〓〓〓〓〓〓", "status": false, "description": "〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓", "parameters": {} },
         { "name": "VersionSpecified", "status": true, "description": "【MMP ver.1.0】タイトル画面にバージョンを明記します。", "parameters": { "version": "Version 1.1.0", "fontSize": "20", "fontColor": "rgb(255, 255, 255)", "windowX": "0", "windowY": "570" } },
         { "name": "〓〓〓〓〓〓〓〓〓〓〓", "status": false, "description": "〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓", "parameters": {} },
-        { "name": "KMS_ShopInventory", "status": true, "description": "[v0.1.0] アイテムの在庫管理機能を追加します。", "parameters": { "Sold out text": "SOLD OUT", "Caption for stock": "在庫", "Stock display": "1" } },
+        { "name": "KMS_ShopInventory", "status": true, "description": "[v0.1.0] アイテムの在庫管理機能を追加します。", "parameters": { "Sold out text": "SOLD OUT", "Caption for stock": "Stock", "Stock display": "1" } },
         { "name": "StateRolling", "status": true, "description": "アクター側もエネミー同様にステート表示を回転させます。", "parameters": { "Visible": "off", "TextVisible": "on", "Roll": "40", "x": "46", "y": "30", "TextColor": "#FFFFFF", "TextSize": "18", "Text_x": "0", "Text_y": "0" } },
         { "name": "OmitTarget", "status": true, "description": "戦闘画面でターゲット選択時、対象が一つの場合は省略します。", "parameters": {} },
         { "name": "--------------------", "status": true, "description": "------------------------------------------------------------", "parameters": {} },
