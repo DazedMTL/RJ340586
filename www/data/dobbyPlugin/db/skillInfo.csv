@@ -1,532 +1,532 @@
-No,スキルID,スキル名,連携裏スキルID,親スキルID,強化先フラグ,強化先ID番号,X座標,Y座標,スタートポジション,表スキル,アクターID,消費SP,グループタイプ,スキルアイコン,変数,体験版,<br>
-1,228,開発術式：虚空,-,-,FALSE,-,5,8,TRUE,TRUE,2,1,A,magic,-,,<br>
-2,226,開発術式：暗黒,-,228,FALSE,-,5,7,FALSE,TRUE,2,1,A,magic,-,,<br>
-3,229,開発術式：虚空+1,-,226,FALSE,-,5,6,FALSE,TRUE,2,1,A,magic,-,,<br>
-4,227,開発術式：暗黒+1,-,229,FALSE,-,5,5,FALSE,TRUE,2,1,A,magic,-,taiken,<br>
-5,230,開発術式：虚空+2,-,227,FALSE,-,5,4,FALSE,TRUE,2,1,A,magic,-,taiken,<br>
-6,218,開発術式：烈火,-,226,FALSE,-,4,7,FALSE,TRUE,2,1,A,magic,-,,<br>
-7,222,開発術式：雷霆,-,218,FALSE,-,3,7,FALSE,TRUE,2,1,A,magic,-,,<br>
-8,220,開発術式：氷刃,-,226,FALSE,-,6,7,FALSE,TRUE,2,1,A,magic,-,,<br>
-9,224,開発術式：水禍,-,220,FALSE,-,7,7,FALSE,TRUE,2,1,A,magic,-,,<br>
-10,219,開発術式：烈火+1,-,229,FALSE,-,4,6,FALSE,TRUE,2,1,A,magic,-,,<br>
-11,223,開発術式：雷霆+1,-,219,FALSE,-,3,6,FALSE,TRUE,2,1,A,magic,-,,<br>
-12,221,開発術式：氷刃+1,-,229,FALSE,-,6,6,FALSE,TRUE,2,1,A,magic,-,,<br>
-13,225,開発術式：水禍+1,-,221,FALSE,-,7,6,FALSE,TRUE,2,1,A,magic,-,,<br>
-14,264,毒耐性,-,-,FALSE,-,5,8,TRUE,TRUE,2,1,B,guardP,-,,<br>
-15,265,暗闇耐性,-,264,FALSE,-,5,7,FALSE,TRUE,2,1,B,guardP,-,,<br>
-16,266,沈黙耐性,-,265,FALSE,-,5,6,FALSE,TRUE,2,1,B,guardP,-,,<br>
-17,267,激昂耐性,-,266,FALSE,-,5,5,FALSE,TRUE,2,1,B,guardP,-,,<br>
-18,270,睡眠耐性,-,267,FALSE,-,5,4,FALSE,TRUE,2,1,B,guardP,-,,<br>
-19,268,混乱耐性,-,267,FALSE,-,4,5,FALSE,TRUE,2,1,B,guardP,-,,<br>
-20,269,魅了耐性,-,268,FALSE,-,3,5,FALSE,TRUE,2,1,B,guardP,-,,<br>
-21,272,スタン耐性,-,267,FALSE,-,6,5,FALSE,TRUE,2,1,B,guardP,-,,<br>
-22,271,麻痺耐性,-,272,FALSE,-,7,5,FALSE,TRUE,2,1,B,guardP,-,,<br>
-23,237,開発術式：生命吸収,-,-,FALSE,-,5,8,TRUE,TRUE,2,1,C,magic,-,,<br>
-24,238,開発術式：魔力吸収,-,237,FALSE,-,5,7,FALSE,TRUE,2,1,C,magic,-,,<br>
-25,241,開発術式：逃,944,238,FALSE,661,4,7,FALSE,TRUE,2,1,C,magicA,-,,<br>
-26,231,開発術式：炎のちから,-,241,FALSE,-,4,6,FALSE,TRUE,2,1,C,magic,-,,<br>
-27,233,開発術式：雷のちから,-,231,FALSE,-,4,5,FALSE,TRUE,2,1,C,magic,-,,<br>
-28,235,開発術式：光のちから,-,233,FALSE,-,4,4,FALSE,TRUE,2,1,C,magic,-,taiken,<br>
-29,240,開発術式：転,943,238,FALSE,658,6,7,FALSE,TRUE,2,1,C,magicA,-,,<br>
-30,232,開発術式：氷のちから,-,240,FALSE,-,6,6,FALSE,TRUE,2,1,C,magic,-,,<br>
-31,234,開発術式：水のちから,-,232,FALSE,-,6,5,FALSE,TRUE,2,1,C,magic,-,,<br>
-32,236,開発術式：闇のちから,-,234,FALSE,-,6,4,FALSE,TRUE,2,1,C,magic,-,taiken,<br>
-33,239,禁則術式：生命転換,945,235_236,FALSE,655,5,4,FALSE,TRUE,2,1,C,magicA,-,taiken,<br>
-34,260,読書家,939,-,FALSE,643,5,8,TRUE,TRUE,2,1,D,specialA,-,,<br>
-35,261,精神学,940,260,FALSE,646,5,7,FALSE,TRUE,2,1,D,specialA,-,,<br>
-36,242,禁則術式：魔力転換,948,261,FALSE,664,5,6,FALSE,TRUE,2,1,D,magicA,-,,<br>
-37,244,開発術式：奔流,-,242,FALSE,-,5,5,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
-38,247,禁則術式：天頂孤,-,244,FALSE,-,5,4,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
-39,249,禁則術式：位相転換,-,247,FALSE,-,5,3,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
-40,263,猟書家,942,261,FALSE,652,4,7,FALSE,TRUE,2,1,D,specialA,-,,<br>
-41,262,魔法の申し子,941,261,FALSE,649,6,7,FALSE,TRUE,2,1,D,specialA,-,,<br>
-42,243,開発術式：虚弱,-,244,FALSE,-,4,5,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
-43,245,開発術式：衰弱,-,244,FALSE,-,6,5,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
-44,246,禁則術式：奈落,-,247,FALSE,-,4,4,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
-45,248,禁則術式：遡行,-,247,FALSE,-,6,4,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
-46,250,三日月の誇り,949,-,FALSE,613,5,8,TRUE,TRUE,2,1,E,specialA,-,,<br>
-47,251,本を読む者,950,250,FALSE,616,5,7,FALSE,TRUE,2,1,E,specialA,-,,<br>
-48,255,諸刃の選択,954,251,FALSE,628,4,7,FALSE,TRUE,2,1,E,specialA,-,,<br>
-49,256,諦めない天才,955,255,FALSE,631,4,6,FALSE,TRUE,2,1,E,specialA,-,taiken,<br>
-50,252,好奇心,951,251,FALSE,619,6,7,FALSE,TRUE,2,1,E,specialA,-,,<br>
-51,253,真理の探究者,952,252,FALSE,622,6,6,FALSE,TRUE,2,1,E,specialA,-,,<br>
-52,257,精神の渇き,956,256,FALSE,634,3,6,FALSE,TRUE,2,1,E,specialA,-,taiken,<br>
-53,259,天才の証明,947,257,FALSE,640,3,5,FALSE,TRUE,2,1,E,specialA,-,taiken,<br>
-54,254,覚醒,953,253,FALSE,625,7,6,FALSE,TRUE,2,1,E,specialA,-,,<br>
-55,258,孤独な研究者,946,254,FALSE,637,7,5,FALSE,TRUE,2,1,E,specialA,-,,<br>
-56,277,解放Lv.2,-,-,FALSE,-,5,8,TRUE,TRUE,2,1,F,aaa,-,,<br>
-57,280,発見Lv.2,-,277,FALSE,-,5,7,FALSE,TRUE,2,1,F,aaa,-,,<br>
-58,283,解読Lv.2,-,280,FALSE,-,5,6,FALSE,TRUE,2,1,F,aaa,-,,<br>
-59,286,移動Lv.2,-,283,FALSE,-,5,5,FALSE,TRUE,2,1,F,aaa,-,,<br>
-60,281,発見Lv.3,-,286,FALSE,-,4,5,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
-61,282,発見Lv.4,-,281,FALSE,-,3,5,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
-62,278,解放Lv.3,-,286,FALSE,-,6,5,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
-63,279,解放Lv.4,-,278,FALSE,-,7,5,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
-64,287,移動Lv.3,-,281,FALSE,-,4,4,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
-65,288,移動Lv.4,-,287,FALSE,-,4,3,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
-66,284,解読Lv.3,-,278,FALSE,-,6,4,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
-67,285,解読Lv.4,-,284,FALSE,-,6,3,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
-68,317,ランダム・チャージ,931,-,FALSE,590,5,8,TRUE,TRUE,3,1,A,physicsA,-,,<br>
-69,318,パワー・ストライク,-,317,FALSE,-,5,7,FALSE,TRUE,3,1,A,physics,-,,<br>
-70,319,チャージド・ストライク,932,318,FALSE,593,5,6,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-71,341,槍の使い手,920,319,FALSE,557,5,5,FALSE,TRUE,3,1,A,specialA,-,taiken,<br>
-72,322,フュリオス・チャージ,935,341,FALSE,602,5,4,FALSE,TRUE,3,1,A,physicsA,-,taiken,<br>
-73,320,クロウ・スイング,933,341,FALSE,596,6,5,FALSE,TRUE,3,1,A,physicsA,-,taiken,<br>
-74,321,フェンド・スイング,934,341,FALSE,599,4,5,FALSE,TRUE,3,1,A,physicsA,-,taiken,<br>
-75,351,毒耐性,-,-,FALSE,-,5,8,TRUE,TRUE,3,1,B,guardP,-,,<br>
-76,352,暗闇耐性,-,351,FALSE,-,5,7,FALSE,TRUE,3,1,B,guardP,-,,<br>
-77,353,沈黙耐性,-,352,FALSE,-,5,6,FALSE,TRUE,3,1,B,guardP,-,,<br>
-78,354,激昂耐性,-,353,FALSE,-,5,5,FALSE,TRUE,3,1,B,guardP,-,,<br>
-79,358,睡眠耐性,-,354,FALSE,-,5,4,FALSE,TRUE,3,1,B,guardP,-,,<br>
-80,360,スタン耐性,-,354,FALSE,-,6,5,FALSE,TRUE,3,1,B,guardP,-,,<br>
-81,359,麻痺耐性,-,360,FALSE,-,7,5,FALSE,TRUE,3,1,B,guardP,-,,<br>
-82,355,混乱耐性,-,354,FALSE,-,4,5,FALSE,TRUE,3,1,B,guardP,-,,<br>
-83,356,魅了耐性,-,355,FALSE,-,3,5,FALSE,TRUE,3,1,B,guardP,-,,<br>
-84,323,トラップ,936,-,FALSE,605,5,8,TRUE,TRUE,3,1,C,physicsA,-,,<br>
-85,324,ポイズン・トラップ,-,323,FALSE,-,5,7,FALSE,TRUE,3,1,C,physics,-,,<br>
-86,325,ブラインド・トラップ,-,324,FALSE,-,5,6,FALSE,TRUE,3,1,C,physics,-,,<br>
-87,326,スリープ・トラップ,-,325,FALSE,-,5,5,FALSE,TRUE,3,1,C,physics,-,,<br>
-88,327,パラライズ・トラップ,-,326,FALSE,-,5,4,FALSE,TRUE,3,1,C,physics,-,,<br>
-89,333,ダークイリュージョン,-,327,FALSE,-,5,3,FALSE,TRUE,3,1,C,physics,-,taiken,<br>
-90,330,ブービー・トラップ,-,325,FALSE,-,6,6,FALSE,TRUE,3,1,C,physics,-,,<br>
-91,331,ハニー・トラップ,-,330,FALSE,-,7,6,FALSE,TRUE,3,1,C,physics,-,,<br>
-92,334,アナザープリンセス,-,331,FALSE,-,7,5,FALSE,TRUE,3,1,C,physics,-,taiken,<br>
-93,328,サイレンス・トラップ,-,325,FALSE,-,4,6,FALSE,TRUE,3,1,C,physics,-,,<br>
-94,329,コンフューズ・トラップ,-,328,FALSE,-,3,6,FALSE,TRUE,3,1,C,physics,-,,<br>
-95,332,シャドウプリズン,937,329,FALSE,608,3,5,FALSE,TRUE,3,1,C,physicsA,-,taiken,<br>
-96,344,道具の知識,-,-,FALSE,-,5,8,TRUE,TRUE,3,1,D,specialP,-,,<br>
-97,335,ハウル,929,344,FALSE,584,5,7,FALSE,TRUE,3,1,D,physicsA,-,,<br>
-98,343,強健,922,335,FALSE,563,5,6,FALSE,TRUE,3,1,D,specialA,-,taiken,<br>
-99,342,猛獣,921,343,FALSE,560,5,5,FALSE,TRUE,3,1,D,specialA,-,taiken,<br>
-100,336,シャウト,930,342,FALSE,587,5,4,FALSE,TRUE,3,1,D,physicsA,-,taiken,<br>
-101,337,グラウル,-,335,FALSE,-,6,7,FALSE,TRUE,3,1,D,physics,-,,<br>
-102,339,バトル・クライ,-,342,FALSE,-,6,5,FALSE,TRUE,3,1,D,physics,-,taiken,<br>
-103,338,デコイ,-,335,FALSE,-,4,7,FALSE,TRUE,3,1,D,physics,-,,<br>
-104,340,ウォー・クライ,-,342,FALSE,-,4,5,FALSE,TRUE,3,1,D,physics,-,taiken,<br>
-105,345,悪運,923,-,FALSE,566,5,8,TRUE,TRUE,3,1,E,specialA,-,,<br>
-106,347,影を追う者,925,345,FALSE,572,5,7,FALSE,TRUE,3,1,E,specialA,-,,<br>
-107,346,盗賊の心得,924,347,FALSE,569,5,6,FALSE,TRUE,3,1,E,specialA,-,,<br>
-108,349,神速の狩人,927,346,FALSE,578,5,5,FALSE,TRUE,3,1,E,specialA,-,,<br>
-109,348,食欲旺盛,926,346,FALSE,575,6,6,FALSE,TRUE,3,1,E,specialA,-,,<br>
-110,350,生存嗅覚,928,346,FALSE,581,4,6,FALSE,TRUE,3,1,E,specialA,-,,<br>
-111,365,開錠Lv.2,-,-,FALSE,-,5,8,TRUE,TRUE,3,1,F,aaa,-,,<br>
-112,368,怪力Lv.2,-,365,FALSE,-,5,7,FALSE,TRUE,3,1,F,aaa,-,,<br>
-113,371,嗅覚Lv.2,-,368,FALSE,-,5,6,FALSE,TRUE,3,1,F,aaa,-,,<br>
-114,374,隠密Lv.2,-,371,FALSE,-,5,5,FALSE,TRUE,3,1,F,aaa,-,,<br>
-115,366,開錠Lv.3,-,374,FALSE,-,6,5,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
-116,367,開錠Lv.4,-,366,FALSE,-,7,5,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
-117,369,怪力Lv.3,-,374,FALSE,-,4,5,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
-118,370,怪力Lv.4,-,369,FALSE,-,3,5,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
-119,372,嗅覚Lv.3,-,366,FALSE,-,6,4,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
-120,373,嗅覚Lv.4,-,372,FALSE,-,6,3,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
-121,375,隠密Lv.3,-,369,FALSE,-,4,4,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
-122,376,隠密Lv.4,-,375,FALSE,-,4,3,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
-123,437,大剣捌き,901,-,FALSE,501,5,8,TRUE,TRUE,1,1,A,specialA,-,,<br>
-124,433,バッシュエッジ改,-,437,FALSE,-,5,7,FALSE,TRUE,1,1,A,physics,-,,<br>
-125,438,身体感覚,902,433,FALSE,504,5,6,FALSE,TRUE,1,1,A,specialA,-,,<br>
-126,439,断髪の決意,903,438,FALSE,507,5,5,FALSE,TRUE,1,1,A,specialA,-,,<br>
-127,440,大剣の使い手,904,439,FALSE,510,5,4,FALSE,TRUE,1,1,A,specialA,-,taiken,<br>
-128,436,ゲイル・スマッシュ改,-,440,FALSE,-,5,3,FALSE,TRUE,1,1,A,physics,-,taiken,<br>
-129,435,スタンエッジ改,-,439,FALSE,-,6,5,FALSE,TRUE,1,1,A,physics,-,,<br>
-130,434,ダブル・クラッシュ改,-,439,FALSE,-,4,5,FALSE,TRUE,1,1,A,physics,-,,<br>
-131,459,毒耐性,-,-,FALSE,-,5,8,TRUE,TRUE,1,1,B,guardP,-,,<br>
-132,460,暗闇耐性,-,459,FALSE,-,5,7,FALSE,TRUE,1,1,B,guardP,-,,<br>
-133,461,沈黙耐性,-,460,FALSE,-,5,6,FALSE,TRUE,1,1,B,guardP,-,,<br>
-134,462,激昂耐性,-,461,FALSE,-,5,5,FALSE,TRUE,1,1,B,guardP,-,,<br>
-135,465,睡眠耐性,-,462,FALSE,-,5,4,FALSE,TRUE,1,1,B,guardP,-,,<br>
-136,467,スタン耐性,-,462,FALSE,-,6,5,FALSE,TRUE,1,1,B,guardP,-,,<br>
-137,466,麻痺耐性,-,467,FALSE,-,7,5,FALSE,TRUE,1,1,B,guardP,-,,<br>
-138,463,混乱耐性,-,462,FALSE,-,4,5,FALSE,TRUE,1,1,B,guardP,-,,<br>
-139,464,魅了耐性,-,463,FALSE,-,3,5,FALSE,TRUE,1,1,B,guardP,-,,<br>
-140,455,三日月に触れる,905,-,FALSE,513,5,8,TRUE,TRUE,1,1,C,specialA,-,,<br>
-141,456,魔力への理解,906,455,FALSE,516,5,7,FALSE,TRUE,1,1,C,specialA,-,,<br>
-142,420,氷結斬,-,456,FALSE,-,6,7,FALSE,TRUE,1,1,C,physics,-,,<br>
-143,457,知識の扉,907,420,FALSE,519,7,7,FALSE,TRUE,1,1,C,specialA,-,,<br>
-144,458,神秘との接触,908,457,FALSE,522,8,7,FALSE,TRUE,1,1,C,specialA,-,,<br>
-145,423,氷結斬・改,-,420,FALSE,-,6,6,FALSE,TRUE,1,1,C,physics,-,,<br>
-146,426,氷蝕,-,423,FALSE,-,6,5,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
-147,430,氷蝕・改,-,426,FALSE,-,6,4,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
-148,428,光波,-,458,FALSE,-,8,6,FALSE,TRUE,1,1,C,physics,-,,<br>
-149,432,光波・改,-,428,FALSE,-,8,5,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
-150,419,火炎斬,-,456,FALSE,-,4,7,FALSE,TRUE,1,1,C,physics,-,,<br>
-151,421,雷鳴斬,-,419,FALSE,-,3,7,FALSE,TRUE,1,1,C,physics,-,,<br>
-152,424,雷鳴斬・改,-,421,FALSE,-,2,7,FALSE,TRUE,1,1,C,physics,-,,<br>
-153,422,火炎斬・改,-,419,FALSE,-,4,6,FALSE,TRUE,1,1,C,physics,-,,<br>
-154,425,紅焔,-,422,FALSE,-,4,5,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
-155,429,紅焔・改,-,425,FALSE,-,4,4,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
-156,427,迅雷,-,424,FALSE,-,2,6,FALSE,TRUE,1,1,C,physics,-,,<br>
-157,431,迅雷・改,-,427,FALSE,-,2,5,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
-158,446,平常心,909,-,FALSE,531,5,8,TRUE,TRUE,1,1,D,specialA,-,,<br>
-159,454,根性,910,446,FALSE,534,5,7,FALSE,TRUE,1,1,D,specialA,-,,<br>
-160,453,急所狙い,911,454,FALSE,537,5,6,FALSE,TRUE,1,1,D,specialA,-,,<br>
-161,450,渾身の一撃,912,453,FALSE,540,5,5,FALSE,TRUE,1,1,D,specialA,-,taiken,<br>
-162,449,鋼の守り,-,454,FALSE,-,4,7,FALSE,TRUE,1,1,D,specialP,-,,<br>
-163,451,受け流し,913,449,FALSE,543,3,7,FALSE,TRUE,1,1,D,specialA,-,,<br>
-164,448,熱情の律動,914,450,FALSE,549,6,5,FALSE,TRUE,1,1,D,specialA,-,taiken,<br>
-165,447,秘めたる激情,915,448,FALSE,552,7,5,FALSE,TRUE,1,1,D,specialA,-,taiken,<br>
-166,452,持久力,916,450,FALSE,546,4,5,FALSE,TRUE,1,1,D,specialA,-,taiken,<br>
-167,442,忍耐,-,-,FALSE,-,5,8,TRUE,TRUE,1,1,E,specialP,-,,<br>
-168,443,守りの達人,-,442,FALSE,-,5,7,FALSE,TRUE,1,1,E,specialP,-,,<br>
-169,444,受けの美学,-,443,FALSE,-,5,6,FALSE,TRUE,1,1,E,specialP,-,,<br>
-170,441,鋼の意志,917,444,FALSE,525,6,6,FALSE,TRUE,1,1,E,specialA,-,taiken,<br>
-171,445,父との約束,918,444,FALSE,528,4,6,FALSE,TRUE,1,1,E,specialA,-,taiken,<br>
-172,472,必殺Lv.2,-,-,FALSE,-,5,8,TRUE,TRUE,1,1,F,aaa,-,,<br>
-173,475,斬撃Lv.2,-,472,FALSE,-,5,7,FALSE,TRUE,1,1,F,aaa,-,,<br>
-174,478,決闘Lv.2,-,475,FALSE,-,5,6,FALSE,TRUE,1,1,F,aaa,-,,<br>
-175,481,威圧Lv.2,-,478,FALSE,-,5,5,FALSE,TRUE,1,1,F,aaa,-,,<br>
-176,473,必殺Lv.3,-,481,FALSE,-,6,5,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
-177,474,必殺Lv.4,-,473,FALSE,-,7,5,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
-178,476,斬撃Lv.3,-,481,FALSE,-,4,5,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
-179,477,斬撃Lv.4,-,476,FALSE,-,3,5,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
-180,479,決闘Lv.3,-,473,FALSE,-,6,4,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
-181,480,決闘Lv.4,-,479,FALSE,-,6,3,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
-182,482,威圧Lv.3,-,476,FALSE,-,4,4,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
-183,483,威圧Lv.4,-,482,FALSE,-,4,3,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
-184,148,献身,958,-,FALSE,669,5,8,TRUE,TRUE,4,1,A,specialA,-,,<br>
-185,149,神学の輩,959,148,FALSE,672,5,7,FALSE,TRUE,4,1,A,specialA,-,,<br>
-186,132,アクティナの光輝,-,149,FALSE,-,5,6,FALSE,TRUE,4,1,A,magic,-,,<br>
-187,122,アクティナの断罪,-,132,FALSE,-,5,5,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
-188,123,アクティナの憤怒,-,122,FALSE,-,5,4,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
-189,124,イミセリノスの炎光,-,149,FALSE,-,6,7,FALSE,TRUE,4,1,A,magic,-,,<br>
-190,126,イミセリノスの雷光,-,124,FALSE,-,7,7,FALSE,TRUE,4,1,A,magic,-,,<br>
-191,125,イミセリノスの氷光,-,149,FALSE,-,4,7,FALSE,TRUE,4,1,A,magic,-,,<br>
-192,127,イミセリノスの水光,-,125,FALSE,-,3,7,FALSE,TRUE,4,1,A,magic,-,,<br>
-193,128,イミセリノスの炎光+1,-,132,FALSE,-,6,6,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
-194,130,イミセリノスの雷光+1,-,128,FALSE,-,7,6,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
-195,129,イミセリノスの氷光+1,-,132,FALSE,-,4,6,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
-196,131,イミセリノスの水光+1,-,129,FALSE,-,3,6,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
-197,161,毒耐性,-,-,FALSE,-,5,8,TRUE,TRUE,4,1,B,guardP,-,,<br>
-198,162,暗闇耐性,-,161,FALSE,-,5,7,FALSE,TRUE,4,1,B,guardP,-,,<br>
-199,163,沈黙耐性,-,162,FALSE,-,5,6,FALSE,TRUE,4,1,B,guardP,-,,<br>
-200,164,激昂耐性,-,163,FALSE,-,5,5,FALSE,TRUE,4,1,B,guardP,-,,<br>
-201,167,睡眠耐性,-,164,FALSE,-,5,4,FALSE,TRUE,4,1,B,guardP,-,,<br>
-202,169,スタン耐性,-,164,FALSE,-,6,5,FALSE,TRUE,4,1,B,guardP,-,,<br>
-203,168,麻痺耐性,-,169,FALSE,-,7,5,FALSE,TRUE,4,1,B,guardP,-,,<br>
-204,165,混乱耐性,-,164,FALSE,-,4,5,FALSE,TRUE,4,1,B,guardP,-,,<br>
-205,166,魅了耐性,-,165,FALSE,-,3,5,FALSE,TRUE,4,1,B,guardP,-,,<br>
-206,133,アクティナの報復,-,-,FALSE,-,5,8,TRUE,TRUE,4,1,C,magic,-,,<br>
-207,134,アクティナの聖域,960,133,FALSE,708,5,7,FALSE,TRUE,4,1,C,magicA,-,,<br>
-208,135,アクティナの聖楯,-,134,FALSE,-,5,6,FALSE,TRUE,4,1,C,magic,-,taiken,<br>
-209,136,デイレーの嘲笑,-,134,FALSE,-,6,7,FALSE,TRUE,4,1,C,magic,-,,<br>
-210,137,アクティナの反照,-,136,FALSE,-,7,7,FALSE,TRUE,4,1,C,magic,-,,<br>
-211,140,アクティナの先導,-,137,FALSE,-,7,6,FALSE,TRUE,4,1,C,magic,-,taiken,<br>
-212,138,イミセリノスの恩寵,-,134,FALSE,-,4,7,FALSE,TRUE,4,1,C,magic,-,,<br>
-213,139,イミセリノスの恩寵+1,-,138,FALSE,-,3,7,FALSE,TRUE,4,1,C,magic,-,,<br>
-214,141,アクティナの忠誠,-,139,FALSE,-,3,6,FALSE,TRUE,4,1,C,magic,-,taiken,<br>
-215,150,処刑者,961,-,FALSE,675,5,8,TRUE,TRUE,4,1,D,specialA,-,,<br>
-216,142,隠れる,-,150,FALSE,-,5,7,FALSE,TRUE,4,1,D,magic,-,,<br>
-217,151,狂信者,962,142,FALSE,678,5,6,FALSE,TRUE,4,1,D,specialA,-,,<br>
-218,143,悪魔イシェケルの片翼,-,151,FALSE,-,5,5,FALSE,TRUE,4,1,D,physics,-,,<br>
-219,152,死地からの生還,963,143,FALSE,681,5,4,FALSE,TRUE,4,1,D,specialA,-,,<br>
-220,144,悪魔イシェケルの鳴声,964,152,FALSE,711,6,4,FALSE,TRUE,4,1,D,magicA,-,,<br>
-221,145,悪魔イシェケルの目弾,965,144,FALSE,714,7,4,FALSE,TRUE,4,1,D,magicA,-,taiken,<br>
-222,146,悪魔イシェケルの嘴,966,152,FALSE,717,4,4,FALSE,TRUE,4,1,D,physicsA,-,taiken,<br>
-223,147,悪魔イシェケルの鉤爪,967,146,FALSE,720,3,4,FALSE,TRUE,4,1,D,physicsA,-,taiken,<br>
-224,153,テリオス教徒,968,-,FALSE,684,5,8,TRUE,TRUE,4,1,E,specialA,-,,<br>
-225,154,精神力,969,153,FALSE,687,5,7,FALSE,TRUE,4,1,E,specialA,-,,<br>
-226,155,高潔の証,970,154,FALSE,690,5,6,FALSE,TRUE,4,1,E,specialA,-,,<br>
-227,156,千鳥足,971,155,FALSE,693,6,6,FALSE,TRUE,4,1,E,specialA,-,,<br>
-228,157,緊急回避,972,156,FALSE,696,6,5,FALSE,TRUE,4,1,E,specialA,-,,<br>
-229,158,自力救済,973,155,FALSE,699,4,6,FALSE,TRUE,4,1,E,specialA,-,,<br>
-230,159,灰色の救済者,974,158,FALSE,702,4,5,FALSE,TRUE,4,1,E,specialA,-,,<br>
-231,160,聖杖の使い手,975,159,FALSE,705,4,4,FALSE,TRUE,4,1,E,specialA,-,,<br>
-232,174,祝福Lv.2,-,-,FALSE,-,5,8,TRUE,TRUE,4,1,F,aaa,-,,<br>
-233,177,恐喝Lv.2,-,174,FALSE,-,5,7,FALSE,TRUE,4,1,F,aaa,-,,<br>
-234,180,祈祷Lv.2,-,177,FALSE,-,5,6,FALSE,TRUE,4,1,F,aaa,-,,<br>
-235,183,誘惑Lv.2,-,180,FALSE,-,5,5,FALSE,TRUE,4,1,F,aaa,-,,<br>
-236,175,祝福Lv.3,-,183,FALSE,-,6,5,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
-237,176,祝福Lv.4,-,175,FALSE,-,7,5,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
-238,178,恐喝Lv.3,-,183,FALSE,-,4,5,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
-239,179,恐喝Lv.4,-,178,FALSE,-,3,5,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
-240,181,祈祷Lv.3,-,175,FALSE,-,6,4,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
-241,182,祈祷Lv.4,-,181,FALSE,-,6,3,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
-242,184,誘惑Lv.3,-,178,FALSE,-,4,4,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
-243,185,誘惑Lv.4,-,184,FALSE,-,4,3,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
-244,501,大剣捌き+1,-,-,TRUE,502,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-245,502,大剣捌き+2,-,-,TRUE,503,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-246,503,大剣捌き+3,-,-,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-247,504,身体感覚+1,-,433,TRUE,505,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-248,505,身体感覚+2,-,433,TRUE,506,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-249,506,身体感覚+3,-,433,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-250,507,断髪の決意+1,-,438,TRUE,508,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-251,508,断髪の決意+2,-,438,TRUE,509,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-252,509,断髪の決意+3,-,438,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-253,510,大剣の使い手+1,-,439,TRUE,511,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-254,511,大剣の使い手+2,-,439,TRUE,512,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-255,512,大剣の使い手+3,-,439,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-256,513,三日月に触れる+1,-,-,TRUE,514,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-257,514,三日月に触れる+2,-,-,TRUE,515,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-258,515,三日月に触れる+3,-,-,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-259,516,魔力への理解+1,-,455,TRUE,517,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-260,517,魔力への理解+2,-,455,TRUE,518,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-261,518,魔力への理解+3,-,455,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-262,519,知識の扉+1,-,420,TRUE,520,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-263,520,知識の扉+2,-,420,TRUE,521,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-264,521,知識の扉+3,-,420,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-265,522,神秘との接触+1,-,457,TRUE,523,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-266,523,神秘との接触+2,-,457,TRUE,524,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-267,524,神秘との接触+3,-,457,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-268,525,鋼の意志+1,-,444,TRUE,526,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-269,526,鋼の意志+2,-,444,TRUE,527,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-270,527,鋼の意志+3,-,444,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-271,528,父との約束+1,-,444,TRUE,529,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-272,529,父との約束+2,-,444,TRUE,530,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-273,530,父との約束+3,-,444,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-274,531,平常心+1,-,-,TRUE,532,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-275,532,平常心+2,-,-,TRUE,533,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-276,533,平常心+3,-,-,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-277,534,根性+1,-,446,TRUE,535,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-278,535,根性+2,-,446,TRUE,536,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-279,536,根性+3,-,446,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-280,537,急所狙い+1,-,454,TRUE,538,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-281,538,急所狙い+2,-,454,TRUE,539,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-282,539,急所狙い+3,-,454,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-283,540,渾身の一撃+1,-,453,TRUE,541,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-284,541,渾身の一撃+2,-,453,TRUE,542,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-285,542,渾身の一撃+3,-,453,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-286,543,受け流し+1,-,449,TRUE,544,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-287,544,受け流し+2,-,449,TRUE,545,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-288,545,受け流し+3,-,449,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-289,546,持久力+1,-,450,TRUE,547,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-290,547,持久力+2,-,450,TRUE,548,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-291,548,持久力+3,-,450,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-292,549,熱情の律動+1,-,450,TRUE,550,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-293,550,熱情の律動+2,-,450,TRUE,551,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-294,551,熱情の律動+3,-,450,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-295,552,秘めたる激情+1,-,448,TRUE,553,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-296,553,秘めたる激情+2,-,448,TRUE,554,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-297,554,秘めたる激情+3,-,448,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
-298,557,槍の使い手+1,-,319,TRUE,558,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-299,558,槍の使い手+2,-,319,TRUE,559,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-300,559,槍の使い手+3,-,319,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-301,560,猛獣+1,-,343,TRUE,561,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-302,561,猛獣+2,-,343,TRUE,562,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-303,562,猛獣+3,-,343,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-304,563,強健+1,-,335,TRUE,564,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-305,564,強健+2,-,335,TRUE,565,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-306,565,強健+3,-,335,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-307,566,悪運+1,-,-,TRUE,567,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-308,567,悪運+2,-,-,TRUE,568,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-309,568,悪運+3,-,-,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-310,569,盗賊の心得+1,-,347,TRUE,570,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-311,570,盗賊の心得+2,-,347,TRUE,571,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-312,571,盗賊の心得+3,-,347,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-313,572,影を追う者+1,-,345,TRUE,573,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-314,573,影を追う者+2,-,345,TRUE,574,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-315,574,影を追う者+3,-,345,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-316,575,食欲旺盛+1,-,346,TRUE,576,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-317,576,食欲旺盛+2,-,346,TRUE,577,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-318,577,食欲旺盛+3,-,346,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-319,578,神速の狩人+1,-,346,TRUE,579,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-320,579,神速の狩人+2,-,346,TRUE,580,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-321,580,神速の狩人+3,-,346,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-322,581,生存嗅覚+1,-,346,TRUE,582,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-323,582,生存嗅覚+2,-,346,TRUE,583,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-324,583,生存嗅覚+3,-,346,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
-325,584,ハウル+1,-,344,TRUE,585,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-326,585,ハウル+2,-,344,TRUE,586,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-327,586,ハウル+3,-,344,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-328,587,シャウト+1,-,342,TRUE,588,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-329,588,シャウト+2,-,342,TRUE,589,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-330,589,シャウト+3,-,342,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-331,590,ランダム・チャージ+1,-,-,TRUE,591,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-332,591,ランダム・チャージ+2,-,-,TRUE,592,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-333,592,ランダム・チャージ+3,-,-,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-334,593,チャージド・ストライク+1,-,318,TRUE,594,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-335,594,チャージド・ストライク+2,-,318,TRUE,595,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-336,595,チャージド・ストライク+3,-,318,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-337,596,クロウ・スイング+1,-,341,TRUE,597,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-338,597,クロウ・スイング+2,-,341,TRUE,598,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-339,598,クロウ・スイング+3,-,341,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-340,599,フェンド・スイング+1,-,341,TRUE,600,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-341,600,フェンド・スイング+2,-,341,TRUE,601,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-342,601,フェンド・スイング+3,-,341,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-343,602,フュリオス・チャージ+1,-,341,TRUE,603,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-344,603,フュリオス・チャージ+2,-,341,TRUE,604,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-345,604,フュリオス・チャージ+3,-,341,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-346,605,トラップ+1,-,-,TRUE,606,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-347,606,トラップ+2,-,-,TRUE,607,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-348,607,トラップ+3,-,-,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-349,608,シャドウプリズン+1,-,329,TRUE,609,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-350,609,シャドウプリズン+2,-,329,TRUE,610,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-351,610,シャドウプリズン+3,-,329,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
-352,613,三日月の誇り+1,-,-,TRUE,614,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-353,614,三日月の誇り+2,-,-,TRUE,615,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-354,615,三日月の誇り+3,-,-,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-355,616,本を読む者+1,-,250,TRUE,617,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-356,617,本を読む者+2,-,250,TRUE,618,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-357,618,本を読む者+3,-,250,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-358,619,好奇心+1,-,251,TRUE,620,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-359,620,好奇心+2,-,251,TRUE,621,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-360,621,好奇心+3,-,251,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-361,622,真理の探究者+1,-,252,TRUE,623,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-362,623,真理の探究者+2,-,252,TRUE,624,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-363,624,真理の探究者+3,-,252,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-364,625,覚醒+1,-,253,TRUE,626,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-365,626,覚醒+2,-,253,TRUE,627,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-366,627,覚醒+3,-,253,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-367,628,諸刃の選択+1,-,251,TRUE,629,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-368,629,諸刃の選択+2,-,251,TRUE,630,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-369,630,諸刃の選択+3,-,251,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-370,631,諦めない天才+1,-,255,TRUE,632,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-371,632,諦めない天才+2,-,255,TRUE,633,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-372,633,諦めない天才+3,-,255,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-373,634,精神の渇き+1,-,256,TRUE,635,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-374,635,精神の渇き+2,-,256,TRUE,636,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-375,636,精神の渇き+3,-,256,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-376,637,孤独な研究者+1,-,254,TRUE,638,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-377,638,孤独な研究者+2,-,254,TRUE,639,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-378,639,孤独な研究者+3,-,254,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-379,640,天才の証明+1,-,257,TRUE,641,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-380,641,天才の証明+2,-,257,TRUE,642,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-381,642,天才の証明+3,-,257,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-382,643,読書家+1,-,-,TRUE,644,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-383,644,読書家+2,-,-,TRUE,645,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-384,645,読書家+3,-,-,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-385,646,精神学+1,-,260,TRUE,647,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-386,647,精神学+2,-,260,TRUE,648,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-387,648,精神学+3,-,260,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-388,649,魔法の申し子+1,-,261,TRUE,650,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-389,650,魔法の申し子+2,-,261,TRUE,651,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-390,651,魔法の申し子+3,-,261,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-391,652,猟書家+1,-,261,TRUE,653,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-392,653,猟書家+2,-,261,TRUE,654,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-393,654,猟書家+3,-,261,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
-394,655,禁則術式：生命転換+1,-,235_236,TRUE,656,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-395,656,禁則術式：生命転換+2,-,235_236,TRUE,657,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-396,657,禁則術式：生命転換+3,-,235_236,TRUE,-,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-397,658,開発術式：転+1,-,238,TRUE,659,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-398,659,開発術式：転+2,-,238,TRUE,660,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-399,660,開発術式：転+3,-,238,TRUE,-,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-400,661,開発術式：逃+1,-,238,TRUE,662,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-401,662,開発術式：逃+2,-,238,TRUE,663,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-402,663,開発術式：逃+3,-,238,TRUE,-,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-403,664,禁則術式：魔力転換+1,-,261,TRUE,665,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-404,665,禁則術式：魔力転換+2,-,261,TRUE,666,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-405,666,禁則術式：魔力転換+3,-,261,TRUE,-,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
-406,669,献身+1,-,-,TRUE,670,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-407,670,献身+2,-,-,TRUE,671,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-408,671,献身+3,-,-,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-409,672,神学の輩+1,-,148,TRUE,673,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-410,673,神学の輩+2,-,148,TRUE,674,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-411,674,神学の輩+3,-,148,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-412,675,処刑者+1,-,-,TRUE,676,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-413,676,処刑者+2,-,-,TRUE,677,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-414,677,処刑者+3,-,-,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-415,678,狂信者+1,-,142,TRUE,679,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-416,679,狂信者+2,-,142,TRUE,680,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-417,680,狂信者+3,-,142,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-418,681,死地からの生還+1,-,143,TRUE,682,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-419,682,死地からの生還+2,-,143,TRUE,683,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-420,683,死地からの生還+3,-,143,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-421,684,テリオス教徒+1,-,-,TRUE,685,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-422,685,テリオス教徒+2,-,-,TRUE,686,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-423,686,テリオス教徒+3,-,-,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-424,687,精神力+1,-,153,TRUE,688,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-425,688,精神力+2,-,153,TRUE,689,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-426,689,精神力+3,-,153,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-427,690,高潔の証+1,-,154,TRUE,691,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-428,691,高潔の証+2,-,154,TRUE,692,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-429,692,高潔の証+3,-,154,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-430,693,千鳥足+1,-,155,TRUE,694,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-431,694,千鳥足+2,-,155,TRUE,695,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-432,695,千鳥足+3,-,155,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-433,696,緊急回避+1,-,156,TRUE,697,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-434,697,緊急回避+2,-,156,TRUE,698,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-435,698,緊急回避+3,-,156,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-436,699,自力救済+1,-,155,TRUE,700,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-437,700,自力救済+2,-,155,TRUE,701,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-438,701,自力救済+3,-,155,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-439,702,灰色の救済者+1,-,158,TRUE,703,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-440,703,灰色の救済者+2,-,158,TRUE,704,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-441,704,灰色の救済者+3,-,158,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-442,705,聖杖の使い手+1,-,159,TRUE,706,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-443,706,聖杖の使い手+2,-,159,TRUE,707,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-444,707,聖杖の使い手+3,-,159,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
-445,708,アクティナの聖域+1,-,133,TRUE,709,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
-446,709,アクティナの聖域+2,-,133,TRUE,710,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
-447,710,アクティナの聖域+3,-,133,TRUE,-,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
-448,711,悪魔イシェケルの鳴声+1,-,152,TRUE,712,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
-449,712,悪魔イシェケルの鳴声+2,-,152,TRUE,713,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
-450,713,悪魔イシェケルの鳴声+3,-,152,TRUE,-,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
-451,714,悪魔イシェケルの目弾+1,-,144,TRUE,715,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
-452,715,悪魔イシェケルの目弾+2,-,144,TRUE,716,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
-453,716,悪魔イシェケルの目弾+3,-,144,TRUE,-,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
-454,717,悪魔イシェケルの嘴+1,-,152,TRUE,718,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
-455,718,悪魔イシェケルの嘴+2,-,152,TRUE,719,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
-456,719,悪魔イシェケルの嘴+3,-,152,TRUE,-,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
-457,720,悪魔イシェケルの鉤爪+1,-,146,TRUE,721,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
-458,721,悪魔イシェケルの鉤爪+2,-,146,TRUE,722,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
-459,722,悪魔イシェケルの鉤爪+3,-,146,TRUE,-,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
-460,901,床上手,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4801,,<br>
-461,902,感度良好,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4802,,<br>
-462,903,艶のある髪,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4803,,<br>
-463,904,甘美な身体,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4804,,<br>
-464,905,沸き立つ色香,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4805,,<br>
-465,906,妖艶な瞳,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4806,,<br>
-466,907,性の扉,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4807,,<br>
-467,908,色情狂,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4808,,<br>
-468,909,豊満な身体,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4809,,<br>
-469,910,被虐嗜好,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4810,,<br>
-470,911,手遊び,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4811,,<br>
-471,912,悩殺,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4812,,<br>
-472,913,色目使い,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4813,,<br>
-473,914,甘い調べ,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4814,,<br>
-474,915,秘めたる欲望,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4815,,<br>
-475,916,尽きない性欲,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4816,,<br>
-476,917,怪しい色香,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4817,,<br>
-477,918,親不孝,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4818,,<br>
-478,920,食指,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4819,,<br>
-479,921,捕食者,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4820,,<br>
-480,922,肉感的な身体,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4821,,<br>
-481,923,煩悩,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4822,,<br>
-482,924,魔性の女,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4823,,<br>
-483,925,夜の蝶,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4824,,<br>
-484,926,舌舐めずり,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4825,,<br>
-485,927,男喰い,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4826,,<br>
-486,928,フェロモン,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4827,,<br>
-487,929,艶のある声,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4828,,<br>
-488,930,淫らな声,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4829,,<br>
-489,931,色好み,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4830,,<br>
-490,932,欲望の火,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4831,,<br>
-491,933,魅惑の肉体,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4832,,<br>
-492,934,悪女,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4833,,<br>
-493,935,凄艶,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4834,,<br>
-494,936,蜘蛛の糸,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4835,,<br>
-495,937,肉欲の檻,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4836,,<br>
-496,939,未熟な身体,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4837,,<br>
-497,940,花盛り,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4838,,<br>
-498,941,扇情,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4839,,<br>
-499,942,変質者,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4840,,<br>
-500,943,上目遣い,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4841,,<br>
-501,944,悪知恵,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4842,,<br>
-502,945,メスガキ,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4843,,<br>
-503,946,切ない心,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4844,,<br>
-504,947,ひとり遊び,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4845,,<br>
-505,948,倒錯的な快楽,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4846,,<br>
-506,949,堕落者,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4847,,<br>
-507,950,淫靡な知識,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4848,,<br>
-508,951,甘い唇,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4849,,<br>
-509,952,性の求道者,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4850,,<br>
-510,953,徒花の開花,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4851,,<br>
-511,954,露出狂,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4852,,<br>
-512,955,妖艶な蕾,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4853,,<br>
-513,956,小悪魔,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4854,,<br>
-514,958,尽くす女,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4855,,<br>
-515,959,秘めた肉欲,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4856,,<br>
-516,960,秘密の花園,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4857,,<br>
-517,961,魔性の肉体,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4858,,<br>
-518,962,歪な愛,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4859,,<br>
-519,963,覚めない悪夢,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4860,,<br>
-520,964,暗黒の記憶,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4861,,<br>
-521,965,恋は盲目,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4862,,<br>
-522,966,亡者の怨嗟,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4863,,<br>
-523,967,忘れ得ぬ記憶,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4864,,<br>
-524,968,毒花,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4865,,<br>
-525,969,劣情,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4866,,<br>
-526,970,大人の色気,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4867,,<br>
-527,971,酩酊,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4868,,<br>
-528,972,駆けつけ一杯,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4869,,<br>
-529,973,甘い罠,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4870,,<br>
-530,974,魅惑の身体,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4871,,<br>
-531,975,手練手管,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4872,,<br>
+No,スキルID,Skill Name,連携裏スキルID,親スキルID,強化先フラグ,強化先ID番号,X座標,Y座標,スタートポジション,表スキル,アクターID,消費SP,グループタイプ,スキルアイコン,変数,体験版,<br>
+1,228,Development Technique: Void,-,-,FALSE,-,5,8,TRUE,TRUE,2,1,A,magic,-,,<br>
+2,226,Development Technique: Darkness,-,228,FALSE,-,5,7,FALSE,TRUE,2,1,A,magic,-,,<br>
+3,229,Development Technique: Void +1,-,226,FALSE,-,5,6,FALSE,TRUE,2,1,A,magic,-,,<br>
+4,227,Development Technique: Dark +1,-,229,FALSE,-,5,5,FALSE,TRUE,2,1,A,magic,-,taiken,<br>
+5,230,Development Technique: Void +2,-,227,FALSE,-,5,4,FALSE,TRUE,2,1,A,magic,-,taiken,<br>
+6,218,Development Technique: Blazing Fire,-,226,FALSE,-,4,7,FALSE,TRUE,2,1,A,magic,-,,<br>
+7,222,Development Technique: Thunder,-,218,FALSE,-,3,7,FALSE,TRUE,2,1,A,magic,-,,<br>
+8,220,Development Technique: Ice Blade,-,226,FALSE,-,6,7,FALSE,TRUE,2,1,A,magic,-,,<br>
+9,224,Development Technique: Water Calamity,-,220,FALSE,-,7,7,FALSE,TRUE,2,1,A,magic,-,,<br>
+10,219,Development Technique: Blazing Fire +1,-,229,FALSE,-,4,6,FALSE,TRUE,2,1,A,magic,-,,<br>
+11,223,Development Technique: Thunder +1,-,219,FALSE,-,3,6,FALSE,TRUE,2,1,A,magic,-,,<br>
+12,221,Development Technique: Ice Blade +1,-,229,FALSE,-,6,6,FALSE,TRUE,2,1,A,magic,-,,<br>
+13,225,Development Technique: Water Disaster +1,-,221,FALSE,-,7,6,FALSE,TRUE,2,1,A,magic,-,,<br>
+14,264,Poison Resistance,-,-,FALSE,-,5,8,TRUE,TRUE,2,1,B,guardP,-,,<br>
+15,265,Darkness Resistance,-,264,FALSE,-,5,7,FALSE,TRUE,2,1,B,guardP,-,,<br>
+16,266,Silence Resistance,-,265,FALSE,-,5,6,FALSE,TRUE,2,1,B,guardP,-,,<br>
+17,267,Rage Resistance,-,266,FALSE,-,5,5,FALSE,TRUE,2,1,B,guardP,-,,<br>
+18,270,Sleep Resistance,-,267,FALSE,-,5,4,FALSE,TRUE,2,1,B,guardP,-,,<br>
+19,268,Confusion Resistance,-,267,FALSE,-,4,5,FALSE,TRUE,2,1,B,guardP,-,,<br>
+20,269,Fascination Resistance,-,268,FALSE,-,3,5,FALSE,TRUE,2,1,B,guardP,-,,<br>
+21,272,Stun Resistance,-,267,FALSE,-,6,5,FALSE,TRUE,2,1,B,guardP,-,,<br>
+22,271,Paralysis Resistance,-,272,FALSE,-,7,5,FALSE,TRUE,2,1,B,guardP,-,,<br>
+23,237,Development Technique: Life Absorption,-,-,FALSE,-,5,8,TRUE,TRUE,2,1,C,magic,-,,<br>
+24,238,Development Technique: Magic Absorption,-,237,FALSE,-,5,7,FALSE,TRUE,2,1,C,magic,-,,<br>
+25,241,Development Technique: Escape,944,238,FALSE,661,4,7,FALSE,TRUE,2,1,C,magicA,-,,<br>
+26,231,Development Technique: Power of Flame,-,241,FALSE,-,4,6,FALSE,TRUE,2,1,C,magic,-,,<br>
+27,233,Development Technique: Power of Thunder,-,231,FALSE,-,4,5,FALSE,TRUE,2,1,C,magic,-,,<br>
+28,235,Development Technique: Power of Light,-,233,FALSE,-,4,4,FALSE,TRUE,2,1,C,magic,-,taiken,<br>
+29,240,Development Technique: Turn,943,238,FALSE,658,6,7,FALSE,TRUE,2,1,C,magicA,-,,<br>
+30,232,Development Technique: Power of Ice,-,240,FALSE,-,6,6,FALSE,TRUE,2,1,C,magic,-,,<br>
+31,234,Development Technique: Power of Water,-,232,FALSE,-,6,5,FALSE,TRUE,2,1,C,magic,-,,<br>
+32,236,Development Technique: Power of Darkness,-,234,FALSE,-,6,4,FALSE,TRUE,2,1,C,magic,-,taiken,<br>
+33,239,Forbidden Art: Life Transference,945,235_236,FALSE,655,5,4,FALSE,TRUE,2,1,C,magicA,-,taiken,<br>
+34,260,Bookworm,939,-,FALSE,643,5,8,TRUE,TRUE,2,1,D,specialA,-,,<br>
+35,261,Psychology,940,260,FALSE,646,5,7,FALSE,TRUE,2,1,D,specialA,-,,<br>
+36,242,Forbidden Technique: Magic Conversion,948,261,FALSE,664,5,6,FALSE,TRUE,2,1,D,magicA,-,,<br>
+37,244,Development Technique: Torrent,-,242,FALSE,-,5,5,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
+38,247,Forbidden Technique: Zenith Solitude,-,244,FALSE,-,5,4,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
+39,249,Forbidden Technique: Phase Shift,-,247,FALSE,-,5,3,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
+40,263,Book Hunter,942,261,FALSE,652,4,7,FALSE,TRUE,2,1,D,specialA,-,,<br>
+41,262,Child of Magic,941,261,FALSE,649,6,7,FALSE,TRUE,2,1,D,specialA,-,,<br>
+42,243,Development Technique: Weakness,-,244,FALSE,-,4,5,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
+43,245,Development Technique: Weakening,-,244,FALSE,-,6,5,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
+44,246,Forbidden Technique: Abyss,-,247,FALSE,-,4,4,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
+45,248,Forbidden Technique: Time Reversal,-,247,FALSE,-,6,4,FALSE,TRUE,2,1,D,magic,-,taiken,<br>
+46,250,Crescent Pride,949,-,FALSE,613,5,8,TRUE,TRUE,2,1,E,specialA,-,,<br>
+47,251,Reader of Books,950,250,FALSE,616,5,7,FALSE,TRUE,2,1,E,specialA,-,,<br>
+48,255,Dual-Edged Choice,954,251,FALSE,628,4,7,FALSE,TRUE,2,1,E,specialA,-,,<br>
+49,256,Unyielding Genius,955,255,FALSE,631,4,6,FALSE,TRUE,2,1,E,specialA,-,taiken,<br>
+50,252,Curiosity,951,251,FALSE,619,6,7,FALSE,TRUE,2,1,E,specialA,-,,<br>
+51,253,Seeker of Truth,952,252,FALSE,622,6,6,FALSE,TRUE,2,1,E,specialA,-,,<br>
+52,257,Thirst of the Mind,956,256,FALSE,634,3,6,FALSE,TRUE,2,1,E,specialA,-,taiken,<br>
+53,259,Proof of Genius,947,257,FALSE,640,3,5,FALSE,TRUE,2,1,E,specialA,-,taiken,<br>
+54,254,Awakening,953,253,FALSE,625,7,6,FALSE,TRUE,2,1,E,specialA,-,,<br>
+55,258,Lonely Researcher,946,254,FALSE,637,7,5,FALSE,TRUE,2,1,E,specialA,-,,<br>
+56,277,Liberation Lv.2,-,-,FALSE,-,5,8,TRUE,TRUE,2,1,F,aaa,-,,<br>
+57,280,Discovery Lv.2,-,277,FALSE,-,5,7,FALSE,TRUE,2,1,F,aaa,-,,<br>
+58,283,Decoding Lv.2,-,280,FALSE,-,5,6,FALSE,TRUE,2,1,F,aaa,-,,<br>
+59,286,Movement Lv.2,-,283,FALSE,-,5,5,FALSE,TRUE,2,1,F,aaa,-,,<br>
+60,281,Discovery Lv.3,-,286,FALSE,-,4,5,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
+61,282,Discovery Lv.4,-,281,FALSE,-,3,5,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
+62,278,Liberation Lv.3,-,286,FALSE,-,6,5,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
+63,279,Liberation Lv.4,-,278,FALSE,-,7,5,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
+64,287,Movement Lv.3,-,281,FALSE,-,4,4,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
+65,288,Movement Lv.4,-,287,FALSE,-,4,3,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
+66,284,Decoding Lv.3,-,278,FALSE,-,6,4,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
+67,285,Decoding Lv.4,-,284,FALSE,-,6,3,FALSE,TRUE,2,1,F,aaa,-,taiken,<br>
+68,317,Random Charge,931,-,FALSE,590,5,8,TRUE,TRUE,3,1,A,physicsA,-,,<br>
+69,318,Power Strike,-,317,FALSE,-,5,7,FALSE,TRUE,3,1,A,physics,-,,<br>
+70,319,Charged Strike,932,318,FALSE,593,5,6,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+71,341,Spear User,920,319,FALSE,557,5,5,FALSE,TRUE,3,1,A,specialA,-,taiken,<br>
+72,322,Furious Charge,935,341,FALSE,602,5,4,FALSE,TRUE,3,1,A,physicsA,-,taiken,<br>
+73,320,Crow Swing,933,341,FALSE,596,6,5,FALSE,TRUE,3,1,A,physicsA,-,taiken,<br>
+74,321,Fend Swing,934,341,FALSE,599,4,5,FALSE,TRUE,3,1,A,physicsA,-,taiken,<br>
+75,351,Poison Resistance,-,-,FALSE,-,5,8,TRUE,TRUE,3,1,B,guardP,-,,<br>
+76,352,Darkness Resistance,-,351,FALSE,-,5,7,FALSE,TRUE,3,1,B,guardP,-,,<br>
+77,353,Silence Resistance,-,352,FALSE,-,5,6,FALSE,TRUE,3,1,B,guardP,-,,<br>
+78,354,Rage Resistance,-,353,FALSE,-,5,5,FALSE,TRUE,3,1,B,guardP,-,,<br>
+79,358,Sleep Resistance,-,354,FALSE,-,5,4,FALSE,TRUE,3,1,B,guardP,-,,<br>
+80,360,Stun Resistance,-,354,FALSE,-,6,5,FALSE,TRUE,3,1,B,guardP,-,,<br>
+81,359,Paralysis Resistance,-,360,FALSE,-,7,5,FALSE,TRUE,3,1,B,guardP,-,,<br>
+82,355,Confusion Resistance,-,354,FALSE,-,4,5,FALSE,TRUE,3,1,B,guardP,-,,<br>
+83,356,Fascination Resistance,-,355,FALSE,-,3,5,FALSE,TRUE,3,1,B,guardP,-,,<br>
+84,323,Trap,936,-,FALSE,605,5,8,TRUE,TRUE,3,1,C,physicsA,-,,<br>
+85,324,Poison Trap,-,323,FALSE,-,5,7,FALSE,TRUE,3,1,C,physics,-,,<br>
+86,325,Blind Trap,-,324,FALSE,-,5,6,FALSE,TRUE,3,1,C,physics,-,,<br>
+87,326,Sleep Trap,-,325,FALSE,-,5,5,FALSE,TRUE,3,1,C,physics,-,,<br>
+88,327,Paralyze Trap,-,326,FALSE,-,5,4,FALSE,TRUE,3,1,C,physics,-,,<br>
+89,333,Dark Illusion,-,327,FALSE,-,5,3,FALSE,TRUE,3,1,C,physics,-,taiken,<br>
+90,330,Booby Trap,-,325,FALSE,-,6,6,FALSE,TRUE,3,1,C,physics,-,,<br>
+91,331,Honey Trap,-,330,FALSE,-,7,6,FALSE,TRUE,3,1,C,physics,-,,<br>
+92,334,Another Princess,-,331,FALSE,-,7,5,FALSE,TRUE,3,1,C,physics,-,taiken,<br>
+93,328,Silence Trap,-,325,FALSE,-,4,6,FALSE,TRUE,3,1,C,physics,-,,<br>
+94,329,Confuse Trap,-,328,FALSE,-,3,6,FALSE,TRUE,3,1,C,physics,-,,<br>
+95,332,Shadow Prison,937,329,FALSE,608,3,5,FALSE,TRUE,3,1,C,physicsA,-,taiken,<br>
+96,344,Knowledge of Tools,-,-,FALSE,-,5,8,TRUE,TRUE,3,1,D,specialP,-,,<br>
+97,335,Howl,929,344,FALSE,584,5,7,FALSE,TRUE,3,1,D,physicsA,-,,<br>
+98,343,Vigor,922,335,FALSE,563,5,6,FALSE,TRUE,3,1,D,specialA,-,taiken,<br>
+99,342,Fierce Beast,921,343,FALSE,560,5,5,FALSE,TRUE,3,1,D,specialA,-,taiken,<br>
+100,336,Shout,930,342,FALSE,587,5,4,FALSE,TRUE,3,1,D,physicsA,-,taiken,<br>
+101,337,Graul,-,335,FALSE,-,6,7,FALSE,TRUE,3,1,D,physics,-,,<br>
+102,339,Battle Cry,-,342,FALSE,-,6,5,FALSE,TRUE,3,1,D,physics,-,taiken,<br>
+103,338,Decoy,-,335,FALSE,-,4,7,FALSE,TRUE,3,1,D,physics,-,,<br>
+104,340,War Cry,-,342,FALSE,-,4,5,FALSE,TRUE,3,1,D,physics,-,taiken,<br>
+105,345,Bad Luck,923,-,FALSE,566,5,8,TRUE,TRUE,3,1,E,specialA,-,,<br>
+106,347,Shadow Chaser,925,345,FALSE,572,5,7,FALSE,TRUE,3,1,E,specialA,-,,<br>
+107,346,Thiefs Knowledge,924,347,FALSE,569,5,6,FALSE,TRUE,3,1,E,specialA,-,,<br>
+108,349,Swift Hunter,927,346,FALSE,578,5,5,FALSE,TRUE,3,1,E,specialA,-,,<br>
+109,348,Voracious Appetite,926,346,FALSE,575,6,6,FALSE,TRUE,3,1,E,specialA,-,,<br>
+110,350,Survival Instinct,928,346,FALSE,581,4,6,FALSE,TRUE,3,1,E,specialA,-,,<br>
+111,365,Unlock Lv.2,-,-,FALSE,-,5,8,TRUE,TRUE,3,1,F,aaa,-,,<br>
+112,368,Super Strength Lv.2,-,365,FALSE,-,5,7,FALSE,TRUE,3,1,F,aaa,-,,<br>
+113,371,Sense of Smell Lv.2,-,368,FALSE,-,5,6,FALSE,TRUE,3,1,F,aaa,-,,<br>
+114,374,Stealth Lv.2,-,371,FALSE,-,5,5,FALSE,TRUE,3,1,F,aaa,-,,<br>
+115,366,Unlock Lv.3,-,374,FALSE,-,6,5,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
+116,367,Unlock Lv.4,-,366,FALSE,-,7,5,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
+117,369,Super Strength Lv.3,-,374,FALSE,-,4,5,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
+118,370,Super Strength Lv.4,-,369,FALSE,-,3,5,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
+119,372,Sense of Smell Lv.3,-,366,FALSE,-,6,4,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
+120,373,Sense of Smell Lv.4,-,372,FALSE,-,6,3,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
+121,375,Stealth Lv.3,-,369,FALSE,-,4,4,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
+122,376,Stealth Lv.4,-,375,FALSE,-,4,3,FALSE,TRUE,3,1,F,aaa,-,taiken,<br>
+123,437,Great Sword Handling,901,-,FALSE,501,5,8,TRUE,TRUE,1,1,A,specialA,-,,<br>
+124,433,Bash Edge Kai,-,437,FALSE,-,5,7,FALSE,TRUE,1,1,A,physics,-,,<br>
+125,438,Body Sensation,902,433,FALSE,504,5,6,FALSE,TRUE,1,1,A,specialA,-,,<br>
+126,439,Determination to Cut Hair,903,438,FALSE,507,5,5,FALSE,TRUE,1,1,A,specialA,-,,<br>
+127,440,Great Sword User,904,439,FALSE,510,5,4,FALSE,TRUE,1,1,A,specialA,-,taiken,<br>
+128,436,Gale Smash Kai,-,440,FALSE,-,5,3,FALSE,TRUE,1,1,A,physics,-,taiken,<br>
+129,435,Stun Edge Kai,-,439,FALSE,-,6,5,FALSE,TRUE,1,1,A,physics,-,,<br>
+130,434,Double Crush Kai,-,439,FALSE,-,4,5,FALSE,TRUE,1,1,A,physics,-,,<br>
+131,459,Poison Resistance,-,-,FALSE,-,5,8,TRUE,TRUE,1,1,B,guardP,-,,<br>
+132,460,Darkness Resistance,-,459,FALSE,-,5,7,FALSE,TRUE,1,1,B,guardP,-,,<br>
+133,461,Silence Resistance,-,460,FALSE,-,5,6,FALSE,TRUE,1,1,B,guardP,-,,<br>
+134,462,Rage Resistance,-,461,FALSE,-,5,5,FALSE,TRUE,1,1,B,guardP,-,,<br>
+135,465,Sleep Resistance,-,462,FALSE,-,5,4,FALSE,TRUE,1,1,B,guardP,-,,<br>
+136,467,Stun Resistance,-,462,FALSE,-,6,5,FALSE,TRUE,1,1,B,guardP,-,,<br>
+137,466,Paralysis Resistance,-,467,FALSE,-,7,5,FALSE,TRUE,1,1,B,guardP,-,,<br>
+138,463,Confusion Resistance,-,462,FALSE,-,4,5,FALSE,TRUE,1,1,B,guardP,-,,<br>
+139,464,Fascination Resistance,-,463,FALSE,-,3,5,FALSE,TRUE,1,1,B,guardP,-,,<br>
+140,455,Touching the Crescent Moon,905,-,FALSE,513,5,8,TRUE,TRUE,1,1,C,specialA,-,,<br>
+141,456,Understanding of Magic Power,906,455,FALSE,516,5,7,FALSE,TRUE,1,1,C,specialA,-,,<br>
+142,420,Ice Blade Slash,-,456,FALSE,-,6,7,FALSE,TRUE,1,1,C,physics,-,,<br>
+143,457,Door of Knowledge,907,420,FALSE,519,7,7,FALSE,TRUE,1,1,C,specialA,-,,<br>
+144,458,Contact with the Mystery,908,457,FALSE,522,8,7,FALSE,TRUE,1,1,C,specialA,-,,<br>
+145,423,Frozen Slash - Enhanced,-,420,FALSE,-,6,6,FALSE,TRUE,1,1,C,physics,-,,<br>
+146,426,Ice Erosion,-,423,FALSE,-,6,5,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
+147,430,Ice Erosion - Modified,-,426,FALSE,-,6,4,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
+148,428,Light Wave,-,458,FALSE,-,8,6,FALSE,TRUE,1,1,C,physics,-,,<br>
+149,432,Light Wave - Enhanced,-,428,FALSE,-,8,5,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
+150,419,Flame Slash,-,456,FALSE,-,4,7,FALSE,TRUE,1,1,C,physics,-,,<br>
+151,421,Thunderclap Slash,-,419,FALSE,-,3,7,FALSE,TRUE,1,1,C,physics,-,,<br>
+152,424,Thunderclap Slash - Modified,-,421,FALSE,-,2,7,FALSE,TRUE,1,1,C,physics,-,,<br>
+153,422,Flame Slash - Modified,-,419,FALSE,-,4,6,FALSE,TRUE,1,1,C,physics,-,,<br>
+154,425,Crimson Flame,-,422,FALSE,-,4,5,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
+155,429,Crimson Flame: Revised,-,425,FALSE,-,4,4,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
+156,427,Swift Thunder,-,424,FALSE,-,2,6,FALSE,TRUE,1,1,C,physics,-,,<br>
+157,431,Swift Thunder - Modified,-,427,FALSE,-,2,5,FALSE,TRUE,1,1,C,physics,-,taiken,<br>
+158,446,Calm Mind,909,-,FALSE,531,5,8,TRUE,TRUE,1,1,D,specialA,-,,<br>
+159,454,Guts,910,446,FALSE,534,5,7,FALSE,TRUE,1,1,D,specialA,-,,<br>
+160,453,Critical Strike,911,454,FALSE,537,5,6,FALSE,TRUE,1,1,D,specialA,-,,<br>
+161,450,Full Power Strike,912,453,FALSE,540,5,5,FALSE,TRUE,1,1,D,specialA,-,taiken,<br>
+162,449,Steel Guard,-,454,FALSE,-,4,7,FALSE,TRUE,1,1,D,specialP,-,,<br>
+163,451,Counter,913,449,FALSE,543,3,7,FALSE,TRUE,1,1,D,specialA,-,,<br>
+164,448,Passionate Rhythm,914,450,FALSE,549,6,5,FALSE,TRUE,1,1,D,specialA,-,taiken,<br>
+165,447,Hidden Passion,915,448,FALSE,552,7,5,FALSE,TRUE,1,1,D,specialA,-,taiken,<br>
+166,452,Endurance,916,450,FALSE,546,4,5,FALSE,TRUE,1,1,D,specialA,-,taiken,<br>
+167,442,Patience,-,-,FALSE,-,5,8,TRUE,TRUE,1,1,E,specialP,-,,<br>
+168,443,Master of Defense,-,442,FALSE,-,5,7,FALSE,TRUE,1,1,E,specialP,-,,<br>
+169,444,Aesthetic of Receiving,-,443,FALSE,-,5,6,FALSE,TRUE,1,1,E,specialP,-,,<br>
+170,441,Steel Will,917,444,FALSE,525,6,6,FALSE,TRUE,1,1,E,specialA,-,taiken,<br>
+171,445,Promise with Father,918,444,FALSE,528,4,6,FALSE,TRUE,1,1,E,specialA,-,taiken,<br>
+172,472,Special Attack Lv.2,-,-,FALSE,-,5,8,TRUE,TRUE,1,1,F,aaa,-,,<br>
+173,475,Slash Lv.2,-,472,FALSE,-,5,7,FALSE,TRUE,1,1,F,aaa,-,,<br>
+174,478,Duel Lv.2,-,475,FALSE,-,5,6,FALSE,TRUE,1,1,F,aaa,-,,<br>
+175,481,Intimidation Lv.2,-,478,FALSE,-,5,5,FALSE,TRUE,1,1,F,aaa,-,,<br>
+176,473,Special Attack Lv.3,-,481,FALSE,-,6,5,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
+177,474,Deadly Lv.4,-,473,FALSE,-,7,5,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
+178,476,Slash Lv.3,-,481,FALSE,-,4,5,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
+179,477,Slash Lv.4,-,476,FALSE,-,3,5,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
+180,479,Duel Lv.3,-,473,FALSE,-,6,4,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
+181,480,Duel Lv.4,-,479,FALSE,-,6,3,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
+182,482,Intimidation Lv.3,-,476,FALSE,-,4,4,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
+183,483,Intimidation Lv.4,-,482,FALSE,-,4,3,FALSE,TRUE,1,1,F,aaa,-,taiken,<br>
+184,148,Devotion,958,-,FALSE,669,5,8,TRUE,TRUE,4,1,A,specialA,-,,<br>
+185,149,Theologians,959,148,FALSE,672,5,7,FALSE,TRUE,4,1,A,specialA,-,,<br>
+186,132,Actinas Radiance,-,149,FALSE,-,5,6,FALSE,TRUE,4,1,A,magic,-,,<br>
+187,122,Actinas Condemnation,-,132,FALSE,-,5,5,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
+188,123,Actinas Wrath,-,122,FALSE,-,5,4,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
+189,124,Flame of Imiserinos,-,149,FALSE,-,6,7,FALSE,TRUE,4,1,A,magic,-,,<br>
+190,126,Lightning of Imiselinus,-,124,FALSE,-,7,7,FALSE,TRUE,4,1,A,magic,-,,<br>
+191,125,Ice Light of Imiserinos,-,149,FALSE,-,4,7,FALSE,TRUE,4,1,A,magic,-,,<br>
+192,127,Imiserinosus Water Light,-,125,FALSE,-,3,7,FALSE,TRUE,4,1,A,magic,-,,<br>
+193,128,Flame Light of Imiserinos +1,-,132,FALSE,-,6,6,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
+194,130,Imiserinoss Lightning +1,-,128,FALSE,-,7,6,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
+195,129,Ice Light of Imiselin +1,-,132,FALSE,-,4,6,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
+196,131,Water Light of Imiselin +1,-,129,FALSE,-,3,6,FALSE,TRUE,4,1,A,magic,-,taiken,<br>
+197,161,Poison Resistance,-,-,FALSE,-,5,8,TRUE,TRUE,4,1,B,guardP,-,,<br>
+198,162,Darkness Resistance,-,161,FALSE,-,5,7,FALSE,TRUE,4,1,B,guardP,-,,<br>
+199,163,Silence Resistance,-,162,FALSE,-,5,6,FALSE,TRUE,4,1,B,guardP,-,,<br>
+200,164,Rage Resistance,-,163,FALSE,-,5,5,FALSE,TRUE,4,1,B,guardP,-,,<br>
+201,167,Sleep Resistance,-,164,FALSE,-,5,4,FALSE,TRUE,4,1,B,guardP,-,,<br>
+202,169,Stun Resistance,-,164,FALSE,-,6,5,FALSE,TRUE,4,1,B,guardP,-,,<br>
+203,168,Paralysis Resistance,-,169,FALSE,-,7,5,FALSE,TRUE,4,1,B,guardP,-,,<br>
+204,165,Confusion Resistance,-,164,FALSE,-,4,5,FALSE,TRUE,4,1,B,guardP,-,,<br>
+205,166,Fascination Resistance,-,165,FALSE,-,3,5,FALSE,TRUE,4,1,B,guardP,-,,<br>
+206,133,Actinas Retribution,-,-,FALSE,-,5,8,TRUE,TRUE,4,1,C,magic,-,,<br>
+207,134,Actinas Sanctuary,960,133,FALSE,708,5,7,FALSE,TRUE,4,1,C,magicA,-,,<br>
+208,135,Actinas Holy Shield,-,134,FALSE,-,5,6,FALSE,TRUE,4,1,C,magic,-,taiken,<br>
+209,136,Derisive Laugh of Delay,-,134,FALSE,-,6,7,FALSE,TRUE,4,1,C,magic,-,,<br>
+210,137,Actinas Reflection,-,136,FALSE,-,7,7,FALSE,TRUE,4,1,C,magic,-,,<br>
+211,140,Actinas Guidance,-,137,FALSE,-,7,6,FALSE,TRUE,4,1,C,magic,-,taiken,<br>
+212,138,Grace of Imiselinus,-,134,FALSE,-,4,7,FALSE,TRUE,4,1,C,magic,-,,<br>
+213,139,Imiserinos Grace +1,-,138,FALSE,-,3,7,FALSE,TRUE,4,1,C,magic,-,,<br>
+214,141,Actinas Loyalty,-,139,FALSE,-,3,6,FALSE,TRUE,4,1,C,magic,-,taiken,<br>
+215,150,Executioner,961,-,FALSE,675,5,8,TRUE,TRUE,4,1,D,specialA,-,,<br>
+216,142,Hide,-,150,FALSE,-,5,7,FALSE,TRUE,4,1,D,magic,-,,<br>
+217,151,Zealot,962,142,FALSE,678,5,6,FALSE,TRUE,4,1,D,specialA,-,,<br>
+218,143,One Wing of the Demon Ishekel,-,151,FALSE,-,5,5,FALSE,TRUE,4,1,D,physics,-,,<br>
+219,152,Survival from the brink of death,963,143,FALSE,681,5,4,FALSE,TRUE,4,1,D,specialA,-,,<br>
+220,144,Devil Ishekels Cry,964,152,FALSE,711,6,4,FALSE,TRUE,4,1,D,magicA,-,,<br>
+221,145,Devil Ishekels Eye Bullet,965,144,FALSE,714,7,4,FALSE,TRUE,4,1,D,magicA,-,taiken,<br>
+222,146,Devil Ishekels Beak,966,152,FALSE,717,4,4,FALSE,TRUE,4,1,D,physicsA,-,taiken,<br>
+223,147,Devil Ishekers Claw,967,146,FALSE,720,3,4,FALSE,TRUE,4,1,D,physicsA,-,taiken,<br>
+224,153,Terios Disciple,968,-,FALSE,684,5,8,TRUE,TRUE,4,1,E,specialA,-,,<br>
+225,154,Mental Power,969,153,FALSE,687,5,7,FALSE,TRUE,4,1,E,specialA,-,,<br>
+226,155,Proof of Nobility,970,154,FALSE,690,5,6,FALSE,TRUE,4,1,E,specialA,-,,<br>
+227,156,Chidori Step,971,155,FALSE,693,6,6,FALSE,TRUE,4,1,E,specialA,-,,<br>
+228,157,Emergency Evasion,972,156,FALSE,696,6,5,FALSE,TRUE,4,1,E,specialA,-,,<br>
+229,158,Self-help,973,155,FALSE,699,4,6,FALSE,TRUE,4,1,E,specialA,-,,<br>
+230,159,Gray Savior,974,158,FALSE,702,4,5,FALSE,TRUE,4,1,E,specialA,-,,<br>
+231,160,User of the Holy Staff,975,159,FALSE,705,4,4,FALSE,TRUE,4,1,E,specialA,-,,<br>
+232,174,Blessing Lv.2,-,-,FALSE,-,5,8,TRUE,TRUE,4,1,F,aaa,-,,<br>
+233,177,Extortion Lv.2,-,174,FALSE,-,5,7,FALSE,TRUE,4,1,F,aaa,-,,<br>
+234,180,Prayer Lv.2,-,177,FALSE,-,5,6,FALSE,TRUE,4,1,F,aaa,-,,<br>
+235,183,Temptation Lv.2,-,180,FALSE,-,5,5,FALSE,TRUE,4,1,F,aaa,-,,<br>
+236,175,Blessing Lv.3,-,183,FALSE,-,6,5,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
+237,176,Blessing Lv.4,-,175,FALSE,-,7,5,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
+238,178,Extortion Lv.3,-,183,FALSE,-,4,5,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
+239,179,Extortion Lv.4,-,178,FALSE,-,3,5,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
+240,181,Prayer Lv.3,-,175,FALSE,-,6,4,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
+241,182,Prayer Lv.4,-,181,FALSE,-,6,3,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
+242,184,Temptation Lv.3,-,178,FALSE,-,4,4,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
+243,185,Temptation Lv.4,-,184,FALSE,-,4,3,FALSE,TRUE,4,1,F,aaa,-,taiken,<br>
+244,501,Great Sword Handling +1,-,-,TRUE,502,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+245,502,Great Sword Handling +2,-,-,TRUE,503,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+246,503,Great Sword Handling +3,-,-,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+247,504,Body Sensation +1,-,433,TRUE,505,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+248,505,Body Sensation +2,-,433,TRUE,506,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+249,506,Body Sensation +3,-,433,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+250,507,Determined Haircut +1,-,438,TRUE,508,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+251,508,Determination to Cut Hair +2,-,438,TRUE,509,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+252,509,Determination to Cut Hair +3,-,438,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+253,510,Great Sword User+1,-,439,TRUE,511,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+254,511,Great Sword User +2,-,439,TRUE,512,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+255,512,Great Sword User +3,-,439,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+256,513,Touching the Crescent Moon +1,-,-,TRUE,514,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+257,514,Touching the Crescent Moon +2,-,-,TRUE,515,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+258,515,Touching the Crescent Moon +3,-,-,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+259,516,Understanding of Magic Power +1,-,455,TRUE,517,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+260,517,Understanding of Magic Power +2,-,455,TRUE,518,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+261,518,Understanding of Magic Power +3,-,455,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+262,519,Knowledge Door +1,-,420,TRUE,520,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+263,520,Knowledge Door +2,-,420,TRUE,521,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+264,521,Door of Knowledge +3,-,420,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+265,522,Contact with Mystery +1,-,457,TRUE,523,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+266,523,Contact with Mystery +2,-,457,TRUE,524,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+267,524,Contact with Mystery +3,-,457,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+268,525,Steel Will+1,-,444,TRUE,526,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+269,526,Steel Will+2,-,444,TRUE,527,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+270,527,Steel Will +3,-,444,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+271,528,Promise with Father +1,-,444,TRUE,529,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+272,529,Promise with Father +2,-,444,TRUE,530,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+273,530,Promise with Father +3,-,444,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+274,531,Calmness +1,-,-,TRUE,532,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+275,532,Calmness +2,-,-,TRUE,533,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+276,533,Calmness +3,-,-,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+277,534,Guts +1,-,446,TRUE,535,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+278,535,Guts +2,-,446,TRUE,536,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+279,536,Guts +3,-,446,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+280,537,Critical Hit +1,-,454,TRUE,538,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+281,538,Critical Aim +2,-,454,TRUE,539,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+282,539,Critical Aim +3,-,454,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+283,540,Full Power Strike +1,-,453,TRUE,541,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+284,541,Full Power Strike +2,-,453,TRUE,542,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+285,542,Full Power Strike +3,-,453,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+286,543,Counter +1,-,449,TRUE,544,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+287,544,Counterflow +2,-,449,TRUE,545,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+288,545,Counter +3,-,449,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+289,546,Endurance +1,-,450,TRUE,547,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+290,547,Endurance +2,-,450,TRUE,548,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+291,548,Endurance +3,-,450,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+292,549,Passionate Rhythm+1,-,450,TRUE,550,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+293,550,Passionate Rhythm +2,-,450,TRUE,551,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+294,551,Passionate Rhythm +3,-,450,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+295,552,Hidden Passion +1,-,448,TRUE,553,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+296,553,Hidden Passion +2,-,448,TRUE,554,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+297,554,Hidden Passion +3,-,448,TRUE,-,0,0,FALSE,TRUE,1,1,A,specialA,-,,<br>
+298,557,Spear User+1,-,319,TRUE,558,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+299,558,Spear User+2,-,319,TRUE,559,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+300,559,Spear User +3,-,319,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+301,560,Fierce Beast +1,-,343,TRUE,561,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+302,561,Fierce Beast+2,-,343,TRUE,562,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+303,562,Fierce Beast +3,-,343,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+304,563,Robust +1,-,335,TRUE,564,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+305,564,Vigor +2,-,335,TRUE,565,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+306,565,Robust +3,-,335,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+307,566,Bad Luck +1,-,-,TRUE,567,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+308,567,Bad Luck +2,-,-,TRUE,568,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+309,568,Bad Luck +3,-,-,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+310,569,Thiefs Knowledge +1,-,347,TRUE,570,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+311,570,Thiefs Knowledge +2,-,347,TRUE,571,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+312,571,Thiefs Knowledge +3,-,347,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+313,572,Shadow Pursuer +1,-,345,TRUE,573,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+314,573,Shadow Chaser +2,-,345,TRUE,574,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+315,574,Shadow Pursuer +3,-,345,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+316,575,Voracious Appetite +1,-,346,TRUE,576,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+317,576,Voracious Appetite +2,-,346,TRUE,577,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+318,577,Voracious Appetite +3,-,346,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+319,578,Swift Hunter+1,-,346,TRUE,579,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+320,579,Swift Hunter+2,-,346,TRUE,580,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+321,580,Swift Hunter +3,-,346,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+322,581,Survival Sense +1,-,346,TRUE,582,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+323,582,Survival Sense +2,-,346,TRUE,583,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+324,583,Survival Sense +3,-,346,TRUE,-,0,0,FALSE,TRUE,3,1,A,specialA,-,,<br>
+325,584,Howl+1,-,344,TRUE,585,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+326,585,Howl+2,-,344,TRUE,586,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+327,586,Howl+3,-,344,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+328,587,Shout+1,-,342,TRUE,588,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+329,588,Shout+2,-,342,TRUE,589,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+330,589,Shout+3,-,342,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+331,590,Random Charge +1,-,-,TRUE,591,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+332,591,Random Charge+2,-,-,TRUE,592,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+333,592,Random Charge +3,-,-,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+334,593,Charged Strike +1,-,318,TRUE,594,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+335,594,Charged Strike+2,-,318,TRUE,595,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+336,595,Charged Strike+3,-,318,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+337,596,Crow Swing+1,-,341,TRUE,597,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+338,597,Crow Swing+2,-,341,TRUE,598,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+339,598,Crow Swing+3,-,341,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+340,599,Fend Swing+1,-,341,TRUE,600,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+341,600,Fend Swing+2,-,341,TRUE,601,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+342,601,Fend Swing+3,-,341,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+343,602,Furious Charge+1,-,341,TRUE,603,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+344,603,Furious Charge+2,-,341,TRUE,604,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+345,604,Furious Charge+3,-,341,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+346,605,Trap +1,-,-,TRUE,606,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+347,606,Trap +2,-,-,TRUE,607,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+348,607,Trap +3,-,-,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+349,608,Shadow Prison+1,-,329,TRUE,609,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+350,609,Shadow Prison+2,-,329,TRUE,610,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+351,610,Shadow Prison+3,-,329,TRUE,-,0,0,FALSE,TRUE,3,1,A,physicsA,-,,<br>
+352,613,Crescent Pride+1,-,-,TRUE,614,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+353,614,Crescent Pride +2,-,-,TRUE,615,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+354,615,Crescent Pride +3,-,-,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+355,616,Reader of Books +1,-,250,TRUE,617,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+356,617,Reader of Books +2,-,250,TRUE,618,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+357,618,Reader of Books +3,-,250,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+358,619,Curiosity +1,-,251,TRUE,620,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+359,620,Curiosity +2,-,251,TRUE,621,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+360,621,Curiosity +3,-,251,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+361,622,Seeker of Truth +1,-,252,TRUE,623,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+362,623,Seeker of Truth +2,-,252,TRUE,624,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+363,624,Seeker of Truth +3,-,252,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+364,625,Awakening+1,-,253,TRUE,626,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+365,626,Awakening+2,-,253,TRUE,627,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+366,627,Awakening +3,-,253,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+367,628,Dual-Edged Choice+1,-,251,TRUE,629,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+368,629,Dual-Edged Choice +2,-,251,TRUE,630,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+369,630,Dual-Edged Choice +3,-,251,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+370,631,Unyielding Genius+1,-,255,TRUE,632,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+371,632,Unyielding Genius +2,-,255,TRUE,633,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+372,633,Unyielding Genius +3,-,255,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+373,634,Thirst of the Mind +1,-,256,TRUE,635,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+374,635,Thirst of the Mind +2,-,256,TRUE,636,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+375,636,Thirst of the Mind +3,-,256,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+376,637,Lonely Researcher+1,-,254,TRUE,638,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+377,638,Lonely Researcher +2,-,254,TRUE,639,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+378,639,Lonely Researcher +3,-,254,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+379,640,Proof of Genius +1,-,257,TRUE,641,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+380,641,Proof of Genius +2,-,257,TRUE,642,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+381,642,Proof of Genius +3,-,257,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+382,643,Bookworm+1,-,-,TRUE,644,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+383,644,Bookworm+2,-,-,TRUE,645,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+384,645,Bookworm+3,-,-,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+385,646,Mental Study +1,-,260,TRUE,647,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+386,647,Mental Study +2,-,260,TRUE,648,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+387,648,Mental Study +3,-,260,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+388,649,Child of Magic +1,-,261,TRUE,650,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+389,650,Child of Magic +2,-,261,TRUE,651,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+390,651,Child of Magic +3,-,261,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+391,652,Book Hunter +1,-,261,TRUE,653,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+392,653,Book Hunter +2,-,261,TRUE,654,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+393,654,Book Hunter +3,-,261,TRUE,-,0,0,FALSE,TRUE,2,1,A,specialA,-,,<br>
+394,655,Forbidden Art: Life Conversion +1,-,235_236,TRUE,656,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+395,656,Forbidden Art: Life Conversion +2,-,235_236,TRUE,657,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+396,657,Forbidden Technique: Life Conversion +3,-,235_236,TRUE,-,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+397,658,Development Technique: Turn +1,-,238,TRUE,659,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+398,659,Development Technique: Turn +2,-,238,TRUE,660,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+399,660,Development Technique: Turn +3,-,238,TRUE,-,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+400,661,Development Technique: Escape +1,-,238,TRUE,662,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+401,662,Development Technique: Escape +2,-,238,TRUE,663,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+402,663,Development Technique: Escape +3,-,238,TRUE,-,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+403,664,Forbidden Technique: Magic Power Conversion +1,-,261,TRUE,665,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+404,665,Forbidden Technique: Magic Conversion +2,-,261,TRUE,666,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+405,666,Forbidden Technique: Magic Conversion +3,-,261,TRUE,-,0,0,FALSE,TRUE,2,1,A,magicA,-,,<br>
+406,669,Devotion+1,-,-,TRUE,670,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+407,670,Devotion +2,-,-,TRUE,671,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+408,671,Devotion +3,-,-,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+409,672,Theology Folks +1,-,148,TRUE,673,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+410,673,Theology Folks +2,-,148,TRUE,674,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+411,674,Theology Folks +3,-,148,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+412,675,Executioner+1,-,-,TRUE,676,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+413,676,Executioner+2,-,-,TRUE,677,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+414,677,Executioner+3,-,-,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+415,678,Zealot+1,-,142,TRUE,679,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+416,679,Zealot+2,-,142,TRUE,680,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+417,680,Zealot+3,-,142,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+418,681,Survival from the Dead Zone +1,-,143,TRUE,682,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+419,682,Survival from the Brink +2,-,143,TRUE,683,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+420,683,Survival from the Dead Zone +3,-,143,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+421,684,Terios Follower +1,-,-,TRUE,685,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+422,685,Terios Follower +2,-,-,TRUE,686,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+423,686,Terios Follower +3,-,-,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+424,687,Mental Power +1,-,153,TRUE,688,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+425,688,Mental Power +2,-,153,TRUE,689,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+426,689,Mental Power +3,-,153,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+427,690,Proof of Nobility +1,-,154,TRUE,691,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+428,691,Proof of Nobility +2,-,154,TRUE,692,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+429,692,Proof of Nobility +3,-,154,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+430,693,Pigeon-toed +1,-,155,TRUE,694,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+431,694,Chidori Step +2,-,155,TRUE,695,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+432,695,Chidori Step +3,-,155,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+433,696,Emergency Evasion +1,-,156,TRUE,697,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+434,697,Emergency Evasion +2,-,156,TRUE,698,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+435,698,Emergency Evasion +3,-,156,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+436,699,Self-help +1,-,155,TRUE,700,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+437,700,Self-help +2,-,155,TRUE,701,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+438,701,Self-help +3,-,155,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+439,702,Gray Savior+1,-,158,TRUE,703,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+440,703,Gray Savior +2,-,158,TRUE,704,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+441,704,Gray Savior+3,-,158,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+442,705,Holy Staff User+1,-,159,TRUE,706,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+443,706,Holy Staff User+2,-,159,TRUE,707,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+444,707,User of the Holy Staff +3,-,159,TRUE,-,0,0,FALSE,TRUE,4,1,A,specialA,-,,<br>
+445,708,Actinas Sanctuary +1,-,133,TRUE,709,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
+446,709,Actinas Sanctuary +2,-,133,TRUE,710,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
+447,710,Actinas Sanctuary +3,-,133,TRUE,-,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
+448,711,Devil Ishekels Cry +1,-,152,TRUE,712,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
+449,712,Devil Ishekels Cry +2,-,152,TRUE,713,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
+450,713,Devil Ishekels Cry +3,-,152,TRUE,-,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
+451,714,Devil Ishekels Eye Bullet +1,-,144,TRUE,715,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
+452,715,Devil Ishekels Eye Bullet+2,-,144,TRUE,716,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
+453,716,Devil Ishekels Eye Bullet +3,-,144,TRUE,-,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
+454,717,Devil Ishekels Beak +1,-,152,TRUE,718,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
+455,718,Devil Ishekels Beak+2,-,152,TRUE,719,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
+456,719,Devil Ishekels Beak +3,-,152,TRUE,-,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
+457,720,Devil Ishekers Claw +1,-,146,TRUE,721,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
+458,721,Devil Ishekers Claw+2,-,146,TRUE,722,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
+459,722,Devil Ishekers Claw +3,-,146,TRUE,-,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
+460,901,Bed Skills,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4801,,<br>
+461,902,Good Sensitivity,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4802,,<br>
+462,903,Glossy Hair,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4803,,<br>
+463,904,Sweet Body,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4804,,<br>
+464,905,Boiling Fragrance,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4805,,<br>
+465,906,Bewitching Eyes,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4806,,<br>
+466,907,Door of Sex,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4807,,<br>
+467,908,Erotic Maniac,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4808,,<br>
+468,909,Plump Body,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4809,,<br>
+469,910,Masochistic Tendencies,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4810,,<br>
+470,911,Finger play,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4811,,<br>
+471,912,Captivating,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4812,,<br>
+472,913,Seduction,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4813,,<br>
+473,914,Sweet Melody,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4814,,<br>
+474,915,Hidden Desire,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4815,,<br>
+475,916,Insatiable Lust,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4816,,<br>
+476,917,Suspicious Fragrance,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4817,,<br>
+477,918,Disobedient,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4818,,<br>
+478,920,Index Finger,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4819,,<br>
+479,921,Predator,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4820,,<br>
+480,922,Sensual body,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4821,,<br>
+481,923,Temptation,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4822,,<br>
+482,924,Femme Fatale,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4823,,<br>
+483,925,Night Butterfly,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4824,,<br>
+484,926,Tongue Licking,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4825,,<br>
+485,927,Man-Eater,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4826,,<br>
+486,928,Pheromone,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4827,,<br>
+487,929,Alluring Voice,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4828,,<br>
+488,930,Lewd Voice,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4829,,<br>
+489,931,Color Preference,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4830,,<br>
+490,932,Fire of Desire,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4831,,<br>
+491,933,Enchanting Body,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4832,,<br>
+492,934,Villainess,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4833,,<br>
+493,935,Amazing Charm,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4834,,<br>
+494,936,Spider Thread,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4835,,<br>
+495,937,Cage of Carnal Desire,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4836,,<br>
+496,939,Inexperienced Body,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4837,,<br>
+497,940,Blooming,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4838,,<br>
+498,941,Seduction,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4839,,<br>
+499,942,Pervert,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4840,,<br>
+500,943,Flirting with Upturned Eyes,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4841,,<br>
+501,944,Cunning,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4842,,<br>
+502,945,Brat,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4843,,<br>
+503,946,Sorrowful Heart,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4844,,<br>
+504,947,Solo Play,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4845,,<br>
+505,948,Twisted Pleasure,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4846,,<br>
+506,949,Fallen One,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4847,,<br>
+507,950,Lewd Knowledge,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4848,,<br>
+508,951,Sweet Lips,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4849,,<br>
+509,952,Seeker of Desire,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4850,,<br>
+510,953,Blossoming of Transient Flowers,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4851,,<br>
+511,954,Exhibitionist,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4852,,<br>
+512,955,Alluring Bud,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4853,,<br>
+513,956,Little Devil,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4854,,<br>
+514,958,Devoted Woman,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4855,,<br>
+515,959,Hidden Carnal Desire,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4856,,<br>
+516,960,Secret Garden,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4857,,<br>
+517,961,Seductive Body,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4858,,<br>
+518,962,Twisted Love,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4859,,<br>
+519,963,Endless Nightmare,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4860,,<br>
+520,964,Dark Memories,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4861,,<br>
+521,965,Love is blind.,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4862,,<br>
+522,966,Wailing of the Undead,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4863,,<br>
+523,967,Unforgettable Memory,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4864,,<br>
+524,968,Poison Flower,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4865,,<br>
+525,969,Lust,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4866,,<br>
+526,970,Adult Charm,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4867,,<br>
+527,971,Intoxication,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4868,,<br>
+528,972,Rushing in with a glass full,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4869,,<br>
+529,973,Sweet Trap,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4870,,<br>
+530,974,Enchanting Body,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4871,,<br>
+531,975,Skillful Manipulation,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4872,,<br>

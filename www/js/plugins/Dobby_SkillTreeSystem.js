@@ -2796,7 +2796,7 @@
     Window_BackSkill_Header_Window.prototype.drawHead = function () {
         this.drawText(this._nastyLv, 320, 0, this.width);
         this.drawText(this._asp, 720, 0, this.width);
-        this.drawText((this._nastyFlag ? "非処女" : "処女"), 840, 0, this.width);
+        this.drawText((this._nastyFlag ? "Experienced" : "Virgin"), 840, 0, this.width);
         this.drawText(this._nastyNum, 400, 53, this.width);
         this.drawText(this._nextNastyLvNum, 740, 53, this.width);
 
