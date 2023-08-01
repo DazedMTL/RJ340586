@@ -3836,7 +3836,7 @@ let $isOrderedQuest;
             var order = orderList[targetNo - 1];
             order = order.split(",");
             var orderInfo = order[QUESTREPORT_ORDER_CSV_ITEMORDERINFO];
-            var text = startFlag ? '\\I[509] 指令開始：' : '\\I[510] 指令完了：';
+            var text = startFlag ? '\\I[509] Started: ' : '\\I[510] Completed: ';
             openKmsMessageWindow(text + orderInfo);
         }
     }
@@ -6059,7 +6059,7 @@ let $isOrderedQuest;
         }
 
         // this.drawTextEx(note,20,5);
-        this.drawTextEx("報酬", this.width / 2 - 50, 100);
+        this.drawTextEx("Reward", this.width / 2 - 50, 100);
         //let textW = this.textWidth(clearReward);
         let spClearReward = clearReward.split("\n");
         for (let j = 0; j < spClearReward.length; j++) {
@@ -6641,7 +6641,7 @@ let $isOrderedQuest;
                     this._questOrderedAnimationWindow.contents.clear();
                 }
 
-                let questStr = "「" + this._animationQuestData._questName + "」Orders Received";
+                let questStr = "「" + this._animationQuestData._questName + "」";
                 let textWidth = this._questOrderedAnimationWindow.textWidth(questStr);
                 let halfX = (this._questOrderedAnimationWindow.width / 2) - (textWidth / 2);
                 this._questOrderedAnimationWindow.drawTextEx(questStr, halfX - 25, 15);
@@ -7519,10 +7519,10 @@ let $isOrderedQuest;
         if (this.contents) {
             this.contents.clear();
         }
-        this.drawTextEx("このクエストを受けますか？", 110, 50);
+        this.drawTextEx("Accept this Quest?", 110, 50);
         this.drawText(txt, -20, 100, this.width, "center");
         if (isAutoPlay) {
-            this.drawText("※このクエストは受注直後に強制で進行します", 30, 150, this.width - 100, "center");
+            this.drawText("※This quest is mandatory after accepting.", 30, 150, this.width - 100, "center");
             //this.drawTextEx("\\}※このクエストは受注直後に強制で進行します\\{",0,150);
         }
 
