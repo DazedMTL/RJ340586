@@ -970,12 +970,12 @@
 
         var buttonYpos = thisObj._confirmMessageWindow.y + thisObj._confirmMessageWindow.height + 20;
         // thisObj._yesButtonWindow = new Window_YesNo_Button_Window(thisObj._confirmMessageWindow.x,buttonYpos, yesNoWindowWidth, "はい", true);
-        thisObj._yesButtonWindow = new Window_YesNo_Button_Window(yesButtonXpos, buttonYpos, yesNoWindowWidth, "はい", true);
+        thisObj._yesButtonWindow = new Window_YesNo_Button_Window(yesButtonXpos, buttonYpos, yesNoWindowWidth, "Yes", true);
         thisObj._yesButtonWindow.deactivate();
         thisObj._yesButtonWindow.close();
         var noButtonXpos = thisObj._yesButtonWindow.x + thisObj._yesButtonWindow.width;
 
-        thisObj._noButtonWindow = new Window_YesNo_Button_Window(noButtonXpos + 10, buttonYpos, yesNoWindowWidth, "いいえ", false);
+        thisObj._noButtonWindow = new Window_YesNo_Button_Window(noButtonXpos + 10, buttonYpos, yesNoWindowWidth, "No", false);
         thisObj._noButtonWindow.deactivate();
         thisObj._noButtonWindow.close();
         thisObj._confirmMessageWindow.addButtonWindow(thisObj._yesButtonWindow);
@@ -3135,7 +3135,7 @@
             this.contents.clear();
         }
 
-        let text = "Do you want to acquire this skill?";
+        let text = "Acquire this skill?";
         let textWidth = Math.floor(this.textWidth(text) / 2);
         let windowWidthHalf = Math.floor(this.width / 2) - 22;
         let centerXPos = windowWidthHalf - textWidth;
@@ -3193,7 +3193,7 @@
         if (this.contents) {
             this.contents.clear();
         }
-        let text = "Do you want to enhance this sex technique?";
+        let text = "Enhance this sex technique?";
         let textWidth = Math.floor(this.textWidth(text) / 2);
         let windowWidthHalf = Math.floor(this.width / 2) - 22;
         let centerXPos = windowWidthHalf - textWidth;
