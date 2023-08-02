@@ -785,6 +785,7 @@ function recollectionAddSwitchids() {
 };
 
 Game_System.prototype.testDragonDobby = function (dnu, istr) {
+    return true
     if (dnu && istr) {
         let str = istr;
         switch (dnu) {
