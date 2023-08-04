@@ -449,7 +449,7 @@ No,スキルID,Skill Name,連携裏スキルID,親スキルID,強化先フラグ
 448,711,Devil Ishekels Cry +1,-,152,TRUE,712,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
 449,712,Devil Ishekels Cry +2,-,152,TRUE,713,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
 450,713,Devil Ishekels Cry +3,-,152,TRUE,-,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
-451,714,Devil Ishekels Eye Bullet +1,-,144,TRUE,715,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
+451,714,Finger play,-,144,TRUE,715,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
 452,715,Devil Ishekels Eye Bullet+2,-,144,TRUE,716,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
 453,716,Devil Ishekels Eye Bullet +3,-,144,TRUE,-,0,0,FALSE,TRUE,4,1,A,magicA,-,,<br>
 454,717,Devil Ishekels Beak +1,-,152,TRUE,718,0,0,FALSE,TRUE,4,1,A,physicsA,-,,<br>
@@ -461,72 +461,72 @@ No,スキルID,Skill Name,連携裏スキルID,親スキルID,強化先フラグ
 460,901,Bed Skills,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4801,,<br>
 461,902,Good Sensitivity,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4802,,<br>
 462,903,Glossy Hair,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4803,,<br>
-463,904,Sweet Body,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4804,,<br>
-464,905,Boiling Fragrance,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4805,,<br>
+463,904,Luscious Body,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4804,,<br>
+464,905,Sweet Fragrance,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4805,,<br>
 465,906,Bewitching Eyes,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4806,,<br>
-466,907,Door of Sex,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4807,,<br>
-467,908,Erotic Maniac,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4808,,<br>
-468,909,Plump Body,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4809,,<br>
-469,910,Masochistic Tendencies,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4810,,<br>
-470,911,Finger play,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4811,,<br>
-471,912,Captivating,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4812,,<br>
+466,907,Door to Sex,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4807,,<br>
+467,908,Nymphomaniac,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4808,,<br>
+468,909,Voluptuous Body,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4809,,<br>
+469,910,Masochist,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4810,,<br>
+470,911,Hand play,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4811,,<br>
+471,912,Enchanting,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4812,,<br>
 472,913,Seduction,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4813,,<br>
 473,914,Sweet Melody,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4814,,<br>
 474,915,Hidden Desire,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4815,,<br>
 475,916,Insatiable Lust,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4816,,<br>
-476,917,Suspicious Fragrance,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4817,,<br>
+476,917,Strange Allure,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4817,,<br>
 477,918,Disobedient,-,-,FALSE,-,0,0,FALSE,FALSE,1,1,A,physics,4818,,<br>
 478,920,Index Finger,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4819,,<br>
 479,921,Predator,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4820,,<br>
-480,922,Sensual body,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4821,,<br>
+480,922,Sensual Body,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4821,,<br>
 481,923,Temptation,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4822,,<br>
 482,924,Femme Fatale,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4823,,<br>
-483,925,Night Butterfly,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4824,,<br>
+483,925,Night Walker,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4824,,<br>
 484,926,Tongue Licking,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4825,,<br>
-485,927,Man-Eater,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4826,,<br>
-486,928,Pheromone,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4827,,<br>
+485,927,Seductress,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4826,,<br>
+486,928,Pheromones,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4827,,<br>
 487,929,Alluring Voice,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4828,,<br>
-488,930,Lewd Voice,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4829,,<br>
-489,931,Color Preference,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4830,,<br>
+488,930,Indecent Voice,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4829,,<br>
+489,931,Sensuality,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4830,,<br>
 490,932,Fire of Desire,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4831,,<br>
-491,933,Enchanting Body,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4832,,<br>
+491,933,Alluring Body,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4832,,<br>
 492,934,Villainess,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4833,,<br>
-493,935,Amazing Charm,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4834,,<br>
-494,936,Spider Thread,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4835,,<br>
-495,937,Cage of Carnal Desire,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4836,,<br>
-496,939,Inexperienced Body,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4837,,<br>
+493,935,Uncanny Charm,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4834,,<br>
+494,936,Spider Silk,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4835,,<br>
+495,937,Cage of Lust,-,-,FALSE,-,0,0,FALSE,FALSE,3,1,A,physics,4836,,<br>
+496,939,Immature body,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4837,,<br>
 497,940,Blooming,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4838,,<br>
-498,941,Seduction,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4839,,<br>
+498,941,Excitement ,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4839,,<br>
 499,942,Pervert,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4840,,<br>
-500,943,Flirting with Upturned Eyes,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4841,,<br>
+500,943,Upturned Eyes,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4841,,<br>
 501,944,Cunning,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4842,,<br>
 502,945,Brat,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4843,,<br>
 503,946,Sorrowful Heart,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4844,,<br>
 504,947,Solo Play,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4845,,<br>
 505,948,Twisted Pleasure,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4846,,<br>
-506,949,Fallen One,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4847,,<br>
+506,949,Fallen Angel,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4847,,<br>
 507,950,Lewd Knowledge,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4848,,<br>
 508,951,Sweet Lips,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4849,,<br>
-509,952,Seeker of Desire,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4850,,<br>
-510,953,Blossoming of Transient Flowers,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4851,,<br>
+509,952,Desire Seeker,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4850,,<br>
+510,953,Blossoming Flower,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4851,,<br>
 511,954,Exhibitionist,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4852,,<br>
-512,955,Alluring Bud,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4853,,<br>
-513,956,Little Devil,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4854,,<br>
+512,955,Budding Beauty,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4853,,<br>
+513,956,Young Temptress,-,-,FALSE,-,0,0,FALSE,FALSE,2,1,A,physics,4854,,<br>
 514,958,Devoted Woman,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4855,,<br>
-515,959,Hidden Carnal Desire,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4856,,<br>
+515,959,Hidden Lust,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4856,,<br>
 516,960,Secret Garden,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4857,,<br>
 517,961,Seductive Body,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4858,,<br>
 518,962,Twisted Love,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4859,,<br>
 519,963,Endless Nightmare,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4860,,<br>
-520,964,Dark Memories,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4861,,<br>
-521,965,Love is blind.,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4862,,<br>
-522,966,Wailing of the Undead,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4863,,<br>
-523,967,Unforgettable Memory,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4864,,<br>
-524,968,Poison Flower,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4865,,<br>
+520,964,Dark Memory,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4861,,<br>
+521,965,Blind Love,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4862,,<br>
+522,966,Undead Grudge,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4863,,<br>
+523,967,Sweet Memory,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4864,,<br>
+524,968,Poisonous Flower,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4865,,<br>
 525,969,Lust,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4866,,<br>
 526,970,Adult Charm,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4867,,<br>
 527,971,Intoxication,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4868,,<br>
-528,972,Rushing in with a glass full,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4869,,<br>
+528,972,Full Speed,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4869,,<br>
 529,973,Sweet Trap,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4870,,<br>
 530,974,Enchanting Body,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4871,,<br>
-531,975,Skillful Manipulation,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4872,,<br>
+531,975,Manipulator,-,-,FALSE,-,0,0,FALSE,FALSE,4,1,A,physics,4872,,<br>
