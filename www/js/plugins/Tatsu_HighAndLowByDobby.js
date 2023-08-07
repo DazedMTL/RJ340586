@@ -1204,9 +1204,9 @@
     Window_HighAndLow_Select.prototype.initialize = function (wx, wy, ww, wh) {
         Window_Selectable.prototype.initialize.call(this, wx, wy, ww, wh);
         this._data = new Array();
-        this._data.push('大きい');
-        this._data.push('同じ');
-        this._data.push('小さい');
+        this._data.push('Bigger');
+        this._data.push('Same');
+        this._data.push('Smaller');
         this.select(0);
         this.refresh();
     };
