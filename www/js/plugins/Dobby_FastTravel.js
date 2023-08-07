@@ -6159,7 +6159,7 @@ let $isOrderedQuest;
     };
 
     Window_OrderList_Window.prototype.standardFontSize = function () {
-        return 20;
+        return 12;
     };
 
     Window_OrderList_Window.prototype.isCurrentItemEnabled = function () {

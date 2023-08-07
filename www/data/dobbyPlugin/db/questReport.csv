@@ -1,915 +1,915 @@
 クエストID,変数番号,Quest Name,Quest Rank,Quest Level,Explanation,Client,Order conditions,Derived conditions,Clear conditions,Success Reward,受注場所,受注場所詳細,クエストアイコン,アダルト表示,アダルトキャラ,表示順序,<br>
-1,501,To the Adventurers Guild,-,-,"Clea who is about to request a dragon subjugation mission
+1,501,To the Adventurers Guild,-,-,Clea who is about to request a dragon subjugation mission
 heads towards the capital city of Fotizona where the
-adventurers guild Ftera is located.",-,-,-,-,-,-,,-,非表示,-,1,<br>
-2,502,To the Adventurers Guild once again,-,-,"Clea who aspires to be an adventurer is now heading to the
-capital city of Fotizona to join the Adventurers Guild.",-,-,-,-,-,-,,-,非表示,-,2,<br>
-3,503,Gathered individuals,-,-,"Clea will gather companions in order to join the
-Adventurers Guild on the orders of Guild Master Agonia.",-,-,-,-,-,-,,-,非表示,-,20,<br>
-4,504,Odd jobs at the Adventurers Guild,-,1,"Please handle the miscellaneous tasks within the
+adventurers guild Ftera is located.,-,-,-,-,-,-,,-,非表示,-,1,<br>
+2,502,To the Adventurers Guild once again,-,-,Clea who aspires to be an adventurer is now heading to the
+capital city of Fotizona to join the Adventurers Guild.,-,-,-,-,-,-,,-,非表示,-,2,<br>
+3,503,Gathered individuals,-,-,Clea will gather companions in order to join the
+Adventurers Guild on the orders of Guild Master Agonia.,-,-,-,-,-,-,,-,非表示,-,20,<br>
+4,504,Odd jobs at the Adventurers Guild,-,1,Please handle the miscellaneous tasks within the
 Adventurers Guild as instructed by Agonia the guild
 master who is currently a temporary member and beginner-
-level.",Guild Leader Agonia,・Receiving orders from Guild Master Agonia.,-,"Complete all the miscellaneous tasks at the Adventurers
-Guild.",・Leaf of 500 HP Recovery (Small),ギルド,-,icon_guild_wings_1,非表示,-,3,<br>
-5,505,Extermination of a large rat.,-,1,"◯Please carry out the extermination of the large rats that
+level.,Guild Leader Agonia,・Receiving orders from Guild Master Agonia.,-,Complete all the miscellaneous tasks at the Adventurers
+Guild.,・Leaf of 500 HP Recovery (Small),ギルド,-,icon_guild_wings_1,非表示,-,3,<br>
+5,505,Extermination of a large rat.,-,1,◯Please carry out the extermination of the large rats that
 are appearing in the residential area. This is a request
 from Guild Master Agonia who is currently a temporary
-member and is in charge of handling beginner-level tasks.",Guild Leader Agonia,・Receiving orders from Guild Master Agonia.,-,Exterminate the large rat in the residential area.,・500・Kurumi (Small) with increased physical attack power.,ギルド,-,icon_guild_wings_1,非表示,-,4,<br>
-6,506,Assisting the guild members.,-,-,"Please help with the tasks and requests of the Adventurers
-Guild members in order to become a full-fledged member.",-,-,-,-,-,-,-,-,非表示,-,6,<br>
-7,507,Arros Cave Exploration,-,2,"Please complete the request from Melos the intermediate-
-level member for the investigation of the Arros Cave.",Melos the Hole Digger,-,-,Completed the investigation of the Arros Cave.,・Book of SP Increase,ギルド,-,icon_guild_seek_1,非表示,-,7,<br>
-8,508,Forgotten item in the cafeteria.,-,2,"Please complete all the small requests from the Stolge of
+member and is in charge of handling beginner-level tasks.,Guild Leader Agonia,・Receiving orders from Guild Master Agonia.,-,Exterminate the large rat in the residential area.,・500・Kurumi (Small) with increased physical attack power.,ギルド,-,icon_guild_wings_1,非表示,-,4,<br>
+6,506,Assisting the guild members.,-,-,Please help with the tasks and requests of the Adventurers
+Guild members in order to become a full-fledged member.,-,-,-,-,-,-,-,-,非表示,-,6,<br>
+7,507,Arros Cave Exploration,-,2,Please complete the request from Melos the intermediate-
+level member for the investigation of the Arros Cave.,Melos the Hole Digger,-,-,Completed the investigation of the Arros Cave.,・Book of SP Increase,ギルド,-,icon_guild_seek_1,非表示,-,7,<br>
+8,508,Forgotten item in the cafeteria.,-,2,Please complete all the small requests from the Stolge of
 Compassions request board at the Fotizona Avenue for
-intermediate-level temporary members.",Stolge of Affection,-,-,Complete all the small requests.,Cream that increases physical attack by 500.,ギルド,-,icon_guild_delivery_1,非表示,-,8,<br>
-9,509,Children of the Pioneers,-,-,"Please make contact with the children of the settlers in the
+intermediate-level temporary members.,Stolge of Affection,-,-,Complete all the small requests.,Cream that increases physical attack by 500.,ギルド,-,icon_guild_delivery_1,非表示,-,8,<br>
+9,509,Children of the Pioneers,-,-,Please make contact with the children of the settlers in the
 Barie region on behalf of Stolge of Affection
-intermediate-level member.",-,-,-,-,-,-,-,-,非表示,-,9,<br>
-10,510,An annoying client.,-,2,"Request from Intermediate-level Mage Relm who is a
+intermediate-level member.,-,-,-,-,-,-,-,-,非表示,-,9,<br>
+10,510,An annoying client.,-,2,Request from Intermediate-level Mage Relm who is a
 temporary member. Please obtain the herb called
-Imiserinosus Lips together with Relm.",Mage Relm,・Receiving orders from Guild Master Agonia.,-,Obtain the herb Imiserinos Lips.,・500G,ギルド,-,icon_guild_wings_1,非表示,-,10,<br>
-11,511,Relms forgotten item.,-,2,"Request from Advanced Member Provisional Clea the Mage.
+Imiserinosus Lips together with Relm.,Mage Relm,・Receiving orders from Guild Master Agonia.,-,Obtain the herb Imiserinos Lips.,・500G,ギルド,-,icon_guild_wings_1,非表示,-,10,<br>
+11,511,Relms forgotten item.,-,2,Request from Advanced Member Provisional Clea the Mage.
 Please complete the task that Clea the Mage left
-unfinished at the Magic Academy.",Mage Relm,・I have become an advanced temporary member.,-,Complete the unfinished tasks at the Magic Academy.,-,ギルド,-,icon_guild_seek_1,非表示,-,11,<br>
-12,512,Re-investigation of the Arros Cave,-,2,"◯Temporary Advanced Member Support Request - Investigation
+unfinished at the Magic Academy.,Mage Relm,・I have become an advanced temporary member.,-,Complete the unfinished tasks at the Magic Academy.,-,ギルド,-,icon_guild_seek_1,非表示,-,11,<br>
+12,512,Re-investigation of the Arros Cave,-,2,◯Temporary Advanced Member Support Request - Investigation
 of the Allos Cave Re-survey We will be conducting an
-investigation of the space discovered deep within the cave.",Melos the Hole Digger,・I have become an advanced temporary member.,-,Completed the re-investigation of the Arros Cave.,・500・Kurumi (Small) with increased agility,ギルド,-,icon_guild_seek_1,非表示,-,12,<br>
-13,513,Fragile girl Ect,-,-,"Please go meet Ect the daughter of Melos who received a
-request from the loving Stolge to dig a hole.",-,-,-,-,-,-,-,-,非表示,-,14,<br>
-14,514,Request from the Trogo Orphanage.,-,2,"◯Temporary Advanced Member Support Request from Sister Eleo:
-Please rehabilitate the delinquent sister at the church.",Sister Eleo,・Getting permission from receptionist Piste.,-,Rehabilitation of the Delinquent Sister,・500G,ギルド,-,icon_guild_wings_1,非表示,-,15,<br>
-15,515,Song of the Hero,-,-,"Please report the heroic achievements worthy of a new song
-requested by the traveling bard.",Bard,・Talking to the bard.,-,-,-,カンプス,-,-,非表示,-,154,<br>
-16,516,Goblins Nest,-,,"Please defeat the goblins in the overflowing cave as
-proposed by the traveling minstrel.",Bard,・Talking to the bard.,-,Defeat the goblin.,-,カンプス,-,-,非表示,-,155,<br>
-17,517,Request from the priestess Sophia.,-,-,"Please persuade Eleo to grant permission for the departure
-of the request from the priestess Sophia.",-,-,-,-,-,-,,-,非表示,-,16,<br>
-18,518,Adventurers Guild Ritual,-,-,"Please participate in the ceremony to become a formal member
-of the Adventurers Guild Ftera.",-,-,-,-,-,-,,-,非表示,-,17,<br>
-19,519,Dragon Subjugation,-,∞,"The request is to defeat a dragon a mythical monster which
+investigation of the space discovered deep within the cave.,Melos the Hole Digger,・I have become an advanced temporary member.,-,Completed the re-investigation of the Arros Cave.,・500・Kurumi (Small) with increased agility,ギルド,-,icon_guild_seek_1,非表示,-,12,<br>
+13,513,Fragile girl Ect,-,-,Please go meet Ect the daughter of Melos who received a
+request from the loving Stolge to dig a hole.,-,-,-,-,-,-,-,-,非表示,-,14,<br>
+14,514,Request from the Trogo Orphanage.,-,2,◯Temporary Advanced Member Support Request from Sister Eleo:
+Please rehabilitate the delinquent sister at the church.,Sister Eleo,・Getting permission from receptionist Piste.,-,Rehabilitation of the Delinquent Sister,・500G,ギルド,-,icon_guild_wings_1,非表示,-,15,<br>
+15,515,Song of the Hero,-,-,Please report the heroic achievements worthy of a new song
+requested by the traveling bard.,Bard,・Talking to the bard.,-,-,-,カンプス,-,-,非表示,-,154,<br>
+16,516,Goblins Nest,-,,Please defeat the goblins in the overflowing cave as
+proposed by the traveling minstrel.,Bard,・Talking to the bard.,-,Defeat the goblin.,-,カンプス,-,-,非表示,-,155,<br>
+17,517,Request from the priestess Sophia.,-,-,Please persuade Eleo to grant permission for the departure
+of the request from the priestess Sophia.,-,-,-,-,-,-,,-,非表示,-,16,<br>
+18,518,Adventurers Guild Ritual,-,-,Please participate in the ceremony to become a formal member
+of the Adventurers Guild Ftera.,-,-,-,-,-,-,,-,非表示,-,17,<br>
+19,519,Dragon Subjugation,-,∞,The request is to defeat a dragon a mythical monster which
 is a challenge for elite adventurers. Since there is
 absolutely no information about the dragon the request also
-includes an investigation.",？？？,・Obtaining permission from Guild Master Agonia.,-,Dragon Subjugation,？？？,ギルド,-,icon_guild_dragon,非表示,-,52,<br>
-20,520,Delivery of high-quality wine.,-,1,"Clea please deliver a bottle of high-quality wine from the
+includes an investigation.,？？？,・Obtaining permission from Guild Master Agonia.,-,Dragon Subjugation,？？？,ギルド,-,icon_guild_dragon,非表示,-,52,<br>
+20,520,Delivery of high-quality wine.,-,1,Clea please deliver a bottle of high-quality wine from the
 Varieté winery to Gesus house. If Cleas lewdness level
-increases adult scenes will be avoided.",Former miner Gesus,・Cleas turn・Cleas lewdness level 1,-,Delivering high-quality wine to the client.,・800G,バリエ,掲示板,icon_adult_001_1,表示,クレア,101,<br>
-21,521,Dirty hands.,-,,"Please go to Gesus house and lend him your chest as per his
-request as a former miner.",Former miner Gesus,"・Clea has cleared the delivery of high-class wine at Cleas
-Lewdness Level.",-,Lend your chest to the former miner Gesus.,・500G,バリエ,掲示板,icon_adult_001_loop_1,表示,クレア,102,<br>
-22,522,Forgotten Letter,-,1,"Please deliver this letter to the delivery person in front
+increases adult scenes will be avoided.,Former miner Gesus,・Cleas turn・Cleas lewdness level 1,-,Delivering high-quality wine to the client.,・800G,バリエ,掲示板,icon_adult_001_1,表示,クレア,101,<br>
+21,521,Dirty hands.,-,,Please go to Gesus house and lend him your chest as per his
+request as a former miner.,Former miner Gesus,・Clea has cleared the delivery of high-class wine at Cleas
+Lewdness Level.,-,Lend your chest to the former miner Gesus.,・500G,バリエ,掲示板,icon_adult_001_loop_1,表示,クレア,102,<br>
+22,522,Forgotten Letter,-,1,Please deliver this letter to the delivery person in front
 of the Crystal Abandoned Mine at the request of the miner
 Rock. Noras lewd level will increase and adult scenes will
-be avoided.",Miner Rock,・Thief Noras Execution ・Thief Noras Lewdness Level 1,-,Deliver the miner Rocks letter to the delivery person.,・300G,バリエ,掲示板,icon_adult_002_1,表示,ノラ,103,<br>
-23,523,Delivery persons break,-,,"Please help Deliveryman Wei take a break in front of the
-Crystal Abandoned Mine.",Delivery person Wei.,"・Thief Nora has completed the quest ・Thief Nora has reached
-the level of lewdness ・Clea has cleared the forgotten letter",-,Helping Deliveryman Wei take a break.,・500G,バリエ,掲示板,icon_adult_002_loop_1,表示,ノラ,104,<br>
-24,524,Pack of wolves,-,3,"Please eliminate a pack of wolves that are attacking
+be avoided.,Miner Rock,・Thief Noras Execution ・Thief Noras Lewdness Level 1,-,Deliver the miner Rocks letter to the delivery person.,・300G,バリエ,掲示板,icon_adult_002_1,表示,ノラ,103,<br>
+23,523,Delivery persons break,-,,Please help Deliveryman Wei take a break in front of the
+Crystal Abandoned Mine.,Delivery person Wei.,・Thief Nora has completed the quest ・Thief Nora has reached
+the level of lewdness ・Clea has cleared the forgotten letter,-,Helping Deliveryman Wei take a break.,・500G,バリエ,掲示板,icon_adult_002_loop_1,表示,ノラ,104,<br>
+24,524,Pack of wolves,-,3,Please eliminate a pack of wolves that are attacking
 livestock as requested by the tag of the owner of the ◯
-Adventurer Support Request Store.",Shopkeeper Tag,・Accompanying Shimosu in the Unknown Night.,-,Eliminate the boss of the wolf pack.,・1000G,ギルド,-,icon_guild_hunt_1,非表示,-,18,<br>
-25,525,Cleaning the Kasaro Bathhouse,-,3,"Please exterminate the pests that have appeared and
+Adventurer Support Request Store.,Shopkeeper Tag,・Accompanying Shimosu in the Unknown Night.,-,Eliminate the boss of the wolf pack.,・1000G,ギルド,-,icon_guild_hunt_1,非表示,-,18,<br>
+25,525,Cleaning the Kasaro Bathhouse,-,3,Please exterminate the pests that have appeared and
 investigate the cause as requested by the manager of the
-Kasaro Bathhouse who is dealing with novice adventurers.",Manager of the Casaro Bathhouse,・Accompanying Stolge of Affection,-,Exterminate the pests that occur in the Casaro bathhouse.,・1000・Free use of the Casaro bathhouse.,ギルド,-,icon_guild_hunt_1,非表示,-,19,<br>
-26,526,A town with a harbor.,-,3,"Please expose the falsehood of the requestor the wealthy
+Kasaro Bathhouse who is dealing with novice adventurers.,Manager of the Casaro Bathhouse,・Accompanying Stolge of Affection,-,Exterminate the pests that occur in the Casaro bathhouse.,・1000・Free use of the Casaro bathhouse.,ギルド,-,icon_guild_hunt_1,非表示,-,19,<br>
+26,526,A town with a harbor.,-,3,Please expose the falsehood of the requestor the wealthy
 merchant Acreo who is a client of the Guild Master Agonia
-for the request from the Guild for fledgling adventurers.",Great Merchant Acreo,・Accompanying Guild Master Agonia,-,Killing the merchant Kinos.,・1000G,ギルド,-,icon_guild_fight_1,非表示,-,21,<br>
-27,527,Quiet village,-,3,"◯ Please eliminate the ferocious beasts that are coming to
+for the request from the Guild for fledgling adventurers.,Great Merchant Acreo,・Accompanying Guild Master Agonia,-,Killing the merchant Kinos.,・1000G,ギルド,-,icon_guild_fight_1,非表示,-,21,<br>
+27,527,Quiet village,-,3,◯ Please eliminate the ferocious beasts that are coming to
 the village of Illemo as requested by the village chief
-Olden who handles requests for novice adventurers.",Village Chief Olden,"・Clea has cleared the wolf pack ・Clea has cleared the
+Olden who handles requests for novice adventurers.,Village Chief Olden,・Clea has cleared the wolf pack ・Clea has cleared the
 cleaning of the Kasaro bathhouse ・Clea has cleared the town
-with the harbor",-,"Exterminate the ferocious beasts that come to the village of
-Iremo.",・500・Kurumi (Medium) with increased magic attack.,ギルド,-,icon_guild_hunt_1,非表示,-,24,<br>
-28,528,Dragons voice.,-,-,"Please solve the big problem that has attacked the small
-village of Iremo as requested by Village Chief Olden.",-,-,-,-,-,-,-,-,非表示,-,25,<br>
-29,529,Black powder,Rookie adventurer,4,"Please gather evidence of the spread of drugs in the empire
-as requested by General Atu a fledgling adventurer.",General Atu,・Obtaining permission from Guild Master Agonia.,-,Gathering evidence of the spreading drug.,・Promotion to a Skilled Adventurer,ギルド,-,icon_guild_collect_2,非表示,-,26,<br>
-30,530,Confession of a sinner,Skilled adventurer,4,"Please assist in the redemption of my past as a member of
+with the harbor,-,Exterminate the ferocious beasts that come to the village of
+Iremo.,・500・Kurumi (Medium) with increased magic attack.,ギルド,-,icon_guild_hunt_1,非表示,-,24,<br>
+28,528,Dragons voice.,-,-,Please solve the big problem that has attacked the small
+village of Iremo as requested by Village Chief Olden.,-,-,-,-,-,-,-,-,非表示,-,25,<br>
+29,529,Black powder,Rookie adventurer,4,Please gather evidence of the spread of drugs in the empire
+as requested by General Atu a fledgling adventurer.,General Atu,・Obtaining permission from Guild Master Agonia.,-,Gathering evidence of the spreading drug.,・Promotion to a Skilled Adventurer,ギルド,-,icon_guild_collect_2,非表示,-,26,<br>
+30,530,Confession of a sinner,Skilled adventurer,4,Please assist in the redemption of my past as a member of
 the notorious band of thieves the Sinners by taking on a
-request from the skilled adventurer Pecado.",Sinner Pecado,・Becoming a skilled adventurer.,-,Complete the redemption of the sinner Pecado.,・100G,ギルド,-,icon_guild_seek_2,非表示,-,27,<br>
-31,531,The promise to protect.,Skilled adventurer,4,"Please collect all the debts from two locations as requested
-by the skilled adventurer loan agency Frimata.",Loan Shark Flea Market,・Becoming a skilled adventurer.,-,To collect all debts.,・500G,ギルド,-,icon_guild_collect_2,非表示,-,28,<br>
-32,532,Ects visit,-,-,"Please go visit Ect who is seriously ill on behalf of
-Melos the Hole-Digger.",-,-,-,-,-,-,-,-,非表示,-,29,<br>
-33,533,Secure the transportation route.,Skilled adventurer,4,"Please secure the transportation route for the giant crystal
-as requested by the skilled adventurer and noble Kasaro.",Noble Kasaro,・Clea has finished visiting Ect.,-,Securing transportation routes.,・1000G,ギルド,-,icon_guild_seek_2,非表示,-,30,<br>
-34,534,Ancient Ruins Investigation,-,2,"Please investigate the mysterious ancient ruins requested by
+request from the skilled adventurer Pecado.,Sinner Pecado,・Becoming a skilled adventurer.,-,Complete the redemption of the sinner Pecado.,・100G,ギルド,-,icon_guild_seek_2,非表示,-,27,<br>
+31,531,The promise to protect.,Skilled adventurer,4,Please collect all the debts from two locations as requested
+by the skilled adventurer loan agency Frimata.,Loan Shark Flea Market,・Becoming a skilled adventurer.,-,To collect all debts.,・500G,ギルド,-,icon_guild_collect_2,非表示,-,28,<br>
+32,532,Ects visit,-,-,Please go visit Ect who is seriously ill on behalf of
+Melos the Hole-Digger.,-,-,-,-,-,-,-,-,非表示,-,29,<br>
+33,533,Secure the transportation route.,Skilled adventurer,4,Please secure the transportation route for the giant crystal
+as requested by the skilled adventurer and noble Kasaro.,Noble Kasaro,・Clea has finished visiting Ect.,-,Securing transportation routes.,・1000G,ギルド,-,icon_guild_seek_2,非表示,-,30,<br>
+34,534,Ancient Ruins Investigation,-,2,Please investigate the mysterious ancient ruins requested by
 the Adventurers Guild. This quest can be accepted multiple
-times.",Adventurers Guild,Clea has cleared the re-investigation of the Arros Cave.,-,Investigating ancient ruins.,・100G,ギルド,-,icon_sab_guild_orbit_1,非表示,-,13,<br>
-35,535,Transport of the Giant Crystal,-,-,"Please retrieve the giant crystal from Noble Kasaro and
-deliver it to Noble Kasaro.",-,-,-,-,-,-,-,-,非表示,-,31,<br>
-36,536,A ship soaring through the sky.,-,-,"Please prepare to complete the request from the noble Kasaro
-to build an airship.",-,-,-,-,-,-,-,-,非表示,-,32,<br>
-37,537,Witch of the Great Rock Castle,-,5,"Please stop the rampage of the sorceress Anat who is the
+times.,Adventurers Guild,Clea has cleared the re-investigation of the Arros Cave.,-,Investigating ancient ruins.,・100G,ギルド,-,icon_sab_guild_orbit_1,非表示,-,13,<br>
+35,535,Transport of the Giant Crystal,-,-,Please retrieve the giant crystal from Noble Kasaro and
+deliver it to Noble Kasaro.,-,-,-,-,-,-,-,-,非表示,-,31,<br>
+36,536,A ship soaring through the sky.,-,-,Please prepare to complete the request from the noble Kasaro
+to build an airship.,-,-,-,-,-,-,-,-,非表示,-,32,<br>
+37,537,Witch of the Great Rock Castle,-,5,Please stop the rampage of the sorceress Anat who is the
 only daughter of the sorcerer Leso from the Great Rock
-Castle.",Mage Leso,・Obtaining permission from the wanderer Cors,-,Defeat the witch Anat in the Great Rock Castle.,・1000G,ミュコス,掲示板,icon_stray_arrest_2,非表示,-,33,<br>
-38,538,A man with a knife tattoo.,-,2,"Please capture the man with a knife tattoo who is a defector
-from the organization requested by the wanderer Cors.",Cors the Wanderer,Clea has cleared the witch in the Great Rock Castle.,-,Capture the defector from the organization.,・500G,ミュコス,掲示板,icon_stray_arrest_1,非表示,-,168,<br>
-39,539,Female warrior dancer,-,,"Request from the mediator Vrepo: Please participate in a
+Castle.,Mage Leso,・Obtaining permission from the wanderer Cors,-,Defeat the witch Anat in the Great Rock Castle.,・1000G,ミュコス,掲示板,icon_stray_arrest_2,非表示,-,33,<br>
+38,538,A man with a knife tattoo.,-,2,Please capture the man with a knife tattoo who is a defector
+from the organization requested by the wanderer Cors.,Cors the Wanderer,Clea has cleared the witch in the Great Rock Castle.,-,Capture the defector from the organization.,・500G,ミュコス,掲示板,icon_stray_arrest_1,非表示,-,168,<br>
+39,539,Female warrior dancer,-,,Request from the mediator Vrepo: Please participate in a
 strip show at the illegal bar of Mucos. You can receive this
-order as many times as you meet the conditions.",Mediator Vrepo,"・Clea has cleared the man with the lewdness level 1~ and a
-knife tattoo.","・Clea is at the lewd level. ・To be fully naked you need the
+order as many times as you meet the conditions.,Mediator Vrepo,・Clea has cleared the man with the lewdness level 1~ and a
+knife tattoo.,・Clea is at the lewd level. ・To be fully naked you need the
 sexual technique [Sweet Body Lv.2] or higher. ・To have
 vaginal creampie you need the sexual technique [Disobedient
-Child Lv.3].",Participating in a strip show at an illegal bar.,・500G,ミュコス,掲示板,icon_adult_001_loop_1,表示,クレア,169,<br>
-40,540,Thief Dancer,-,,"Request from the mediator Vrepo: Please participate in a
+Child Lv.3].,Participating in a strip show at an illegal bar.,・500G,ミュコス,掲示板,icon_adult_001_loop_1,表示,クレア,169,<br>
+40,540,Thief Dancer,-,,Request from the mediator Vrepo: Please participate in a
 strip show at the illegal bar of Mucos. You can receive the
-order as many times as you meet the conditions.",Mediator Vrepo,"・Clea the promiscuous level 1 thief has cleared the man
-with the knife tattoo.","・The thief Nora requires a level of lewdness・nakedness of at
-least Sexual Technique [Night Butterfly Lv.2] or higher.",Participating in a strip show at an illegal bar.,・500G,ミュコス,掲示板,icon_adult_002_loop_1,表示,ノラ,170,<br>
-41,541,Dancer of the Magician,-,,"Request from the mediator Vrepo: Please participate in a
+order as many times as you meet the conditions.,Mediator Vrepo,・Clea the promiscuous level 1 thief has cleared the man
+with the knife tattoo.,・The thief Nora requires a level of lewdness・nakedness of at
+least Sexual Technique [Night Butterfly Lv.2] or higher.,Participating in a strip show at an illegal bar.,・500G,ミュコス,掲示板,icon_adult_002_loop_1,表示,ノラ,170,<br>
+41,541,Dancer of the Magician,-,,Request from the mediator Vrepo: Please participate in a
 strip show at the illegal bar of Mucos. You can receive this
-order as many times as you meet the conditions.",Mediator Vrepo,"・The promiscuous level 1 sorceress Relm has cleared the man
-with a knife tattoo.","・The promiscuous level of the magician Relm is
+order as many times as you meet the conditions.,Mediator Vrepo,・The promiscuous level 1 sorceress Relm has cleared the man
+with a knife tattoo.,・The promiscuous level of the magician Relm is
 【Inexperienced Body Level 2】 or higher for being completely
 naked. ・For vaginal ejaculation the sexual technique
-【Sexual Seeker Level 3】 is required.",Participating in an illegal strip show.,・500G,ミュコス,掲示板,icon_adult_003_loop_1,表示,リルム,171,<br>
-42,542,Dancer of the Cleric,-,,"Request from the mediator Vrepo: Please participate in a
+【Sexual Seeker Level 3】 is required.,Participating in an illegal strip show.,・500G,ミュコス,掲示板,icon_adult_003_loop_1,表示,リルム,171,<br>
+42,542,Dancer of the Cleric,-,,Request from the mediator Vrepo: Please participate in a
 strip show at the illegal bar of Mucos. You can receive the
-order as many times as you meet the conditions.",Mediator Vrepo,"・Clea the priestess is clearing a promiscuous level 1~・She
-is clearing a man with a knife tattoo.","・Sophia the priestess has a promiscuity level of ・In order
+order as many times as you meet the conditions.,Mediator Vrepo,・Clea the priestess is clearing a promiscuous level 1~・She
+is clearing a man with a knife tattoo.,・Sophia the priestess has a promiscuity level of ・In order
 to be fully naked you need a sexual technique of at least
-【Enchanting Body Level 2】.",Participating in an illegal strip show.,・500G,ミュコス,掲示板,icon_adult_004_loop_1,表示,ソフィア,172,<br>
+【Enchanting Body Level 2】.,Participating in an illegal strip show.,・500G,ミュコス,掲示板,icon_adult_004_loop_1,表示,ソフィア,172,<br>
 43,543,Cleas massage.,-,-,Please enjoy a service massage at the Casaro Bathhouse.,Shop assistant,Clea has finished cleaning the Kasaro bathhouse.,・Clea is at lewdness level 3 or higher.,Receiving a massage at the Casaro bathhouse.,-,カサロ浴場,受付,-,表示,クレア,226,<br>
-44,544,Noras massage.,-,-,Please enjoy a service massage at the Casaro Bathhouse.,Shop assistant,Clea is clearing the Casaro bathhouse.,"・To perform vaginal creampie on the promiscuous level 3
+44,544,Noras massage.,-,-,Please enjoy a service massage at the Casaro Bathhouse.,Shop assistant,Clea is clearing the Casaro bathhouse.,・To perform vaginal creampie on the promiscuous level 3
 thief Nora you need sexual technique of at least
-Enchanting Body level 2.",Receiving a massage at the Casaro bathhouse.,-,カサロ浴場,受付,-,表示,ノラ,227,<br>
-45,545,Relms massage.,-,-,Please enjoy a service massage at the Casaro Bathhouse.,Shop assistant,Clea has finished cleaning the Kasaro bathhouse.,"・To perform vaginal creampie on the promiscuous level 3 mage
+Enchanting Body level 2.,Receiving a massage at the Casaro bathhouse.,-,カサロ浴場,受付,-,表示,ノラ,227,<br>
+45,545,Relms massage.,-,-,Please enjoy a service massage at the Casaro Bathhouse.,Shop assistant,Clea has finished cleaning the Kasaro bathhouse.,・To perform vaginal creampie on the promiscuous level 3 mage
 Relm you need sexual technique at least level 2 of the
-skill Blossoming of the Transient Flower.",Receiving a massage at the Casaro bathhouse.,-,カサロ浴場,受付,-,表示,リルム,228,<br>
+skill Blossoming of the Transient Flower.,Receiving a massage at the Casaro bathhouse.,-,カサロ浴場,受付,-,表示,リルム,228,<br>
 46,546,Sophias massage.,-,-,Please enjoy a service massage at the Casaro Bathhouse.,Shop assistant,Clea is clearing the cleaning of the Kasaro bathhouse.,・The priestess Sophia is at lewdness level 3 or higher.,Receiving a massage at the Casaro bathhouse.,-,カサロ浴場,受付,-,表示,ソフィア,229,<br>
-47,547,Mischievous Cook,-,1,"Farmer Namos request: Retrieve the necklace from the cook
+47,547,Mischievous Cook,-,1,Farmer Namos request: Retrieve the necklace from the cook
 Pete. If Sophias lewdness level increases the adult scene
-will be avoided.",Farmer Namo,"・Cleric Sophia joins the party. ・Cleric Sophia becomes a
-companion. ・Cleric Sophias lewdness level is 1.",-,Retrieve the necklace from the cook Pete.,・100G,カンプス,掲示板,icon_adult_004_1,表示,ソフィア,147,<br>
-48,548,False bravado,-,,"Pete the Cooks Request: Please go to Petes house and lend
+will be avoided.,Farmer Namo,・Cleric Sophia joins the party. ・Cleric Sophia becomes a
+companion. ・Cleric Sophias lewdness level is 1.,-,Retrieve the necklace from the cook Pete.,・100G,カンプス,掲示板,icon_adult_004_1,表示,ソフィア,147,<br>
+48,548,False bravado,-,,Pete the Cooks Request: Please go to Petes house and lend
 him your chest. You can accept the request multiple times
-until Sophias lewdness level increases.",Chef Pete,"・Clea the priestess has cleared the level of the lewd
+until Sophias lewdness level increases.,Chef Pete,・Clea the priestess has cleared the level of the lewd
 priestess Sophia. ・Clea the priestess has cleared the level
-of the mischievous cook.",-,Lending my chest to the cook Pete.,・500G,カンプス,掲示板,icon_adult_004_loop_1,表示,ソフィア,148,<br>
-49,549,Whereabouts of Livestock,-,3,"Clea please retrieve the stolen cow from the farmer Albos
+of the mischievous cook.,-,Lending my chest to the cook Pete.,・500G,カンプス,掲示板,icon_adult_004_loop_1,表示,ソフィア,148,<br>
+49,549,Whereabouts of Livestock,-,3,Clea please retrieve the stolen cow from the farmer Albos
 request. If Cleas lewd level increases the adult scene
-will be avoided.",Farmer Albo,・Cleas turn・Cleas lewdness level 1,-,Retrieve the stolen cow.,・500G,カンプス,掲示板,icon_adult_001_1,表示,クレア,145,<br>
-50,550,Invitation from the Information Broker,-,,"The request from the male informant is to help out at the
+will be avoided.,Farmer Albo,・Cleas turn・Cleas lewdness level 1,-,Retrieve the stolen cow.,・500G,カンプス,掲示板,icon_adult_001_1,表示,クレア,145,<br>
+50,550,Invitation from the Information Broker,-,,The request from the male informant is to help out at the
 informants house and take a break. You can accept the
 request multiple times until Cleas lewd level increases.
-[v0]",Male informant,"・Cleas condition ・Cleas lewdness level ・Clearing the
-whereabouts of livestock",-,Helping the male information broker take a break.,・500G,カンプス,掲示板,icon_adult_001_loop_1,表示,クレア,146,<br>
-51,551,Reserved Crystal,-,2,"Researcher Dokusas Request: Please collect the experimental
+[v0],Male informant,・Cleas condition ・Cleas lewdness level ・Clearing the
+whereabouts of livestock,-,Helping the male information broker take a break.,・500G,カンプス,掲示板,icon_adult_001_loop_1,表示,クレア,146,<br>
+51,551,Reserved Crystal,-,2,Researcher Dokusas Request: Please collect the experimental
 crystals in place of Dokusa. If Relms lewdness level
-increases adult scenes will be avoided.",Researcher Dokusa,・The magician Relm is at level 1 of lewdness.,-,Retrieval of experimental crystals.,・500G,カノナス,掲示板,icon_adult_003_1,表示,リルム,125,<br>
-52,552,The Wizards Mouth,-,,"Clea Nora Relm Sophia Celis Piste Ect Caron Emoni
+increases adult scenes will be avoided.,Researcher Dokusa,・The magician Relm is at level 1 of lewdness.,-,Retrieval of experimental crystals.,・500G,カノナス,掲示板,icon_adult_003_1,表示,リルム,125,<br>
+52,552,The Wizards Mouth,-,,Clea Nora Relm Sophia Celis Piste Ect Caron Emoni
 Amina Armada Phoni Eleo Perno please lend me your
 mouth and go to the merchant Oros house. You can receive
 the request multiple times until Relms lewdness level
-increases.",Merchant Oro,"・The magician Relm is dealing with... ・The magician Relm is
-at a lewd level... ・She has cleared the reserved crystal.",-,Lending my voice to the merchant Oro.,・500G,カノナス,掲示板,icon_adult_003_loop_1,表示,リルム,126,<br>
-53,553,Defeating the man-eating bear.,-,3,"Please defeat the elusive man-eating bear that the citizen
+increases.,Merchant Oro,・The magician Relm is dealing with... ・The magician Relm is
+at a lewd level... ・She has cleared the reserved crystal.,-,Lending my voice to the merchant Oro.,・500G,カノナス,掲示板,icon_adult_003_loop_1,表示,リルム,126,<br>
+53,553,Defeating the man-eating bear.,-,3,Please defeat the elusive man-eating bear that the citizen
 Kaga has requested. If Relms lewdness level increases
-adult scenes will be avoided.",Citizen Kaga,"・Mage Relm joins the party. ・Mage Relms lewdness level is
-1.",-,Defeating the man-eating bear.,・800G,バリエ,掲示板,icon_adult_003_1,表示,リルム,105,<br>
-54,554,The Hunters Pleasure,-,,"Hunters Request from Monster House Please go to the
+adult scenes will be avoided.,Citizen Kaga,・Mage Relm joins the party. ・Mage Relms lewdness level is
+1.,-,Defeating the man-eating bear.,・800G,バリエ,掲示板,icon_adult_003_1,表示,リルム,105,<br>
+54,554,The Hunters Pleasure,-,,Hunters Request from Monster House Please go to the
 Hunters Monster House and help them take a break. You can
 accept the request multiple times until Relms lewdness
-level increases.",Hunter Monster,"・Mage Relm has cleared the quest ・Mage Relm has reached the
+level increases.,Hunter Monster,・Mage Relm has cleared the quest ・Mage Relm has reached the
 lewdness level ・She has cleared the quest to defeat the man-
-eating bear",-,Helping the hunter Monse take a break.,・500G,バリエ,掲示板,icon_adult_003_loop_1,表示,リルム,106,<br>
-55,555,Stubborn informant,-,4,"Please negotiate with the researcher Dokusa to request the
+eating bear,-,Helping the hunter Monse take a break.,・500G,バリエ,掲示板,icon_adult_003_loop_1,表示,リルム,106,<br>
+55,555,Stubborn informant,-,4,Please negotiate with the researcher Dokusa to request the
 cooperation of the bull Lopos. If Sophias lewdness level
-increases the adult scene will be avoided.",Researcher Dokusa,"・Cleric Sophia joins the party. ・Cleric Sophia becomes a
-companion. ・Cleric Sophias lewdness level is 1.",-,Get the male bull Lopos to cooperate again.,・500G,カノナス,掲示板,icon_adult_004_1,表示,ソフィア,127,<br>
-56,556,The Secret of the Bull,-,,"Please accompany Lopos the bull in his secret hobby that he
+increases the adult scene will be avoided.,Researcher Dokusa,・Cleric Sophia joins the party. ・Cleric Sophia becomes a
+companion. ・Cleric Sophias lewdness level is 1.,-,Get the male bull Lopos to cooperate again.,・500G,カノナス,掲示板,icon_adult_004_1,表示,ソフィア,127,<br>
+56,556,The Secret of the Bull,-,,Please accompany Lopos the bull in his secret hobby that he
 cant tell anyone about. You can accept the request multiple
-times until Sophias lewd level increases.",Ropos the Bull,"・Clea the priestess has cleared the stubborn informant ・Clea
-the priestess has reached the lewdness level",-,Letting out the hidden desires of the bull Lopos.,・500G,カノナス,掲示板,icon_adult_004_loop_1,表示,ソフィア,128,<br>
-57,557,Night Thief Moss Collection,-,2,"Please collect the Night Thief Moss that grows in the
+times until Sophias lewd level increases.,Ropos the Bull,・Clea the priestess has cleared the stubborn informant ・Clea
+the priestess has reached the lewdness level,-,Letting out the hidden desires of the bull Lopos.,・500G,カノナス,掲示板,icon_adult_004_loop_1,表示,ソフィア,128,<br>
+57,557,Night Thief Moss Collection,-,2,Please collect the Night Thief Moss that grows in the
 Refgaria Forest as requested by Farmer Basura. If Noras
-lewdness level increases adult scenes will be avoided.",Farmer Basura,・Thief Noras Execution ・Thief Noras Lewdness Level 1,-,Night Thief Moss Collection,・500G,カノナス,掲示板,icon_adult_002_1,表示,ノラ,123,<br>
-58,558,Angry man,-,,"Farmer Basura has a request. Please go to the inn where we
+lewdness level increases adult scenes will be avoided.,Farmer Basura,・Thief Noras Execution ・Thief Noras Lewdness Level 1,-,Night Thief Moss Collection,・500G,カノナス,掲示板,icon_adult_002_1,表示,ノラ,123,<br>
+58,558,Angry man,-,,Farmer Basura has a request. Please go to the inn where we
 are staying and help relieve stress. You can accept the
 request multiple times until Noras lewdness level
-increases.",Farmer Basura,"・Thief Nora has completed the Night Thief Moss retrieval
-・Thief Nora has reached the Lewd Level",-,Helping Farmer Basura Relieve Stress,・500G,カノナス,掲示板,icon_adult_002_loop_1,表示,ノラ,124,<br>
+increases.,Farmer Basura,・Thief Nora has completed the Night Thief Moss retrieval
+・Thief Nora has reached the Lewd Level,-,Helping Farmer Basura Relieve Stress,・500G,カノナス,掲示板,icon_adult_002_loop_1,表示,ノラ,124,<br>
 59,559,Cleas defeat.,-,-,-,-,・Defeated in the underground arena.,-,-,-,-,裏闘技場,-,表示,クレア,230,<br>
 60,560,Noras defeat.,-,-,-,-,・Defeated in the underground arena.,-,-,-,-,裏闘技場,-,表示,ノラ,231,<br>
 61,561,Relms defeat.,-,-,-,-,・Defeated in the underground arena.,-,-,-,-,裏闘技場,-,表示,リルム,232,<br>
 62,562,Sophias defeat.,-,-,-,-,・Defeated in the underground arena.,-,-,-,-,裏闘技場,-,表示,ソフィア,233,<br>
-63,563,Dream of an Old Aristocrat,Skilled adventurer,5,"Please gather advanced sorcerers scattered throughout the
+63,563,Dream of an Old Aristocrat,Skilled adventurer,5,Please gather advanced sorcerers scattered throughout the
 country in order to fulfill the request from the skilled
 adventurer and noble Kasaro for the realization of a
-dream.",Noble Kasaro,Clea has cleared the ship soaring through the sky.,-,Gathering the means to achieve our dreams.,・1000G,-,-,icon_guild_collect_2,非表示,-,34,<br>
+dream.,Noble Kasaro,Clea has cleared the ship soaring through the sky.,-,Gathering the means to achieve our dreams.,・1000G,-,-,icon_guild_collect_2,非表示,-,34,<br>
 64,564,Dragons Wings,-,-,-,-,-,-,-,-,-,-,-,非表示,-,35,<br>
-65,565,Secret of the Voice Room,-,5,"Please help the explorer Armada solve the mystery she is
-chasing after.",Explorer Armada,"・Recruit the magician Relm as a party member ・Clea must be
-at least level 5.",-,Unraveling the secret of the Voice Room.,・1000G,バリエ,掲示板,icon_stray_seek_2,非表示,-,107,<br>
-66,566,Black Request Form,Skilled adventurer,5,"Please carry out the request from Agonia the skilled
+65,565,Secret of the Voice Room,-,5,Please help the explorer Armada solve the mystery she is
+chasing after.,Explorer Armada,・Recruit the magician Relm as a party member ・Clea must be
+at least level 5.,-,Unraveling the secret of the Voice Room.,・1000G,バリエ,掲示板,icon_stray_seek_2,非表示,-,107,<br>
+66,566,Black Request Form,Skilled adventurer,5,Please carry out the request from Agonia the skilled
 adventurer and guild leader to dispose of the Dragons
-Tears and eliminate the adversaries.",Guild Leader Agonia,・Obtaining permission from Guild Master Agonia.,-,Disposal of Dragons Tears and elimination of enemies.,・Promotion to a Full-fledged Adventurer,ギルド,-,icon_guild_letter,非表示,-,36,<br>
-67,567,Request from the Imperial Army.,A seasoned adventurer.,6,"Please assist in subjugating the goblins that have appeared
+Tears and eliminate the adversaries.,Guild Leader Agonia,・Obtaining permission from Guild Master Agonia.,-,Disposal of Dragons Tears and elimination of enemies.,・Promotion to a Full-fledged Adventurer,ギルド,-,icon_guild_letter,非表示,-,36,<br>
+67,567,Request from the Imperial Army.,A seasoned adventurer.,6,Please assist in subjugating the goblins that have appeared
 in the Oros region as requested by General Atu of the
-Imperial Army a reliable adventurer.",General Atu,・Becoming a full-fledged adventurer.,-,Subjugation of Goblins in the Oros region.,・1000G,ギルド,-,icon_guild_fight_2,非表示,-,37,<br>
-68,568,Ogre extermination,-,-,"Please find and locate the ogre believed to be leading the
-goblins as requested by General Atu of the Imperial Army.",-,-,-,I found an ogre.,-,-,-,-,非表示,-,39,<br>
-69,569,Invitation from the Bulk Gang Goats,-,-,"Please visit the Bulk Brigades goat at the Bulk Brigades
-garrison and fulfill their request.",-,-,-,"Listen to the story from the leader of the Bulk Gang
-Goat.",・The right to accept quests in Valt.,-,-,-,非表示,-,41,<br>
-70,570,Tears of a droplet,-,4,"Please find the missing groom Acro who has disappeared
+Imperial Army a reliable adventurer.,General Atu,・Becoming a full-fledged adventurer.,-,Subjugation of Goblins in the Oros region.,・1000G,ギルド,-,icon_guild_fight_2,非表示,-,37,<br>
+68,568,Ogre extermination,-,-,Please find and locate the ogre believed to be leading the
+goblins as requested by General Atu of the Imperial Army.,-,-,-,I found an ogre.,-,-,-,-,非表示,-,39,<br>
+69,569,Invitation from the Bulk Gang Goats,-,-,Please visit the Bulk Brigades goat at the Bulk Brigades
+garrison and fulfill their request.,-,-,-,Listen to the story from the leader of the Bulk Gang
+Goat.,・The right to accept quests in Valt.,-,-,-,非表示,-,41,<br>
+70,570,Tears of a droplet,-,4,Please find the missing groom Acro who has disappeared
 from the bride Dakuris request. It is unavoidable to
-encounter an adult scene with Relm.",Bride Dakuri,"・Mage Relm has reached level of lewdness・Mage Relm has
+encounter an adult scene with Relm.,Bride Dakuri,・Mage Relm has reached level of lewdness・Mage Relm has
 unlocked the sexual technique [Inexperienced Body] [Fallen
-One]・I have completed the request from Priestess Sophia.",-,Find the warrior Acro.,・1000G,カノナス,掲示板,icon_adult_003_2,表示,リルム,131,<br>
-71,571,The best drink,-,3,"Please bid on the high-end wine that is being auctioned off
+One]・I have completed the request from Priestess Sophia.,-,Find the warrior Acro.,・1000G,カノナス,掲示板,icon_adult_003_2,表示,リルム,131,<br>
+71,571,The best drink,-,3,Please bid on the high-end wine that is being auctioned off
 as requested by Gentleman Kabaji. It is unavoidable to
-encounter Sophias adult scene.",Gentleman Cabbage,"・Clea the priestess has defeated a man with a knife tattoo
+encounter Sophias adult scene.,Gentleman Cabbage,・Clea the priestess has defeated a man with a knife tattoo
 while unleashing her lewd level ・Clea the priestess has
 unleashed her sexual skills [Submissive Woman] [Seductive
-Body]",-,Winning the bid for a high-quality wine.,・1000G,ミュコス,掲示板,icon_adult_004_2,表示,ソフィア,174,<br>
-72,572,Recipe for Happiness,-,4,"Please obtain the high-quality honey needed for the chef
+Body],-,Winning the bid for a high-quality wine.,・1000G,ミュコス,掲示板,icon_adult_004_2,表示,ソフィア,174,<br>
+72,572,Recipe for Happiness,-,4,Please obtain the high-quality honey needed for the chef
 Meris request. It is unavoidable that an adult scene with
-Nora will occur.",Chef Meri,"・Thief Noras condition ・Thief Noras lewdness level ・Thief
+Nora will occur.,Chef Meri,・Thief Noras condition ・Thief Noras lewdness level ・Thief
 Noras skill: Sense of smell is at level 2 ・Unlocking sexual
-techniques [Lust] and [Preference for Color]",-,Delivering high-quality honey.,・1000G,カンプス,掲示板,icon_adult_002_2,表示,ノラ,149,<br>
-73,573,Fools Balance,-,4,"Please safely escort the client from the general store Libra
+techniques [Lust] and [Preference for Color],-,Delivering high-quality honey.,・1000G,カンプス,掲示板,icon_adult_002_2,表示,ノラ,149,<br>
+73,573,Fools Balance,-,4,Please safely escort the client from the general store Libra
 to the Fotizona region. It is unavoidable that an adult
-scene with Clea will occur.",Libra the General Store,"・Clea has unlocked the skills [Skilled in Bed] and
-[Voluptuous Body]",-,Delivering the miscellaneous goods merchant Libra.,・1000G,ミュコス,掲示板,icon_adult_001_2,表示,クレア,173,<br>
-74,574,Skull Sea,Rookie adventurer,4,"Please protect the ship from the pirate group Pirata who
+scene with Clea will occur.,Libra the General Store,・Clea has unlocked the skills [Skilled in Bed] and
+[Voluptuous Body],-,Delivering the miscellaneous goods merchant Libra.,・1000G,ミュコス,掲示板,icon_adult_001_2,表示,クレア,173,<br>
+74,574,Skull Sea,Rookie adventurer,4,Please protect the ship from the pirate group Pirata who
 attacks the ships requested by Captain Agua a rookie
-adventurer.",Captain Agua,Clea is clearing a town with a harbor.,-,Subjugation of the Pirate Crew of Pirata,・1000・Heros Swimsuit,ギルド,-,icon_sab_guild_fight_2,非表示,-,22,<br>
-75,575,Undelivered package,-,3,"Please retrieve the package from the Sufiri Mine that hasnt
+adventurer.,Captain Agua,Clea is clearing a town with a harbor.,-,Subjugation of the Pirate Crew of Pirata,・1000・Heros Swimsuit,ギルド,-,icon_sab_guild_fight_2,非表示,-,22,<br>
+75,575,Undelivered package,-,3,Please retrieve the package from the Sufiri Mine that hasnt
 arrived as requested by the blacksmith Carufu. If Noras
-lewd level increases the adult scene will be avoided.",Blacksmith Caluf,"・Thief Nora has reached the non-punishment level. ・Thief
+lewd level increases the adult scene will be avoided.,Blacksmith Caluf,・Thief Nora has reached the non-punishment level. ・Thief
 Nora has reached the lewd level. ・She has unlocked the
 sexual technique [Spiders Thread]. ・She has cleared the
-recipe for happiness.",-,Delivering ore to the blacksmith Caluf.,・500G,バリエ,掲示板,icon_adult_002_2,表示,ノラ,110,<br>
-76,576,Temptation of the Coal Miner,-,,"Zuro the coal miner has a request. Please go to the Sufiri
+recipe for happiness.,-,Delivering ore to the blacksmith Caluf.,・500G,バリエ,掲示板,icon_adult_002_2,表示,ノラ,110,<br>
+76,576,Temptation of the Coal Miner,-,,Zuro the coal miner has a request. Please go to the Sufiri
 Mine and help him relieve his stress. You can accept the
 request multiple times until Noras lewdness level
-increases.",Zuro the Coal Miner,"・Thief Nora is not a virgin. ・Thief Nora has unlocked the
+increases.,Zuro the Coal Miner,・Thief Nora is not a virgin. ・Thief Nora has unlocked the
 skill [Spiders Thread]. ・She is clearing unreachable
-packages.",-,Lending my body to the coal miner Zuro.,・500G,バリエ,掲示板,icon_adult_002_loop_2,表示,ノラ,111,<br>
-77,577,Defeating the giant snake.,-,3,"Please defeat the giant snake that has appeared outside the
+packages.,-,Lending my body to the coal miner Zuro.,・500G,バリエ,掲示板,icon_adult_002_loop_2,表示,ノラ,111,<br>
+77,577,Defeating the giant snake.,-,3,Please defeat the giant snake that has appeared outside the
 house of the pharmacist Piton who has requested it. If
 Cleas lewdness level increases adult scenes will be
-avoided.",Pharmacist Piton,"Clea has unlocked the lewd level and the sexual technique
-[Burgeoning Sensuality].",-,Defeat the giant snake.,・500G,カノナス,掲示板,icon_adult_001_2,表示,クレア,129,<br>
-78,578,Rampaging giant snake,-,,"Please help me calm down the raging giant snake as requested
+avoided.,Pharmacist Piton,Clea has unlocked the lewd level and the sexual technique
+[Burgeoning Sensuality].,-,Defeat the giant snake.,・500G,カノナス,掲示板,icon_adult_001_2,表示,クレア,129,<br>
+78,578,Rampaging giant snake,-,,Please help me calm down the raging giant snake as requested
 by the pharmacist Piton. You can accept this request
-multiple times until Cleas lewdness level increases.",Pharmacist Piton,"・Clea has unlocked the lewd level skill [Burgeoning
-Sensuality] ・and has cleared the defeat of the giant snake.",-,Calming down the giant snake.,・500G,カノナス,掲示板,icon_adult_001_loop_2,表示,クレア,130,<br>
-79,579,Scattered Spiders,-,3,"Please find the missing book requested by the pursuer Opis.
+multiple times until Cleas lewdness level increases.,Pharmacist Piton,・Clea has unlocked the lewd level skill [Burgeoning
+Sensuality] ・and has cleared the defeat of the giant snake.,-,Calming down the giant snake.,・500G,カノナス,掲示板,icon_adult_001_loop_2,表示,クレア,130,<br>
+79,579,Scattered Spiders,-,3,Please find the missing book requested by the pursuer Opis.
 If Relms lewd level increases adult scenes will be
-avoided.",Pursuer Opis,"・The magician Relm has unlocked the lewd level ・sexual
-technique [Sorrowful Heart]",-,Retrieval of the missing book.,・500G,カンプス,掲示板,icon_adult_003_2,表示,リルム,150,<br>
-80,580,Brief rest,-,,"Request from Mountain Trader Terra Please go to Mountain
+avoided.,Pursuer Opis,・The magician Relm has unlocked the lewd level ・sexual
+technique [Sorrowful Heart],-,Retrieval of the missing book.,・500G,カンプス,掲示板,icon_adult_003_2,表示,リルム,150,<br>
+80,580,Brief rest,-,,Request from Mountain Trader Terra Please go to Mountain
 Trader Terras house and help her relax. You can accept the
 request multiple times until Relms lewdness level
-increases.",Terra the Swindler,"・The promiscuous level of the magician Relm has been
+increases.,Terra the Swindler,・The promiscuous level of the magician Relm has been
 unlocked and she has cleared the scattered spiders by using
-her sexual technique [Sorrowful Heart].",-,Helping Terra the swindler take a break.,・500G,カンプス,掲示板,icon_adult_003_loop_2,表示,リルム,151,<br>
-81,581,Hidden ulterior motive disguised as goodwill.,-,3,"Please deliver the donation to the virtuous priests from the
+her sexual technique [Sorrowful Heart].,-,Helping Terra the swindler take a break.,・500G,カンプス,掲示板,icon_adult_003_loop_2,表示,リルム,151,<br>
+81,581,Hidden ulterior motive disguised as goodwill.,-,3,Please deliver the donation to the virtuous priests from the
 Skio. If Sophias lewdness level increases the adult scenes
-will be avoided.",The Good Skio,"・The priestess Sophia has unlocked the lewd level ・sexual
-technique [Poisonous Flower].",-,Deliver all the donations.,・500G,オロス,掲示板,icon_adult_004_2,表示,ソフィア,189,<br>
-82,582,Outpouring of Goodwill,-,,"Please help me spread the goodwill of the benevolent Skio.
+will be avoided.,The Good Skio,・The priestess Sophia has unlocked the lewd level ・sexual
+technique [Poisonous Flower].,-,Deliver all the donations.,・500G,オロス,掲示板,icon_adult_004_2,表示,ソフィア,189,<br>
+82,582,Outpouring of Goodwill,-,,Please help me spread the goodwill of the benevolent Skio.
 You can accept this request multiple times until Sophias
-lewdness level increases.",The Good Skio,"・The priestess Sophia has unlocked the lewd level ・She has
+lewdness level increases.,The Good Skio,・The priestess Sophia has unlocked the lewd level ・She has
 unlocked the sexual technique [Poison Flower] ・She is
-clearing the good intentions with ulterior motives.",-,Emitting the benevolent intentions of the noble Skio.,・1000G,オロス,掲示板,icon_adult_004_loop_2,表示,ソフィア,190,<br>
-83,583,Evil Stone Magician,A seasoned adventurer.,6,"Please search for clues regarding the whereabouts of a
+clearing the good intentions with ulterior motives.,-,Emitting the benevolent intentions of the noble Skio.,・1000G,オロス,掲示板,icon_adult_004_loop_2,表示,ソフィア,190,<br>
+83,583,Evil Stone Magician,A seasoned adventurer.,6,Please search for clues regarding the whereabouts of a
 researcher who has gone missing on behalf of the Adventurer
-Support Request Magic Academy.",Magic Academy,・I have cleared the Ogre extermination.,-,Searching for clues related to the researchers case.,・1000G,ギルド,-,icon_sab_guild_seek_2,非表示,-,40,<br>
-84,584,Crown of Glory,-,5,"Please win the martial arts tournament and obtain the Crown
-of the Sturdy King as requested by the collector Renta.",Collector Renta,"・I have a letter of recommendation from General Atu ・I have
-cleared the Ogre extermination",-,Obtain the Crown of the Resilient King.,・1000G,ギルド,-,icon_sab_guild_collect_2,非表示,-,42,<br>
-85,585,Request from a Profligate Noble,A seasoned adventurer.,6,"Please solve the problem of Pilia a former senator and a
+Support Request Magic Academy.,Magic Academy,・I have cleared the Ogre extermination.,-,Searching for clues related to the researchers case.,・1000G,ギルド,-,icon_sab_guild_seek_2,非表示,-,40,<br>
+84,584,Crown of Glory,-,5,Please win the martial arts tournament and obtain the Crown
+of the Sturdy King as requested by the collector Renta.,Collector Renta,・I have a letter of recommendation from General Atu ・I have
+cleared the Ogre extermination,-,Obtain the Crown of the Resilient King.,・1000G,ギルド,-,icon_sab_guild_collect_2,非表示,-,42,<br>
+85,585,Request from a Profligate Noble,A seasoned adventurer.,6,Please solve the problem of Pilia a former senator and a
 friend of the extravagant nobleman Lloyd who is a genuine
-adventurer.",Lewd Aristocrat Luid,・I have cleared the Ogre subjugation.,-,Resolving the troubles of Senator Pilia from the Senate.,・1000G,ギルド,-,icon_guild_fight_2,非表示,-,43,<br>
-86,586,Under the iron mask.,-,6,"Please find the missing guard Cleos who has disappeared as
-requested by the guard drone.",Guard Drone,"Clea has cleared the advanced team battle at the Pizuma
-Arena.",-,Finding the father of the guard drone,・1000G,オロス,掲示板,icon_stray_arrest_2,非表示,-,196,<br>
-87,587,Overflow of Tears,A seasoned adventurer.,6,"Please accompany the demanding Celis for a day as requested
-by the adventurer extraordinaire Celis.",Celis of the Swift Wind,Clea has cleared a request from the Imperial Army.,-,Dealing with Celis selfishness in the swift wind.,-,ギルド,-,icon_guild_wings_2,非表示,-,38,<br>
-88,588,Adventure of the Mischievous Girl,A seasoned adventurer.,6,"Please complete the investigation of the unexplored Raki
+adventurer.,Lewd Aristocrat Luid,・I have cleared the Ogre subjugation.,-,Resolving the troubles of Senator Pilia from the Senate.,・1000G,ギルド,-,icon_guild_fight_2,非表示,-,43,<br>
+86,586,Under the iron mask.,-,6,Please find the missing guard Cleos who has disappeared as
+requested by the guard drone.,Guard Drone,Clea has cleared the advanced team battle at the Pizuma
+Arena.,-,Finding the father of the guard drone,・1000G,オロス,掲示板,icon_stray_arrest_2,非表示,-,196,<br>
+87,587,Overflow of Tears,A seasoned adventurer.,6,Please accompany the demanding Celis for a day as requested
+by the adventurer extraordinaire Celis.,Celis of the Swift Wind,Clea has cleared a request from the Imperial Army.,-,Dealing with Celis selfishness in the swift wind.,-,ギルド,-,icon_guild_wings_2,非表示,-,38,<br>
+88,588,Adventure of the Mischievous Girl,A seasoned adventurer.,6,Please complete the investigation of the unexplored Raki
 Ruins a request from the renowned adventurer support
-request digger Melos.",Melos the Hole Digger,"・Clea has cleared the request from the profligate noble
-・Clea has cleared the flood of tears",-,Conducting an investigation of the Rakio Ruins.,・1000G,ギルド,-,icon_guild_seek_2,非表示,-,44,<br>
-89,589,Investigation of the Rakio Ruins.,A seasoned adventurer.,6,"Please investigate the mysterious Rakiio Ruins a request
+request digger Melos.,Melos the Hole Digger,・Clea has cleared the request from the profligate noble
+・Clea has cleared the flood of tears,-,Conducting an investigation of the Rakio Ruins.,・1000G,ギルド,-,icon_guild_seek_2,非表示,-,44,<br>
+89,589,Investigation of the Rakio Ruins.,A seasoned adventurer.,6,Please investigate the mysterious Rakiio Ruins a request
 from the Adventurers Guild. This quest can be accepted
-multiple times.",Guild Leader Agonia,Clea has cleared the adventures of the mischievous girl.,-,Investigating the Rakio Ruins.,・100G,ギルド,-,icon_sab_guild_orbit_2,非表示,-,45,<br>
-90,590,Dragons Claw,-,-,"Please carry out the request from General Atu to subjugate
-the goblins near the village of Lippi.",-,-,-,Defeat the goblins near Lypi Village.,・1000G,-,-,-,非表示,-,46,<br>
-91,591,Allies,-,-,"Please gather allies to assist in the mission of subjugating
-the dragon as ordered by Guild Master Agonia.",-,-,-,Gathering allies to subdue the dragon.,-,-,-,-,非表示,-,50,<br>
-92,592,Allies,-,-,"Please gather as many allies as possible to join forces in
-slaying the dragon as ordered by Guild Master Agonia.",-,-,-,Gathering allies to defeat the dragon.,-,-,-,-,非表示,-,51,<br>
-93,593,Audience with Queen Caron,-,-,"Please meet with Queen Caron to report the mission of
-slaying the dragon as ordered by Guild Master Agonia.",-,-,-,Audience with Queen Caron,-,-,-,-,非表示,-,53,<br>
-94,594,Rascal in the pantry,-,1,"Please exterminate the large snake that escaped to the back
-of the pantry as requested by Housewife Zere.",Housewife Zere,-,-,Exterminate the giant snake.,・300G,バリエ,掲示板,icon_stray_hunt_1,非表示,-,108,<br>
-95,595,Organizing the pantry,-,1,"Please organize the overflowing pantry with the food
-supplies requested by the cook Sitos.",Chef Sitos,-,-,Organizing the pantry.,・300G,カノナス,掲示板,icon_stray_delivery_1,非表示,-,133,<br>
-96,596,Monster in the Well,-,3,"Please investigate the well where there has been a strange
-occurrence as requested by the farmer Amiro.",Farmer Amiro,・Thief Noras Skill: Superhuman Strength is Lv.2 or higher.,-,Conducting an investigation inside the well.,・500G,カンプス,掲示板,icon_stray_seek_1,非表示,-,152,<br>
-97,597,The big rat in the warehouse,-,3,"Please exterminate the large rat that has taken up residence
-in the warehouse as requested by the wanderer Cors.",Cors the Wanderer,"・Thief Noras skill: Superhuman strength is level 2 or
-higher.",-,Exterminate the large rat in the warehouse.,・500G,ミュコス,掲示板,icon_stray_hunt_1,非表示,-,175,<br>
-98,598,Organizing the Crystal Warehouse,-,4,"Director Staros request: Please help organize the crystal
-warehouse.",Director Staro,"・Clear the transportation of the giant crystal.・Thief Noras
-skill: Superhuman strength is level 3 or higher.",-,Organizing the Crystal Warehouse.,・1000G,オロス,掲示板,icon_stray_delivery_2,非表示,-,191,<br>
-99,599,Forest troublemaker,-,6,"Please eliminate the injured bear that the trap master
+multiple times.,Guild Leader Agonia,Clea has cleared the adventures of the mischievous girl.,-,Investigating the Rakio Ruins.,・100G,ギルド,-,icon_sab_guild_orbit_2,非表示,-,45,<br>
+90,590,Dragons Claw,-,-,Please carry out the request from General Atu to subjugate
+the goblins near the village of Lippi.,-,-,-,Defeat the goblins near Lypi Village.,・1000G,-,-,-,非表示,-,46,<br>
+91,591,Allies,-,-,Please gather allies to assist in the mission of subjugating
+the dragon as ordered by Guild Master Agonia.,-,-,-,Gathering allies to subdue the dragon.,-,-,-,-,非表示,-,50,<br>
+92,592,Allies,-,-,Please gather as many allies as possible to join forces in
+slaying the dragon as ordered by Guild Master Agonia.,-,-,-,Gathering allies to defeat the dragon.,-,-,-,-,非表示,-,51,<br>
+93,593,Audience with Queen Caron,-,-,Please meet with Queen Caron to report the mission of
+slaying the dragon as ordered by Guild Master Agonia.,-,-,-,Audience with Queen Caron,-,-,-,-,非表示,-,53,<br>
+94,594,Rascal in the pantry,-,1,Please exterminate the large snake that escaped to the back
+of the pantry as requested by Housewife Zere.,Housewife Zere,-,-,Exterminate the giant snake.,・300G,バリエ,掲示板,icon_stray_hunt_1,非表示,-,108,<br>
+95,595,Organizing the pantry,-,1,Please organize the overflowing pantry with the food
+supplies requested by the cook Sitos.,Chef Sitos,-,-,Organizing the pantry.,・300G,カノナス,掲示板,icon_stray_delivery_1,非表示,-,133,<br>
+96,596,Monster in the Well,-,3,Please investigate the well where there has been a strange
+occurrence as requested by the farmer Amiro.,Farmer Amiro,・Thief Noras Skill: Superhuman Strength is Lv.2 or higher.,-,Conducting an investigation inside the well.,・500G,カンプス,掲示板,icon_stray_seek_1,非表示,-,152,<br>
+97,597,The big rat in the warehouse,-,3,Please exterminate the large rat that has taken up residence
+in the warehouse as requested by the wanderer Cors.,Cors the Wanderer,・Thief Noras skill: Superhuman strength is level 2 or
+higher.,-,Exterminate the large rat in the warehouse.,・500G,ミュコス,掲示板,icon_stray_hunt_1,非表示,-,175,<br>
+98,598,Organizing the Crystal Warehouse,-,4,Director Staros request: Please help organize the crystal
+warehouse.,Director Staro,・Clear the transportation of the giant crystal.・Thief Noras
+skill: Superhuman strength is level 3 or higher.,-,Organizing the Crystal Warehouse.,・1000G,オロス,掲示板,icon_stray_delivery_2,非表示,-,191,<br>
+99,599,Forest troublemaker,-,6,Please eliminate the injured bear that the trap master
 Trampa failed to capture. If Noras lewdness level
-increases the adult scene will be avoided.",Trap Master Trampa,"・Thief Noras Lewdness Level is high. ・Thief Noras skill:
-Super Strength is Level 3 or higher.","・To perform a vaginal creampie you need at least the sexual
-technique [Seductive Woman Lv.0] or higher.",Extermination of a wounded bear.,・1000G,ヴァルト,掲示板,icon_adult_002_3,表示,ノラ,211,<br>
-100,600,Invitation of the Wild Child,-,1,"Please lend your body to the hunter Jägers request to go to
+increases the adult scene will be avoided.,Trap Master Trampa,・Thief Noras Lewdness Level is high. ・Thief Noras skill:
+Super Strength is Level 3 or higher.,・To perform a vaginal creampie you need at least the sexual
+technique [Seductive Woman Lv.0] or higher.,Extermination of a wounded bear.,・1000G,ヴァルト,掲示板,icon_adult_002_3,表示,ノラ,211,<br>
+100,600,Invitation of the Wild Child,-,1,Please lend your body to the hunter Jägers request to go to
 the hunting ground lake. You can accept the request multiple
-times until Noras lewdness level increases.",Hunter Jaeger,"・Thief Nora has cleared the promiscuous Lv.・Forest
-troublemaker.","・To perform a vaginal creampie you need at least the sexual
-technique [Seductive Woman Lv.0] or higher.",Lending my body to the hunter Jaeger.,・500G,ヴァルト,掲示板,icon_adult_002_loop_3,表示,ノラ,212,<br>
-101,601,Memento coin,-,1,"Please find the coin that I dropped which was requested by
-the coal miner Philo.",Philo the coal miner.,-,-,Find the coin.,・300G,バリエ,掲示板,icon_stray_collect_1,非表示,-,109,<br>
-102,602,The Little Assassin of the Grasslands,-,2,"Please perform the extermination of the poisonous snakes
-that are in the farmer Zurepanis request farmland.",Farmer Zurepani,-,-,Extermination of Poisonous Snakes,・500G,カンプス,掲示板,icon_stray_hunt_2,非表示,-,153,<br>
-103,603,Maids lost item.,-,4,"Please find the pearl necklace that the master dropped in
-the desert as requested by Maid Niihi.",Maids Duty," ・Cleas skill: Slashing is at level 2 or higher. ・Mage
-Relms skill: Detection is at level 2 or higher.",-,Searching for a pearl necklace.,・800G,カノナス,掲示板,icon_stray_collect_2,非表示,-,132,<br>
-104,604,Cleaning the cargo ship,-,4,Please find the ivory cup that Captain Heepar has lost.,Captain Heeparu,"・Cleas skill: Slashing is at level 2 or higher ・Thief
-Noras skill: Sense of smell is at level 2 or higher",-,Searching for the Ivory Chalice.,・800G,ミュコス,掲示板,icon_stray_collect_2,非表示,-,176,<br>
-105,605,Melancholic Alchemist,-,3,"Clea please find the herb Oradorus Eye which is necessary
+times until Noras lewdness level increases.,Hunter Jaeger,・Thief Nora has cleared the promiscuous Lv.・Forest
+troublemaker.,・To perform a vaginal creampie you need at least the sexual
+technique [Seductive Woman Lv.0] or higher.,Lending my body to the hunter Jaeger.,・500G,ヴァルト,掲示板,icon_adult_002_loop_3,表示,ノラ,212,<br>
+101,601,Memento coin,-,1,Please find the coin that I dropped which was requested by
+the coal miner Philo.,Philo the coal miner.,-,-,Find the coin.,・300G,バリエ,掲示板,icon_stray_collect_1,非表示,-,109,<br>
+102,602,The Little Assassin of the Grasslands,-,2,Please perform the extermination of the poisonous snakes
+that are in the farmer Zurepanis request farmland.,Farmer Zurepani,-,-,Extermination of Poisonous Snakes,・500G,カンプス,掲示板,icon_stray_hunt_2,非表示,-,153,<br>
+103,603,Maids lost item.,-,4,Please find the pearl necklace that the master dropped in
+the desert as requested by Maid Niihi.,Maids Duty, ・Cleas skill: Slashing is at level 2 or higher. ・Mage
+Relms skill: Detection is at level 2 or higher.,-,Searching for a pearl necklace.,・800G,カノナス,掲示板,icon_stray_collect_2,非表示,-,132,<br>
+104,604,Cleaning the cargo ship,-,4,Please find the ivory cup that Captain Heepar has lost.,Captain Heeparu,・Cleas skill: Slashing is at level 2 or higher ・Thief
+Noras skill: Sense of smell is at level 2 or higher,-,Searching for the Ivory Chalice.,・800G,ミュコス,掲示板,icon_stray_collect_2,非表示,-,176,<br>
+105,605,Melancholic Alchemist,-,3,Clea please find the herb Oradorus Eye which is necessary
 for the request from the alchemist Miti. If Cleas lewdness
-level increases adult scenes will be avoided.",Alchemist Miti,"・Cleas lewdness level is high. ・Cleas skill: Slashing is
-level 3 or higher.","・To perform a vaginal creampie you need at least the sexual
-technique [Enchanting Eyes Lv.0].",Searching for the eyes of the herb Oradoru.,・1000G,オロス,掲示板,icon_adult_001_3,表示,クレア,192,<br>
-106,606,A suspicious alchemist,-,1,"Please prove that the herb Oradorus eyes which I delivered
+level increases adult scenes will be avoided.,Alchemist Miti,・Cleas lewdness level is high. ・Cleas skill: Slashing is
+level 3 or higher.,・To perform a vaginal creampie you need at least the sexual
+technique [Enchanting Eyes Lv.0].,Searching for the eyes of the herb Oradoru.,・1000G,オロス,掲示板,icon_adult_001_3,表示,クレア,192,<br>
+106,606,A suspicious alchemist,-,1,Please prove that the herb Oradorus eyes which I delivered
 as a request from the alchemist Miti are genuine. You can
 accept this request multiple times until Cleas lewdness
-level increases.",Alchemist Miti,Clea has cleared the lewd Lv. and melancholic alchemist.,"・To perform a vaginal creampie you need at least the sexual
-technique [Enchanting Eyes Lv.0].",The herb Oradorus eyes prove that they are real.,・800G,オロス,掲示板,icon_adult_001_loop_3,表示,クレア,193,<br>
-107,607,Fools Grimoire,-,6,"Please retrieve the special crystal which is the
+level increases.,Alchemist Miti,Clea has cleared the lewd Lv. and melancholic alchemist.,・To perform a vaginal creampie you need at least the sexual
+technique [Enchanting Eyes Lv.0].,The herb Oradorus eyes prove that they are real.,・800G,オロス,掲示板,icon_adult_001_loop_3,表示,クレア,193,<br>
+107,607,Fools Grimoire,-,6,Please retrieve the special crystal which is the
 culmination of the research request from the hermit Posdey.
 If Relms lewd level increases adult scenes will be
-avoided.",Hermit Pose Day,"・Mage Relms promiscuity level is 3 or higher. ・Mage Relms
+avoided.,Hermit Pose Day,・Mage Relms promiscuity level is 3 or higher. ・Mage Relms
 skill Detection is level 3 or higher. ・Mage Relms skill
 Decryption is level 3 or higher. ・Cleas skill Slash is
-level 3 or higher.",-,Retrieve the special crystal.,The Fools Grimoire,ヴァルト,掲示板,icon_adult_003_3,表示,リルム,214,<br>
-108,608,Skeleton Ship,-,５,"Please return the Crown of the Dead to me on behalf of
+level 3 or higher.,-,Retrieve the special crystal.,The Fools Grimoire,ヴァルト,掲示板,icon_adult_003_3,表示,リルム,214,<br>
+108,608,Skeleton Ship,-,５,Please return the Crown of the Dead to me on behalf of
 Meleena the captain of the skilled adventurer pirate crew
-the Pirata Pirates.",Captain Melena of the Pirate Crew Pirata,"・Clear the Skull Sea ・Clear the Black Powder ・Mage Relms
-skill: Deciphering is level 2 or higher.",-,Return the Crown of the Dead,・2000・Wise Mans Swimsuit,ギルド,-,icon_sab_guild_delivery_2,非表示,-,23,<br>
-109,609,Reunion,-,-,"Please subdue the mutated bear that has appeared in the
-forest of Alcuda as ordered by Guild Master Agonia.",Guild Leader Agonia,-,-,Defeat the bear.,-,-,-,-,非表示,-,54,<br>
-110,610,Reclaim the place of relaxation.,Experienced adventurer,7,"Please assist in the construction of a tavern in the village
+the Pirata Pirates.,Captain Melena of the Pirate Crew Pirata,・Clear the Skull Sea ・Clear the Black Powder ・Mage Relms
+skill: Deciphering is level 2 or higher.,-,Return the Crown of the Dead,・2000・Wise Mans Swimsuit,ギルド,-,icon_sab_guild_delivery_2,非表示,-,23,<br>
+109,609,Reunion,-,-,Please subdue the mutated bear that has appeared in the
+forest of Alcuda as ordered by Guild Master Agonia.,Guild Leader Agonia,-,-,Defeat the bear.,-,-,-,-,非表示,-,54,<br>
+110,610,Reclaim the place of relaxation.,Experienced adventurer,7,Please assist in the construction of a tavern in the village
 of Irini as requested by the skilled adventurer-supporting
-priestess Sophia.",Priestess Sophia,・Cleas skill: Slashing is level 2 or higher.,-,Helping with the construction of a tavern.,-,ギルド,-,icon_guild_collect_3,非表示,-,55,<br>
-111,611,Passion for the Ancients,Temporary Intermediate Member,1,"Please deliver the ancient coin that I found to Paro the
-archaeologist who is a temporary intermediate member.",Archaeologist Paryo,-,-,Delivering ancient coins.,・300G,ギルド,-,icon_sab_guild_delivery_1,非表示,-,5,<br>
-112,612,Plea to the Archmage,Experienced adventurer,7,"Please persuade the Archmage on behalf of skilled adventurer
-and request mage Relm to fulfill Relms dream.",Mage Relm,-,-,Persuading the Archmage.,-,ギルド,-,icon_guild_seek_3,非表示,-,57,<br>
-113,613,The whereabouts of the Emma Thief Guild.,Experienced adventurer,7,"Please find the clues to the Emma Thief Gangs whereabouts
+priestess Sophia.,Priestess Sophia,・Cleas skill: Slashing is level 2 or higher.,-,Helping with the construction of a tavern.,-,ギルド,-,icon_guild_collect_3,非表示,-,55,<br>
+111,611,Passion for the Ancients,Temporary Intermediate Member,1,Please deliver the ancient coin that I found to Paro the
+archaeologist who is a temporary intermediate member.,Archaeologist Paryo,-,-,Delivering ancient coins.,・300G,ギルド,-,icon_sab_guild_delivery_1,非表示,-,5,<br>
+112,612,Plea to the Archmage,Experienced adventurer,7,Please persuade the Archmage on behalf of skilled adventurer
+and request mage Relm to fulfill Relms dream.,Mage Relm,-,-,Persuading the Archmage.,-,ギルド,-,icon_guild_seek_3,非表示,-,57,<br>
+113,613,The whereabouts of the Emma Thief Guild.,Experienced adventurer,7,Please find the clues to the Emma Thief Gangs whereabouts
 in the request from skilled adventurer and informant thief
-Nora.",Thief Nora,-,-,Searching for clues about the Emma Thief Gang.,-,ギルド,-,icon_guild_seek_3,非表示,-,56,<br>
-114,614,Eternal Star,Experienced adventurer,7,"Please unravel the secret of the star-shaped magic circle in
+Nora.,Thief Nora,-,-,Searching for clues about the Emma Thief Gang.,-,ギルド,-,icon_guild_seek_3,非表示,-,56,<br>
+114,614,Eternal Star,Experienced adventurer,7,Please unravel the secret of the star-shaped magic circle in
 the room of the request door of the experienced adventurer
-and explorer Armada.",Explorer Armada,"・Clear the secret of the Voice Room ・Clear the reunion ・Mage
-Relms skill: Deciphering is level 2 or higher",-,Solve the secret of the star-shaped rooms door.,・2000G,ギルド,-,icon_sab_guild_infiltrate_3,非表示,-,58,<br>
-115,615,Eternal Square,-,7,"Please unravel the secret of the square-shaped magic circle
-in the room of the explorer Armadas request door.",Explorer Armada,"・Clear the Eternal Star・Mage Relms skill: Deciphering is
-level 3 or higher.",-,Solve the secret of the square-shaped room behind the door.,・2000G,バリエ,掲示板,icon_stray_infiltrate_3,非表示,-,120,<br>
-116,616,Proposal from Noble Ect,Experienced adventurer,1,"Please discuss the request from the skilled adventurer
-Noble Oricto regarding the explorer Armada.",Noble Ect,Clea has cleared the Eternal Square.,-,Im going to meet the noble Ect.,-,ギルド,-,icon_sab_guild_seek_1,非表示,-,59,<br>
-117,617,Eternal Circle,-,8,"Please unravel the secret of the circular magic circle in
-the room of the explorer Armadas request door.",Explorer Armada,"・Clea cleared the proposal from noble Ect・Mage Relms skill:
-Decipher is level 4 or higher.",-,Solve the secret of the round-shaped rooms door.,・2000G,バリエ,掲示板,icon_stray_infiltrate_3,非表示,-,121,<br>
-118,618,Strong and ephemeral beings.,-,8,"Please accompany me to the magic circle that appeared in the
-room of the explorer Armadas request door.",Explorer Armada,-,-,Unraveling the secret of the room behind the door.,-,-,-,-,非表示,-,122,<br>
-119,619,Shrine Maiden of the Three Goddesses,-,-,"Please head towards the Atomis Temple for a request from the
-skilled adventurer liaison High Priest Laoco.",High Priest Laoco,"・I have cleared Reclaiming the Resting Place・I have
+and explorer Armada.,Explorer Armada,・Clear the secret of the Voice Room ・Clear the reunion ・Mage
+Relms skill: Deciphering is level 2 or higher,-,Solve the secret of the star-shaped rooms door.,・2000G,ギルド,-,icon_sab_guild_infiltrate_3,非表示,-,58,<br>
+115,615,Eternal Square,-,7,Please unravel the secret of the square-shaped magic circle
+in the room of the explorer Armadas request door.,Explorer Armada,・Clear the Eternal Star・Mage Relms skill: Deciphering is
+level 3 or higher.,-,Solve the secret of the square-shaped room behind the door.,・2000G,バリエ,掲示板,icon_stray_infiltrate_3,非表示,-,120,<br>
+116,616,Proposal from Noble Ect,Experienced adventurer,1,Please discuss the request from the skilled adventurer
+Noble Oricto regarding the explorer Armada.,Noble Ect,Clea has cleared the Eternal Square.,-,Im going to meet the noble Ect.,-,ギルド,-,icon_sab_guild_seek_1,非表示,-,59,<br>
+117,617,Eternal Circle,-,8,Please unravel the secret of the circular magic circle in
+the room of the explorer Armadas request door.,Explorer Armada,・Clea cleared the proposal from noble Ect・Mage Relms skill:
+Decipher is level 4 or higher.,-,Solve the secret of the round-shaped rooms door.,・2000G,バリエ,掲示板,icon_stray_infiltrate_3,非表示,-,121,<br>
+118,618,Strong and ephemeral beings.,-,8,Please accompany me to the magic circle that appeared in the
+room of the explorer Armadas request door.,Explorer Armada,-,-,Unraveling the secret of the room behind the door.,-,-,-,-,非表示,-,122,<br>
+119,619,Shrine Maiden of the Three Goddesses,-,-,Please head towards the Atomis Temple for a request from the
+skilled adventurer liaison High Priest Laoco.,High Priest Laoco,・I have cleared Reclaiming the Resting Place・I have
 cleared The Whereabouts of the Emma Thieves・I have cleared
-Plea to the Archmage",-,Im going to meet the High Priest Laoco.,-,-,-,-,非表示,-,62,<br>
-120,620,Our new home.,Experienced adventurer,7,"Please assist in the request from the skilled adventurer
+Plea to the Archmage,-,Im going to meet the High Priest Laoco.,-,-,-,-,非表示,-,62,<br>
+120,620,Our new home.,Experienced adventurer,7,Please assist in the request from the skilled adventurer
 support request farmer Gala to open a tavern in the village
-of Irini.",Farmer Gala,"・Clea has cleared the Heros Song ・Clea has cleared the
-Shrine Maiden of the Three Goddesses",-,Opening a tavern in the village of Irini.,・1000G,ギルド,-,icon_guild_collect_3,非表示,-,63,<br>
+of Irini.,Farmer Gala,・Clea has cleared the Heros Song ・Clea has cleared the
+Shrine Maiden of the Three Goddesses,-,Opening a tavern in the village of Irini.,・1000G,ギルド,-,icon_guild_collect_3,非表示,-,63,<br>
 121,621,Closed Eyes,Skilled Adventurer,7,◯ Skilled Adventurer Support Request ◯
 －・－・－　－・－・－　・・　－・－・
 －・－・・　・－・－－　・・・－　－－－,－・－－－　－・・－,・I have cleared the Shrine Maidens of the Three Goddesses.,-,Find the Client,-,ギルド,-,icon_guild_seek_3,非表示,-,65,<br>
-122,622,Three-legged hawk,Experienced adventurer,7,"Please go to the designated location specified by the
+122,622,Three-legged hawk,Experienced adventurer,7,Please go to the designated location specified by the
 skilled adventurer support researcher Dokusa and confirm
-the details of the request.",Researcher Dokusa,Clea is serving as the priestess of the Three Goddesses.,-,Searching for the magician Parad.,・1000・Walnut (Small) with increased magic defense x3,ギルド,-,icon_guild_seek_3,非表示,-,64,<br>
-123,623,Examiner Clea,Experienced adventurer,8,"Please conduct the final examination for the prospective
+the details of the request.,Researcher Dokusa,Clea is serving as the priestess of the Three Goddesses.,-,Searching for the magician Parad.,・1000・Walnut (Small) with increased magic defense x3,ギルド,-,icon_guild_seek_3,非表示,-,64,<br>
+123,623,Examiner Clea,Experienced adventurer,8,Please conduct the final examination for the prospective
 member of the Adventurers Guild as instructed by Agonia
 the guild master who specializes in handling experienced
-adventurers.",Guild Leader Agonia,"・Clearing her closed eyes・Clearing our new home・Clearing the
-three-legged hawk",-,Fulfilling the duties as an examiner.,-,ギルド,-,icon_guild_wings_3,非表示,-,71,<br>
-124,624,Devils Whisper,Experienced adventurer,8,"Please subdue the thieves who have fled to the treacherous
+adventurers.,Guild Leader Agonia,・Clearing her closed eyes・Clearing our new home・Clearing the
+three-legged hawk,-,Fulfilling the duties as an examiner.,-,ギルド,-,icon_guild_wings_3,非表示,-,71,<br>
+124,624,Devils Whisper,Experienced adventurer,8,Please subdue the thieves who have fled to the treacherous
 marshlands as requested by General Atu a skilled
-adventurer.",General Atu,Clea has cleared the examiner.,-,Subjugate the thieves who fled to the marsh of great falls.,-,ギルド,-,icon_guild_fight_3,非表示,-,72,<br>
-125,625,Troubled Pharmacist,-,3,"Please solve the troubles that the pharmacist Santana is
+adventurer.,General Atu,Clea has cleared the examiner.,-,Subjugate the thieves who fled to the marsh of great falls.,-,ギルド,-,icon_guild_fight_3,非表示,-,72,<br>
+125,625,Troubled Pharmacist,-,3,Please solve the troubles that the pharmacist Santana is
 facing. If Relms lewdness level increases adult scenes
-will be avoided.",Pharmacist Santana,"・The magician Relm has unlocked the lewd level ・sexual skill
-[exhibitionist]",-,Resolving Pharmacist Santanas worries.,・1000G,オロス,掲示板,icon_adult_003_3,表示,リルム,197,<br>
-126,626,Unreasonable request,-,,"Please take care of the troublesome prescription work on
+will be avoided.,Pharmacist Santana,・The magician Relm has unlocked the lewd level ・sexual skill
+[exhibitionist],-,Resolving Pharmacist Santanas worries.,・1000G,オロス,掲示板,icon_adult_003_3,表示,リルム,197,<br>
+126,626,Unreasonable request,-,,Please take care of the troublesome prescription work on
 behalf of Pharmacist Santana. You can receive the request
-multiple times until Relms lewdness level increases.",Pharmacist Santana,"・The promiscuous level of the magician Relm has cleared the
-troubled pharmacist.",-,Resolving Pharmacist Santanas worries.,・1000G,オロス,掲示板,icon_adult_003_loop_3,表示,リルム,198,<br>
-127,627,The True Identity of the Jet Black,Experienced adventurer,8,"Please resolve the incident of the disappearance of the
+multiple times until Relms lewdness level increases.,Pharmacist Santana,・The promiscuous level of the magician Relm has cleared the
+troubled pharmacist.,-,Resolving Pharmacist Santanas worries.,・1000G,オロス,掲示板,icon_adult_003_loop_3,表示,リルム,198,<br>
+127,627,The True Identity of the Jet Black,Experienced adventurer,8,Please resolve the incident of the disappearance of the
 magician as requested by the skilled adventurer support
-request from the Archmage.",Archmage,Clea has cleared the examiner.,-,Solve the disappearance of the magician case.,・2000G,ギルド,-,icon_guild_fight_3,非表示,-,73,<br>
-128,628,Emmas Thief Gang Encirclement,-,-,"Please resolve the conflict between the skilled adventurer
+request from the Archmage.,Archmage,Clea has cleared the examiner.,-,Solve the disappearance of the magician case.,・2000G,ギルド,-,icon_guild_fight_3,非表示,-,73,<br>
+128,628,Emmas Thief Gang Encirclement,-,-,Please resolve the conflict between the skilled adventurer
 and the noble Pido as requested by a member of the Emma
-Thief Guild. Help rescue the comrades of the thief guild.",Emma member of the Thief Guild.,"・Clea has cleared the whispers of the demon・Clea has cleared
-the true identity of the pitch black.",-,Resolving the conflict with the noble Pido.,-,-,-,-,非表示,-,76,<br>
-129,629,The end of the dream.,Experienced adventurer,8,"Please obtain the final ingredient and complete the special
+Thief Guild. Help rescue the comrades of the thief guild.,Emma member of the Thief Guild.,・Clea has cleared the whispers of the demon・Clea has cleared
+the true identity of the pitch black.,-,Resolving the conflict with the noble Pido.,-,-,-,-,非表示,-,76,<br>
+129,629,The end of the dream.,Experienced adventurer,8,Please obtain the final ingredient and complete the special
 grimoire for the request from the skilled adventurer and
-mage Relm.",Mage Relm,・Clea has cleared the Emma Thief Gang Encirclement,-,Complete the magic book.,-,ギルド,-,icon_guild_collect_3,非表示,-,79,<br>
-130,630,Auction with a Secret,Experienced adventurer,8,"Please bid on the living statue that has been put up for
+mage Relm.,Mage Relm,・Clea has cleared the Emma Thief Gang Encirclement,-,Complete the magic book.,-,ギルド,-,icon_guild_collect_3,非表示,-,79,<br>
+130,630,Auction with a Secret,Experienced adventurer,8,Please bid on the living statue that has been put up for
 auction as requested by the skilled adventurer support
-researcher Dokusa.",Researcher Dokusa,"・I have cleared the Evil Stone Mage ・I have cleared the
-examiner Clea",-,Collecting living statues.,・2000G,ギルド,-,icon_guild_collect_3,非表示,-,74,<br>
-131,631,One who houses a dragon,Experienced adventurer,8,"Please convince Prince Lex to become king as requested by
-the skilled adventurer and priestess Sophia.",Priestess Sophia,Clea has cleared the end of the dream.,-,Persuade Prince Lex.,-,ギルド,-,icon_guild_delivery_3,非表示,-,80,<br>
-132,632,Golden Needle,-,-,"Please find a way to reverse the petrification of the
+researcher Dokusa.,Researcher Dokusa,・I have cleared the Evil Stone Mage ・I have cleared the
+examiner Clea,-,Collecting living statues.,・2000G,ギルド,-,icon_guild_collect_3,非表示,-,74,<br>
+131,631,One who houses a dragon,Experienced adventurer,8,Please convince Prince Lex to become king as requested by
+the skilled adventurer and priestess Sophia.,Priestess Sophia,Clea has cleared the end of the dream.,-,Persuade Prince Lex.,-,ギルド,-,icon_guild_delivery_3,非表示,-,80,<br>
+132,632,Golden Needle,-,-,Please find a way to reverse the petrification of the
 researcher Mono who received a request from the merchant
-Strah.",Merchant Strah,"Automatically accept bids in the Auction with special
-conditions 1-4.",-,Remove petrification from the researcher-type character.,・2000G,-,-,-,非表示,-,75,<br>
-133,633,Assistant inside the crystal.,-,8,"Please find the missing researcher Albus who disappeared
-after receiving a request from researcher Dokusa.",Researcher Dokusa,"・Clea cleared the auction with a secret ・Clea cleared the
+Strah.,Merchant Strah,Automatically accept bids in the Auction with special
+conditions 1-4.,-,Remove petrification from the researcher-type character.,・2000G,-,-,-,非表示,-,75,<br>
+133,633,Assistant inside the crystal.,-,8,Please find the missing researcher Albus who disappeared
+after receiving a request from researcher Dokusa.,Researcher Dokusa,・Clea cleared the auction with a secret ・Clea cleared the
 end of the dream ・The magician Relm acquired the skill [Void
-+2] ・The magician Relm acquired the skill [Zenith Solitude]",-,Searching for the researcher Albus.,・2000G,カノナス,掲示板,icon_stray_seek_3,非表示,-,144,<br>
-134,634,Path to the King,-,-,"Please come to a conclusion on whether to support Prince Lex
++2] ・The magician Relm acquired the skill [Zenith Solitude],-,Searching for the researcher Albus.,・2000G,カノナス,掲示板,icon_stray_seek_3,非表示,-,144,<br>
+134,634,Path to the King,-,-,Please come to a conclusion on whether to support Prince Lex
 or Queen Consort within the Adventurers Guild in response
-to a request from the skilled adventurer.",Prince Lex,Clea has become the one who houses the dragon.,-,Responding to Prince Lexs request.,-,-,-,-,非表示,-,81,<br>
-135,635,Broken Balance,-,-,"Please provide escort for me when meeting with Senator
+to a request from the skilled adventurer.,Prince Lex,Clea has become the one who houses the dragon.,-,Responding to Prince Lexs request.,-,-,-,-,非表示,-,81,<br>
+135,635,Broken Balance,-,-,Please provide escort for me when meeting with Senator
 Pilia who is the client of Prince Lex a skilled
-adventurer.",Prince Lex,Automatically accepted in The Path to the King 1-5.,-,I will serve as Prince Lexs bodyguard.,-,-,-,-,非表示,-,82,<br>
-136,636,Magic mirror,-,3,"Please find the magic mirror said to have been created by an
-ancient civilization as requested by my boyfriend Fal.",Boyfriend Fal.,"・The thief Nora has unlocked the lewd level ・sexual
+adventurer.,Prince Lex,Automatically accepted in The Path to the King 1-5.,-,I will serve as Prince Lexs bodyguard.,-,-,-,-,非表示,-,82,<br>
+136,636,Magic mirror,-,3,Please find the magic mirror said to have been created by an
+ancient civilization as requested by my boyfriend Fal.,Boyfriend Fal.,・The thief Nora has unlocked the lewd level ・sexual
 technique [Desires Fire] ・and has cleared the passion for
-the ancient times.",-,Finding the magic mirror.,・1000G,オロス,掲示板,icon_adult_002_3,表示,ノラ,194,<br>
-137,637,Substitute for the mirror,-,3,"Please act as a substitute for the magic mirror in the
+the ancient times.,-,Finding the magic mirror.,・1000G,オロス,掲示板,icon_adult_002_3,表示,ノラ,194,<br>
+137,637,Substitute for the mirror,-,3,Please act as a substitute for the magic mirror in the
 request from boyfriend Fal and witness the love between the
 two. You can accept the request multiple times until Noras
-lewdness level increases.",Boyfriend Fal.,"・The thief Nora has unlocked the lewd level ・She has cleared
+lewdness level increases.,Boyfriend Fal.,・The thief Nora has unlocked the lewd level ・She has cleared
 the magic mirror and unlocked the sexual technique [Desires
-Fire]",-,It can serve as a substitute for the magic mirror.,・1000G,オロス,掲示板,icon_adult_002_loop_3,表示,ノラ,195,<br>
-138,638,New Shrine Maiden,-,1,"Please accompany me for a day to fulfill a request from the
-Voice Priestess Phoni for her hospitality.",Voice Priestess Phoni,"・Clea is clearing the area under the iron mask ・She is also
-clearing the strong and fleeting beings.",-,Receiving the hospitality of the Voice Priestess Phoni.,-,ギルド,-,icon_sab_guild_delivery_1,非表示,-,60,<br>
-139,639,Thorns of the Black Rose,-,6,"Please rescue the crew members of the Pirata Pirates who
+Fire],-,It can serve as a substitute for the magic mirror.,・1000G,オロス,掲示板,icon_adult_002_loop_3,表示,ノラ,195,<br>
+138,638,New Shrine Maiden,-,1,Please accompany me for a day to fulfill a request from the
+Voice Priestess Phoni for her hospitality.,Voice Priestess Phoni,・Clea is clearing the area under the iron mask ・She is also
+clearing the strong and fleeting beings.,-,Receiving the hospitality of the Voice Priestess Phoni.,-,ギルド,-,icon_sab_guild_delivery_1,非表示,-,60,<br>
+139,639,Thorns of the Black Rose,-,6,Please rescue the crew members of the Pirata Pirates who
 have not returned from the prostitution island. This is a
 request from Meleena the captain of the elite adventurer
-support request.",Captain Melena of the Pirate Crew Pirata,"・Clearing the Dragons Claw ・Clearing the man with the knife
-tattoo ・Clearing the skeleton ship",-,Rescue the crew members of the Pirate Ship Pilata.,・3000・Fools Water・Allows the use of Prostitution Island.,ギルド,-,icon_sab_guild_collect_2,非表示,-,47,<br>
-140,640,Red coral reef,-,-,"Please dye the incomplete swimsuit crimson at the Red Coral
+support request.,Captain Melena of the Pirate Crew Pirata,・Clearing the Dragons Claw ・Clearing the man with the knife
+tattoo ・Clearing the skeleton ship,-,Rescue the crew members of the Pirate Ship Pilata.,・3000・Fools Water・Allows the use of Prostitution Island.,ギルド,-,icon_sab_guild_collect_2,非表示,-,47,<br>
+140,640,Red coral reef,-,-,Please dye the incomplete swimsuit crimson at the Red Coral
 Reef a request from the elite adventurer support request
-tailor Nihil.",Tailor Nil,Automatically accept orders for Black Rose Thorn 1-8.,-,Dyeing an incomplete red swimsuit,・Heros swimsuit,-,-,-,非表示,-,48,<br>
-141,641,The dream of success and advancement in life.,-,7,"Please find and introduce a strong warrior as requested by
+tailor Nihil.,Tailor Nil,Automatically accept orders for Black Rose Thorn 1-8.,-,Dyeing an incomplete red swimsuit,・Heros swimsuit,-,-,-,非表示,-,48,<br>
+141,641,The dream of success and advancement in life.,-,7,Please find and introduce a strong warrior as requested by
 the bounty hunter Savan. There seems to be an unsettling
-aura from this request letter...",Bounty Hunter Savan,・Clear the path to the king・Cleas AAA duel is Lv.4.,-,Introducing a strong warrior to a male broker.,・3000G,ヴァルト,掲示板,icon_stray_delivery_3,非表示,-,221,<br>
-142,642,Cocky boy,-,1,"Please tell Amel the son of the noble Etizo an adventure
-story as requested by Etizo.",Noble Etizo,Clea has cleared the whereabouts of the Emma Thief Guild.,-,Telling the adventure story to the young master Amel.,Kurumi (Medium) with a MP increase of 3000.,ヴァルト,掲示板,icon_stray_delivery_1,非表示,-,218,<br>
-143,643,Memories of a Boys Youth,-,7,"Please help me come up with a plan to reform Amel the son
+aura from this request letter...,Bounty Hunter Savan,・Clear the path to the king・Cleas AAA duel is Lv.4.,-,Introducing a strong warrior to a male broker.,・3000G,ヴァルト,掲示板,icon_stray_delivery_3,非表示,-,221,<br>
+142,642,Cocky boy,-,1,Please tell Amel the son of the noble Etizo an adventure
+story as requested by Etizo.,Noble Etizo,Clea has cleared the whereabouts of the Emma Thief Guild.,-,Telling the adventure story to the young master Amel.,Kurumi (Medium) with a MP increase of 3000.,ヴァルト,掲示板,icon_stray_delivery_1,非表示,-,218,<br>
+143,643,Memories of a Boys Youth,-,7,Please help me come up with a plan to reform Amel the son
 of the noble Etizo who has requested it. It is unavoidable
-to encounter adult scenes involving Nora.",Noble Etizo,"・The promiscuous thief Nora with her lewd level and sexual
+to encounter adult scenes involving Nora.,Noble Etizo,・The promiscuous thief Nora with her lewd level and sexual
 skills [Predator Lv.3] and [Appetite Lv.3] is dominating
-the cheeky young boy Clea.",-,To reform the young heir Amel.,・5000G,ヴァルト,掲示板,icon_adult_002_4,表示,ノラ,219,<br>
-144,644,Predator of the Prostitution Island,-,3,"Please help with the coward countermeasures for the request
+the cheeky young boy Clea.,-,To reform the young heir Amel.,・5000G,ヴァルト,掲示板,icon_adult_002_4,表示,ノラ,219,<br>
+144,644,Predator of the Prostitution Island,-,3,Please help with the coward countermeasures for the request
 from the receptionist Reina to come to the prostitution
 island. If Noras lewdness level increases adult scenes
-will be avoided.",Receptionist Reina,"・Thief Nora has unlocked the lewd level ・sexual technique
+will be avoided.,Receptionist Reina,・Thief Nora has unlocked the lewd level ・sexual technique
 [tongue licking] ・and has cleared the thorns of the black
-rose.",-,I will listen to Receptionist Reinas consultation.,・Changes depending on the customer.,ミュコス,掲示板,icon_adult_002_3,表示,ノラ,180,<br>
-145,645,Released Beast,-,3,"Receptionist Reinas request: Please help with the measures
+rose.,-,I will listen to Receptionist Reinas consultation.,・Changes depending on the customer.,ミュコス,掲示板,icon_adult_002_3,表示,ノラ,180,<br>
+145,645,Released Beast,-,3,Receptionist Reinas request: Please help with the measures
 against cowards coming to the prostitution island. You can
 accept the request multiple times until Noras lewdness
-level increases.",Receptionist Reina,"・The thief Nora has unlocked the lewd level ・sexual
+level increases.,Receptionist Reina,・The thief Nora has unlocked the lewd level ・sexual
 technique [tongue licking] ・and has cleared the predator of
-the prostitution island.",-,Catch the coward.,・2000G,ミュコス,掲示板,icon_adult_002_loop_3,表示,ノラ,181,<br>
-146,646,The Disappeared Merchant,-,7,"Please find the missing merchant Eisa who is a member of
+the prostitution island.,-,Catch the coward.,・2000G,ミュコス,掲示板,icon_adult_002_loop_3,表示,ノラ,181,<br>
+146,646,The Disappeared Merchant,-,7,Please find the missing merchant Eisa who is a member of
 the commercial group as requested by the head of the
-commercial group Nasa.",Chief of the Merchant Guild Narsa.,・We have cleared our new house.,-,Searching for the merchant Eisa.,・10000・Demon Namudos attire,カノナス,掲示板,icon_stray_seek_3,非表示,-,143,<br>
-147,647,The Researchers Long Night,-,7,"Please solve the mysterious phenomena occurring in the
-nobles mansion as requested by the nobleman Crow.",Noble Crow,Clea is serving as the priestess of the Three Goddesses.,-,Solve the mysterious phenomenon.,・3000・Maid outfit of submission,カノナス,掲示板,icon_stray_fight_3,非表示,-,141,<br>
-148,648,Second defeat.,-,3,"Receptionist Reinas request: Please provide service to the
+commercial group Nasa.,Chief of the Merchant Guild Narsa.,・We have cleared our new house.,-,Searching for the merchant Eisa.,・10000・Demon Namudos attire,カノナス,掲示板,icon_stray_seek_3,非表示,-,143,<br>
+147,647,The Researchers Long Night,-,7,Please solve the mysterious phenomena occurring in the
+nobles mansion as requested by the nobleman Crow.,Noble Crow,Clea is serving as the priestess of the Three Goddesses.,-,Solve the mysterious phenomenon.,・3000・Maid outfit of submission,カノナス,掲示板,icon_stray_fight_3,非表示,-,141,<br>
+148,648,Second defeat.,-,3,Receptionist Reinas request: Please provide service to the
 regular customers who come to the prostitution island. If
-Cleas lewd level increases adult scenes will be avoided.",Receptionist Reina,"・Clea has unlocked the lewd level ・sexual technique
+Cleas lewd level increases adult scenes will be avoided.,Receptionist Reina,・Clea has unlocked the lewd level ・sexual technique
 [masochistic inclination] ・and has cleared the Thorn of the
-Black Rose.","・To be fully naked you need at least Sexual Technique
-[Sensitivity Good Lv.0].",Heading towards a regular customers place.,・3000G,ミュコス,掲示板,icon_adult_001_3,表示,クレア,177,<br>
-149,649,Unbeatable opponent.,-,3,"Receptionist Reinas request: Please provide service to the
+Black Rose.,・To be fully naked you need at least Sexual Technique
+[Sensitivity Good Lv.0].,Heading towards a regular customers place.,・3000G,ミュコス,掲示板,icon_adult_001_3,表示,クレア,177,<br>
+149,649,Unbeatable opponent.,-,3,Receptionist Reinas request: Please provide service to the
 regular customers who come to the prostitution island. You
 can accept the order multiple times until Cleas lewd level
-increases.",Receptionist Reina,"・Clea has unlocked the Lewd Lv. and the Masochistic
+increases.,Receptionist Reina,・Clea has unlocked the Lewd Lv. and the Masochistic
 Tendencies sexual skills ・She has cleared her second
-defeat.","・To be fully naked you need at least Sexual Technique
-[Sensitivity Good Lv.0].",Heading towards a regular customers place.,・3000G,ミュコス,掲示板,icon_adult_001_loop_3,表示,クレア,178,<br>
-150,650,Remnants of Love,-,3,"Receptionist Reinas Request: Please seduce a man who will
+defeat.,・To be fully naked you need at least Sexual Technique
+[Sensitivity Good Lv.0].,Heading towards a regular customers place.,・3000G,ミュコス,掲示板,icon_adult_001_loop_3,表示,クレア,178,<br>
+150,650,Remnants of Love,-,3,Receptionist Reinas Request: Please seduce a man who will
 stay at the high-class inn on Prostitution Island without
 engaging in prostitution. If Sophias lewdness level
-increases adult scenes will be avoided.",Receptionist Reina,"・The priestess Sophia has unlocked the lewd level ・sexual
+increases adult scenes will be avoided.,Receptionist Reina,・The priestess Sophia has unlocked the lewd level ・sexual
 technique [Twisted Love] ・and has cleared the thorns of the
-black rose.","・To engage in a bukkake you need at least the sexual
-technique [Lewdness Lv.0].","Tempting a kind-hearted man and leading him into
-prostitution.",・3000G,ミュコス,掲示板,icon_adult_004_3,表示,ソフィア,184,<br>
-151,651,I want to see that face.,-,3,"Receptionist Reinas request: Please provide service to male
+black rose.,・To engage in a bukkake you need at least the sexual
+technique [Lewdness Lv.0].,Tempting a kind-hearted man and leading him into
+prostitution.,・3000G,ミュコス,掲示板,icon_adult_004_3,表示,ソフィア,184,<br>
+151,651,I want to see that face.,-,3,Receptionist Reinas request: Please provide service to male
 guests staying at the high-class inn on the Prostitution
 Island until Sophias lewdness level increases. You can
-receive orders multiple times.",Receptionist Reina,"・The priestess Sophia has unlocked the lewd level ・sexual
+receive orders multiple times.,Receptionist Reina,・The priestess Sophia has unlocked the lewd level ・sexual
 technique [Twisted Love] ・and has cleared the remnants of
-love.","・To engage in a bukkake you need at least the sexual
-technique [Lewdness Lv.0].","Tempting a kind-hearted man and leading him into
-prostitution.",・3000G,ミュコス,掲示板,icon_adult_004_loop_3,表示,ソフィア,185,<br>
-152,652,Primitive Feast,-,3,"Receptionist Reinas request: Please provide service to male
+love.,・To engage in a bukkake you need at least the sexual
+technique [Lewdness Lv.0].,Tempting a kind-hearted man and leading him into
+prostitution.,・3000G,ミュコス,掲示板,icon_adult_004_loop_3,表示,ソフィア,185,<br>
+152,652,Primitive Feast,-,3,Receptionist Reinas request: Please provide service to male
 guests staying at the high-class inn on the Prostitution
 Island. If Relms lewdness level increases adult scenes
-will be avoided.",Receptionist Reina,"・The sorceress Relm has unlocked the lewd level ・sexual
+will be avoided.,Receptionist Reina,・The sorceress Relm has unlocked the lewd level ・sexual
 technique [Wicked Wisdom] ・and has cleared the thorns of the
-black rose.","・To be fully naked you need at least Sexual Technique
+black rose.,・To be fully naked you need at least Sexual Technique
 [Pervert Level 0] ・To have vaginal ejaculation you need at
-least Sexual Technique [Perverse Pleasure Level 0]",Heading towards the male customer.,・3000G,ミュコス,掲示板,icon_adult_003_3,表示,リルム,182,<br>
-153,653,Return to nature naturally.,-,3,"Please participate in a special feast held on the
+least Sexual Technique [Perverse Pleasure Level 0],Heading towards the male customer.,・3000G,ミュコス,掲示板,icon_adult_003_3,表示,リルム,182,<br>
+153,653,Return to nature naturally.,-,3,Please participate in a special feast held on the
 prostitution island as requested by the receptionist Reina.
 You can receive the order multiple times until Relms
-lewdness level increases.",Receptionist Reina,"・The sorceress Relm has unlocked the lewd level ・sexual
+lewdness level increases.,Receptionist Reina,・The sorceress Relm has unlocked the lewd level ・sexual
 technique [wicked wisdom] ・and cleared the feast of the
-primordial.","・To be fully naked you need at least Sexual Technique
+primordial.,・To be fully naked you need at least Sexual Technique
 [Pervert Level 0] ・To have vaginal ejaculation you need at
-least Sexual Technique [Perverse Pleasure Level 0]",Heading towards the male customer.,・3000G,ミュコス,掲示板,icon_adult_003_loop_3,表示,リルム,183,<br>
-154,654,The Secret of the Holy Clergy,-,3,"Please investigate the suspicious person on the prostitution
+least Sexual Technique [Perverse Pleasure Level 0],Heading towards the male customer.,・3000G,ミュコス,掲示板,icon_adult_003_loop_3,表示,リルム,183,<br>
+154,654,The Secret of the Holy Clergy,-,3,Please investigate the suspicious person on the prostitution
 island who has been hired by the bodyguard Light. If
 Sophias lewdness level increases adult scenes will be
-avoided.",Bodyguard Light,"・The priestess Sophia has unlocked the lewd level ・and
+avoided.,Bodyguard Light,・The priestess Sophia has unlocked the lewd level ・and
 released her sexual technique [Adult Seduction] ・She has
-cleared the thorns of the black rose.","・Being completely naked requires a level of sexual skill
-[Hidden Lust Lv.0] or higher.",Investigating the suspicious person.,・3000G,ミュコス,掲示板,icon_adult_004_3,表示,ソフィア,186,<br>
-155,655,Dreaming of demons.,-,3,"Please forget all the requests from the person who calls
+cleared the thorns of the black rose.,・Being completely naked requires a level of sexual skill
+[Hidden Lust Lv.0] or higher.,Investigating the suspicious person.,・3000G,ミュコス,掲示板,icon_adult_004_3,表示,ソフィア,186,<br>
+155,655,Dreaming of demons.,-,3,Please forget all the requests from the person who calls
 themselves the demon of lust Oradoru and have a dream
 together for just one night. You can accept the request
-multiple times until Sophias lewdness level increases.",Orador,"・The priestess Sophia has unlocked the lewd level ・adult
-charm・ and has cleared the secrets of the clergy.","・Being completely naked requires a level of sexual skill
-[Hidden Lust Level 0] or higher.",Having a dream overnight.,・3000G,ミュコス,掲示板,icon_adult_004_loop_3,表示,ソフィア,187,<br>
-156,656,Ghost of the Prostitution Island,-,3,"Please solve the mystery of the ghost child on the island of
+multiple times until Sophias lewdness level increases.,Orador,・The priestess Sophia has unlocked the lewd level ・adult
+charm・ and has cleared the secrets of the clergy.,・Being completely naked requires a level of sexual skill
+[Hidden Lust Level 0] or higher.,Having a dream overnight.,・3000G,ミュコス,掲示板,icon_adult_004_loop_3,表示,ソフィア,187,<br>
+156,656,Ghost of the Prostitution Island,-,3,Please solve the mystery of the ghost child on the island of
 prostitution as requested by the bodyguard Left. If Noras
-lewdness level increases adult scenes will be avoided.",Bodyguard Left,"・Thief Nora has unlocked the lewd level ・sexual technique
+lewdness level increases adult scenes will be avoided.,Bodyguard Left,・Thief Nora has unlocked the lewd level ・sexual technique
 [sensual body] ・and has cleared the thorns of the black
-rose.",-,Searching for the ghost of a child.,・3000G,ミュコス,掲示板,icon_adult_002_3,表示,ノラ,179,<br>
-157,657,The Last Phantom Thief,-,6,"Please investigate whether the sender of the request letter
+rose.,-,Searching for the ghost of a child.,・3000G,ミュコス,掲示板,icon_adult_002_3,表示,ノラ,179,<br>
+157,657,The Last Phantom Thief,-,6,Please investigate whether the sender of the request letter
 from the skilled adventurer-targeting thief Perno is the
-real thief Perno.",Phantom Thief Perno,Clea has cleared Reclaiming the Place of Rest.,-,Contacting the Phantom Thief Perno.,-,ギルド,-,icon_sab_guild_arrest_2,非表示,-,61,<br>
-158,658,Return of the Sister Statue,-,6,"Please assist in returning the stolen statue of the sisters
-from the mysterious thief Perno to the Casaro Bathhouse.",Phantom Thief Perno,Clea has cleared the final phantom thief.,-,Return the statue of the sisters.,-,カンプス,掲示板,icon_stray_delivery_2,非表示,-,164,<br>
-159,659,One coin.,-,7,"Please decipher the mysterious text and carry out the
-request from the Phantom Thief Perno.",Phantom Thief Perno,"・Clea and Nora have cleared the Sister Statue Return quest.
-・Nora has reached level 2 or higher in the Stealth skill.",-,Return one coin.,-,オロス,掲示板,icon_stray_delivery_3,非表示,-,207,<br>
-160,660,The Orcs Secret Treasure,-,8,"Please assist in returning the stolen treasure from the orc
-as requested by the mysterious thief Perno.",Phantom Thief Perno,"Clea needs to clear one coin and Nora needs to have Stealth
-at level 3 or higher.",-,Return the Orcs treasure.,-,ヴァルト,掲示板,icon_stray_delivery_3,非表示,-,224,<br>
-161,661,Mysterious Thief Traveling through the Night,-,10,"Please complete the final return of the request from the
+real thief Perno.,Phantom Thief Perno,Clea has cleared Reclaiming the Place of Rest.,-,Contacting the Phantom Thief Perno.,-,ギルド,-,icon_sab_guild_arrest_2,非表示,-,61,<br>
+158,658,Return of the Sister Statue,-,6,Please assist in returning the stolen statue of the sisters
+from the mysterious thief Perno to the Casaro Bathhouse.,Phantom Thief Perno,Clea has cleared the final phantom thief.,-,Return the statue of the sisters.,-,カンプス,掲示板,icon_stray_delivery_2,非表示,-,164,<br>
+159,659,One coin.,-,7,Please decipher the mysterious text and carry out the
+request from the Phantom Thief Perno.,Phantom Thief Perno,・Clea and Nora have cleared the Sister Statue Return quest.
+・Nora has reached level 2 or higher in the Stealth skill.,-,Return one coin.,-,オロス,掲示板,icon_stray_delivery_3,非表示,-,207,<br>
+160,660,The Orcs Secret Treasure,-,8,Please assist in returning the stolen treasure from the orc
+as requested by the mysterious thief Perno.,Phantom Thief Perno,Clea needs to clear one coin and Nora needs to have Stealth
+at level 3 or higher.,-,Return the Orcs treasure.,-,ヴァルト,掲示板,icon_stray_delivery_3,非表示,-,224,<br>
+161,661,Mysterious Thief Traveling through the Night,-,10,Please complete the final return of the request from the
 Phantom Thief Perno and put an end to the Phantom Thief
-Perno.",Phantom Thief Perno,"・Cleared the Orcs treasure and Nora reached level 4 as a
-stealth character.",-,Return the final treasure.,-,オロス,掲示板,icon_stray_delivery_4,非表示,-,208,<br>
-162,662,Weak heart,-,7,"Please conduct the training for the new apprentice swordsman
-as requested by the mercenary captain Gale.",Mercenary Captain Gale,"・Clear the Crown of Glory・Cleas Skill: Duel is Lv.2 or
-higher.",-,Conducting new employee training.,・3000G,オロス,掲示板,icon_stray_fight_3,非表示,-,200,<br>
-163,663,Strong Heart,-,4,"Please encourage Auto who has lost even more confidence
+Perno.,Phantom Thief Perno,・Cleared the Orcs treasure and Nora reached level 4 as a
+stealth character.,-,Return the final treasure.,-,オロス,掲示板,icon_stray_delivery_4,非表示,-,208,<br>
+162,662,Weak heart,-,7,Please conduct the training for the new apprentice swordsman
+as requested by the mercenary captain Gale.,Mercenary Captain Gale,・Clear the Crown of Glory・Cleas Skill: Duel is Lv.2 or
+higher.,-,Conducting new employee training.,・3000G,オロス,掲示板,icon_stray_fight_3,非表示,-,200,<br>
+163,663,Strong Heart,-,4,Please encourage Auto who has lost even more confidence
 from the request of the mercenary captain Gale. It is
-unavoidable to encounter an adult scene with Clea.",Mercenary Captain Gale,"・Clea has a promiscuous level sexual technique [seduction
+unavoidable to encounter an adult scene with Clea.,Mercenary Captain Gale,・Clea has a promiscuous level sexual technique [seduction
 level 2 or higher] and alluring hair level 3 clearing the
 weak heart requirement ・She has cleared the whereabouts of
-the Emma Thief Brigade.",-,Auto the apprentice swordsman regains her confidence.,・5000G,オロス,掲示板,icon_adult_001_4,表示,クレア,201,<br>
-164,664,Aching heart,-,4,"Please go watch the final match of the apprentice swordsman
+the Emma Thief Brigade.,-,Auto the apprentice swordsman regains her confidence.,・5000G,オロス,掲示板,icon_adult_001_4,表示,クレア,201,<br>
+164,664,Aching heart,-,4,Please go watch the final match of the apprentice swordsman
 Auto as requested by Auto. It is unavoidable to encounter
-an adult scene involving Clea.",Apprentice Swordsman Auto,"Clea has reached the level of lewdness ・ Sexual Technique
+an adult scene involving Clea.,Apprentice Swordsman Auto,Clea has reached the level of lewdness ・ Sexual Technique
 [Sweet Melody Lv.3] [Boiling Sensuality Lv.3] clearing the
-necessary and strong heart.",-,Watching the finals of the auto race.,-,オロス,掲示板,icon_adult_001_4,表示,クレア,202,<br>
-165,665,Devils Bride,-,7,"Please completely defeat the demon bride Ankos who is in
+necessary and strong heart.,-,Watching the finals of the auto race.,-,オロス,掲示板,icon_adult_001_4,表示,クレア,202,<br>
+165,665,Devils Bride,-,7,Please completely defeat the demon bride Ankos who is in
 the process of revival in a request from the skilled
-adventurer-supporting goddess Actinas shrine maiden.",Actinas Priestess,"・Clea cleared the Shrine Maiden of the Three Goddesses・Mage
-Relms skill: Deciphering is at level 4.",-,Defeat of the Demon Bride Ancos,・Challenge to the Heros Ruins,ギルド,-,icon_sab_guild_fight_3,非表示,-,66,<br>
-166,666,Two Oracles,-,7,"Please carry out the salvation of those who are lost
+adventurer-supporting goddess Actinas shrine maiden.,Actinas Priestess,・Clea cleared the Shrine Maiden of the Three Goddesses・Mage
+Relms skill: Deciphering is at level 4.,-,Defeat of the Demon Bride Ancos,・Challenge to the Heros Ruins,ギルド,-,icon_sab_guild_fight_3,非表示,-,66,<br>
+166,666,Two Oracles,-,7,Please carry out the salvation of those who are lost
 according to the divine oracle received by the priestess of
-the skilled adventurer support request goddess Imiserinos.",Imiserinos Shrine Maiden,"・Cleared the Demon Bride ・Cleared the invitation from the
-Bulk Gang ・Priestess Sophias skill: Prayer is at level 4",-,Salvation for the Lost Souls,-,ギルド,-,icon_sab_guild_delivery_3,非表示,-,68,<br>
-167,667,Glory of Imiserinos,-,-,"Please rescue Goht a skilled adventurer from the curse of
-turning into an ogre. This is a request from the Bulk Guild.",The goat of the Bulk Gang.,・Automatic acceptance in Two Oracles 1-6,-,Save the goat from the Bulk Gang.,-,-,-,-,非表示,-,69,<br>
-168,668,Things that disappear and things that remain,-,7,"Please identify and resolve the root cause of the curse that
+the skilled adventurer support request goddess Imiserinos.,Imiserinos Shrine Maiden,・Cleared the Demon Bride ・Cleared the invitation from the
+Bulk Gang ・Priestess Sophias skill: Prayer is at level 4,-,Salvation for the Lost Souls,-,ギルド,-,icon_sab_guild_delivery_3,非表示,-,68,<br>
+167,667,Glory of Imiserinos,-,-,Please rescue Goht a skilled adventurer from the curse of
+turning into an ogre. This is a request from the Bulk Guild.,The goat of the Bulk Gang.,・Automatic acceptance in Two Oracles 1-6,-,Save the goat from the Bulk Gang.,-,-,-,-,非表示,-,69,<br>
+168,668,Things that disappear and things that remain,-,7,Please identify and resolve the root cause of the curse that
 turns people into ogres as requested by the experienced
-adventurer support request from the Bulk Corps Goat.",Goat of the Bulk Gang,Clea has cleared the glory of Imiserinos.,-,Solve the curse of the Bulk Gang.,・The secret treasure of the Bulk Gang,ヴァルト,掲示板,icon_sab_guild_infiltrate_3,非表示,-,225,<br>
-169,669,The Shadow of the Underground Cooking Club,-,6,"Owner please deliver the fragrant fish sauce to the
+adventurer support request from the Bulk Corps Goat.,Goat of the Bulk Gang,Clea has cleared the glory of Imiserinos.,-,Solve the curse of the Bulk Gang.,・The secret treasure of the Bulk Gang,ヴァルト,掲示板,icon_sab_guild_infiltrate_3,非表示,-,225,<br>
+169,669,The Shadow of the Underground Cooking Club,-,6,Owner please deliver the fragrant fish sauce to the
 restaurant Miro. It is unavoidable that an adult scene with
-Clea will occur.",Owner Tokyo,"・Clea has a promiscuity level of ・sexual technique
+Clea will occur.,Owner Tokyo,・Clea has a promiscuity level of ・sexual technique
 [seductive gaze level 2 or higher] [enchanting eyes level 3]
 is required ・obtained a fish sauce that smells with ancient
-coin exchange ・cleared the Skull Sea.","・To perform a vaginal creampie you need the sexual
-technique [Masochistic Preference Level 3].",Delivering a pungent fish sauce.,・5000G,カノナス,掲示板,icon_adult_001_4,表示,クレア,134,<br>
-170,670,The pleasure of a gourmet.,-,4,"Please fulfill the request from the gourmet Gnil. This
+coin exchange ・cleared the Skull Sea.,・To perform a vaginal creampie you need the sexual
+technique [Masochistic Preference Level 3].,Delivering a pungent fish sauce.,・5000G,カノナス,掲示板,icon_adult_001_4,表示,クレア,134,<br>
+170,670,The pleasure of a gourmet.,-,4,Please fulfill the request from the gourmet Gnil. This
 request is to satisfy Gnils twisted desires. You can accept
-this request as many times as you want.",Gourmet Gunil,"・Clea has a promiscuous level. She has mastered the sexual
+this request as many times as you want.,Gourmet Gunil,・Clea has a promiscuous level. She has mastered the sexual
 techniques [Seductive Gaze Level 2 or higher] and
 [Enchanting Eyes Level 3]. She has successfully cleared the
-hidden side of the cooking club.","・To perform a vaginal creampie you need the sexual
-technique [Masochistic Preference Level 3].",Satisfying the sexual desires of gourmet Gnil.,・4000G,カノナス,掲示板,icon_adult_001_loop_4,表示,クレア,135,<br>
-171,671,Clash! Secret Cooking Club,-,7,"Please defeat the hidden chef Baal and stop his ambitions
+hidden side of the cooking club.,・To perform a vaginal creampie you need the sexual
+technique [Masochistic Preference Level 3].,Satisfying the sexual desires of gourmet Gnil.,・4000G,カノナス,掲示板,icon_adult_001_loop_4,表示,クレア,135,<br>
+171,671,Clash! Secret Cooking Club,-,7,Please defeat the hidden chef Baal and stop his ambitions
 as requested by Owner Toukyo. It is unavoidable to encounter
-Noras adult scene during this event.",Owner Tokyo,"・Thief Nora and Clea have a lewd level.・Thief Noras sexual
+Noras adult scene during this event.,Owner Tokyo,・Thief Nora and Clea have a lewd level.・Thief Noras sexual
 skills [Tongue Licking Lv.3] [Seductive Voice Lv.3] are
 required.・Cleas sexual skill [Door of Pleasure Lv.3] is
 required.・They have cleared the Red Coral Reef.・They have
-cleared the shadow of the Secret Cooking Society.",-,Won the cooking battle.,・5000G,カノナス,掲示板,icon_adult_002_4,表示,ノラ,136,<br>
-172,672,Strange Friendship,-,9,"Please request cooperation from the Magic Academy on behalf
-of Prince Lex.",Prince Lex,Clea is clearing the broken scales.,-,Requesting cooperation for the Magic Academy.,-,ギルド,-,icon_guild_collect_3,非表示,-,83,<br>
-173,673,From the game board to the battlefield,-,9,"Please request cooperation from General Atu of the Imperial
-Army on behalf of Prince Lex.",Prince Lex,Clea has cleared a strange friendship.,-,Requesting cooperation from General Atu.,-,ギルド,-,icon_guild_collect_3,非表示,-,86,<br>
-174,674,Remove the White Brim.,-,-,"Please rescue Lud who has been brainwashed by Queen Caron
-from the request of the Imperial Dark Faction Amina.",Amina the Imperial Secret Agent.,・Clearing the battlefield from the game board.,-,Rescue the Imperial Secret Service agent Luid.,-,-,-,-,非表示,-,89,<br>
-175,675,A raging wind bares its fangs.,-,10,"Clea manages to secure an agreement regarding the request
+cleared the shadow of the Secret Cooking Society.,-,Won the cooking battle.,・5000G,カノナス,掲示板,icon_adult_002_4,表示,ノラ,136,<br>
+172,672,Strange Friendship,-,9,Please request cooperation from the Magic Academy on behalf
+of Prince Lex.,Prince Lex,Clea is clearing the broken scales.,-,Requesting cooperation for the Magic Academy.,-,ギルド,-,icon_guild_collect_3,非表示,-,83,<br>
+173,673,From the game board to the battlefield,-,9,Please request cooperation from General Atu of the Imperial
+Army on behalf of Prince Lex.,Prince Lex,Clea has cleared a strange friendship.,-,Requesting cooperation from General Atu.,-,ギルド,-,icon_guild_collect_3,非表示,-,86,<br>
+174,674,Remove the White Brim.,-,-,Please rescue Lud who has been brainwashed by Queen Caron
+from the request of the Imperial Dark Faction Amina.,Amina the Imperial Secret Agent.,・Clearing the battlefield from the game board.,-,Rescue the Imperial Secret Service agent Luid.,-,-,-,-,非表示,-,89,<br>
+175,675,A raging wind bares its fangs.,-,10,Clea manages to secure an agreement regarding the request
 from Prince Lex and the avoidance of civil war with the
-Queens faction.",Prince Lex,Clea is removing the White Brim.,-,Establishing mediation with the Queens faction.,-,ギルド,-,icon_guild_delivery_3,非表示,-,90,<br>
-176,676,The appearance of the Valier guards.,-,6,"Please help the troubled Valier guards who are at a loss. If
+Queens faction.,Prince Lex,Clea is removing the White Brim.,-,Establishing mediation with the Queens faction.,-,ギルド,-,icon_guild_delivery_3,非表示,-,90,<br>
+176,676,The appearance of the Valier guards.,-,6,Please help the troubled Valier guards who are at a loss. If
 Cleas lewdness level increases adult scenes will be
-avoided.",Valie Guards,"・Clea has unlocked the lewd level ・sexual techniques [hand
+avoided.,Valie Guards,・Clea has unlocked the lewd level ・sexual techniques [hand
 play] [seductive gaze] ・and has cleared the black request
-form.",-,Capture the fugitive Zagal.,・3000G,バリエ,掲示板,icon_adult_001_3,表示,クレア,112,<br>
-177,677,Unnoticed joy,-,3,"The male informant from Valie has a request. Please help him
+form.,-,Capture the fugitive Zagal.,・3000G,バリエ,掲示板,icon_adult_001_3,表示,クレア,112,<br>
+177,677,Unnoticed joy,-,3,The male informant from Valie has a request. Please help him
 take a break and relieve some stress. You can accept the
 request multiple times until Cleas lewdness level
-increases.",Male informant,"・Clea has unlocked the lewd level ・sexual techniques [hand
+increases.,Male informant,・Clea has unlocked the lewd level ・sexual techniques [hand
 play] [seductive gaze] ・and has cleared the appearance of
-the Barrier Guards.",-,Helping the male information broker take a break.,・2000G,バリエ,掲示板,icon_adult_001_loop_3,表示,クレア,113,<br>
-178,678,Dangerous game.,-,1,"Please give a lecture on the magic of the request from the
+the Barrier Guards.,-,Helping the male information broker take a break.,・2000G,バリエ,掲示板,icon_adult_001_loop_3,表示,クレア,113,<br>
+178,678,Dangerous game.,-,1,Please give a lecture on the magic of the request from the
 noble Puls. It is unavoidable to encounter an adult scene
-with Relm.",Noble Plus,"・The lewd level of the magician Relm: Erotic Techniques
+with Relm.,Noble Plus,・The lewd level of the magician Relm: Erotic Techniques
 [Enchanting Bud Lv.3] [Indecent Knowledge Lv.3] has reached
 its maximum level. ・She has cleared the end of her dream.
-・She has cleared the auction with a secret.","・To perform a vaginal creampie you need the sexual
-technique [Little Devil Lv.3].",Giving a magic lecture to the noble class.,・10000G,カノナス,掲示板,icon_adult_003_4,表示,リルム,138,<br>
-179,679,Indulgence,-,1,"Please go and talk about the request for a loan from the
+・She has cleared the auction with a secret.,・To perform a vaginal creampie you need the sexual
+technique [Little Devil Lv.3].,Giving a magic lecture to the noble class.,・10000G,カノナス,掲示板,icon_adult_003_4,表示,リルム,138,<br>
+179,679,Indulgence,-,1,Please go and talk about the request for a loan from the
 noble house Plus. This request can be accepted multiple
-times.",Noble Plus,"・The lewd level of the magician Relm the sexual skills
+times.,Noble Plus,・The lewd level of the magician Relm the sexual skills
 [Enchanting Bud Lv.3] and [Indecent Knowledge Lv.3] have
-cleared a necessary and dangerous game.","・To perform a vaginal creampie you need the sexual
-technique [Little Devil Lv.3].",Im going to talk about a loan with the nobleman Plus.,・10000G,カノナス,掲示板,icon_adult_003_loop_4,表示,リルム,139,<br>
-180,680,Impulse and ulterior motive.,-,7,"Please eliminate the beast that appeared in the deep forest
+cleared a necessary and dangerous game.,・To perform a vaginal creampie you need the sexual
+technique [Little Devil Lv.3].,Im going to talk about a loan with the nobleman Plus.,・10000G,カノナス,掲示板,icon_adult_003_loop_4,表示,リルム,139,<br>
+180,680,Impulse and ulterior motive.,-,7,Please eliminate the beast that appeared in the deep forest
 as requested by Farmer Apros. If Cleas lewdness level
-increases the adult scene will be avoided.",Farmer Apros,"・Clea has unlocked the lewd level ・sexual technique
-[seductive hair] [bewitching].",-,Extermination of the beast that appeared in the deep forest.,・3000G,ヴァルト,掲示板,icon_adult_001_3,表示,クレア,209,<br>
-181,681,Heart Rain,-,1,"Please help me with a request from Farmer Apros. You can
+increases the adult scene will be avoided.,Farmer Apros,・Clea has unlocked the lewd level ・sexual technique
+[seductive hair] [bewitching].,-,Extermination of the beast that appeared in the deep forest.,・3000G,ヴァルト,掲示板,icon_adult_001_3,表示,クレア,209,<br>
+181,681,Heart Rain,-,1,Please help me with a request from Farmer Apros. You can
 accept the request multiple times until Cleas lewdness
-level increases.",Farmer Apros,"・Clea has unlocked the lewd level ・sexual technique
+level increases.,Farmer Apros,・Clea has unlocked the lewd level ・sexual technique
 [seductive hair] [bewitching] ・by clearing both impulsive
-and ulterior motives.",-,Helping Farmer Apros take a break.,・1000G,ヴァルト,掲示板,icon_adult_001_loop_3,表示,クレア,210,<br>
-182,682,Enormous fish shadow.,-,7,"Please eliminate the giant fish that appeared in the lake
+and ulterior motives.,-,Helping Farmer Apros take a break.,・1000G,ヴァルト,掲示板,icon_adult_001_loop_3,表示,クレア,210,<br>
+182,682,Enormous fish shadow.,-,7,Please eliminate the giant fish that appeared in the lake
 as requested by the fisherman Orca. It is unavoidable to
 encounter Cleas adult scene that occurs during this event.
-[v0]",Fisherman Orca,"Cleas lewd level sexual skills [Voluptuous Body Lv.3]
-[Sweet Body Lv.3] have cleared the required Red Coral Reef.","・To perform a breast internal ejaculation you need the
-sexual technique [Suspicious Seduction Lv.3].",Exterminate the giant fish in the lake.,・1000G,ヴァルト,掲示板,icon_adult_001_4,表示,クレア,216,<br>
-183,683,Ideal found at the lake.,-,1,"Request from Fisherman Orca: Please provide service to Clea
+[v0],Fisherman Orca,Cleas lewd level sexual skills [Voluptuous Body Lv.3]
+[Sweet Body Lv.3] have cleared the required Red Coral Reef.,・To perform a breast internal ejaculation you need the
+sexual technique [Suspicious Seduction Lv.3].,Exterminate the giant fish in the lake.,・1000G,ヴァルト,掲示板,icon_adult_001_4,表示,クレア,216,<br>
+183,683,Ideal found at the lake.,-,1,Request from Fisherman Orca: Please provide service to Clea
 whom he praises as his ideal by serving her breasts. This
-request can be accepted multiple times.",Fisherman Orca,"Cleas lewd level sexual skills [voluptuous body level 3]
-[sweet body level 3] have cleared the enormous fish shadow.","・To perform a breast internal ejaculation you need the
-sexual technique [Suspicious Seduction Lv.3].",Helping Fisherman Orca Take a Break,・2000G,ヴァルト,掲示板,icon_adult_001_loop_4,表示,クレア,217,<br>
-184,684,Lonely Battle,-,4,"Please collect the necessary shells for the research request
+request can be accepted multiple times.,Fisherman Orca,Cleas lewd level sexual skills [voluptuous body level 3]
+[sweet body level 3] have cleared the enormous fish shadow.,・To perform a breast internal ejaculation you need the
+sexual technique [Suspicious Seduction Lv.3].,Helping Fisherman Orca Take a Break,・2000G,ヴァルト,掲示板,icon_adult_001_loop_4,表示,クレア,217,<br>
+184,684,Lonely Battle,-,4,Please collect the necessary shells for the research request
 from the Researcher Node at the specified location. It is
-unavoidable to encounter Noras adult scene.",Researcher Node,"・Nora the promiscuous thiefs lewd level ・sexual technique
+unavoidable to encounter Noras adult scene.,Researcher Node,・Nora the promiscuous thiefs lewd level ・sexual technique
 [Level 3: Burning Desire] [Level 2 or higher: Spiders
-Thread] is required ・has cleared the red coral reef.","・To perform a vaginal creampie you need a sexual technique
-of at least Man-eater Level 2 or higher.",Collecting the shells necessary for research.,・500G,バリエ,掲示板,icon_adult_002_4,表示,ノラ,115,<br>
-185,685,Beast of Yohama Beach,-,1,"Please collect the additional shells requested by the
+Thread] is required ・has cleared the red coral reef.,・To perform a vaginal creampie you need a sexual technique
+of at least Man-eater Level 2 or higher.,Collecting the shells necessary for research.,・500G,バリエ,掲示板,icon_adult_002_4,表示,ノラ,115,<br>
+185,685,Beast of Yohama Beach,-,1,Please collect the additional shells requested by the
 researcher node. This request can be accepted multiple
-times.",Researcher Node,"・Clea the promiscuous level of the thief Nora has cleared
+times.,Researcher Node,・Clea the promiscuous level of the thief Nora has cleared
 the lonely battle with her sexual skills [Level 3: Burning
-Desire] and [Level 2 or higher: Spiders Thread].","・To perform a vaginal creampie you need a sexual technique
-of at least Man-eater Level 2 or higher.",Collect additional seashells.,・500G,バリエ,掲示板,icon_adult_002_loop_4,表示,ノラ,116,<br>
-186,686,Feisty magician,-,6,"Please help rescue Zere who has been captured by pirates
+Desire] and [Level 2 or higher: Spiders Thread].,・To perform a vaginal creampie you need a sexual technique
+of at least Man-eater Level 2 or higher.,Collect additional seashells.,・500G,バリエ,掲示板,icon_adult_002_loop_4,表示,ノラ,116,<br>
+186,686,Feisty magician,-,6,Please help rescue Zere who has been captured by pirates
 at the request of Zeres friend the pick-up artist Zere. If
 Relms lewdness level increases adult scenes will be
-avoided.",Zeres friend the pick-up artist.,"・The lewd level of the magician Relm has been
+avoided.,Zeres friend the pick-up artist.,・The lewd level of the magician Relm has been
 unlocked・Unlocking the sexual technique [Little Girl]
-[Enchanting Bud]・Clearing the red coral reef",-,Rescuing the pick-up artist Zere.,・3000G,ヴァルト,掲示板,icon_adult_003_3,表示,リルム,213,<br>
-187,687,Troubled soldiers,-,7,"Please solve the problem of being troubled by goblins which
+[Enchanting Bud]・Clearing the red coral reef,-,Rescuing the pick-up artist Zere.,・3000G,ヴァルト,掲示板,icon_adult_003_3,表示,リルム,213,<br>
+187,687,Troubled soldiers,-,7,Please solve the problem of being troubled by goblins which
 is a request from the Imperial soldiers. It is unavoidable
-to encounter an adult scene with Relm.",Imperial soldier,"・The lewd level of the magician Relm: Sexual Techniques
+to encounter an adult scene with Relm.,Imperial soldier,・The lewd level of the magician Relm: Sexual Techniques
 [Exhibitionist Lv.3] [Masturbation Lv.3] is required. ・The
 magician Relms skill: Discovery is at Lv. ・Having cleared
-the Ogre Subjugation.","・To perform a vaginal creampie the sexual technique
-[Enchanting Blossom Lv.3] is necessary.",Solving the troubles of the imperial soldiers.,・3000G,オロス,掲示板,icon_adult_003_4,表示,リルム,203,<br>
-188,688,Reckless order.,-,1,"Please complete a more effective medicine than the one
+the Ogre Subjugation.,・To perform a vaginal creampie the sexual technique
+[Enchanting Blossom Lv.3] is necessary.,Solving the troubles of the imperial soldiers.,・3000G,オロス,掲示板,icon_adult_003_4,表示,リルム,203,<br>
+188,688,Reckless order.,-,1,Please complete a more effective medicine than the one
 requested by the Imperial soldiers. This request can be
-accepted multiple times.",Imperial soldier,"・The lewd level of the magician Relm: Sexual Techniques
+accepted multiple times.,Imperial soldier,・The lewd level of the magician Relm: Sexual Techniques
 [Exhibitionist Lv.3] [Masturbation Lv.3] is required. ・The
 skill of the magician Relm: Discovery is at Lv. ・She has
-cleared the troubled soldiers.","・To perform a vaginal creampie the sexual technique
-[Enchanting Blossom Lv.3] is necessary.",Solving the troubles of the imperial soldiers.,・3000G,オロス,掲示板,icon_adult_003_loop_4,表示,リルム,204,<br>
-189,689,The Jewel of Otherworldly Form,-,9,"Please solve the mystery of the mysterious gemstone as
-requested by the skilled adventurer and archaeologist Paro.",Archaeologist Paryo,"・I have exchanged all the items that can be exchanged with
-ancient coins ・I have cleared the disappeared merchant.",-,Solving the mystery of the abnormal jewel.,・3000G,ギルド,-,icon_guild_fight_3,非表示,-,70,<br>
-190,690,Beautiful goddesses,-,6,"Please deliver high-quality firewood to the Kasaro bathhouse
+cleared the troubled soldiers.,・To perform a vaginal creampie the sexual technique
+[Enchanting Blossom Lv.3] is necessary.,Solving the troubles of the imperial soldiers.,・3000G,オロス,掲示板,icon_adult_003_loop_4,表示,リルム,204,<br>
+189,689,The Jewel of Otherworldly Form,-,9,Please solve the mystery of the mysterious gemstone as
+requested by the skilled adventurer and archaeologist Paro.,Archaeologist Paryo,・I have exchanged all the items that can be exchanged with
+ancient coins ・I have cleared the disappeared merchant.,-,Solving the mystery of the abnormal jewel.,・3000G,ギルド,-,icon_guild_fight_3,非表示,-,70,<br>
+190,690,Beautiful goddesses,-,6,Please deliver high-quality firewood to the Kasaro bathhouse
 in order to heat the water. It is unavoidable to encounter
-Sophias adult scene.",Firewood Craftsman Torch,"・The lewd level of the priestess Sophia and Clea ・Sophias
+Sophias adult scene.,Firewood Craftsman Torch,・The lewd level of the priestess Sophia and Clea ・Sophias
 sexual technique [Secret Garden Lv.3] [Rush and Fill Lv.3]
 are required ・Sophias skill as a priestess: Temptation Lv.
 ・Cleas sexual technique [Hidden Desires Lv.3] is required
-・Having cleared the return of the sisters image.",-,Carrying in the lumber.,・3000G,ヴァルト,掲示板,icon_adult_004_4,表示,ソフィア,220,<br>
-191,691,Hanged Sorcerer,-,5,"As part of the researcher Caros request for research
+・Having cleared the return of the sisters image.,-,Carrying in the lumber.,・3000G,ヴァルト,掲示板,icon_adult_004_4,表示,ソフィア,220,<br>
+191,691,Hanged Sorcerer,-,5,As part of the researcher Caros request for research
 please show me the traditional attire of the Far East. It is
-unavoidable to encounter adult scenes involving Relm.",Researcher Caros,"・The lewd level of the mage Relm is 【Seduction
+unavoidable to encounter adult scenes involving Relm.,Researcher Caros,・The lewd level of the mage Relm is 【Seduction
 Lv.3】【Blossoming Lv.3】【Coquettish Gaze Lv.2 or higher】. ・She
 has cleared the plea to become an Archmage. ・She possesses
-the attire of the Far East.",-,Caron shows off her exotic Eastern attire.,・5000G,カノナス,掲示板,icon_adult_003_4,表示,リルム,137,<br>
-192,692,Prince of the Sun,-,6,"Please assist in obtaining the prince as requested by the
+the attire of the Far East.,-,Caron shows off her exotic Eastern attire.,・5000G,カノナス,掲示板,icon_adult_003_4,表示,リルム,137,<br>
+192,692,Prince of the Sun,-,6,Please assist in obtaining the prince as requested by the
 information broker Leon. If Sophias lewdness level
-increases adult scenes will be avoided.",Information Broker Leon,"・Clea the promiscuous level of the priestess Sophia has
+increases adult scenes will be avoided.,Information Broker Leon,・Clea the promiscuous level of the priestess Sophia has
 unlocked the sexual techniques [Love is Blind] and [Sweet
 Trap]. ・The skill [Decipher] of the magician Relm is at
 level 3. ・I have obtained a rare map of Valier through the
-exchange of ancient coins.",-,Obtain the Sun Prince.,・3000G,バリエ,掲示板,icon_adult_004_3,表示,ソフィア,114,<br>
-193,693,Glamorous Gambler,-,6,"Please destroy the illegal gambling den that is operating in
+exchange of ancient coins.,-,Obtain the Sun Prince.,・3000G,バリエ,掲示板,icon_adult_004_3,表示,ソフィア,114,<br>
+193,693,Glamorous Gambler,-,6,Please destroy the illegal gambling den that is operating in
 secret as requested by Fuego with the hawk eyes. It is
-unavoidable for Sophias adult scene to occur.",Fuego the Hawk-eyed,"・Cleric Sophias Lewd Level・Sexual Technique [Slick Hands
+unavoidable for Sophias adult scene to occur.,Fuego the Hawk-eyed,・Cleric Sophias Lewd Level・Sexual Technique [Slick Hands
 Lv.3] [Seductive Body Lv.3] are required・Cleric Sophias
 Skill: Extortion is at Lv.・Clearing under the Iron
-Mask・Clearing the Vanished Merchant","・To perform a vaginal creampie you need the sexual
-technique [Sweet Trap Lv.3].",Annihilating an illegal gambling den.,・5000G,バリエ,掲示板,icon_adult_004_4,表示,ソフィア,118,<br>
-194,694,Buying time,-,1,"Please infiltrate the illegal gambling den on behalf of
+Mask・Clearing the Vanished Merchant,・To perform a vaginal creampie you need the sexual
+technique [Sweet Trap Lv.3].,Annihilating an illegal gambling den.,・5000G,バリエ,掲示板,icon_adult_004_4,表示,ソフィア,118,<br>
+194,694,Buying time,-,1,Please infiltrate the illegal gambling den on behalf of
 Fuego the hawk-eyed and buy us some time. This request can
-be accepted multiple times.",Fuego the Hawk-eyed,"・Clea the promiscuous Lv.・Sexual Technique [Masterful Hand
+be accepted multiple times.,Fuego the Hawk-eyed,・Clea the promiscuous Lv.・Sexual Technique [Masterful Hand
 Skills Lv.3] [Seductive Body Lv.3] are required ・Cleas
-skill: Extortion is Lv.・Has cleared the splendid gambler","・To perform a vaginal creampie you need the sexual
-technique [Sweet Trap Lv.3].",Destroying an illegal gambling den.,・5000G,バリエ,掲示板,icon_adult_004_loop_4,表示,ソフィア,119,<br>
-195,695,Keepsake ring,-,6,"Please retrieve the heirloom ring that has ended up in the
-black market as requested by the noble Clea.",Noble Cresso,"・Cleas skill: Duel is at level 2 ・She has cleared a request
-from the profligate noble",-,Retrieve the memento ring.,・5000G,ヴァルト,掲示板,icon_stray_delivery_2,非表示,-,222,<br>
-196,696,Blood spilled on the earth.,-,8,"Please annihilate the Aspida Alliance which continues to
-commit atrocities at the request of noblewoman Cresso.",Noble Cresso,"・Cleas skill: Deadly Strike is at Lv. ・Clearing the memento
-ring ・Clearing the true identity of the pitch black",-,The destruction of the Aspida Alliance.,・5000G,ヴァルト,掲示板,icon_stray_fight_3,非表示,-,223,<br>
-197,697,Dagger of Deirei,-,7,"Please investigate the true identity of the noble who tried
+skill: Extortion is Lv.・Has cleared the splendid gambler,・To perform a vaginal creampie you need the sexual
+technique [Sweet Trap Lv.3].,Destroying an illegal gambling den.,・5000G,バリエ,掲示板,icon_adult_004_loop_4,表示,ソフィア,119,<br>
+195,695,Keepsake ring,-,6,Please retrieve the heirloom ring that has ended up in the
+black market as requested by the noble Clea.,Noble Cresso,・Cleas skill: Duel is at level 2 ・She has cleared a request
+from the profligate noble,-,Retrieve the memento ring.,・5000G,ヴァルト,掲示板,icon_stray_delivery_2,非表示,-,222,<br>
+196,696,Blood spilled on the earth.,-,8,Please annihilate the Aspida Alliance which continues to
+commit atrocities at the request of noblewoman Cresso.,Noble Cresso,・Cleas skill: Deadly Strike is at Lv. ・Clearing the memento
+ring ・Clearing the true identity of the pitch black,-,The destruction of the Aspida Alliance.,・5000G,ヴァルト,掲示板,icon_stray_fight_3,非表示,-,223,<br>
+197,697,Dagger of Deirei,-,7,Please investigate the true identity of the noble who tried
 to buy the thief Nora as requested by the skilled
-adventurer liaison leader Clevo.",Captain Clevo,"・Nora the Thiefs Skill: Sense of Smell is at Lv. ・She has
-cleared the Emma Thief Gangs Encirclement",-,The search for the noble who tried to buy Nora.,-,ギルド,-,icon_sab_guild_collect_3,非表示,-,77,<br>
-198,698,Prayer for Whom,-,8,"Please resolve the unidentified oracles attack on the
-prayer priestess for the sake of skilled adventurers.",Dayleys Shrine Maiden,"・Clea has cleared two prophecies・and has cleared the Dailay
-Short Sword.",-,"Cease the voice that resounds in the Shrine Maiden of
-Delray.",-,ギルド,-,icon_sab_guild_hunt_3,非表示,-,78,<br>
-199,699,The sea remains unchanged.,-,8,"Please uncover the truth behind the request from the
-wanderer Cors regarding the short sword of Deirei.",Cors the Wanderer," ・Thief Noras skill: Lockpicking is at Lv.  ・Clearing
-Prayer for Whom  ・Clearing The One Who Houses the Dragon",-,Ill knock down the noble Tragos!,・5000G,ミュコス,掲示板,icon_stray_fight_3,非表示,-,188,<br>
-200,700,The back of the phantom thief.,-,6,"Please find the accomplice of the noble Skiros who is the
+adventurer liaison leader Clevo.,Captain Clevo,・Nora the Thiefs Skill: Sense of Smell is at Lv. ・She has
+cleared the Emma Thief Gangs Encirclement,-,The search for the noble who tried to buy Nora.,-,ギルド,-,icon_sab_guild_collect_3,非表示,-,77,<br>
+198,698,Prayer for Whom,-,8,Please resolve the unidentified oracles attack on the
+prayer priestess for the sake of skilled adventurers.,Dayleys Shrine Maiden,・Clea has cleared two prophecies・and has cleared the Dailay
+Short Sword.,-,Cease the voice that resounds in the Shrine Maiden of
+Delray.,-,ギルド,-,icon_sab_guild_hunt_3,非表示,-,78,<br>
+199,699,The sea remains unchanged.,-,8,Please uncover the truth behind the request from the
+wanderer Cors regarding the short sword of Deirei.,Cors the Wanderer, ・Thief Noras skill: Lockpicking is at Lv.  ・Clearing
+Prayer for Whom  ・Clearing The One Who Houses the Dragon,-,Ill knock down the noble Tragos!,・5000G,ミュコス,掲示板,icon_stray_fight_3,非表示,-,188,<br>
+200,700,The back of the phantom thief.,-,6,Please find the accomplice of the noble Skiros who is the
 mysterious thief Perno. It is unavoidable to encounter
-Noras adult scene.",Noble Skiros,"・Clea the promiscuous level of the thief Nora must clear
+Noras adult scene.,Noble Skiros,・Clea the promiscuous level of the thief Nora must clear
 the sexual skills [Night Butterfly Lv.3] and [Pheromone Lv.1
 or higher] in order to proceed on the mysterious thief
-night. ・She must also clear The Unchanging Sea","・For vaginal creampie the sexual technique [Cage of Lust
+night. ・She must also clear The Unchanging Sea,・For vaginal creampie the sexual technique [Cage of Lust
 Lv.3] is required. ・For being completely naked the sexual
-technique [Lewd Voice Lv.3] is required.",Searching for the accomplice of the phantom thief.,・10000G,オロス,掲示板,icon_adult_002_4,表示,ノラ,205,<br>
-201,701,Moonlit Stroll,-,1,"Please accompany me on a night stroll as a request from the
-noble Skiros. This request can be accepted multiple times.",Noble Skiros,"・Clea the promiscuous level of the thief Nora ・Sexual
+technique [Lewd Voice Lv.3] is required.,Searching for the accomplice of the phantom thief.,・10000G,オロス,掲示板,icon_adult_002_4,表示,ノラ,205,<br>
+201,701,Moonlit Stroll,-,1,Please accompany me on a night stroll as a request from the
+noble Skiros. This request can be accepted multiple times.,Noble Skiros,・Clea the promiscuous level of the thief Nora ・Sexual
 technique [Night Butterfly Lv.3] [Pheromone Lv.1 or higher]
-is necessary to clear the back of the phantom thief.","・For vaginal creampie the sexual technique [Cage of Lust
+is necessary to clear the back of the phantom thief.,・For vaginal creampie the sexual technique [Cage of Lust
 Lv.3] is required. ・For being completely naked the sexual
-technique [Lewd Voice Lv.3] is required.",Accompany me on a night walk.,・8000G,オロス,掲示板,icon_adult_002_loop_4,表示,ノラ,206,<br>
-202,702,The Two Beasts,-,4,"Please obtain and deliver the memory candle a rare item
+technique [Lewd Voice Lv.3] is required.,Accompany me on a night walk.,・8000G,オロス,掲示板,icon_adult_002_loop_4,表示,ノラ,206,<br>
+202,702,The Two Beasts,-,4,Please obtain and deliver the memory candle a rare item
 from the magician Crato. It is unavoidable to encounter an
-adult scene with Nora during this event.",Magician Crato,"・Mage Relm and Thief Noras Lewd Level. ・Mage Relms Sexual
+adult scene with Nora during this event.,Magician Crato,・Mage Relm and Thief Noras Lewd Level. ・Mage Relms Sexual
 Technique [Fallen Lv.3] [Pervert Lv.3] is required. ・Thief
 Noras Sexual Technique [Seductive Lv.3] is required.
-・Clearing The Unchanging Sea.",-,Passing the Candle of Memories,Negotiation required.,カンプス,掲示板,icon_adult_003_4,表示,リルム,159,<br>
-203,703,Reconstruction of Lypi Village,-,8,"Please retrieve the remains of the villagers as requested by
+・Clearing The Unchanging Sea.,-,Passing the Candle of Memories,Negotiation required.,カンプス,掲示板,icon_adult_003_4,表示,リルム,159,<br>
+203,703,Reconstruction of Lypi Village,-,8,Please retrieve the remains of the villagers as requested by
 the noble Peros and exterminate the monsters lurking
 underground. It is unavoidable to encounter an adult scene
-with Clea during this event.",Noble Peros,"・Cleas lewd level ・sexual skills [sensitivity level 3]
+with Clea during this event.,Noble Peros,・Cleas lewd level ・sexual skills [sensitivity level 3]
 [masochistic tendencies level 2 or higher] must ・clear the
-Devils Bride ・clear the long night of the researcher","・To perform a vaginal creampie you need the sexual
-technique [Erotic Maniac Lv.3].",Retrieval of Remains and Confrontation with Monsters,・8000G,カンプス,掲示板,icon_adult_001_4,表示,クレア,156,<br>
-204,704,Maid and Master,-,1,"Please accompany the noble maid from the Peros family and
+Devils Bride ・clear the long night of the researcher,・To perform a vaginal creampie you need the sexual
+technique [Erotic Maniac Lv.3].,Retrieval of Remains and Confrontation with Monsters,・8000G,カンプス,掲示板,icon_adult_001_4,表示,クレア,156,<br>
+204,704,Maid and Master,-,1,Please accompany the noble maid from the Peros family and
 her master in their play. This request can be accepted
-multiple times.",Noble Peros,"・Cleas lewd level ・sexual skills [sensitivity level 3]
+multiple times.,Noble Peros,・Cleas lewd level ・sexual skills [sensitivity level 3]
 [masochistic tendencies level 2 or higher] are necessary
-・Cleared the revival of Ripi Village.","・To perform a vaginal creampie you need the sexual
-technique [Erotic Maniac Lv.3].",Playing maid and master roleplay.,・8000G,カンプス,掲示板,icon_adult_001_loop_4,表示,クレア,157,<br>
-205,705,Sacred Prostitute,-,8,"Please defeat the unidentified werewolf that was requested
+・Cleared the revival of Ripi Village.,・To perform a vaginal creampie you need the sexual
+technique [Erotic Maniac Lv.3].,Playing maid and master roleplay.,・8000G,カンプス,掲示板,icon_adult_001_loop_4,表示,クレア,157,<br>
+205,705,Sacred Prostitute,-,8,Please defeat the unidentified werewolf that was requested
 by an anonymous person. It is unavoidable to encounter an
-adult scene with Sophia.",Anonymous,"・Cleric Sophias Lewd Level・Sexual Technique [Devoted Woman
+adult scene with Sophia.,Anonymous,・Cleric Sophias Lewd Level・Sexual Technique [Devoted Woman
 Level 3] [Distorted Love Level 3] are required・Cleric
 Sophias skill: Blessing is cleared at Level 3 whether it
-disappears or remains.",-,Defeat the beast.,・8000G,カノナス,掲示板,icon_adult_004_4,表示,ソフィア,140,<br>
-206,706,Temptation at the Beach,-,5,"Please help solve the problem regarding Metoki the son of
+disappears or remains.,-,Defeat the beast.,・8000G,カノナス,掲示板,icon_adult_004_4,表示,ソフィア,140,<br>
+206,706,Temptation at the Beach,-,5,Please help solve the problem regarding Metoki the son of
 the noble Barusa. If Sophias lewdness level increases
-adult scenes will be avoided.",Noble Barlsa,"・The lewd level of the priestess Sophia has been unlocked
+adult scenes will be avoided.,Noble Barlsa,・The lewd level of the priestess Sophia has been unlocked
 along with her sexual techniques [Enchanting Body] and
 [Secret Garden]. ・The skill [Seduction] of the priestess
 Sophia is at level 2. ・The Black Rose Thorn has been
-cleared.",-,To detain the wealthy heir Metoki.,・5000G,オロス,掲示板,icon_adult_004_3,表示,ソフィア,199,<br>
-207,707,Betrayal Tongue,-,3,"Please deliver the herbs for the request from the merchants
+cleared.,-,To detain the wealthy heir Metoki.,・5000G,オロス,掲示板,icon_adult_004_3,表示,ソフィア,199,<br>
+207,707,Betrayal Tongue,-,3,Please deliver the herbs for the request from the merchants
 book. If Sophias lewdness level increases adult scenes
-will be avoided.",Merchant Book,"・Clea has cleared the quest Reclaiming the Place of Rest
+will be avoided.,Merchant Book,・Clea has cleared the quest Reclaiming the Place of Rest
 by unlocking the lewd level of the priestess Sophia and her
-sexual techniques Dark Memories and Endless Nightmare.",-,Delivering medicine.,・666G,ヴァルト,掲示板,icon_adult_004_3,表示,ソフィア,215,<br>
-208,708,Charity for the weak,-,4,"Please assist with the pre-activity requested by Sister
+sexual techniques Dark Memories and Endless Nightmare.,-,Delivering medicine.,・666G,ヴァルト,掲示板,icon_adult_004_3,表示,ソフィア,215,<br>
+208,708,Charity for the weak,-,4,Please assist with the pre-activity requested by Sister
 Eleo which will take place in the slums with the remaining
 defeated soldiers. It is unavoidable to encounter an adult
-scene involving Sophia.",Sister Eleo,"・The lewd level of the priestess Sophia is at its peak. Her
+scene involving Sophia.,Sister Eleo,・The lewd level of the priestess Sophia is at its peak. Her
 sexual techniques include Never-ending Nightmare Level 2 or
 higher and Dark Memories Level 3. These skills are
 essential for the decisive battle! She has cleared the
-Loparo Plunder Squad.","・To perform a vaginal creampie the sexual technique [Love
-is Blind Lv.3] is necessary.","Engaging in charity work in the slums with the surviving
-soldiers.",・500G,カンプス,掲示板,icon_adult_004_4,表示,ソフィア,160,<br>
-209,709,Gentle Retirement,-,1,"Please spend a corrupted time with the request from the
+Loparo Plunder Squad.,・To perform a vaginal creampie the sexual technique [Love
+is Blind Lv.3] is necessary.,Engaging in charity work in the slums with the surviving
+soldiers.,・500G,カンプス,掲示板,icon_adult_004_4,表示,ソフィア,160,<br>
+209,709,Gentle Retirement,-,1,Please spend a corrupted time with the request from the
 defeated soldiers along with wine. This request can be
-accepted multiple times.",Defeated soldiers,"・Clea the promiscuous level of the priestess Sophia has
+accepted multiple times.,Defeated soldiers,・Clea the promiscuous level of the priestess Sophia has
 cleared the sexual technique [Never-ending Nightmare Lv.2 or
 higher] and the dark memory Lv.3 which are necessary for
-the charity of the weak.","・To perform a vaginal creampie the sexual technique [Love
-is Blind Lv.3] is necessary.",Going to meet the surviving soldiers.,・500G,カンプス,掲示板,icon_adult_004_loop_4,表示,ソフィア,161,<br>
-210,710,Pride of the Thief,-,6,"Please retrieve the forgotten item left at the campus from
+the charity of the weak.,・To perform a vaginal creampie the sexual technique [Love
+is Blind Lv.3] is necessary.,Going to meet the surviving soldiers.,・500G,カンプス,掲示板,icon_adult_004_loop_4,表示,ソフィア,161,<br>
+210,710,Pride of the Thief,-,6,Please retrieve the forgotten item left at the campus from
 the request of the guard Cork. It is unavoidable to
-encounter an adult scene with Nora.",Guard Coke,"・Nora the promiscuous thiefs lewd level ・sexual technique
+encounter an adult scene with Nora.,Guard Coke,・Nora the promiscuous thiefs lewd level ・sexual technique
 [villainess level 3] [seductress level 3] is required ・Nora
 the thiefs skill: lockpicking is cleared ・by completing a
 request from priestess Sophia ・obtained demon Yuans drool
-through ancient coin exchange.",-,Recovering the pride of the thief.,・5000G,カンプス,掲示板,icon_adult_002_4,表示,ノラ,158,<br>
-211,711,Gentle Lie,-,1,"Please teach magic to the young boy Kalti as his home tutor
-as requested by the moneylender Frimata.",Moneylender Flea Market,"・Mage Relms skill: Deciphering is at level 3 ・Cleared the
-Three-Legged Hawk",-,To be the tutor of young Carti.,・5000G,カノナス,掲示板,icon_stray_delivery_1,非表示,-,142,<br>
-212,712,Gentle magic,-,8,"Please find the missing boy Kalti who disappeared after
+through ancient coin exchange.,-,Recovering the pride of the thief.,・5000G,カンプス,掲示板,icon_adult_002_4,表示,ノラ,158,<br>
+211,711,Gentle Lie,-,1,Please teach magic to the young boy Kalti as his home tutor
+as requested by the moneylender Frimata.,Moneylender Flea Market,・Mage Relms skill: Deciphering is at level 3 ・Cleared the
+Three-Legged Hawk,-,To be the tutor of young Carti.,・5000G,カノナス,掲示板,icon_stray_delivery_1,非表示,-,142,<br>
+212,712,Gentle magic,-,8,Please find the missing boy Kalti who disappeared after
 receiving a request from the moneylender Frimata. It is
-unavoidable to encounter an adult scene involving Relm.",Moneylender Flea Market,"・The lewd level of the magician Relm is at Lv. ・Sexual
+unavoidable to encounter an adult scene involving Relm.,Moneylender Flea Market,・The lewd level of the magician Relm is at Lv. ・Sexual
 skills [Heartbreaking Lv.3] [Sweet Lips Lv.3] are required
-・Clearing gentle lies.",-,Rescuing young Carti.,・10000G,バリエ,掲示板,icon_adult_003_4,表示,リルム,117,<br>
-213,713,The worst drink.,-,4,"Please obtain a wine that will become a specialty of the
+・Clearing gentle lies.,-,Rescuing young Carti.,・10000G,バリエ,掲示板,icon_adult_003_4,表示,リルム,117,<br>
+213,713,The worst drink.,-,4,Please obtain a wine that will become a specialty of the
 Trubos tavern as requested by the owner Gala. It is
-unavoidable to trigger Sophias adult scene.",Shopkeeper Gala,"・Sophia the promiscuous priestess has reached a level of
+unavoidable to trigger Sophias adult scene.,Shopkeeper Gala,・Sophia the promiscuous priestess has reached a level of
 lewdness. She has mastered the sexual techniques [Quick
 Recovery Lv.1 or higher] and [Intoxication Lv.2 or higher].
-・She has successfully cleared our new home.","・To perform a vaginal creampie you need the sexual
-technique [Hidden Lust Lv.3].",Obtain a sake that will become a specialty.,・3000G,カンプス,掲示板,icon_adult_004_4,表示,ソフィア,162,<br>
-214,714,Devils share,-,1,"Please deliver the wine Sophia to the Trivos Tavern as
+・She has successfully cleared our new home.,・To perform a vaginal creampie you need the sexual
+technique [Hidden Lust Lv.3].,Obtain a sake that will become a specialty.,・3000G,カンプス,掲示板,icon_adult_004_4,表示,ソフィア,162,<br>
+214,714,Devils share,-,1,Please deliver the wine Sophia to the Trivos Tavern as
 requested by the owner Gala. You can accept this request
-multiple times.",Shopkeeper Gala,"・Sophia the promiscuous priestess has reached the level of
+multiple times.,Shopkeeper Gala,・Sophia the promiscuous priestess has reached the level of
 lewdness Lv.・Sexual Technique [Arrival and Pleasure Lv.1 or
 higher] [Intoxication Lv.2 or higher] are required・She has
-cleared the minimum level of intoxication","・To perform a vaginal creampie you need the sexual
-technique [Hidden Lust Level 3].",Retrieve Wine Sophia.,・3500G,カンプス,掲示板,icon_adult_004_loop_4,表示,ソフィア,163,<br>
-215,715,Decisive Battle! The Loparo Plunder Squad,-,8,"Please capture the leader of the Loparo Plundering Squad
-who was requested by the noble Pido from the Senate.",Noble Pido of the Senate,"・Clea who houses a dragon has been cleared. ・The things
+cleared the minimum level of intoxication,・To perform a vaginal creampie you need the sexual
+technique [Hidden Lust Level 3].,Retrieve Wine Sophia.,・3500G,カンプス,掲示板,icon_adult_004_loop_4,表示,ソフィア,163,<br>
+215,715,Decisive Battle! The Loparo Plunder Squad,-,8,Please capture the leader of the Loparo Plundering Squad
+who was requested by the noble Pido from the Senate.,Noble Pido of the Senate,・Clea who houses a dragon has been cleared. ・The things
 that disappear and the things that remain have been cleared.
-・Sophia the priests skill Blessing is at level 4.",-,Capture the leader of the Loparo Plundering Gang.,・10000G,カンプス,掲示板,icon_stray_arrest_3,非表示,-,165,<br>
-216,716,The place where the hero was.,-,9,"Please find the name of the bard who forgot the request from
-the minstrel.",Bard,"・Mage Relms skill: Deciphering is at Lv. ・Mage Relms
-skill: Movement is at Lv. ・Have cleared the Golden Needle.",-,Finding the name of the bard.,-,カンプス,掲示板,icon_stray_collect_3,非表示,-,166,<br>
-217,717,Sword of the Sun and Chains of the Full Moon,-,-,"Please break the Full Moon Chain given by the priestess of
-Actina and reach the deepest part.",None,Automatic acceptance in Devils Bride 1-9.,-,Searching for a way to enter the Heros Ruins.,-,-,-,-,非表示,-,67,<br>
-218,718,Dream of a Weapon Craftsman,-,10,"Please assist the legendary adventurer blacksmith Elero with
+・Sophia the priests skill Blessing is at level 4.,-,Capture the leader of the Loparo Plundering Gang.,・10000G,カンプス,掲示板,icon_stray_arrest_3,非表示,-,165,<br>
+216,716,The place where the hero was.,-,9,Please find the name of the bard who forgot the request from
+the minstrel.,Bard,・Mage Relms skill: Deciphering is at Lv. ・Mage Relms
+skill: Movement is at Lv. ・Have cleared the Golden Needle.,-,Finding the name of the bard.,-,カンプス,掲示板,icon_stray_collect_3,非表示,-,166,<br>
+217,717,Sword of the Sun and Chains of the Full Moon,-,-,Please break the Full Moon Chain given by the priestess of
+Actina and reach the deepest part.,None,Automatic acceptance in Devils Bride 1-9.,-,Searching for a way to enter the Heros Ruins.,-,-,-,-,非表示,-,67,<br>
+218,718,Dream of a Weapon Craftsman,-,10,Please assist the legendary adventurer blacksmith Elero with
 a request. It is their lifelong dream to create the ultimate
-weapon.",Blacksmith Elero,"・Strengthen everyones weapons up to +10. ・Clear the
-location where the hero was. ・Clear the Great Widow.",-,Creating the strongest weapon.,The strongest weapon.,ギルド,-,icon_sab_guild_collect_4,非表示,-,88,<br>
-219,719,The Founders Whereabouts,-,8,"Please investigate the whereabouts of the first guild
+weapon.,Blacksmith Elero,・Strengthen everyones weapons up to +10. ・Clear the
+location where the hero was. ・Clear the Great Widow.,-,Creating the strongest weapon.,The strongest weapon.,ギルド,-,icon_sab_guild_collect_4,非表示,-,88,<br>
+219,719,The Founders Whereabouts,-,8,Please investigate the whereabouts of the first guild
 master Pruce who went missing on behalf of the skilled
-adventurer support request from the one-armed Opro.",One-armed Opro,"・Clea clears through the raging winds with bared fangs ・She
-clears through things that disappear and things that remain",-,"Investigating the whereabouts of the first guild leader
-Pruce.",・5000G,ギルド,-,icon_sab_guild_seek_3,非表示,-,91,<br>
-220,720,Unfulfilled dream,-,10,"Please find the whereabouts of the first guild master
-Pruce who went missing as requested by the one-armed Opro.",One-armed Opro,Clea has cleared the whereabouts of the founder.,-,"Investigating the whereabouts of the first guild leader
-Pruce.",・5000G,カンプス,掲示板,icon_stray_seek_4,非表示,-,167,<br>
-221,721,Secret Recipe,-,8,"Please help me gather the ingredients to reproduce the
-recipe requested by receptionist Piste.",Receptionist Piste,"・Cleared the Skull Sea ・Cleared from the game board to the
-battlefield ・Cleared the Twilight of the Avengers",-,Gathering ingredients for cooking.,・1000G,ギルド,-,icon_stray_collect_3,非表示,-,49,<br>
-222,722,Great Widow,-,10,"Please challenge the final trial of the test from Agonia
+adventurer support request from the one-armed Opro.,One-armed Opro,・Clea clears through the raging winds with bared fangs ・She
+clears through things that disappear and things that remain,-,Investigating the whereabouts of the first guild leader
+Pruce.,・5000G,ギルド,-,icon_sab_guild_seek_3,非表示,-,91,<br>
+220,720,Unfulfilled dream,-,10,Please find the whereabouts of the first guild master
+Pruce who went missing as requested by the one-armed Opro.,One-armed Opro,Clea has cleared the whereabouts of the founder.,-,Investigating the whereabouts of the first guild leader
+Pruce.,・5000G,カンプス,掲示板,icon_stray_seek_4,非表示,-,167,<br>
+221,721,Secret Recipe,-,8,Please help me gather the ingredients to reproduce the
+recipe requested by receptionist Piste.,Receptionist Piste,・Cleared the Skull Sea ・Cleared from the game board to the
+battlefield ・Cleared the Twilight of the Avengers,-,Gathering ingredients for cooking.,・1000G,ギルド,-,icon_stray_collect_3,非表示,-,49,<br>
+222,722,Great Widow,-,10,Please challenge the final trial of the test from Agonia
 the Guild Master of the Adventurers Guild and achieve the
-last promotion in the Adventurers Guild.",Guild Leader Agonia,Clea has cleared the secret recipe.,-,Overcome the final exam.,Promotion,ギルド,-,icon_sab_guild_fight_4,非表示,-,87,<br>
-223,723,Twilight Avenger,-,4,"Please investigate together with Ect the expert adventurer
-and aspiring explorer about the gemstones owned by Ect.",Young girl explorer Ect,Clea has cleared a strange friendship.,-,Unraveling the Mystery of the Jewel,・500G,ギルド,-,icon_sab_guild_seek_2,非表示,-,84,<br>
-224,724,Twilight of the Avengers,-,8,"Please join Ect the personal invitation from the expert
-adventurer and explorer as she heads to the Melos Ruins.",Young girl explorer Ect,Clea has cleared the Twilight Avenger.,-,Follow Ects invitation.,-,ギルド,-,icon_sab_guild_letter,非表示,-,85,<br>
-225,725,-The one sitting on the throne.,-,∞,"◯ Expert Adventurer Request: Please defeat Queen Caron and
+last promotion in the Adventurers Guild.,Guild Leader Agonia,Clea has cleared the secret recipe.,-,Overcome the final exam.,Promotion,ギルド,-,icon_sab_guild_fight_4,非表示,-,87,<br>
+223,723,Twilight Avenger,-,4,Please investigate together with Ect the expert adventurer
+and aspiring explorer about the gemstones owned by Ect.,Young girl explorer Ect,Clea has cleared a strange friendship.,-,Unraveling the Mystery of the Jewel,・500G,ギルド,-,icon_sab_guild_seek_2,非表示,-,84,<br>
+224,724,Twilight of the Avengers,-,8,Please join Ect the personal invitation from the expert
+adventurer and explorer as she heads to the Melos Ruins.,Young girl explorer Ect,Clea has cleared the Twilight Avenger.,-,Follow Ects invitation.,-,ギルド,-,icon_sab_guild_letter,非表示,-,85,<br>
+225,725,-The one sitting on the throne.,-,∞,◯ Expert Adventurer Request: Please defeat Queen Caron and
 protect the freedom of the Adventurers Guild as requested
-by Prince Lex.",Prince Lex,Clea is clearing through the fierce wind with bared fangs.,-,Giving birth to King Lex.,Freedom of the Adventurers Guild,ギルド,-,icon_guild_wings_4,非表示,-,0,<br>
-226,726,Once Again Our Allies,-,10,"Please gather a group of skilled adventurers to assist in
-the request from Prince Rex to reclaim the throne.",Prince Lex,-,-,Gathering allies to reclaim the throne.,-,-,-,-,非表示,-,96,<br>
-227,727,New allies,-,10,"Please gather a group of skilled adventurers who are willing
+by Prince Lex.,Prince Lex,Clea is clearing through the fierce wind with bared fangs.,-,Giving birth to King Lex.,Freedom of the Adventurers Guild,ギルド,-,icon_guild_wings_4,非表示,-,0,<br>
+226,726,Once Again Our Allies,-,10,Please gather a group of skilled adventurers to assist in
+the request from Prince Rex to reclaim the throne.,Prince Lex,-,-,Gathering allies to reclaim the throne.,-,-,-,-,非表示,-,96,<br>
+227,727,New allies,-,10,Please gather a group of skilled adventurers who are willing
 to cooperate in reclaiming the throne as proposed by the
-noble Kasaro.",Noble Kasaro,-,-,Gathering allies to reclaim the throne.,-,-,-,-,非表示,-,97,<br>
-228,728,Invitation from Paradise,-,10,"Please respond to the invitation from the debauched noble
+noble Kasaro.,Noble Kasaro,-,-,Gathering allies to reclaim the throne.,-,-,-,-,非表示,-,97,<br>
+228,728,Invitation from Paradise,-,10,Please respond to the invitation from the debauched noble
 Eshis a request from the ◯ Master Adventurers and secure
-their cooperation in reclaiming the throne.",Lewd Aristocrat Eshis,-,-,Responding to the lascivious noble Eshis demands.,Cooperation for the Reclamation of the Throne,ギルド,-,icon_sab_guild_adult,非表示,-,92,<br>
-229,729,-Hero of the Empire,-,1,"Please meet with King Lex as the honored individuals who
+their cooperation in reclaiming the throne.,Lewd Aristocrat Eshis,-,-,Responding to the lascivious noble Eshis demands.,Cooperation for the Reclamation of the Throne,ギルド,-,icon_sab_guild_adult,非表示,-,92,<br>
+229,729,-Hero of the Empire,-,1,Please meet with King Lex as the honored individuals who
 have contributed to the recovery of the throne as skilled
-adventurers.",King Lex,-,-,Meeting with King Lex.,Reward as a person of merit,-,-,-,非表示,-,0,<br>
-230,730,The answer has been reached.,-,10,"Please go to the adventurers cave and meet Celis of the
-Swift Wind as requested by her.",Celis of the Swift Wind,-,-,Meeting with the swift Celis.,-,-,-,-,非表示,-,100,<br>
-231,731,The one sitting on the throne.,-,10,"◯ Expert Adventurer Request: Please defeat Queen Caron and
+adventurers.,King Lex,-,-,Meeting with King Lex.,Reward as a person of merit,-,-,-,非表示,-,0,<br>
+230,730,The answer has been reached.,-,10,Please go to the adventurers cave and meet Celis of the
+Swift Wind as requested by her.,Celis of the Swift Wind,-,-,Meeting with the swift Celis.,-,-,-,-,非表示,-,100,<br>
+231,731,The one sitting on the throne.,-,10,◯ Expert Adventurer Request: Please defeat Queen Caron and
 protect the freedom of the Adventurers Guild as requested
-by Prince Lex.",Prince Lex,Clea is clearing through the fierce wind with bared fangs.,-,Giving birth to King Lex.,Freedom of the Adventurers Guild,ギルド,-,icon_guild_crown,非表示,-,93,<br>
-232,732,The one who rules the empire.,-,∞," Quest Request from Prince Questrex who has transformed
+by Prince Lex.,Prince Lex,Clea is clearing through the fierce wind with bared fangs.,-,Giving birth to King Lex.,Freedom of the Adventurers Guild,ギルド,-,icon_guild_crown,非表示,-,93,<br>
+232,732,The one who rules the empire.,-,∞, Quest Request from Prince Questrex who has transformed
 from the one sitting on the ◯ Throne: Please defeat Queen
-Caron and protect the freedom of the empire.",Prince Lex,Fulfilling the wishes of the people Ive met.,-,Giving birth to King Lex.,Freedom of the Adventurers Guild,ギルド,-,icon_guild_wings_4,非表示,-,95,<br>
-233,733,For the Empire.,-,-,"Please find allies who will fight alongside you. By
+Caron and protect the freedom of the empire.,Prince Lex,Fulfilling the wishes of the people Ive met.,-,Giving birth to King Lex.,Freedom of the Adventurers Guild,ギルド,-,icon_guild_wings_4,非表示,-,95,<br>
+233,733,For the Empire.,-,-,Please find allies who will fight alongside you. By
 fulfilling certain conditions you will be able to search
-the main street.",None,"Automatically accepted in chapters 1-13 by the one sitting
-on the throne.",-,Gathering allies to subdue the dragon.,-,-,-,-,非表示,-,98,<br>
-234,734,Hero of the Empire,-,1,"Please meet with King Lex as the honored individuals who
+the main street.,None,Automatically accepted in chapters 1-13 by the one sitting
+on the throne.,-,Gathering allies to subdue the dragon.,-,-,-,-,非表示,-,98,<br>
+234,734,Hero of the Empire,-,1,Please meet with King Lex as the honored individuals who
 have contributed to the recovery of the throne as skilled
-adventurers.",King Lex,-,-,Meeting with King Lex.,Reward as a person of merit,-,-,-,非表示,-,94,<br>
-235,735,Hero of the Empire,-,1,"Please meet with King Lex as the honored individuals who
+adventurers.,King Lex,-,-,Meeting with King Lex.,Reward as a person of merit,-,-,-,非表示,-,94,<br>
+235,735,Hero of the Empire,-,1,Please meet with King Lex as the honored individuals who
 have contributed to the recovery of the throne as skilled
-adventurers.",King Lex,-,-,Meeting with King Lex.,Reward as a person of merit,-,-,-,非表示,-,99,<br>
+adventurers.,King Lex,-,-,Meeting with King Lex.,Reward as a person of merit,-,-,-,非表示,-,99,<br>
