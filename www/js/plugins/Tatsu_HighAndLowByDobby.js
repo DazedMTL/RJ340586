@@ -938,19 +938,19 @@
                     //this._WindowLastExitMsg.drawText("勝負終了です。",0,0,Graphics.width,300);
 
                     if (this._battleResult) {
-                        this._WindowLastExitMsg.drawText("　孤高のギャンブラー", 0, 0, Graphics.width, 300);
-                        this._WindowLastExitMsg.drawText("　「この俺が、負けるとは……」", 0, 40, Graphics.width, 300);
+                        this._WindowLastExitMsg.drawText("　The Solitary Gambler: ", 0, 0, Graphics.width, 300);
+                        this._WindowLastExitMsg.drawText("　\"For someone like me to lose...\"", 0, 40, Graphics.width, 300);
                         $gameSwitches.setValue(25, true);
                     } else {
-                        this._WindowLastExitMsg.drawText("　孤高のギャンブラー", 0, 0, Graphics.width, 300);
-                        this._WindowLastExitMsg.drawText("　「俺に勝とうなんて、１０万年早い」", 0, 40, Graphics.width, 300);
+                        this._WindowLastExitMsg.drawText("　The Solitary Gambler: ", 0, 0, Graphics.width, 300);
+                        this._WindowLastExitMsg.drawText("　\"Trying to beat me? You're 100,000 years too early.\"", 0, 40, Graphics.width, 300);
                         $gameSwitches.setValue(25, false);
                     }
 
 
                 } else {
-                    this._WindowLastExitMsg.drawText("　孤高のギャンブラー", 0, 0, Graphics.width, 300);
-                    this._WindowLastExitMsg.drawText("　「逃げるのか？　良い判断だな」", 0, 40, Graphics.width, 300);
+                    this._WindowLastExitMsg.drawText("　The Solitary Gambler: ", 0, 0, Graphics.width, 300);
+                    this._WindowLastExitMsg.drawText("　\"Are you running away? That's a smart decision.\"", 0, 40, Graphics.width, 300);
                     $gameSwitches.setValue(26, true);
                 }
             } else {
@@ -962,7 +962,7 @@
                     }
                 }
 
-                this._WindowLastExitMsg.drawText("勝負終了です。", 0, 0, Graphics.width, 300);
+                this._WindowLastExitMsg.drawText("The game is over.", 0, 0, Graphics.width, 300);
             }
 
 
@@ -970,7 +970,7 @@
 
 
             if (HighAndLowP.coinUse) {
-                this._WindowLastExitMsg.drawText("獲得枚数は" + this._getCoin + "枚です。", 0, 40, Graphics.width, 300);
+                this._WindowLastExitMsg.drawText("Winnings: " + this._getCoin + " pieces.", 0, 40, Graphics.width, 300);
             }
             this._WindowLastExitMsg.open();
         }
